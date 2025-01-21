@@ -1,0 +1,627 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d3" for="edge" attr.name="text" attr.type="string"/>
+<key id="d2" for="edge" attr.name="relationship" attr.type="string"/>
+<key id="d1" for="node" attr.name="type" attr.type="string"/>
+<key id="d0" for="node" attr.name="label" attr.type="string"/>
+<graph edgedefault="directed"><node id="information you provide to we include">
+  <data key="d0">information you provide to we include</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="information you register">
+  <data key="d0">information you register</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="person name">
+  <data key="d0">person name</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="email address">
+  <data key="d0">email address</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="offerup account password">
+  <data key="d0">offerup account password</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="phone number">
+  <data key="d0">phone number</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="postal address">
+  <data key="d0">postal address</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="zip code">
+  <data key="d0">zip code</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="photograph you upload of item you post for sale">
+  <data key="d0">photograph you upload of item you post for sale</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="write description of post item">
+  <data key="d0">write description of post item</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="message with user send through offerup messaging service">
+  <data key="d0">message with user send through offerup messaging service</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="issue identification document">
+  <data key="d0">issue identification document</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="license">
+  <data key="d0">license</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="information you choose">
+  <data key="d0">information you choose</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="information about use of offerup service">
+  <data key="d0">information about use of offerup service</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="ip address">
+  <data key="d0">ip address</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="information about computer you use">
+  <data key="d0">information about computer you use</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="hardware model">
+  <data key="d0">hardware model</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="version">
+  <data key="d0">version</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="device identifier">
+  <data key="d0">device identifier</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="mobile network information">
+  <data key="d0">mobile network information</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="information from site">
+  <data key="d0">information from site</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="account information">
+  <data key="d0">account information</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="friend list">
+  <data key="d0">friend list</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="information provide via offerup service">
+  <data key="d0">information provide via offerup service</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="credit / debit card number">
+  <data key="d0">credit / debit card number</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="ssn">
+  <data key="d0">ssn</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="government identifier">
+  <data key="d0">government identifier</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="bank account information">
+  <data key="d0">bank account information</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="UNSPECIFIED_DATA">
+  <data key="d0">UNSPECIFIED_DATA</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="information about you">
+  <data key="d0">information about you</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="Google">
+  <data key="d0">Google</data>
+  <data key="d1">ACTOR</data>
+</node>
+<node id="conversion information">
+  <data key="d0">conversion information</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="forum posting">
+  <data key="d0">forum posting</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="personal information">
+  <data key="d0">personal information</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="we">
+  <data key="d0">we</data>
+  <data key="d1">ACTOR</data>
+</node>
+<node id="identifier">
+  <data key="d0">identifier</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="cookie / pixel tag">
+  <data key="d0">cookie / pixel tag</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="internet information">
+  <data key="d0">internet information</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="geolocation">
+  <data key="d0">geolocation</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="Stripe">
+  <data key="d0">Stripe</data>
+  <data key="d1">ACTOR</data>
+</node>
+<node id="UNSPECIFIED_ACTOR">
+  <data key="d0">UNSPECIFIED_ACTOR</data>
+  <data key="d1">ACTOR</data>
+</node>
+<node id="information we collect about you">
+  <data key="d0">information we collect about you</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="information we collect">
+  <data key="d0">information we collect</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="d. information for virginia resident">
+  <data key="d0">d. information for virginia resident</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="offerup">
+  <data key="d0">offerup</data>
+  <data key="d1">ACTOR</data>
+</node>
+<node id="list information">
+  <data key="d0">list information</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="transaction information">
+  <data key="d0">transaction information</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="consultant">
+  <data key="d0">consultant</data>
+  <data key="d1">ACTOR</data>
+</node>
+<node id="service provider">
+  <data key="d0">service provider</data>
+  <data key="d1">ACTOR</data>
+</node>
+<node id="aggregate / deidentified / pseudonymized information">
+  <data key="d0">aggregate / deidentified / pseudonymized information</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="ad tag">
+  <data key="d0">ad tag</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="information collect">
+  <data key="d0">information collect</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="datum aggregate">
+  <data key="d0">datum aggregate</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="advertiser">
+  <data key="d0">advertiser</data>
+  <data key="d1">ACTOR</data>
+</node>
+<edge source="information you provide to we include" target="information you register" id="e0">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">OfferUp collects information that you provide directly to us when you sign up and use the OfferUp service including: Information when you register or update the details of your account,</data>
+</edge>
+<edge source="postal address" target="zip code" id="e1">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">The types of information we may collect include: postal address including city, state, and zip code,
+The types of information we may collect include: postal address including city, state, and zip code,</data>
+</edge>
+<edge source="issue identification document" target="license" id="e2">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">I.  Information We Collect and How We Collect It
+
+A.  Information You Provide to Us.
+
+The types of information we may collect include: government-issued identification documents (such as a driver's license),
+I.  Information We Collect and How We Collect It
+
+A.  Information You Provide to Us.
+
+The types of information we may collect include: government-issued identification documents (such as a driver's license),</data>
+</edge>
+<edge source="information about use of offerup service" target="ip address" id="e3">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">When you access or use the OfferUp Service, we automatically collect information about you, including: We log information about your use of the OfferUp Service, including the type of browser you use, access times, pages viewed, your IP address, and the page you visited before navigating to our OfferUp Service.
+When you access or use the OfferUp Service, we automatically collect information about you, including: We log information about your use of the OfferUp Service, including the type of browser you use, access times, pages viewed, your IP address, and the page you visited before navigating to our OfferUp Service.
+These entities may use cookies, ad tags, web beacons, and other technologies to collect information about your use of the OfferUp Service and other websites and online services, including your IP address, device identifier, web browser, pages viewed, time spent on pages, links clicked and conversion information.
+These entities may use cookies, ad tags, web beacons, and other technologies to collect information about your use of the OfferUp Service and other websites and online services, including your IP address, device identifier, web browser, pages viewed, time spent on pages, links clicked and conversion information.</data>
+</edge>
+<edge source="information about use of offerup service" target="device identifier" id="e4">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">These entities may use cookies, ad tags, web beacons, and other technologies to collect information about your use of the OfferUp Service and other websites and online services, including your IP address, device identifier, web browser, pages viewed, time spent on pages, links clicked and conversion information.
+These entities may use cookies, ad tags, web beacons, and other technologies to collect information about your use of the OfferUp Service and other websites and online services, including your IP address, device identifier, web browser, pages viewed, time spent on pages, links clicked and conversion information.</data>
+</edge>
+<edge source="information about use of offerup service" target="conversion information" id="e5">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">These entities may use cookies, ad tags, web beacons, and other technologies to collect information about your use of the OfferUp Service and other websites and online services, including your IP address, device identifier, web browser, pages viewed, time spent on pages, links clicked and conversion information.
+These entities may use cookies, ad tags, web beacons, and other technologies to collect information about your use of the OfferUp Service and other websites and online services, including your IP address, device identifier, web browser, pages viewed, time spent on pages, links clicked and conversion information.</data>
+</edge>
+<edge source="information about computer you use" target="device identifier" id="e6">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">When you access or use the OfferUp Service, we automatically collect information about you, including: We collect information about the computer or mobile device you use to access the OfferUp Service, including the hardware model, operating system and version, unique device identifiers, and mobile network information.
+When you access or use the OfferUp Service, we automatically collect information about you, including: We collect information about the computer or mobile device you use to access the OfferUp Service, including the hardware model, operating system and version, unique device identifiers, and mobile network information.</data>
+</edge>
+<edge source="information about computer you use" target="version" id="e7">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">When you access or use the OfferUp Service, we automatically collect information about you, including: We collect information about the computer or mobile device you use to access the OfferUp Service, including the hardware model, operating system and version, unique device identifiers, and mobile network information.
+When you access or use the OfferUp Service, we automatically collect information about you, including: We collect information about the computer or mobile device you use to access the OfferUp Service, including the hardware model, operating system and version, unique device identifiers, and mobile network information.</data>
+</edge>
+<edge source="information about computer you use" target="hardware model" id="e8">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">When you access or use the OfferUp Service, we automatically collect information about you, including: We collect information about the computer or mobile device you use to access the OfferUp Service, including the hardware model, operating system and version, unique device identifiers, and mobile network information.
+When you access or use the OfferUp Service, we automatically collect information about you, including: We collect information about the computer or mobile device you use to access the OfferUp Service, including the hardware model, operating system and version, unique device identifiers, and mobile network information.</data>
+</edge>
+<edge source="information about computer you use" target="mobile network information" id="e9">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">When you access or use the OfferUp Service, we automatically collect information about you, including: We collect information about the computer or mobile device you use to access the OfferUp Service, including the hardware model, operating system and version, unique device identifiers, and mobile network information.
+When you access or use the OfferUp Service, we automatically collect information about you, including: We collect information about the computer or mobile device you use to access the OfferUp Service, including the hardware model, operating system and version, unique device identifiers, and mobile network information.</data>
+</edge>
+<edge source="information from site" target="account information" id="e10">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">, if you create or log into your account through a social media site, we will have access to certain information from that site, such as your name, account information and friends lists, in accordance with the authorization procedures determined by such social media site.
+, if you create or log into your account through a social media site, we will have access to certain information from that site, such as your name, account information and friends lists, in accordance with the authorization procedures determined by such social media site.</data>
+</edge>
+<edge source="information from site" target="person name" id="e11">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">, if you create or log into your account through a social media site, we will have access to certain information from that site, such as your name, account information and friends lists, in accordance with the authorization procedures determined by such social media site.
+, if you create or log into your account through a social media site, we will have access to certain information from that site, such as your name, account information and friends lists, in accordance with the authorization procedures determined by such social media site.</data>
+</edge>
+<edge source="information from site" target="friend list" id="e12">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">, if you create or log into your account through a social media site, we will have access to certain information from that site, such as your name, account information and friends lists, in accordance with the authorization procedures determined by such social media site.
+, if you create or log into your account through a social media site, we will have access to certain information from that site, such as your name, account information and friends lists, in accordance with the authorization procedures determined by such social media site.</data>
+</edge>
+<edge source="information provide via offerup service" target="credit / debit card number" id="e13">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">When signing up to receive funds electronically, Stripe, and not OfferUp, collects the information provided by sellers via the OfferUp Service, including debit card numbers, Social Security numbers, government IDs, and bank account information.
+When signing up to receive funds electronically, Stripe, and not OfferUp, collects the information provided by sellers via the OfferUp Service, including debit card numbers, Social Security numbers, government IDs, and bank account information.</data>
+</edge>
+<edge source="information provide via offerup service" target="bank account information" id="e14">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">When signing up to receive funds electronically, Stripe, and not OfferUp, collects the information provided by sellers via the OfferUp Service, including debit card numbers, Social Security numbers, government IDs, and bank account information.
+When signing up to receive funds electronically, Stripe, and not OfferUp, collects the information provided by sellers via the OfferUp Service, including debit card numbers, Social Security numbers, government IDs, and bank account information.</data>
+</edge>
+<edge source="information provide via offerup service" target="government identifier" id="e15">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">When signing up to receive funds electronically, Stripe, and not OfferUp, collects the information provided by sellers via the OfferUp Service, including debit card numbers, Social Security numbers, government IDs, and bank account information.
+When signing up to receive funds electronically, Stripe, and not OfferUp, collects the information provided by sellers via the OfferUp Service, including debit card numbers, Social Security numbers, government IDs, and bank account information.</data>
+</edge>
+<edge source="information provide via offerup service" target="ssn" id="e16">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">When signing up to receive funds electronically, Stripe, and not OfferUp, collects the information provided by sellers via the OfferUp Service, including debit card numbers, Social Security numbers, government IDs, and bank account information.
+When signing up to receive funds electronically, Stripe, and not OfferUp, collects the information provided by sellers via the OfferUp Service, including debit card numbers, Social Security numbers, government IDs, and bank account information.</data>
+</edge>
+<edge source="information about you" target="postal address" id="e17">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">A. We may share the information we collect about you in the following situations:
+
+When you register through the OfferUp Service to receive electronic payments via Stripe's services, we will share certain information about you with Stripe, including name, address (if provided by you) and IP address, as directed by you to sign up for Stripe's services.
+A. We may share the information we collect about you in the following situations:
+
+When you register through the OfferUp Service to receive electronic payments via Stripe's services, we will share certain information about you with Stripe, including name, address (if provided by you) and IP address, as directed by you to sign up for Stripe's services.</data>
+</edge>
+<edge source="information about you" target="ip address" id="e18">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">A. We may share the information we collect about you in the following situations:
+
+When you register through the OfferUp Service to receive electronic payments via Stripe's services, we will share certain information about you with Stripe, including name, address (if provided by you) and IP address, as directed by you to sign up for Stripe's services.
+A. We may share the information we collect about you in the following situations:
+
+When you register through the OfferUp Service to receive electronic payments via Stripe's services, we will share certain information about you with Stripe, including name, address (if provided by you) and IP address, as directed by you to sign up for Stripe's services.</data>
+</edge>
+<edge source="information about you" target="person name" id="e19">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">A. We may share the information we collect about you in the following situations:
+
+When you register through the OfferUp Service to receive electronic payments via Stripe's services, we will share certain information about you with Stripe, including name, address (if provided by you) and IP address, as directed by you to sign up for Stripe's services.
+A. We may share the information we collect about you in the following situations:
+
+When you register through the OfferUp Service to receive electronic payments via Stripe's services, we will share certain information about you with Stripe, including name, address (if provided by you) and IP address, as directed by you to sign up for Stripe's services.</data>
+</edge>
+<edge source="Google" target="identifier" id="e20">
+  <data key="d2">COLLECT</data>
+  <data key="d3">If you have not opted out, we allow Google's online advertising service to collect identifiers (such as cookies and other device identifiers) and internet or other electronic network information (such as the webpage you visited) through the OfferUp Service for the purpose of sending personalized ads to you.
+If you have not opted out, we allow Google's online advertising service to collect identifiers (such as cookies and other device identifiers) and internet or other electronic network information (such as the webpage you visited) through the OfferUp Service for the purpose of sending personalized ads to you.</data>
+</edge>
+<edge source="Google" target="internet information" id="e21">
+  <data key="d2">COLLECT</data>
+  <data key="d3">If you have not opted out, we allow Google's online advertising service to collect identifiers (such as cookies and other device identifiers) and internet or other electronic network information (such as the webpage you visited) through the OfferUp Service for the purpose of sending personalized ads to you.
+If you have not opted out, we allow Google's online advertising service to collect identifiers (such as cookies and other device identifiers) and internet or other electronic network information (such as the webpage you visited) through the OfferUp Service for the purpose of sending personalized ads to you.
+If you have not opted out, we allow Google's online advertising service to collect identifiers (such as cookies and other device identifiers) and internet or other electronic network information (such as the webpage you visited) through the OfferUp Service for the purpose of sending personalized ads to you.</data>
+</edge>
+<edge source="we" target="email address" id="e22">
+  <data key="d2">COLLECT</data>
+  <data key="d3">The types of information we may collect include: email address,</data>
+</edge>
+<edge source="we" target="postal address" id="e23">
+  <data key="d2">COLLECT</data>
+  <data key="d3">The types of information we may collect include: postal address including city, state, and zip code,</data>
+</edge>
+<edge source="we" target="person name" id="e24">
+  <data key="d2">COLLECT</data>
+  <data key="d3">The types of information we may collect include: your name,</data>
+</edge>
+<edge source="we" target="phone number" id="e25">
+  <data key="d2">COLLECT</data>
+  <data key="d3">The types of information we may collect include: telephone number,</data>
+</edge>
+<edge source="we" target="write description of post item" id="e26">
+  <data key="d2">COLLECT</data>
+  <data key="d3">The types of information we may collect include: written descriptions of your posted items,</data>
+</edge>
+<edge source="we" target="photograph you upload of item you post for sale" id="e27">
+  <data key="d2">COLLECT</data>
+  <data key="d3">The types of information we may collect include: photographs you upload of items you post for sale,</data>
+</edge>
+<edge source="we" target="offerup account password" id="e28">
+  <data key="d2">COLLECT</data>
+  <data key="d3">The types of information we may collect include: OfferUp account password (encrypted),</data>
+</edge>
+<edge source="we" target="information you choose" id="e29">
+  <data key="d2">COLLECT</data>
+  <data key="d3">I.  Information We Collect and How We Collect It
+
+A.  Information You Provide to Us.
+
+The types of information we may collect include: any other information you choose to provide.</data>
+</edge>
+<edge source="we" target="message with user send through offerup messaging service" id="e30">
+  <data key="d2">COLLECT</data>
+  <data key="d3">The types of information we may collect include: all messages with other users or with us sent through the OfferUp messaging service or to OfferUp directly,</data>
+</edge>
+<edge source="we" target="issue identification document" id="e31">
+  <data key="d2">COLLECT</data>
+  <data key="d3">I.  Information We Collect and How We Collect It
+
+A.  Information You Provide to Us.
+
+The types of information we may collect include: government-issued identification documents (such as a driver's license),</data>
+</edge>
+<edge source="we" target="information about you" id="e32">
+  <data key="d2">COLLECT</data>
+  <data key="d3">When you access or use the OfferUp Service, we automatically collect information about you, including:
+When you access or use the OfferUp Service, we automatically collect information about you, including:
+A. We may share the information we collect about you in the following situations:
+
+When you register through the OfferUp Service to receive electronic payments via Stripe's services, we will share certain information about you with Stripe, including name, address (if provided by you) and IP address, as directed by you to sign up for Stripe's services.
+A. We may share the information we collect about you in the following situations:
+
+When you register through the OfferUp Service to receive electronic payments via Stripe's services, we will share certain information about you with Stripe, including name, address (if provided by you) and IP address, as directed by you to sign up for Stripe's services.</data>
+</edge>
+<edge source="we" target="information about use of offerup service" id="e33">
+  <data key="d2">COLLECT</data>
+  <data key="d3">When you access or use the OfferUp Service, we automatically collect information about you, including: We log information about your use of the OfferUp Service, including the type of browser you use, access times, pages viewed, your IP address, and the page you visited before navigating to our OfferUp Service.
+When you access or use the OfferUp Service, we automatically collect information about you, including: We log information about your use of the OfferUp Service, including the type of browser you use, access times, pages viewed, your IP address, and the page you visited before navigating to our OfferUp Service.</data>
+</edge>
+<edge source="we" target="information about computer you use" id="e34">
+  <data key="d2">COLLECT</data>
+  <data key="d3">When you access or use the OfferUp Service, we automatically collect information about you, including: We collect information about the computer or mobile device you use to access the OfferUp Service, including the hardware model, operating system and version, unique device identifiers, and mobile network information.
+When you access or use the OfferUp Service, we automatically collect information about you, including: We collect information about the computer or mobile device you use to access the OfferUp Service, including the hardware model, operating system and version, unique device identifiers, and mobile network information.</data>
+</edge>
+<edge source="we" target="geolocation" id="e35">
+  <data key="d2">COLLECT</data>
+  <data key="d3">When you access or use the OfferUp Service, we automatically collect information about you, including: If you consent to the collection of location information from your computer or mobile device, we may collect this information when you access the OfferUp Service or when you otherwise consent to the collection of this information.
+When you access or use the OfferUp Service, we automatically collect information about you, including: If you consent to the collection of location information from your computer or mobile device, we may collect this information when you access the OfferUp Service or when you otherwise consent to the collection of this information.</data>
+</edge>
+<edge source="we" target="ip address" id="e36">
+  <data key="d2">COLLECT</data>
+  <data key="d3">We may also use your IP address to infer an approximate geographic location for your computer or device.
+We may also use your IP address to infer an approximate geographic location for your computer or device.
+Even if you do not consent to collect the precise location from your mobile device, we may use your IP address to infer an approximation of your location when using certain features of the OfferUp Services, such as the OfferUp payments solution.
+Even if you do not consent to collect the precise location from your mobile device, we may use your IP address to infer an approximation of your location when using certain features of the OfferUp Services, such as the OfferUp payments solution.</data>
+</edge>
+<edge source="we" target="UNSPECIFIED_DATA" id="e37">
+  <data key="d2">COLLECT</data>
+  <data key="d3">We may also collect information using web beacons (also known as "gifs," "pixel tags" and "tracking pixels").
+We may also collect information using web beacons (also known as "gifs," "pixel tags" and "tracking pixels").
+Please note that we may retain certain information as required by law or for legitimate business purposes.
+Please note that we may retain certain information as required by law or for legitimate business purposes.</data>
+</edge>
+<edge source="we" target="information from site" id="e38">
+  <data key="d2">COLLECT</data>
+  <data key="d3">, if you create or log into your account through a social media site, we will have access to certain information from that site, such as your name, account information and friends lists, in accordance with the authorization procedures determined by such social media site.
+, if you create or log into your account through a social media site, we will have access to certain information from that site, such as your name, account information and friends lists, in accordance with the authorization procedures determined by such social media site.</data>
+</edge>
+<edge source="we" target="transaction information" id="e39">
+  <data key="d2">COLLECT</data>
+  <data key="d3">We may also receive transaction information from Stripe Inc. when you purchase or sell items using the OfferUp payment solution, including the date and time of sale and the amount of the sale.
+We may also receive transaction information from Stripe Inc. when you purchase or sell items using the OfferUp payment solution, including the date and time of sale and the amount of the sale.</data>
+</edge>
+<edge source="we" target="information we collect about you" id="e40">
+  <data key="d2">COLLECT</data>
+  <data key="d3">III.  Why We May Share Your Information and When.
+
+A. We may share the information we collect about you in the following situations:
+III.  Why We May Share Your Information and When.
+
+A. We may share the information we collect about you in the following situations:</data>
+</edge>
+<edge source="we" target="aggregate / deidentified / pseudonymized information" id="e41">
+  <data key="d2">COLLECT</data>
+  <data key="d3">A. We may share the information we collect about you in the following situations:
+
+We may also share aggregated or de-identified information, which cannot reasonably be used to identify you.
+A. We may share the information we collect about you in the following situations:
+
+We may also share aggregated or de-identified information, which cannot reasonably be used to identify you.</data>
+</edge>
+<edge source="we" target="datum aggregate" id="e42">
+  <data key="d2">COLLECT</data>
+  <data key="d3">In most cases, we share data that is aggregated or anonymized.
+In most cases, we share data that is aggregated or anonymized.</data>
+</edge>
+<edge source="we" target="forum posting" id="e43">
+  <data key="d2">COLLECT</data>
+  <data key="d3">We will also retain certain information such as reviews, forum postings, and similar materials posted by you may continue to be publicly available (but not associated with your personal information) on the OfferUp Service after your OfferUp account is canceled.
+We will also retain certain information such as reviews, forum postings, and similar materials posted by you may continue to be publicly available (but not associated with your personal information) on the OfferUp Service after your OfferUp account is canceled.</data>
+</edge>
+<edge source="we" target="information we collect" id="e44">
+  <data key="d2">COLLECT</data>
+  <data key="d3">We retain the information we collect so long as you have an account with OfferUp, and in some cases a longer period of time so long as such information is the subject of trust and safety matters, to comply with valid legal requests, or applicable law.
+We retain the information we collect so long as you have an account with OfferUp, and in some cases a longer period of time so long as such information is the subject of trust and safety matters, to comply with valid legal requests, or applicable law.</data>
+</edge>
+<edge source="we" target="personal information" id="e45">
+  <data key="d2">COLLECT</data>
+  <data key="d3">If you are a Connecticut resident, the Connecticut Data Privacy Act gives you the right to: Confirm whether we are processing your personal data and to access that information.
+If you are a Connecticut resident, the Connecticut Data Privacy Act gives you the right to: Confirm whether we are processing your personal data and to access that information.
+If you are a Colorado resident, the Colorado Privacy Act gives you the right to: Confirm whether we are processing your personal data and to access that information.
+If you are a Colorado resident, the Colorado Privacy Act gives you the right to: Confirm whether we are processing your personal data and to access that information.
+D. Information for Virginia Residents
+
+If you are a Virginia resident, the Virginia Consumer Data Privacy Act gives you the right to: Confirm whether we have collected personal information about you and to access that information.
+D. Information for Virginia Residents
+
+If you are a Virginia resident, the Virginia Consumer Data Privacy Act gives you the right to: Confirm whether we have collected personal information about you and to access that information.</data>
+</edge>
+<edge source="we" target="d. information for virginia resident" id="e46">
+  <data key="d2">COLLECT</data>
+  <data key="d3">V.  State Specific Disclosures
+
+D. Information for Virginia Residents
+D. Information for Virginia Residents
+
+If you are a Virginia resident, the Virginia Consumer Data Privacy Act gives you the right to: Confirm whether we have collected personal information about you and to access that information.</data>
+</edge>
+<edge source="identifier" target="device identifier" id="e47">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">If you have not opted out, we allow Google's online advertising service to collect identifiers (such as cookies and other device identifiers) and internet or other electronic network information (such as the webpage you visited) through the OfferUp Service for the purpose of sending personalized ads to you.
+If you have not opted out, we allow Google's online advertising service to collect identifiers (such as cookies and other device identifiers) and internet or other electronic network information (such as the webpage you visited) through the OfferUp Service for the purpose of sending personalized ads to you.</data>
+</edge>
+<edge source="identifier" target="cookie / pixel tag" id="e48">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">If you have not opted out, we allow Google's online advertising service to collect identifiers (such as cookies and other device identifiers) and internet or other electronic network information (such as the webpage you visited) through the OfferUp Service for the purpose of sending personalized ads to you.
+If you have not opted out, we allow Google's online advertising service to collect identifiers (such as cookies and other device identifiers) and internet or other electronic network information (such as the webpage you visited) through the OfferUp Service for the purpose of sending personalized ads to you.</data>
+</edge>
+<edge source="Stripe" target="information provide via offerup service" id="e49">
+  <data key="d2">COLLECT</data>
+  <data key="d3">When signing up to receive funds electronically, Stripe, and not OfferUp, collects the information provided by sellers via the OfferUp Service, including debit card numbers, Social Security numbers, government IDs, and bank account information.
+When signing up to receive funds electronically, Stripe, and not OfferUp, collects the information provided by sellers via the OfferUp Service, including debit card numbers, Social Security numbers, government IDs, and bank account information.</data>
+</edge>
+<edge source="Stripe" target="information about you" id="e50">
+  <data key="d2">COLLECT</data>
+  <data key="d3">A. We may share the information we collect about you in the following situations:
+
+When you register through the OfferUp Service to receive electronic payments via Stripe's services, we will share certain information about you with Stripe, including name, address (if provided by you) and IP address, as directed by you to sign up for Stripe's services.
+A. We may share the information we collect about you in the following situations:
+
+When you register through the OfferUp Service to receive electronic payments via Stripe's services, we will share certain information about you with Stripe, including name, address (if provided by you) and IP address, as directed by you to sign up for Stripe's services.
+Stripe may use this information for the purposes described in its privacy policy, including for fraud prevention.</data>
+</edge>
+<edge source="Stripe" target="information we collect about you" id="e51">
+  <data key="d2">COLLECT</data>
+  <data key="d3">III.  Why We May Share Your Information and When.
+
+A. We may share the information we collect about you in the following situations:
+Stripe may use this information for the purposes described in its privacy policy, including for fraud prevention.</data>
+</edge>
+<edge source="UNSPECIFIED_ACTOR" target="information we collect about you" id="e52">
+  <data key="d2">COLLECT</data>
+  <data key="d3">III.  Why We May Share Your Information and When.
+
+A. We may share the information we collect about you in the following situations:
+A. We may share the information we collect about you in the following situations:
+
+With vendors, consultants, and other service providers who need access to such information to carry out work on our behalf (including, without limitation, with third-party service providers that may use the information we share to help us and other companies detect inaccurate personal information and prevent fraudulent transactions).</data>
+</edge>
+<edge source="UNSPECIFIED_ACTOR" target="cookie / pixel tag" id="e53">
+  <data key="d2">COLLECT</data>
+  <data key="d3">These entities may use cookies, ad tags, web beacons, and other technologies to collect information about your use of the OfferUp Service and other websites and online services, including your IP address, device identifier, web browser, pages viewed, time spent on pages, links clicked and conversion information.
+These entities may use cookies, ad tags, web beacons, and other technologies to collect information about your use of the OfferUp Service and other websites and online services, including your IP address, device identifier, web browser, pages viewed, time spent on pages, links clicked and conversion information.
+These entities may use cookies, ad tags, web beacons, and other technologies to collect information about your use of the OfferUp Service and other websites and online services, including your IP address, device identifier, web browser, pages viewed, time spent on pages, links clicked and conversion information.</data>
+</edge>
+<edge source="UNSPECIFIED_ACTOR" target="ad tag" id="e54">
+  <data key="d2">COLLECT</data>
+  <data key="d3">These entities may use cookies, ad tags, web beacons, and other technologies to collect information about your use of the OfferUp Service and other websites and online services, including your IP address, device identifier, web browser, pages viewed, time spent on pages, links clicked and conversion information.
+These entities may use cookies, ad tags, web beacons, and other technologies to collect information about your use of the OfferUp Service and other websites and online services, including your IP address, device identifier, web browser, pages viewed, time spent on pages, links clicked and conversion information.</data>
+</edge>
+<edge source="UNSPECIFIED_ACTOR" target="information about use of offerup service" id="e55">
+  <data key="d2">COLLECT</data>
+  <data key="d3">These entities may use cookies, ad tags, web beacons, and other technologies to collect information about your use of the OfferUp Service and other websites and online services, including your IP address, device identifier, web browser, pages viewed, time spent on pages, links clicked and conversion information.
+These entities may use cookies, ad tags, web beacons, and other technologies to collect information about your use of the OfferUp Service and other websites and online services, including your IP address, device identifier, web browser, pages viewed, time spent on pages, links clicked and conversion information.</data>
+</edge>
+<edge source="offerup" target="information about you" id="e56">
+  <data key="d2">COLLECT</data>
+  <data key="d3">This Privacy Policy explains how information about you is collected, used, and shared by OfferUp, Inc. (hereafter "OfferUp," "our," "we," or "us").
+This Privacy Policy explains how information about you is collected, used, and shared by OfferUp, Inc. (hereafter "OfferUp," "our," "we," or "us").
+A. OfferUp uses information about you for various purposes, including to:
+A. OfferUp uses information about you for various purposes, including to:</data>
+</edge>
+<edge source="offerup" target="information you provide to we include" id="e57">
+  <data key="d2">COLLECT</data>
+  <data key="d3">OfferUp collects information that you provide directly to us when you sign up and use the OfferUp service including:
+OfferUp collects information that you provide directly to us when you sign up and use the OfferUp service including:</data>
+</edge>
+<edge source="offerup" target="list information" id="e58">
+  <data key="d2">COLLECT</data>
+  <data key="d3">OfferUp may, from time to time, obtain the above-listed information from other sources and combine that with information we collect through the OfferUp Service in order to enhance our ability to serve you, prevent fraudulent transactions, tailor our content to you, deliver relevant advertising to you, offer you opportunities to purchase products or services that we believe may be of interest to you, and for any other purposes described in this Privacy Policy.
+OfferUp may, from time to time, obtain the above-listed information from other sources and combine that with information we collect through the OfferUp Service in order to enhance our ability to serve you, prevent fraudulent transactions, tailor our content to you, deliver relevant advertising to you, offer you opportunities to purchase products or services that we believe may be of interest to you, and for any other purposes described in this Privacy Policy.</data>
+</edge>
+<edge source="offerup" target="information collect" id="e59">
+  <data key="d2">COLLECT</data>
+  <data key="d3">III.  Why We May Share Your Information and When.
+
+C.  Advertising and Analytics Services Provided by Others
+
+Information collected by these service providers may be used by OfferUp and others to, among other things, analyze and track data, determine the popularity of certain content, deliver advertising and content targeted to your interests on the OfferUp Service and other websites and online services, and better understand your online activity.
+III.  Why We May Share Your Information and When.
+
+C.  Advertising and Analytics Services Provided by Others
+
+Information collected by these service providers may be used by OfferUp and others to, among other things, analyze and track data, determine the popularity of certain content, deliver advertising and content targeted to your interests on the OfferUp Service and other websites and online services, and better understand your online activity.</data>
+</edge>
+<edge source="consultant" target="information we collect about you" id="e60">
+  <data key="d2">COLLECT</data>
+  <data key="d3">III.  Why We May Share Your Information and When.
+
+A. We may share the information we collect about you in the following situations:
+A. We may share the information we collect about you in the following situations:
+
+With vendors, consultants, and other service providers who need access to such information to carry out work on our behalf (including, without limitation, with third-party service providers that may use the information we share to help us and other companies detect inaccurate personal information and prevent fraudulent transactions).</data>
+</edge>
+<edge source="service provider" target="information we collect about you" id="e61">
+  <data key="d2">COLLECT</data>
+  <data key="d3">III.  Why We May Share Your Information and When.
+
+A. We may share the information we collect about you in the following situations:
+A. We may share the information we collect about you in the following situations:
+
+With vendors, consultants, and other service providers who need access to such information to carry out work on our behalf (including, without limitation, with third-party service providers that may use the information we share to help us and other companies detect inaccurate personal information and prevent fraudulent transactions).</data>
+</edge>
+<edge source="advertiser" target="identifier" id="e62">
+  <data key="d2">COLLECT</data>
+  <data key="d3">If you have not opted out, we allow Google's online advertising service to collect identifiers (such as cookies and other device identifiers) and internet or other electronic network information (such as the webpage you visited) through the OfferUp Service for the purpose of sending personalized ads to you.
+If you have not opted out, we allow Google's online advertising service to collect identifiers (such as cookies and other device identifiers) and internet or other electronic network information (such as the webpage you visited) through the OfferUp Service for the purpose of sending personalized ads to you.</data>
+</edge>
+<edge source="advertiser" target="internet information" id="e63">
+  <data key="d2">COLLECT</data>
+  <data key="d3">If you have not opted out, we allow Google's online advertising service to collect identifiers (such as cookies and other device identifiers) and internet or other electronic network information (such as the webpage you visited) through the OfferUp Service for the purpose of sending personalized ads to you.
+If you have not opted out, we allow Google's online advertising service to collect identifiers (such as cookies and other device identifiers) and internet or other electronic network information (such as the webpage you visited) through the OfferUp Service for the purpose of sending personalized ads to you.
+If you have not opted out, we allow Google's online advertising service to collect identifiers (such as cookies and other device identifiers) and internet or other electronic network information (such as the webpage you visited) through the OfferUp Service for the purpose of sending personalized ads to you.</data>
+</edge>
+</graph></graphml>

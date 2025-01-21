@@ -1,0 +1,653 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d3" for="edge" attr.name="text" attr.type="string"/>
+<key id="d2" for="edge" attr.name="relationship" attr.type="string"/>
+<key id="d1" for="node" attr.name="type" attr.type="string"/>
+<key id="d0" for="node" attr.name="label" attr.type="string"/>
+<graph edgedefault="directed"><node id="Walmart">
+  <data key="d0">Walmart</data>
+  <data key="d1">ACTOR</data>
+</node>
+<node id="we">
+  <data key="d0">we</data>
+  <data key="d1">ACTOR</data>
+</node>
+<node id="category of personal information list">
+  <data key="d0">category of personal information list</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="personal identifier">
+  <data key="d0">personal identifier</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="person name">
+  <data key="d0">person name</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="phone number">
+  <data key="d0">phone number</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="postal address">
+  <data key="d0">postal address</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="email address">
+  <data key="d0">email address</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="government identifier">
+  <data key="d0">government identifier</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="national identification number">
+  <data key="d0">national identification number</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="signature">
+  <data key="d0">signature</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="driver's license number">
+  <data key="d0">driver's license number</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="personal information">
+  <data key="d0">personal information</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="cookie / pixel tag">
+  <data key="d0">cookie / pixel tag</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="device identifier">
+  <data key="d0">device identifier</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="internet activity">
+  <data key="d0">internet activity</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="commercial information">
+  <data key="d0">commercial information</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="purchase history information">
+  <data key="d0">purchase history information</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="product review">
+  <data key="d0">product review</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="travel information">
+  <data key="d0">travel information</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="sweepstake">
+  <data key="d0">sweepstake</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="demographic information">
+  <data key="d0">demographic information</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="citizenship">
+  <data key="d0">citizenship</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="race / ethnicity">
+  <data key="d0">race / ethnicity</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="date of birth">
+  <data key="d0">date of birth</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="family status">
+  <data key="d0">family status</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="household income">
+  <data key="d0">household income</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="education">
+  <data key="d0">education</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="professional information">
+  <data key="d0">professional information</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="family health">
+  <data key="d0">family health</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="number of child">
+  <data key="d0">number of child</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="number of car own">
+  <data key="d0">number of car own</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="financial information">
+  <data key="d0">financial information</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="credit / debit card number">
+  <data key="d0">credit / debit card number</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="financial account number">
+  <data key="d0">financial account number</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="biometric information">
+  <data key="d0">biometric information</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="voice print">
+  <data key="d0">voice print</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="imagery">
+  <data key="d0">imagery</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="face geometry">
+  <data key="d0">face geometry</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="iris">
+  <data key="d0">iris</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="palm print">
+  <data key="d0">palm print</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="retina">
+  <data key="d0">retina</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="fingerprint">
+  <data key="d0">fingerprint</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="sensory information">
+  <data key="d0">sensory information</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="photograph">
+  <data key="d0">photograph</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="background information">
+  <data key="d0">background information</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="advertiser">
+  <data key="d0">advertiser</data>
+  <data key="d1">ACTOR</data>
+</node>
+<node id="target advertising">
+  <data key="d0">target advertising</data>
+  <data key="d1">ACTOR</data>
+</node>
+<node id="different type">
+  <data key="d0">different type</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="company within corporate family">
+  <data key="d0">company within corporate family</data>
+  <data key="d1">ACTOR</data>
+</node>
+<node id="club">
+  <data key="d0">club</data>
+  <data key="d1">ACTOR</data>
+</node>
+<node id="social media">
+  <data key="d0">social media</data>
+  <data key="d1">ACTOR</data>
+</node>
+<node id="UNSPECIFIED_ACTOR">
+  <data key="d0">UNSPECIFIED_ACTOR</data>
+  <data key="d1">ACTOR</data>
+</node>
+<node id="UNSPECIFIED_DATA">
+  <data key="d0">UNSPECIFIED_DATA</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="geolocation">
+  <data key="d0">geolocation</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="microphone">
+  <data key="d0">microphone</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="precise geolocation">
+  <data key="d0">precise geolocation</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="point of sale terminal">
+  <data key="d0">point of sale terminal</data>
+  <data key="d1">ACTOR</data>
+</node>
+<node id="device information">
+  <data key="d0">device information</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="entity list">
+  <data key="d0">entity list</data>
+  <data key="d1">ACTOR</data>
+</node>
+<node id="pixel">
+  <data key="d0">pixel</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="publisher">
+  <data key="d0">publisher</data>
+  <data key="d1">ACTOR</data>
+</node>
+<node id="link">
+  <data key="d0">link</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="device">
+  <data key="d0">device</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="inference">
+  <data key="d0">inference</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="age">
+  <data key="d0">age</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="gender">
+  <data key="d0">gender</data>
+  <data key="d1">DATA</data>
+</node>
+<edge source="Walmart" target="microphone" id="e0">
+  <data key="d2">COLLECT</data>
+  <data key="d3">When you visit us in our stores or online, you may share different types of personal information with us when you engage in the activities below: If you use the Walmart shopping voice assistant within the Walmart app, and consent to microphone and speech recognition, Walmart will have access to your microphone when the Walmart app is open and will continually listen for the key words "Hey, Walmart" to wake up your assistant.
+When you visit us in our stores or online, you may share different types of personal information with us when you engage in the activities below: If you use the Walmart shopping voice assistant within the Walmart app, and consent to microphone and speech recognition, Walmart will have access to your microphone when the Walmart app is open and will continually listen for the key words "Hey, Walmart" to wake up your assistant.</data>
+</edge>
+<edge source="we" target="personal information" id="e1">
+  <data key="d2">COLLECT</data>
+  <data key="d3">This Privacy Notice describes what personal information we collect, how we collect and use your personal information, who we disclose it to and why, the measures we take to protect your personal information, and the choices you may have regarding our use of your personal information.
+This Privacy Notice describes what personal information we collect, how we collect and use your personal information, who we disclose it to and why, the measures we take to protect your personal information, and the choices you may have regarding our use of your personal information.
+This Privacy Notice describes what personal information we collect, how we collect and use your personal information, who we disclose it to and why, the measures we take to protect your personal information, and the choices you may have regarding our use of your personal information.
+This Privacy Notice describes what personal information we collect, how we collect and use your personal information, who we disclose it to and why, the measures we take to protect your personal information, and the choices you may have regarding our use of your personal information.
+We use personal information to provide you with products and services and to operate and improve our business.
+We use personal information to provide you with products and services and to operate and improve our business.
+We may obtain and combine personal information from different sources, collected online and offline, including information from third-party sources across different types of technology and devices.
+We may obtain and combine personal information from different sources, collected online and offline, including information from third-party sources across different types of technology and devices.
+We may obtain personal information about you such as device and online identifiers and internet or other network activity information via automated means through your use of technology, such as when you visit our websites or use our mobile applications or services, or click on advertisements or links in emails you receive from us.
+We may obtain personal information about you such as device and online identifiers and internet or other network activity information via automated means through your use of technology, such as when you visit our websites or use our mobile applications or services, or click on advertisements or links in emails you receive from us.
+We may collect your personal information from technology we use in our stores.
+We may collect your personal information from technology we use in our stores.
+We may obtain your personal information from another company within our corporate family, such as Sam's Club.
+We may obtain your personal information from another company within our corporate family, such as Sam's Club.
+We may obtain personal information about you from other sources to help us correct or supplement our records, improve the quality or personalization of our services, increase the appeal and relevance of advertising, and to prevent or detect fraud.
+We may obtain personal information about you from other sources to help us correct or supplement our records, improve the quality or personalization of our services, increase the appeal and relevance of advertising, and to prevent or detect fraud.
+For example,  when you speak to customer service, we collect your personal information using call recording technology in accordance with applicable law.
+For example,  when you speak to customer service, we collect your personal information using call recording technology in accordance with applicable law.
+Who Do We Disclose to &amp; Why?
+
+We may disclose your personal information with other companies within our corporate family for them to use in ways that are consistent with this Privacy Notice.
+Who Do We Disclose to &amp; Why?
+
+We may disclose your personal information with other companies within our corporate family for them to use in ways that are consistent with this Privacy Notice.
+We disclose personal information about you to vendors to perform services on our behalf.
+We disclose personal information about you to vendors to perform services on our behalf.
+We share personal information with publishers to help us serve ads to you on their websites and to help us understand how those ads perform.
+We share personal information with publishers to help us serve ads to you on their websites and to help us understand how those ads perform.
+We share personal information with social media platforms that help us serve ads to you on those platforms.
+We share personal information with social media platforms that help us serve ads to you on those platforms.
+We may disclose your personal information when required by law or legal process, or when we believe doing so will help to protect the safety, property, or rights of individuals or Walmart.
+We may disclose your personal information when required by law or legal process, or when we believe doing so will help to protect the safety, property, or rights of individuals or Walmart.
+Who Do We Disclose to &amp; Why?
+
+If we plan to merge, sell, or reorganize our business, we may disclose your personal information, along with personal information of other Walmart customers as part of the business arrangement.
+Who Do We Disclose to &amp; Why?
+
+If we plan to merge, sell, or reorganize our business, we may disclose your personal information, along with personal information of other Walmart customers as part of the business arrangement.
+We will keep the personal information we collect about you for as long as necessary to carry out the purposes set forth in this Privacy Notice or any other notice provided at the time of data collection, but no longer than as required or permitted under applicable law or internal Walmart policy.
+We will keep the personal information we collect about you for as long as necessary to carry out the purposes set forth in this Privacy Notice or any other notice provided at the time of data collection, but no longer than as required or permitted under applicable law or internal Walmart policy.</data>
+</edge>
+<edge source="we" target="category of personal information list" id="e2">
+  <data key="d2">COLLECT</data>
+  <data key="d3">We may collect or receive the categories of personal information listed below, which may depend on the products or services you may use, as well as your device and account settings.
+We may collect or receive the categories of personal information listed below, which may depend on the products or services you may use, as well as your device and account settings.</data>
+</edge>
+<edge source="we" target="UNSPECIFIED_DATA" id="e3">
+  <data key="d2">COLLECT</data>
+  <data key="d3">To the extent we process deidentified information, we will maintain and use the information in deidentified form and will not attempt to reidentify the information unless permitted by applicable law.
+To the extent we process deidentified information, we will maintain and use the information in deidentified form and will not attempt to reidentify the information unless permitted by applicable law.
+We may disclose information to the entities listed below, for the reasons described.
+We may disclose information to the entities listed below, for the reasons described.</data>
+</edge>
+<edge source="we" target="different type" id="e4">
+  <data key="d2">COLLECT</data>
+  <data key="d3">When you visit us in our stores or online, you may share different types of personal information with us when you engage in the activities below:
+When you visit us in our stores or online, you may share different types of personal information with us when you engage in the activities below:</data>
+</edge>
+<edge source="we" target="biometric information" id="e5">
+  <data key="d2">COLLECT</data>
+  <data key="d3">To do this, we collect your biometric information and disclose it to our authorized service provider for processing.
+To do this, we collect your biometric information and disclose it to our authorized service provider for processing.</data>
+</edge>
+<edge source="we" target="precise geolocation" id="e6">
+  <data key="d2">COLLECT</data>
+  <data key="d3">Also, depending on your device's settings, we may collect precise geolocation information.
+Also, depending on your device's settings, we may collect precise geolocation information.</data>
+</edge>
+<edge source="we" target="device information" id="e7">
+  <data key="d2">COLLECT</data>
+  <data key="d3">We also may obtain device and browsing information, from third parties for marketing purposes.
+We also may obtain device and browsing information, from third parties for marketing purposes.</data>
+</edge>
+<edge source="we" target="link" id="e8">
+  <data key="d2">COLLECT</data>
+  <data key="d3">We may provide you with links to other online services (such as websites or social media platforms) and may include third-party features such as apps, tools, widgets, and plug ins.
+We may provide you with links to other online services (such as websites or social media platforms) and may include third-party features such as apps, tools, widgets, and plug ins.</data>
+</edge>
+<edge source="category of personal information list" target="background information" id="e9">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">We may collect or receive the categories of personal information listed below, which may depend on the products or services you may use, as well as your device and account settings.
+Background Information: Background and criminal information, such as background checks and criminal convictions</data>
+</edge>
+<edge source="category of personal information list" target="demographic information" id="e10">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">We may collect or receive the categories of personal information listed below, which may depend on the products or services you may use, as well as your device and account settings.
+Demographic Information , such as age, gender, citizenship, ethnicity, date of birth, family or marital status, household income, education, professional and employment information, family health, number of children, number of cars owned, and software or virtual assets owned</data>
+</edge>
+<edge source="category of personal information list" target="commercial information" id="e11">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">We may collect or receive the categories of personal information listed below, which may depend on the products or services you may use, as well as your device and account settings.
+Commercial Information , such as purchase and transaction history information (such as products or services you have purchased, rented, or returned), product reviews, travel and vacation information, and sweepstakes and contest entries</data>
+</edge>
+<edge source="category of personal information list" target="sensory information" id="e12">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">We may collect or receive the categories of personal information listed below, which may depend on the products or services you may use, as well as your device and account settings.
+Sensory Information: Audio, visual information, and other sensory information such as photographs and audio and video recordings</data>
+</edge>
+<edge source="category of personal information list" target="geolocation" id="e13">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">We may collect or receive the categories of personal information listed below, which may depend on the products or services you may use, as well as your device and account settings.
+Geolocation: Data about the location of your device, which may be imprecise (i.e. inferred from your device's IP address).</data>
+</edge>
+<edge source="category of personal information list" target="inference" id="e14">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">We may collect or receive the categories of personal information listed below, which may depend on the products or services you may use, as well as your device and account settings.
+Inferences: Individual preferences and characteristics, such as inferences drawn from and related to shopping patterns and behaviors, intelligence, and aptitudes</data>
+</edge>
+<edge source="category of personal information list" target="personal identifier" id="e15">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">We may collect or receive the categories of personal information listed below, which may depend on the products or services you may use, as well as your device and account settings.
+Basic Personal Identifiers , such as name, telephone number, physical address, email address, government-issued identifiers (e.g., national identification numbers, driver's license numbers), and signatures</data>
+</edge>
+<edge source="category of personal information list" target="device" id="e16">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">We may collect or receive the categories of personal information listed below, which may depend on the products or services you may use, as well as your device and account settings.
+Device and Online Identifiers, such as account login information, Mac address, IP address, cookie IDs, mobile ad IDs, and social media information</data>
+</edge>
+<edge source="category of personal information list" target="internet activity" id="e17">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">We may collect or receive the categories of personal information listed below, which may depend on the products or services you may use, as well as your device and account settings.
+Internet and Other Network Activity Information , such as information about your browsing or search activity as well as your interactions with our websites, mobile applications, emails, or advertisements such as keystroke patterns (these tell us if it's you who is interacting with us, or a bot)</data>
+</edge>
+<edge source="category of personal information list" target="financial information" id="e18">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">We may collect or receive the categories of personal information listed below, which may depend on the products or services you may use, as well as your device and account settings.
+Financial Information, such as credit or debit card numbers, and financial account numbers</data>
+</edge>
+<edge source="category of personal information list" target="biometric information" id="e19">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">We may collect or receive the categories of personal information listed below, which may depend on the products or services you may use, as well as your device and account settings.
+Biometric Information , such as voice prints, imagery of the iris or retina, face geometry, and palm prints or fingerprints</data>
+</edge>
+<edge source="personal identifier" target="person name" id="e20">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">Basic Personal Identifiers , such as name, telephone number, physical address, email address, government-issued identifiers (e.g., national identification numbers, driver's license numbers), and signatures
+Basic Personal Identifiers , such as name, telephone number, physical address, email address, government-issued identifiers (e.g., national identification numbers, driver's license numbers), and signatures</data>
+</edge>
+<edge source="personal identifier" target="signature" id="e21">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">Basic Personal Identifiers , such as name, telephone number, physical address, email address, government-issued identifiers (e.g., national identification numbers, driver's license numbers), and signatures
+Basic Personal Identifiers , such as name, telephone number, physical address, email address, government-issued identifiers (e.g., national identification numbers, driver's license numbers), and signatures</data>
+</edge>
+<edge source="personal identifier" target="phone number" id="e22">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">Basic Personal Identifiers , such as name, telephone number, physical address, email address, government-issued identifiers (e.g., national identification numbers, driver's license numbers), and signatures
+Basic Personal Identifiers , such as name, telephone number, physical address, email address, government-issued identifiers (e.g., national identification numbers, driver's license numbers), and signatures</data>
+</edge>
+<edge source="personal identifier" target="email address" id="e23">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">Basic Personal Identifiers , such as name, telephone number, physical address, email address, government-issued identifiers (e.g., national identification numbers, driver's license numbers), and signatures
+Basic Personal Identifiers , such as name, telephone number, physical address, email address, government-issued identifiers (e.g., national identification numbers, driver's license numbers), and signatures</data>
+</edge>
+<edge source="personal identifier" target="postal address" id="e24">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">Basic Personal Identifiers , such as name, telephone number, physical address, email address, government-issued identifiers (e.g., national identification numbers, driver's license numbers), and signatures
+Basic Personal Identifiers , such as name, telephone number, physical address, email address, government-issued identifiers (e.g., national identification numbers, driver's license numbers), and signatures</data>
+</edge>
+<edge source="personal identifier" target="government identifier" id="e25">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">Basic Personal Identifiers , such as name, telephone number, physical address, email address, government-issued identifiers (e.g., national identification numbers, driver's license numbers), and signatures
+Basic Personal Identifiers , such as name, telephone number, physical address, email address, government-issued identifiers (e.g., national identification numbers, driver's license numbers), and signatures</data>
+</edge>
+<edge source="government identifier" target="driver's license number" id="e26">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">Basic Personal Identifiers , such as name, telephone number, physical address, email address, government-issued identifiers (e.g., national identification numbers, driver's license numbers), and signatures
+Basic Personal Identifiers , such as name, telephone number, physical address, email address, government-issued identifiers (e.g., national identification numbers, driver's license numbers), and signatures</data>
+</edge>
+<edge source="government identifier" target="national identification number" id="e27">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">Basic Personal Identifiers , such as name, telephone number, physical address, email address, government-issued identifiers (e.g., national identification numbers, driver's license numbers), and signatures
+Basic Personal Identifiers , such as name, telephone number, physical address, email address, government-issued identifiers (e.g., national identification numbers, driver's license numbers), and signatures</data>
+</edge>
+<edge source="personal information" target="different type" id="e28">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">When you visit us in our stores or online, you may share different types of personal information with us when you engage in the activities below:
+When you visit us in our stores or online, you may share different types of personal information with us when you engage in the activities below:</data>
+</edge>
+<edge source="personal information" target="device identifier" id="e29">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">We may obtain personal information about you such as device and online identifiers and internet or other network activity information via automated means through your use of technology, such as when you visit our websites or use our mobile applications or services, or click on advertisements or links in emails you receive from us.
+We may obtain personal information about you such as device and online identifiers and internet or other network activity information via automated means through your use of technology, such as when you visit our websites or use our mobile applications or services, or click on advertisements or links in emails you receive from us.</data>
+</edge>
+<edge source="personal information" target="internet activity" id="e30">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">We may obtain personal information about you such as device and online identifiers and internet or other network activity information via automated means through your use of technology, such as when you visit our websites or use our mobile applications or services, or click on advertisements or links in emails you receive from us.
+We may obtain personal information about you such as device and online identifiers and internet or other network activity information via automated means through your use of technology, such as when you visit our websites or use our mobile applications or services, or click on advertisements or links in emails you receive from us.</data>
+</edge>
+<edge source="commercial information" target="product review" id="e31">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">Commercial Information , such as purchase and transaction history information (such as products or services you have purchased, rented, or returned), product reviews, travel and vacation information, and sweepstakes and contest entries
+Commercial Information , such as purchase and transaction history information (such as products or services you have purchased, rented, or returned), product reviews, travel and vacation information, and sweepstakes and contest entries</data>
+</edge>
+<edge source="commercial information" target="travel information" id="e32">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">Commercial Information , such as purchase and transaction history information (such as products or services you have purchased, rented, or returned), product reviews, travel and vacation information, and sweepstakes and contest entries
+Commercial Information , such as purchase and transaction history information (such as products or services you have purchased, rented, or returned), product reviews, travel and vacation information, and sweepstakes and contest entries</data>
+</edge>
+<edge source="commercial information" target="sweepstake" id="e33">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">Commercial Information , such as purchase and transaction history information (such as products or services you have purchased, rented, or returned), product reviews, travel and vacation information, and sweepstakes and contest entries
+Commercial Information , such as purchase and transaction history information (such as products or services you have purchased, rented, or returned), product reviews, travel and vacation information, and sweepstakes and contest entries</data>
+</edge>
+<edge source="commercial information" target="purchase history information" id="e34">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">Commercial Information , such as purchase and transaction history information (such as products or services you have purchased, rented, or returned), product reviews, travel and vacation information, and sweepstakes and contest entries
+Commercial Information , such as purchase and transaction history information (such as products or services you have purchased, rented, or returned), product reviews, travel and vacation information, and sweepstakes and contest entries</data>
+</edge>
+<edge source="demographic information" target="race / ethnicity" id="e35">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">Demographic Information , such as age, gender, citizenship, ethnicity, date of birth, family or marital status, household income, education, professional and employment information, family health, number of children, number of cars owned, and software or virtual assets owned
+Demographic Information , such as age, gender, citizenship, ethnicity, date of birth, family or marital status, household income, education, professional and employment information, family health, number of children, number of cars owned, and software or virtual assets owned</data>
+</edge>
+<edge source="demographic information" target="family health" id="e36">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">Demographic Information , such as age, gender, citizenship, ethnicity, date of birth, family or marital status, household income, education, professional and employment information, family health, number of children, number of cars owned, and software or virtual assets owned
+Demographic Information , such as age, gender, citizenship, ethnicity, date of birth, family or marital status, household income, education, professional and employment information, family health, number of children, number of cars owned, and software or virtual assets owned</data>
+</edge>
+<edge source="demographic information" target="gender" id="e37">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">Demographic Information , such as age, gender, citizenship, ethnicity, date of birth, family or marital status, household income, education, professional and employment information, family health, number of children, number of cars owned, and software or virtual assets owned
+Demographic Information , such as age, gender, citizenship, ethnicity, date of birth, family or marital status, household income, education, professional and employment information, family health, number of children, number of cars owned, and software or virtual assets owned</data>
+</edge>
+<edge source="demographic information" target="professional information" id="e38">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">Demographic Information , such as age, gender, citizenship, ethnicity, date of birth, family or marital status, household income, education, professional and employment information, family health, number of children, number of cars owned, and software or virtual assets owned
+Demographic Information , such as age, gender, citizenship, ethnicity, date of birth, family or marital status, household income, education, professional and employment information, family health, number of children, number of cars owned, and software or virtual assets owned</data>
+</edge>
+<edge source="demographic information" target="family status" id="e39">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">Demographic Information , such as age, gender, citizenship, ethnicity, date of birth, family or marital status, household income, education, professional and employment information, family health, number of children, number of cars owned, and software or virtual assets owned
+Demographic Information , such as age, gender, citizenship, ethnicity, date of birth, family or marital status, household income, education, professional and employment information, family health, number of children, number of cars owned, and software or virtual assets owned</data>
+</edge>
+<edge source="demographic information" target="number of car own" id="e40">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">Demographic Information , such as age, gender, citizenship, ethnicity, date of birth, family or marital status, household income, education, professional and employment information, family health, number of children, number of cars owned, and software or virtual assets owned
+Demographic Information , such as age, gender, citizenship, ethnicity, date of birth, family or marital status, household income, education, professional and employment information, family health, number of children, number of cars owned, and software or virtual assets owned</data>
+</edge>
+<edge source="demographic information" target="household income" id="e41">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">Demographic Information , such as age, gender, citizenship, ethnicity, date of birth, family or marital status, household income, education, professional and employment information, family health, number of children, number of cars owned, and software or virtual assets owned
+Demographic Information , such as age, gender, citizenship, ethnicity, date of birth, family or marital status, household income, education, professional and employment information, family health, number of children, number of cars owned, and software or virtual assets owned</data>
+</edge>
+<edge source="demographic information" target="date of birth" id="e42">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">Demographic Information , such as age, gender, citizenship, ethnicity, date of birth, family or marital status, household income, education, professional and employment information, family health, number of children, number of cars owned, and software or virtual assets owned
+Demographic Information , such as age, gender, citizenship, ethnicity, date of birth, family or marital status, household income, education, professional and employment information, family health, number of children, number of cars owned, and software or virtual assets owned</data>
+</edge>
+<edge source="demographic information" target="number of child" id="e43">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">Demographic Information , such as age, gender, citizenship, ethnicity, date of birth, family or marital status, household income, education, professional and employment information, family health, number of children, number of cars owned, and software or virtual assets owned
+Demographic Information , such as age, gender, citizenship, ethnicity, date of birth, family or marital status, household income, education, professional and employment information, family health, number of children, number of cars owned, and software or virtual assets owned</data>
+</edge>
+<edge source="demographic information" target="education" id="e44">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">Demographic Information , such as age, gender, citizenship, ethnicity, date of birth, family or marital status, household income, education, professional and employment information, family health, number of children, number of cars owned, and software or virtual assets owned
+Demographic Information , such as age, gender, citizenship, ethnicity, date of birth, family or marital status, household income, education, professional and employment information, family health, number of children, number of cars owned, and software or virtual assets owned</data>
+</edge>
+<edge source="demographic information" target="citizenship" id="e45">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">Demographic Information , such as age, gender, citizenship, ethnicity, date of birth, family or marital status, household income, education, professional and employment information, family health, number of children, number of cars owned, and software or virtual assets owned
+Demographic Information , such as age, gender, citizenship, ethnicity, date of birth, family or marital status, household income, education, professional and employment information, family health, number of children, number of cars owned, and software or virtual assets owned</data>
+</edge>
+<edge source="demographic information" target="age" id="e46">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">Demographic Information , such as age, gender, citizenship, ethnicity, date of birth, family or marital status, household income, education, professional and employment information, family health, number of children, number of cars owned, and software or virtual assets owned
+Demographic Information , such as age, gender, citizenship, ethnicity, date of birth, family or marital status, household income, education, professional and employment information, family health, number of children, number of cars owned, and software or virtual assets owned</data>
+</edge>
+<edge source="financial information" target="financial account number" id="e47">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">Financial Information, such as credit or debit card numbers, and financial account numbers
+Financial Information, such as credit or debit card numbers, and financial account numbers</data>
+</edge>
+<edge source="financial information" target="credit / debit card number" id="e48">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">Financial Information, such as credit or debit card numbers, and financial account numbers
+Financial Information, such as credit or debit card numbers, and financial account numbers</data>
+</edge>
+<edge source="biometric information" target="palm print" id="e49">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">Biometric Information , such as voice prints, imagery of the iris or retina, face geometry, and palm prints or fingerprints
+Biometric Information , such as voice prints, imagery of the iris or retina, face geometry, and palm prints or fingerprints</data>
+</edge>
+<edge source="biometric information" target="retina" id="e50">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">Biometric Information , such as voice prints, imagery of the iris or retina, face geometry, and palm prints or fingerprints
+Biometric Information , such as voice prints, imagery of the iris or retina, face geometry, and palm prints or fingerprints</data>
+</edge>
+<edge source="biometric information" target="face geometry" id="e51">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">Biometric Information , such as voice prints, imagery of the iris or retina, face geometry, and palm prints or fingerprints
+Biometric Information , such as voice prints, imagery of the iris or retina, face geometry, and palm prints or fingerprints</data>
+</edge>
+<edge source="biometric information" target="fingerprint" id="e52">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">Biometric Information , such as voice prints, imagery of the iris or retina, face geometry, and palm prints or fingerprints
+Biometric Information , such as voice prints, imagery of the iris or retina, face geometry, and palm prints or fingerprints</data>
+</edge>
+<edge source="biometric information" target="voice print" id="e53">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">Biometric Information , such as voice prints, imagery of the iris or retina, face geometry, and palm prints or fingerprints
+Biometric Information , such as voice prints, imagery of the iris or retina, face geometry, and palm prints or fingerprints</data>
+</edge>
+<edge source="biometric information" target="imagery" id="e54">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">Biometric Information , such as voice prints, imagery of the iris or retina, face geometry, and palm prints or fingerprints
+Biometric Information , such as voice prints, imagery of the iris or retina, face geometry, and palm prints or fingerprints</data>
+</edge>
+<edge source="biometric information" target="iris" id="e55">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">Biometric Information , such as voice prints, imagery of the iris or retina, face geometry, and palm prints or fingerprints
+Biometric Information , such as voice prints, imagery of the iris or retina, face geometry, and palm prints or fingerprints</data>
+</edge>
+<edge source="sensory information" target="photograph" id="e56">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">Sensory Information: Audio, visual information, and other sensory information such as photographs and audio and video recordings
+Sensory Information: Audio, visual information, and other sensory information such as photographs and audio and video recordings</data>
+</edge>
+<edge source="advertiser" target="target advertising" id="e57">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">For example, we use it for: Performing and providing advertising and marketing services, including targeted advertising
+For example, we use it for: Performing and providing advertising and marketing services, including targeted advertising</data>
+</edge>
+<edge source="advertiser" target="pixel" id="e58">
+  <data key="d2">COLLECT</data>
+  <data key="d3">Advertisers may use pixels or cookies in their ads that collect information from/about you to help them understand how you respond to their ads.
+Advertisers may use pixels or cookies in their ads that collect information from/about you to help them understand how you respond to their ads.</data>
+</edge>
+<edge source="advertiser" target="cookie / pixel tag" id="e59">
+  <data key="d2">COLLECT</data>
+  <data key="d3">Advertisers may use pixels or cookies in their ads that collect information from/about you to help them understand how you respond to their ads.
+Advertisers may use pixels or cookies in their ads that collect information from/about you to help them understand how you respond to their ads.</data>
+</edge>
+<edge source="company within corporate family" target="club" id="e60">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">We may obtain your personal information from another company within our corporate family, such as Sam's Club.
+We may obtain your personal information from another company within our corporate family, such as Sam's Club.</data>
+</edge>
+<edge source="company within corporate family" target="personal information" id="e61">
+  <data key="d2">COLLECT</data>
+  <data key="d3">Who Do We Disclose to &amp; Why?
+
+We may disclose your personal information with other companies within our corporate family for them to use in ways that are consistent with this Privacy Notice.
+Who Do We Disclose to &amp; Why?
+
+We may disclose your personal information with other companies within our corporate family for them to use in ways that are consistent with this Privacy Notice.</data>
+</edge>
+<edge source="social media" target="personal information" id="e62">
+  <data key="d2">COLLECT</data>
+  <data key="d3">We share personal information with social media platforms that help us serve ads to you on those platforms.
+We share personal information with social media platforms that help us serve ads to you on those platforms.</data>
+</edge>
+<edge source="UNSPECIFIED_ACTOR" target="personal information" id="e63">
+  <data key="d2">COLLECT</data>
+  <data key="d3">We disclose personal information about you to vendors to perform services on our behalf.
+We disclose personal information about you to vendors to perform services on our behalf.</data>
+</edge>
+<edge source="point of sale terminal" target="credit / debit card number" id="e64">
+  <data key="d2">COLLECT</data>
+  <data key="d3">For example, our point-of-sale terminals process your credit card information when you complete your purchase, and we operate in-store cameras for security and operational purposes, such as to help deter theft or improve store design to better serve our customers.
+For example, our point-of-sale terminals process your credit card information when you complete your purchase, and we operate in-store cameras for security and operational purposes, such as to help deter theft or improve store design to better serve our customers.</data>
+</edge>
+<edge source="entity list" target="UNSPECIFIED_DATA" id="e65">
+  <data key="d2">COLLECT</data>
+  <data key="d3">We may disclose information to the entities listed below, for the reasons described.
+We may disclose information to the entities listed below, for the reasons described.</data>
+</edge>
+<edge source="publisher" target="personal information" id="e66">
+  <data key="d2">COLLECT</data>
+  <data key="d3">We share personal information with publishers to help us serve ads to you on their websites and to help us understand how those ads perform.
+We share personal information with publishers to help us serve ads to you on their websites and to help us understand how those ads perform.</data>
+</edge>
+</graph></graphml>

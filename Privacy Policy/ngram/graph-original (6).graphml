@@ -1,0 +1,525 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d3" for="edge" attr.name="text" attr.type="string"/>
+<key id="d2" for="edge" attr.name="relationship" attr.type="string"/>
+<key id="d1" for="node" attr.name="type" attr.type="string"/>
+<key id="d0" for="node" attr.name="label" attr.type="string"/>
+<graph edgedefault="directed"><node id="we">
+  <data key="d0">we</data>
+  <data key="d1">ACTOR</data>
+</node>
+<node id="fetch">
+  <data key="d0">fetch</data>
+  <data key="d1">ACTOR</data>
+</node>
+<node id="fetch rewards(tm">
+  <data key="d0">fetch rewards(tm</data>
+  <data key="d1">ACTOR</data>
+</node>
+<node id="Facebook">
+  <data key="d0">Facebook</data>
+  <data key="d1">ACTOR</data>
+</node>
+<node id="UNSPECIFIED_DATA">
+  <data key="d0">UNSPECIFIED_DATA</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="geolocation">
+  <data key="d0">geolocation</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="UNSPECIFIED_ACTOR">
+  <data key="d0">UNSPECIFIED_ACTOR</data>
+  <data key="d1">ACTOR</data>
+</node>
+<node id="datum be">
+  <data key="d0">datum be</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="demographic information">
+  <data key="d0">demographic information</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="information enhance exist information about you">
+  <data key="d0">information enhance exist information about you</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="marketing of product to you">
+  <data key="d0">marketing of product to you</data>
+  <data key="d1">ACTOR</data>
+</node>
+<node id="goodrx">
+  <data key="d0">goodrx</data>
+  <data key="d1">ACTOR</data>
+</node>
+<node id="personal information">
+  <data key="d0">personal information</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="postal address">
+  <data key="d0">postal address</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="person name">
+  <data key="d0">person name</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="payment method">
+  <data key="d0">payment method</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="information contain in digital receipt email">
+  <data key="d0">information contain in digital receipt email</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="email address">
+  <data key="d0">email address</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="Google">
+  <data key="d0">Google</data>
+  <data key="d1">ACTOR</data>
+</node>
+<node id="web application">
+  <data key="d0">web application</data>
+  <data key="d1">ACTOR</data>
+</node>
+<node id="information about">
+  <data key="d0">information about</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="information we collect from on website access website">
+  <data key="d0">information we collect from on website access website</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="date of birth">
+  <data key="d0">date of birth</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="phone number">
+  <data key="d0">phone number</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="photo you provide for use as profile">
+  <data key="d0">photo you provide for use as profile</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="information you provide we">
+  <data key="d0">information you provide we</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="consumer account log credential">
+  <data key="d0">consumer account log credential</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="personal information contain on digital receipt">
+  <data key="d0">personal information contain on digital receipt</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="pre - format text relate to fetch">
+  <data key="d0">pre - format text relate to fetch</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="referral code send friend">
+  <data key="d0">referral code send friend</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="user name">
+  <data key="d0">user name</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="profile photo">
+  <data key="d0">profile photo</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="goodrx card information">
+  <data key="d0">goodrx card information</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="associate debit card transaction information history">
+  <data key="d0">associate debit card transaction information history</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="precise geolocation">
+  <data key="d0">precise geolocation</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="information from source">
+  <data key="d0">information from source</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="cookie / pixel tag">
+  <data key="d0">cookie / pixel tag</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="pixel tags">
+  <data key="d0">pixel tags</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="own datum">
+  <data key="d0">own datum</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="information you provide we in connection with digital receipt program title in service">
+  <data key="d0">information you provide we in connection with digital receipt program title in service</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="information collect through participation in ereceipt program from gmail account">
+  <data key="d0">information collect through participation in ereceipt program from gmail account</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="service provider">
+  <data key="d0">service provider</data>
+  <data key="d1">ACTOR</data>
+</node>
+<node id="finance">
+  <data key="d0">finance</data>
+  <data key="d1">ACTOR</data>
+</node>
+<node id="information about you">
+  <data key="d0">information about you</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="aggregate / deidentified / pseudonymized information">
+  <data key="d0">aggregate / deidentified / pseudonymized information</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="information as">
+  <data key="d0">information as</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="information provide">
+  <data key="d0">information provide</data>
+  <data key="d1">DATA</data>
+</node>
+<edge source="we" target="fetch" id="e0">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">Fetch Rewards(tm), Inc ("Fetch," "we," "us," or "our") owns and operates this Website and the associated Applications, including, but not limited to Fetch Rewards(tm) (collectively, the "App").
+Fetch Rewards(tm), Inc ("Fetch," "we," "us," or "our") owns and operates this Website and the associated Applications, including, but not limited to Fetch Rewards(tm) (collectively, the "App").</data>
+</edge>
+<edge source="we" target="fetch rewards(tm" id="e1">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">Fetch Rewards(tm), Inc ("Fetch," "we," "us," or "our") owns and operates this Website and the associated Applications, including, but not limited to Fetch Rewards(tm) (collectively, the "App").
+Fetch Rewards(tm), Inc ("Fetch," "we," "us," or "our") owns and operates this Website and the associated Applications, including, but not limited to Fetch Rewards(tm) (collectively, the "App").</data>
+</edge>
+<edge source="we" target="marketing of product to you" id="e2">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">We also use your information to analyze, administer, enhance and personalize our Website, App, web applications, and the services we provide to you, including our marketing of products and services to you.
+We also use your information to analyze, administer, enhance and personalize our Website, App, web applications, and the services we provide to you, including our marketing of products and services to you.</data>
+</edge>
+<edge source="we" target="UNSPECIFIED_DATA" id="e3">
+  <data key="d2">COLLECT</data>
+  <data key="d3">We collect information about the people, pages, account activity, and groups you are connected to and how you interact with them on our App.
+We collect information about the people, pages, account activity, and groups you are connected to and how you interact with them on our App.
+Other Information We Collect When You Use Our Website, App, or web applications
+
+Our Website or App, and web applications collects certain information automatically about you and your use of our Website, App, web applications, and services, your interactions with us and information regarding the device you use to access our Website, App, or web applications (collectively "Other Information").
+Other Information We Collect When You Use Our Website, App, or web applications
+
+Our Website or App, and web applications collects certain information automatically about you and your use of our Website, App, web applications, and services, your interactions with us and information regarding the device you use to access our Website, App, or web applications (collectively "Other Information").
+Other Information We Collect When You Use Our Website, App, or web applications
+
+Our Website or App, and web applications collects certain information automatically about you and your use of our Website, App, web applications, and services, your interactions with us and information regarding the device you use to access our Website, App, or web applications (collectively "Other Information").
+We use your information to provide you our Website, App, web applications, and Fetch Rewards(tm) program which allows you to engage and intentionally interact with all our participating brands to acquire points and/or bonus points by purchasing their products.
+We use your information to provide you our Website, App, web applications, and Fetch Rewards(tm) program which allows you to engage and intentionally interact with all our participating brands to acquire points and/or bonus points by purchasing their products.
+We also use your information to analyze, administer, enhance and personalize our Website, App, web applications, and the services we provide to you, including our marketing of products and services to you.
+We also use your information to analyze, administer, enhance and personalize our Website, App, web applications, and the services we provide to you, including our marketing of products and services to you.
+More specifically, we may use your information:
+More specifically, we may use your information:
+In operating our business and working to provide you the best products and services, unless specified otherwise elsewhere, we may share your information in the following ways:
+In operating our business and working to provide you the best products and services, unless specified otherwise elsewhere, we may share your information in the following ways:
+When you engage third party services like GoodRx through our App, we share your information with those third parties in order to facilitate your relationship with them.
+When you engage third party services like GoodRx through our App, we share your information with those third parties in order to facilitate your relationship with them.
+We share information with One Finance in order to operate our Fetch Pay Rewards program.
+We share information with One Finance in order to operate our Fetch Pay Rewards program.
+With third parties as part of an acquisition or liquidation : We are involved in a merger, asset sale, financing, corporate divestiture, reorganization, or acquisition of all or some portion of our business to another company or if we undergo liquidation or bankruptcy proceedings, we may share your information in connection with such transaction or proceeding before and or after the transaction closes or the proceedings are completed.
+With third parties as part of an acquisition or liquidation : We are involved in a merger, asset sale, financing, corporate divestiture, reorganization, or acquisition of all or some portion of our business to another company or if we undergo liquidation or bankruptcy proceedings, we may share your information in connection with such transaction or proceeding before and or after the transaction closes or the proceedings are completed.
+With your consent -- We may share information in other ways if you give us consent or direct us to do so.
+With your consent -- We may share information in other ways if you give us consent or direct us to do so.
+To protect your privacy, before we give you access or let you update your information, we may ask you to verify your identity or provide additional information.
+To protect your privacy, before we give you access or let you update your information, we may ask you to verify your identity or provide additional information.</data>
+</edge>
+<edge source="we" target="information we collect from on website access website" id="e4">
+  <data key="d2">COLLECT</data>
+  <data key="d3">This Privacy Policy informs you how we collect, use, share, and protect the information we collect from or about you on our Website, however accessed (the "Website"), our App, and web applications, including, but not limited to, Mission Control.
+This Privacy Policy informs you how we collect, use, share, and protect the information we collect from or about you on our Website, however accessed (the "Website"), our App, and web applications, including, but not limited to, Mission Control.</data>
+</edge>
+<edge source="we" target="personal information" id="e5">
+  <data key="d2">COLLECT</data>
+  <data key="d3">We collect the following Personal Information from or about you:
+We collect the following Personal Information from or about you:</data>
+</edge>
+<edge source="we" target="consumer account log credential" id="e6">
+  <data key="d2">COLLECT</data>
+  <data key="d3">Information You Provide Us
+
+For Digital Receipt Program ("eReceipts") participants : We collect consumer account or email log-in credentials and any personal information contained on digital receipts.
+Information You Provide Us
+
+For Digital Receipt Program ("eReceipts") participants : We collect consumer account or email log-in credentials and any personal information contained on digital receipts.</data>
+</edge>
+<edge source="we" target="personal information contain on digital receipt" id="e7">
+  <data key="d2">COLLECT</data>
+  <data key="d3">Information You Provide Us
+
+For Digital Receipt Program ("eReceipts") participants : We collect consumer account or email log-in credentials and any personal information contained on digital receipts.
+Information You Provide Us
+
+For Digital Receipt Program ("eReceipts") participants : We collect consumer account or email log-in credentials and any personal information contained on digital receipts.</data>
+</edge>
+<edge source="we" target="pre - format text relate to fetch" id="e8">
+  <data key="d2">COLLECT</data>
+  <data key="d3">Information You Provide Us
+
+Friend information when you Refer a Friend or participate in Social : When you refer a friend to join Fetch we provide you a link, some pre-formatted text relating to Fetch, and a referral code to send your friend.
+Information You Provide Us
+
+Friend information when you Refer a Friend or participate in Social : When you refer a friend to join Fetch we provide you a link, some pre-formatted text relating to Fetch, and a referral code to send your friend.</data>
+</edge>
+<edge source="we" target="referral code send friend" id="e9">
+  <data key="d2">COLLECT</data>
+  <data key="d3">Information You Provide Us
+
+Friend information when you Refer a Friend or participate in Social : When you refer a friend to join Fetch we provide you a link, some pre-formatted text relating to Fetch, and a referral code to send your friend.
+Information You Provide Us
+
+Friend information when you Refer a Friend or participate in Social : When you refer a friend to join Fetch we provide you a link, some pre-formatted text relating to Fetch, and a referral code to send your friend.</data>
+</edge>
+<edge source="we" target="user name" id="e10">
+  <data key="d2">COLLECT</data>
+  <data key="d3">We collect and display in each Fetch Social feed and leaderboard, the user names and profile photos of the friends with whom you directly connect, along with certain Fetch activity information.
+We collect and display in each Fetch Social feed and leaderboard, the user names and profile photos of the friends with whom you directly connect, along with certain Fetch activity information.</data>
+</edge>
+<edge source="we" target="profile photo" id="e11">
+  <data key="d2">COLLECT</data>
+  <data key="d3">We collect and display in each Fetch Social feed and leaderboard, the user names and profile photos of the friends with whom you directly connect, along with certain Fetch activity information.
+We collect and display in each Fetch Social feed and leaderboard, the user names and profile photos of the friends with whom you directly connect, along with certain Fetch activity information.
+If your email address or phone number matches a Fetch member's search, we will share your name and profile photo so that member can invite you to be a friend and/or join a Social group.
+If your email address or phone number matches a Fetch member's search, we will share your name and profile photo so that member can invite you to be a friend and/or join a Social group.</data>
+</edge>
+<edge source="we" target="goodrx card information" id="e12">
+  <data key="d2">COLLECT</data>
+  <data key="d3">When you activate your Good Rx Card, we provide your GoodRx Card information, name, and email address to GoodRx to enable you to engage with GoodRx and facilitate your relationship with GoodRx.
+When you activate your Good Rx Card, we provide your GoodRx Card information, name, and email address to GoodRx to enable you to engage with GoodRx and facilitate your relationship with GoodRx.</data>
+</edge>
+<edge source="we" target="person name" id="e13">
+  <data key="d2">COLLECT</data>
+  <data key="d3">When you activate your Good Rx Card, we provide your GoodRx Card information, name, and email address to GoodRx to enable you to engage with GoodRx and facilitate your relationship with GoodRx.
+When you activate your Good Rx Card, we provide your GoodRx Card information, name, and email address to GoodRx to enable you to engage with GoodRx and facilitate your relationship with GoodRx.
+If your email address or phone number matches a Fetch member's search, we will share your name and profile photo so that member can invite you to be a friend and/or join a Social group.
+If your email address or phone number matches a Fetch member's search, we will share your name and profile photo so that member can invite you to be a friend and/or join a Social group.</data>
+</edge>
+<edge source="we" target="email address" id="e14">
+  <data key="d2">COLLECT</data>
+  <data key="d3">When you activate your Good Rx Card, we provide your GoodRx Card information, name, and email address to GoodRx to enable you to engage with GoodRx and facilitate your relationship with GoodRx.
+When you activate your Good Rx Card, we provide your GoodRx Card information, name, and email address to GoodRx to enable you to engage with GoodRx and facilitate your relationship with GoodRx.</data>
+</edge>
+<edge source="we" target="associate debit card transaction information history" id="e15">
+  <data key="d2">COLLECT</data>
+  <data key="d3">This information includes, but is not limited to: If you participate in Fetch Pay(tm), we collect your associated debit card transaction information history in order to award you points
+This information includes, but is not limited to: If you participate in Fetch Pay(tm), we collect your associated debit card transaction information history in order to award you points</data>
+</edge>
+<edge source="we" target="geolocation" id="e16">
+  <data key="d2">COLLECT</data>
+  <data key="d3">We may utilize location services on your mobile device to collect and use location data, including the real-time geographic location of your device.
+We may utilize location services on your mobile device to collect and use location data, including the real-time geographic location of your device.
+We may obtain the physical location of your device by using satellite, cell phone tower, WiFi, or other technologies or signals.
+We may obtain the physical location of your device by using satellite, cell phone tower, WiFi, or other technologies or signals.</data>
+</edge>
+<edge source="we" target="precise geolocation" id="e17">
+  <data key="d2">COLLECT</data>
+  <data key="d3">We will collect precise real-time geolocation data only if you consent.
+We will collect precise real-time geolocation data only if you consent.</data>
+</edge>
+<edge source="we" target="datum be" id="e18">
+  <data key="d2">COLLECT</data>
+  <data key="d3">Information from Other Sources
+
+We may collect data that is publicly available such as information you have submitted in public forums, including social media platforms.
+Information from Other Sources
+
+We may collect data that is publicly available such as information you have submitted in public forums, including social media platforms.</data>
+</edge>
+<edge source="we" target="information from source" id="e19">
+  <data key="d2">COLLECT</data>
+  <data key="d3">Information from Other Sources
+
+We may collect data that is publicly available such as information you have submitted in public forums, including social media platforms.</data>
+</edge>
+<edge source="we" target="information enhance exist information about you" id="e20">
+  <data key="d2">COLLECT</data>
+  <data key="d3">We may also collect information from third parties such as demographic information and other information that can enhance our existing information about you.
+We may also collect information from third parties such as demographic information and other information that can enhance our existing information about you.
+We use this information to provide you services and to improve the products and services we deliver to you, including to prevent fraud and/or to verify your identity.</data>
+</edge>
+<edge source="we" target="demographic information" id="e21">
+  <data key="d2">COLLECT</data>
+  <data key="d3">We may also collect information from third parties such as demographic information and other information that can enhance our existing information about you.
+We may also collect information from third parties such as demographic information and other information that can enhance our existing information about you.
+We use this information to provide you services and to improve the products and services we deliver to you, including to prevent fraud and/or to verify your identity.</data>
+</edge>
+<edge source="we" target="cookie / pixel tag" id="e22">
+  <data key="d2">COLLECT</data>
+  <data key="d3">We use cookies for website and web applications administration and personalization, authentication, completing your requests to us, and for analysis that does not identify specific individuals.
+We use cookies for website and web applications administration and personalization, authentication, completing your requests to us, and for analysis that does not identify specific individuals.</data>
+</edge>
+<edge source="we" target="pixel tags" id="e23">
+  <data key="d2">COLLECT</data>
+  <data key="d3">We use Pixel Tags, or other forms of clear images and similar technologies, such as Javascript scripts on our Website, emails, and web applications to understand the actions of users and measure the success of marketing efforts.
+We use Pixel Tags, or other forms of clear images and similar technologies, such as Javascript scripts on our Website, emails, and web applications to understand the actions of users and measure the success of marketing efforts.</data>
+</edge>
+<edge source="we" target="information you provide we in connection with digital receipt program title in service" id="e24">
+  <data key="d2">COLLECT</data>
+  <data key="d3">Digital Receipt Program
+
+We use the information you provide us in connection with our Digital Receipt Program (Titled "eReceipts" in the Services) to provide you points relating to receipts you receive electronically.
+Digital Receipt Program
+
+We use the information you provide us in connection with our Digital Receipt Program (Titled "eReceipts" in the Services) to provide you points relating to receipts you receive electronically.</data>
+</edge>
+<edge source="we" target="information collect through participation in ereceipt program from gmail account" id="e25">
+  <data key="d2">COLLECT</data>
+  <data key="d3">For Gmail Users : We comply with the Google API Services User Data Policy , including the Limited Use requirements, and use information collected through your participation in our eReceipts program from your Gmail account only to provide you points for your purchases on behalf of our participating brands and to improve user-facing features on the App or Website such as letting you know ways to earn points or bonus points.
+For Gmail Users : We comply with the Google API Services User Data Policy , including the Limited Use requirements, and use information collected through your participation in our eReceipts program from your Gmail account only to provide you points for your purchases on behalf of our participating brands and to improve user-facing features on the App or Website such as letting you know ways to earn points or bonus points.</data>
+</edge>
+<edge source="we" target="information about you" id="e26">
+  <data key="d2">COLLECT</data>
+  <data key="d3">With third parties for legal or security reasons : We may share information about you if we reasonably believe that disclosing the information is needed to:
+With third parties for legal or security reasons : We may share information about you if we reasonably believe that disclosing the information is needed to:</data>
+</edge>
+<edge source="we" target="aggregate / deidentified / pseudonymized information" id="e27">
+  <data key="d2">COLLECT</data>
+  <data key="d3">How We Use and Share De-identified and/or Aggregated Information
+How We Use and Share De-identified and/or Aggregated Information</data>
+</edge>
+<edge source="we" target="information provide" id="e28">
+  <data key="d2">COLLECT</data>
+  <data key="d3">We use the information provided by Google Analytics to improve our Websites, web applications, and services.
+We use the information provided by Google Analytics to improve our Websites, web applications, and services.</data>
+</edge>
+<edge source="fetch" target="own datum" id="e29">
+  <data key="d2">COLLECT</data>
+  <data key="d3">When we use tracking technologies, Fetch does not combine your data with data from third parties but rather only uses Fetch's own data for its business purposes and to operate the App.
+When we use tracking technologies, Fetch does not combine your data with data from third parties but rather only uses Fetch's own data for its business purposes and to operate the App.</data>
+</edge>
+<edge source="Facebook" target="personal information" id="e30">
+  <data key="d2">COLLECT</data>
+  <data key="d3">Facebook acts as our service provider and uses our Personal Information on our behalf to determine whether you are a registered Facebook account holder in connection with this program.
+Facebook acts as our service provider and uses our Personal Information on our behalf to determine whether you are a registered Facebook account holder in connection with this program.</data>
+</edge>
+<edge source="UNSPECIFIED_ACTOR" target="UNSPECIFIED_DATA" id="e31">
+  <data key="d2">COLLECT</data>
+  <data key="d3">With third parties to facilitate their provision of services to you --
+When you engage third party services like GoodRx through our App, we share your information with those third parties in order to facilitate your relationship with them.
+In operating our business and working to provide you the best products and services, unless specified otherwise elsewhere, we may share your information in the following ways: With third parties for legal or security reasons
+In operating our business and working to provide you the best products and services, unless specified otherwise elsewhere, we may share your information in the following ways: With third parties as part of an acquisition or liquidation</data>
+</edge>
+<edge source="UNSPECIFIED_ACTOR" target="cookie / pixel tag" id="e32">
+  <data key="d2">COLLECT</data>
+  <data key="d3">On our Website and web applications, we may let third parties use cookies, web beacons, and similar tracking technologies.
+On our Website and web applications, we may let third parties use cookies, web beacons, and similar tracking technologies.
+On our Website and web applications, we may let third parties use cookies, web beacons, and similar tracking technologies.</data>
+</edge>
+<edge source="UNSPECIFIED_ACTOR" target="information about you" id="e33">
+  <data key="d2">COLLECT</data>
+  <data key="d3">In operating our business and working to provide you the best products and services, unless specified otherwise elsewhere, we may share your information in the following ways: With third parties for legal or security reasons
+With third parties for legal or security reasons : We may share information about you if we reasonably believe that disclosing the information is needed to:</data>
+</edge>
+<edge source="UNSPECIFIED_ACTOR" target="aggregate / deidentified / pseudonymized information" id="e34">
+  <data key="d2">COLLECT</data>
+  <data key="d3">identified and/or aggregated information is not and will not be treated as Personal Information and may be used by us and shared with third parties to provide insights into developing or improving products or services, marketing, investment research or for any other legally permissible purposes.
+These third parties may also use and disclose the de-identified and/or aggregated information for their own business purposes, including to understand consumer shopping behaviors, investment research, market trends and other insights and for any other legally permissible purposes.</data>
+</edge>
+<edge source="goodrx" target="goodrx card information" id="e35">
+  <data key="d2">COLLECT</data>
+  <data key="d3">When you activate your Good Rx Card, we provide your GoodRx Card information, name, and email address to GoodRx to enable you to engage with GoodRx and facilitate your relationship with GoodRx.
+When you activate your Good Rx Card, we provide your GoodRx Card information, name, and email address to GoodRx to enable you to engage with GoodRx and facilitate your relationship with GoodRx.</data>
+</edge>
+<edge source="goodrx" target="person name" id="e36">
+  <data key="d2">COLLECT</data>
+  <data key="d3">When you activate your Good Rx Card, we provide your GoodRx Card information, name, and email address to GoodRx to enable you to engage with GoodRx and facilitate your relationship with GoodRx.
+When you activate your Good Rx Card, we provide your GoodRx Card information, name, and email address to GoodRx to enable you to engage with GoodRx and facilitate your relationship with GoodRx.</data>
+</edge>
+<edge source="goodrx" target="email address" id="e37">
+  <data key="d2">COLLECT</data>
+  <data key="d3">When you activate your Good Rx Card, we provide your GoodRx Card information, name, and email address to GoodRx to enable you to engage with GoodRx and facilitate your relationship with GoodRx.
+When you activate your Good Rx Card, we provide your GoodRx Card information, name, and email address to GoodRx to enable you to engage with GoodRx and facilitate your relationship with GoodRx.</data>
+</edge>
+<edge source="personal information" target="payment method" id="e38">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">In processing your Digital Receipts, Fetch may retrieve Personal Information such as billing address, mailing address, name, payment method, and other information contained in the Digital Receipt email.
+In processing your Digital Receipts, Fetch may retrieve Personal Information such as billing address, mailing address, name, payment method, and other information contained in the Digital Receipt email.</data>
+</edge>
+<edge source="personal information" target="person name" id="e39">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">We collect the following Personal Information from or about you:
+Name
+In processing your Digital Receipts, Fetch may retrieve Personal Information such as billing address, mailing address, name, payment method, and other information contained in the Digital Receipt email.
+In processing your Digital Receipts, Fetch may retrieve Personal Information such as billing address, mailing address, name, payment method, and other information contained in the Digital Receipt email.</data>
+</edge>
+<edge source="personal information" target="postal address" id="e40">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">We collect the following Personal Information from or about you: Billing Address
+We collect the following Personal Information from or about you: Shipping Address
+In processing your Digital Receipts, Fetch may retrieve Personal Information such as billing address, mailing address, name, payment method, and other information contained in the Digital Receipt email.
+In processing your Digital Receipts, Fetch may retrieve Personal Information such as billing address, mailing address, name, payment method, and other information contained in the Digital Receipt email.
+In processing your Digital Receipts, Fetch may retrieve Personal Information such as billing address, mailing address, name, payment method, and other information contained in the Digital Receipt email.</data>
+</edge>
+<edge source="personal information" target="information contain in digital receipt email" id="e41">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">In processing your Digital Receipts, Fetch may retrieve Personal Information such as billing address, mailing address, name, payment method, and other information contained in the Digital Receipt email.
+In processing your Digital Receipts, Fetch may retrieve Personal Information such as billing address, mailing address, name, payment method, and other information contained in the Digital Receipt email.</data>
+</edge>
+<edge source="personal information" target="photo you provide for use as profile" id="e42">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">We collect the following Personal Information from or about you: Any photo you provide for use as your profile</data>
+</edge>
+<edge source="personal information" target="date of birth" id="e43">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">We collect the following Personal Information from or about you: Birth Date</data>
+</edge>
+<edge source="personal information" target="email address" id="e44">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">We collect the following Personal Information from or about you: Email Address</data>
+</edge>
+<edge source="personal information" target="information you provide we" id="e45">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">We collect the following Personal Information from or about you: Other information you provide us</data>
+</edge>
+<edge source="personal information" target="phone number" id="e46">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">We collect the following Personal Information from or about you: Telephone Numbers</data>
+</edge>
+<edge source="Google" target="information about you" id="e47">
+  <data key="d2">COLLECT</data>
+  <data key="d3">Google Analytics may also receive information about you from apps you have downloaded that partner with Google.
+Google Analytics may also receive information about you from apps you have downloaded that partner with Google.</data>
+</edge>
+<edge source="Google" target="information as" id="e48">
+  <data key="d2">COLLECT</data>
+  <data key="d3">Google Analytics collects information such as how often you use our Website or web applications and how you use our Website or web applications.
+Google Analytics collects information such as how often you use our Website or web applications and how you use our Website or web applications.</data>
+</edge>
+<edge source="web application" target="UNSPECIFIED_DATA" id="e49">
+  <data key="d2">COLLECT</data>
+  <data key="d3">Other Information We Collect When You Use Our Website, App, or web applications
+
+Our Website or App, and web applications collects certain information automatically about you and your use of our Website, App, web applications, and services, your interactions with us and information regarding the device you use to access our Website, App, or web applications (collectively "Other Information").
+Other Information We Collect When You Use Our Website, App, or web applications
+
+Our Website or App, and web applications collects certain information automatically about you and your use of our Website, App, web applications, and services, your interactions with us and information regarding the device you use to access our Website, App, or web applications (collectively "Other Information").</data>
+</edge>
+<edge source="web application" target="information about" id="e50">
+  <data key="d2">COLLECT</data>
+  <data key="d3">On our Website and web applications, we may let third parties use cookies, web beacons, and similar tracking technologies.
+They may collect information about how you use our Website, web applications, services and other websites and online services over time and across different services.</data>
+</edge>
+<edge source="service provider" target="UNSPECIFIED_DATA" id="e51">
+  <data key="d2">COLLECT</data>
+  <data key="d3">In operating our business and working to provide you the best products and services, unless specified otherwise elsewhere, we may share your information in the following ways: With our service providers -- that is, organizations that provide services to support Fetch functions, such as our mail processing company, payment processing companies, and market research firms.</data>
+</edge>
+<edge source="finance" target="UNSPECIFIED_DATA" id="e52">
+  <data key="d2">COLLECT</data>
+  <data key="d3">We share information with One Finance in order to operate our Fetch Pay Rewards program.
+We share information with One Finance in order to operate our Fetch Pay Rewards program.</data>
+</edge>
+</graph></graphml>

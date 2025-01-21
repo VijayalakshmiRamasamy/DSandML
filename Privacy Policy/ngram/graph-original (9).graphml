@@ -1,0 +1,711 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d3" for="edge" attr.name="text" attr.type="string"/>
+<key id="d2" for="edge" attr.name="relationship" attr.type="string"/>
+<key id="d1" for="node" attr.name="type" attr.type="string"/>
+<key id="d0" for="node" attr.name="label" attr.type="string"/>
+<graph edgedefault="directed"><node id="we">
+  <data key="d0">we</data>
+  <data key="d1">ACTOR</data>
+</node>
+<node id="mobile application">
+  <data key="d0">mobile application</data>
+  <data key="d1">ACTOR</data>
+</node>
+<node id="activity">
+  <data key="d0">activity</data>
+  <data key="d1">ACTOR</data>
+</node>
+<node id="personal information">
+  <data key="d0">personal information</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="datum relate to order on service">
+  <data key="d0">datum relate to order on service</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="transaction history">
+  <data key="d0">transaction history</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="payment information require">
+  <data key="d0">payment information require</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="credit / debit card number">
+  <data key="d0">credit / debit card number</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="third party payment information require for payment">
+  <data key="d0">third party payment information require for payment</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="postal address">
+  <data key="d0">postal address</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="country of residence">
+  <data key="d0">country of residence</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="postal code">
+  <data key="d0">postal code</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="contact information">
+  <data key="d0">contact information</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="person name">
+  <data key="d0">person name</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="phone number">
+  <data key="d0">phone number</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="information you share">
+  <data key="d0">information you share</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="username">
+  <data key="d0">username</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="email address">
+  <data key="d0">email address</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="logistic information">
+  <data key="d0">logistic information</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="delivery progress">
+  <data key="d0">delivery progress</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="information about device you use">
+  <data key="d0">information about device you use</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="device model">
+  <data key="d0">device model</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="operating system information">
+  <data key="d0">operating system information</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="language setting">
+  <data key="d0">language setting</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="identifier">
+  <data key="d0">identifier</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="advertising id">
+  <data key="d0">advertising id</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="information about you">
+  <data key="d0">information about you</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="device datum">
+  <data key="d0">device datum</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="information about interaction with service">
+  <data key="d0">information about interaction with service</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="link within email">
+  <data key="d0">link within email</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="service usage information">
+  <data key="d0">service usage information</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="coarse geolocation">
+  <data key="d0">coarse geolocation</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="ip address">
+  <data key="d0">ip address</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="geolocation">
+  <data key="d0">geolocation</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="personal information relate to order fulfillment">
+  <data key="d0">personal information relate to order fulfillment</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="professional advisor">
+  <data key="d0">professional advisor</data>
+  <data key="d1">ACTOR</data>
+</node>
+<node id="auditor">
+  <data key="d0">auditor</data>
+  <data key="d1">ACTOR</data>
+</node>
+<node id="banker">
+  <data key="d0">banker</data>
+  <data key="d1">ACTOR</data>
+</node>
+<node id="insurer">
+  <data key="d0">insurer</data>
+  <data key="d1">ACTOR</data>
+</node>
+<node id="account information">
+  <data key="d0">account information</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="whaleco inc.">
+  <data key="d0">whaleco inc.</data>
+  <data key="d1">ACTOR</data>
+</node>
+<node id="suite">
+  <data key="d0">suite</data>
+  <data key="d1">ACTOR</data>
+</node>
+<node id="st. james avenue">
+  <data key="d0">st. james avenue</data>
+  <data key="d1">ACTOR</data>
+</node>
+<node id="deidentifie information">
+  <data key="d0">deidentifie information</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="UNSPECIFIED_DATA">
+  <data key="d0">UNSPECIFIED_DATA</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="personal information need">
+  <data key="d0">personal information need</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="UNSPECIFIED_ACTOR">
+  <data key="d0">UNSPECIFIED_ACTOR</data>
+  <data key="d1">ACTOR</data>
+</node>
+<node id="profile photo">
+  <data key="d0">profile photo</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="communication history with we">
+  <data key="d0">communication history with we</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="information about preference for">
+  <data key="d0">information about preference for</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="datum you provide">
+  <data key="d0">datum you provide</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="service provider">
+  <data key="d0">service provider</data>
+  <data key="d1">ACTOR</data>
+</node>
+<node id="business partner">
+  <data key="d0">business partner</data>
+  <data key="d1">ACTOR</data>
+</node>
+<node id="cookie / pixel tag">
+  <data key="d0">cookie / pixel tag</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="information about">
+  <data key="d0">information about</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="order">
+  <data key="d0">order</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="user profile picture">
+  <data key="d0">user profile picture</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="advertiser">
+  <data key="d0">advertiser</data>
+  <data key="d1">ACTOR</data>
+</node>
+<node id="temu">
+  <data key="d0">temu</data>
+  <data key="d1">ACTOR</data>
+</node>
+<node id="payment processor">
+  <data key="d0">payment processor</data>
+  <data key="d1">ACTOR</data>
+</node>
+<node id="personal information require for service you request">
+  <data key="d0">personal information require for service you request</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="merchandise partner">
+  <data key="d0">merchandise partner</data>
+  <data key="d1">ACTOR</data>
+</node>
+<node id="customization information for personalized item">
+  <data key="d0">customization information for personalized item</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="service provider in country">
+  <data key="d0">service provider in country</data>
+  <data key="d1">ACTOR</data>
+</node>
+<node id="datum relate to order fulfillment">
+  <data key="d0">datum relate to order fulfillment</data>
+  <data key="d1">DATA</data>
+</node>
+<edge source="we" target="mobile application" id="e0">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">This Privacy Policy describes how Whaleco Inc., a Delaware company ("Temu", "we", "us" or "our") handles personal information that we collect through our digital properties that link to this Privacy Policy, including our website (www.temu.com), Temu's mobile application (collectively, the "Service"), and other activities as described in this Privacy Policy.
+This Privacy Policy describes how Whaleco Inc., a Delaware company ("Temu", "we", "us" or "our") handles personal information that we collect through our digital properties that link to this Privacy Policy, including our website (www.temu.com), Temu's mobile application (collectively, the "Service"), and other activities as described in this Privacy Policy.</data>
+</edge>
+<edge source="we" target="activity" id="e1">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">This Privacy Policy describes how Whaleco Inc., a Delaware company ("Temu", "we", "us" or "our") handles personal information that we collect through our digital properties that link to this Privacy Policy, including our website (www.temu.com), Temu's mobile application (collectively, the "Service"), and other activities as described in this Privacy Policy.
+This Privacy Policy describes how Whaleco Inc., a Delaware company ("Temu", "we", "us" or "our") handles personal information that we collect through our digital properties that link to this Privacy Policy, including our website (www.temu.com), Temu's mobile application (collectively, the "Service"), and other activities as described in this Privacy Policy.</data>
+</edge>
+<edge source="we" target="st. james avenue" id="e2">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">Contact Us
+
+If you have any questions or comments about our Privacy Policy or the terms mentioned, you may contact us at any time: Whaleco Inc., Suite 355, 31 St. James Avenue, Boston, Massachusetts 02116, USA</data>
+</edge>
+<edge source="we" target="whaleco inc." id="e3">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">Contact Us
+
+If you have any questions or comments about our Privacy Policy or the terms mentioned, you may contact us at any time: Whaleco Inc., Suite 355, 31 St. James Avenue, Boston, Massachusetts 02116, USA</data>
+</edge>
+<edge source="we" target="suite" id="e4">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">Contact Us
+
+If you have any questions or comments about our Privacy Policy or the terms mentioned, you may contact us at any time: Whaleco Inc., Suite 355, 31 St. James Avenue, Boston, Massachusetts 02116, USA</data>
+</edge>
+<edge source="we" target="personal information" id="e5">
+  <data key="d2">COLLECT</data>
+  <data key="d3">This Privacy Policy explains how we collect, use, share, and otherwise process the personal information of users in connection with our Service.
+This Privacy Policy explains how we collect, use, share, and otherwise process the personal information of users in connection with our Service.
+In the course of providing and improving our products and services, we collect your personal information for the purposes described in this Privacy Notice.
+In the course of providing and improving our products and services, we collect your personal information for the purposes described in this Privacy Notice.
+We use the personal information that we collect for various purposes, including to develop, improve, support, and provide the Service, allowing you to use its features while fulfilling and enforcing our Terms of Use.
+We use the personal information that we collect for various purposes, including to develop, improve, support, and provide the Service, allowing you to use its features while fulfilling and enforcing our Terms of Use.
+We may use your personal information for the following purposes:
+We may use your personal information for the following purposes:
+We use your personal information to create and maintain your user profile on the Service, enable the Service's account security features (e.g. sending security codes via email or SMS).
+We use your personal information to create and maintain your user profile on the Service, enable the Service's account security features (e.g. sending security codes via email or SMS).
+We use your personal information to receive and process orders, deliver products and services, process payments, and communicate with you regarding orders, products and services, and promotional offers.
+We use your personal information to receive and process orders, deliver products and services, process payments, and communicate with you regarding orders, products and services, and promotional offers.
+We use your personal information to optimize features, analyze performance metrics, fix errors, and improve the Service and our business.
+We use your personal information to optimize features, analyze performance metrics, fix errors, and improve the Service and our business.
+We use your personal information to recommend features, products, and services that may be of interest to you.
+We use your personal information to recommend features, products, and services that may be of interest to you.
+We use your personal information to communicate with you (e.g. announcements, updates, security alerts, support, and administrative messages) and provide customer support for your requests, questions, and feedback.
+We use your personal information to communicate with you (e.g. announcements, updates, security alerts, support, and administrative messages) and provide customer support for your requests, questions, and feedback.
+We and our service providers may collect and use your personal information for marketing purposes.
+We and our service providers may collect and use your personal information for marketing purposes.
+We, our service providers, and our third-party advertising partners may collect and use your personal information for interest-based advertising purposes.
+We, our service providers, and our third-party advertising partners may collect and use your personal information for interest-based advertising purposes.
+We use your personal information to prevent, detect, investigate, and respond to fraud, unauthorized access to or use of the Service, violations of the Terms of Use and Policies, or other misconduct.
+We use your personal information to prevent, detect, investigate, and respond to fraud, unauthorized access to or use of the Service, violations of the Terms of Use and Policies, or other misconduct.
+We may use your personal information for compliance purposes and to comply with the U.S. law, including any applicable laws, lawful requests, and legal processes (e.g. responding to subpoenas or requests from U.S. government authorities); to protect our, yours, and other users' rights, privacy, safety, or property (including introducing and defending legal claims); audit internal processes to ensure compliance with U.S. legal and contractual requirements and our internal policies; enforce the terms and conditions that govern the Service; prevent, identify, investigate, and deter fraudulent, harmful, unauthorized, unethical, or illegal activities, including cyberattacks and identity theft.
+We may use your personal information for compliance purposes and to comply with the U.S. law, including any applicable laws, lawful requests, and legal processes (e.g. responding to subpoenas or requests from U.S. government authorities); to protect our, yours, and other users' rights, privacy, safety, or property (including introducing and defending legal claims); audit internal processes to ensure compliance with U.S. legal and contractual requirements and our internal policies; enforce the terms and conditions that govern the Service; prevent, identify, investigate, and deter fraudulent, harmful, unauthorized, unethical, or illegal activities, including cyberattacks and identity theft.
+We may share your personal information with the following parties for the purpose of providing you with better services, providing you with personalized advertising and marketing communications, protecting your rights, and/or complying with U.S. legal requirements:
+We may share your personal information with the following parties for the purpose of providing you with better services, providing you with personalized advertising and marketing communications, protecting your rights, and/or complying with U.S. legal requirements:
+We may share your personal data with third parties where you have instructed us or provided your consent to do so.
+We may share your personal data with third parties where you have instructed us or provided your consent to do so.
+We need to collect personal information to provide certain services.
+We need to collect personal information to provide certain services.
+Data Security and Retention
+
+We generally retain personal information to fulfill the purposes for which we collected it, as well as for the purposes of satisfying any U.S. legal, accounting, or reporting requirements, to establish or defend legal claims, or for fraud prevention purposes.
+Data Security and Retention
+
+We generally retain personal information to fulfill the purposes for which we collected it, as well as for the purposes of satisfying any U.S. legal, accounting, or reporting requirements, to establish or defend legal claims, or for fraud prevention purposes.</data>
+</edge>
+<edge source="we" target="phone number" id="e6">
+  <data key="d2">COLLECT</data>
+  <data key="d3">In order to create and manage your Temu account, we may collect your mobile phone number or email address as the login credentials for your account.
+In order to create and manage your Temu account, we may collect your mobile phone number or email address as the login credentials for your account.</data>
+</edge>
+<edge source="we" target="email address" id="e7">
+  <data key="d2">COLLECT</data>
+  <data key="d3">In order to create and manage your Temu account, we may collect your mobile phone number or email address as the login credentials for your account.
+In order to create and manage your Temu account, we may collect your mobile phone number or email address as the login credentials for your account.
+If you choose to sign up or login in via external third-party services, such as Facebook or Google, you agree we may collect your profile photo, username, and email address associated with the relevant third-party service provider.
+If you choose to sign up or login in via external third-party services, such as Facebook or Google, you agree we may collect your profile photo, username, and email address associated with the relevant third-party service provider.</data>
+</edge>
+<edge source="we" target="profile photo" id="e8">
+  <data key="d2">COLLECT</data>
+  <data key="d3">If you choose to sign up or login in via external third-party services, such as Facebook or Google, you agree we may collect your profile photo, username, and email address associated with the relevant third-party service provider.
+If you choose to sign up or login in via external third-party services, such as Facebook or Google, you agree we may collect your profile photo, username, and email address associated with the relevant third-party service provider.</data>
+</edge>
+<edge source="we" target="username" id="e9">
+  <data key="d2">COLLECT</data>
+  <data key="d3">If you choose to sign up or login in via external third-party services, such as Facebook or Google, you agree we may collect your profile photo, username, and email address associated with the relevant third-party service provider.
+If you choose to sign up or login in via external third-party services, such as Facebook or Google, you agree we may collect your profile photo, username, and email address associated with the relevant third-party service provider.</data>
+</edge>
+<edge source="we" target="datum relate to order on service" id="e10">
+  <data key="d2">COLLECT</data>
+  <data key="d3">In order to complete transactions and fulfill orders, we collect data related to your order on the Service (e.g. transaction history), payment information required to complete the transaction (e.g. payment card number or other third-party payment information required for payment), your shipping address (e.g. city, state, country of residence, postal code), and recipient contact information (e.g. name, mobile phone number).
+In order to complete transactions and fulfill orders, we collect data related to your order on the Service (e.g. transaction history), payment information required to complete the transaction (e.g. payment card number or other third-party payment information required for payment), your shipping address (e.g. city, state, country of residence, postal code), and recipient contact information (e.g. name, mobile phone number).</data>
+</edge>
+<edge source="we" target="payment information require" id="e11">
+  <data key="d2">COLLECT</data>
+  <data key="d3">In order to complete transactions and fulfill orders, we collect data related to your order on the Service (e.g. transaction history), payment information required to complete the transaction (e.g. payment card number or other third-party payment information required for payment), your shipping address (e.g. city, state, country of residence, postal code), and recipient contact information (e.g. name, mobile phone number).
+In order to complete transactions and fulfill orders, we collect data related to your order on the Service (e.g. transaction history), payment information required to complete the transaction (e.g. payment card number or other third-party payment information required for payment), your shipping address (e.g. city, state, country of residence, postal code), and recipient contact information (e.g. name, mobile phone number).</data>
+</edge>
+<edge source="we" target="postal address" id="e12">
+  <data key="d2">COLLECT</data>
+  <data key="d3">In order to complete transactions and fulfill orders, we collect data related to your order on the Service (e.g. transaction history), payment information required to complete the transaction (e.g. payment card number or other third-party payment information required for payment), your shipping address (e.g. city, state, country of residence, postal code), and recipient contact information (e.g. name, mobile phone number).
+In order to complete transactions and fulfill orders, we collect data related to your order on the Service (e.g. transaction history), payment information required to complete the transaction (e.g. payment card number or other third-party payment information required for payment), your shipping address (e.g. city, state, country of residence, postal code), and recipient contact information (e.g. name, mobile phone number).</data>
+</edge>
+<edge source="we" target="contact information" id="e13">
+  <data key="d2">COLLECT</data>
+  <data key="d3">In order to complete transactions and fulfill orders, we collect data related to your order on the Service (e.g. transaction history), payment information required to complete the transaction (e.g. payment card number or other third-party payment information required for payment), your shipping address (e.g. city, state, country of residence, postal code), and recipient contact information (e.g. name, mobile phone number).
+In order to complete transactions and fulfill orders, we collect data related to your order on the Service (e.g. transaction history), payment information required to complete the transaction (e.g. payment card number or other third-party payment information required for payment), your shipping address (e.g. city, state, country of residence, postal code), and recipient contact information (e.g. name, mobile phone number).
+Additionally, when you make a purchase, we may also share your recipient contact information (such as the name and address) as well as your order information with the merchandise partner to fulfill your order.
+Additionally, when you make a purchase, we may also share your recipient contact information (such as the name and address) as well as your order information with the merchandise partner to fulfill your order.</data>
+</edge>
+<edge source="we" target="communication history with we" id="e14">
+  <data key="d2">COLLECT</data>
+  <data key="d3">When you communicate with our customer service team through customer support functions, social media, or any other means, we will collect your communication history with us as an ongoing effort to improve customer service and support.
+When you communicate with our customer service team through customer support functions, social media, or any other means, we will collect your communication history with us as an ongoing effort to improve customer service and support.</data>
+</edge>
+<edge source="we" target="information you share" id="e15">
+  <data key="d2">COLLECT</data>
+  <data key="d3">We collect information that you actively share when you participate in a contest, promotion, or survey, such as contact information provided when you enter a sweepstakes, contest, or giveaway through the Service.
+We collect information that you actively share when you participate in a contest, promotion, or survey, such as contact information provided when you enter a sweepstakes, contest, or giveaway through the Service.</data>
+</edge>
+<edge source="we" target="information about preference for" id="e16">
+  <data key="d2">COLLECT</data>
+  <data key="d3">In addition, we collect information about your preferences for receiving marketing communications from us as well as your interactions with them.
+In addition, we collect information about your preferences for receiving marketing communications from us as well as your interactions with them.</data>
+</edge>
+<edge source="we" target="datum you provide" id="e17">
+  <data key="d2">COLLECT</data>
+  <data key="d3">We will use other data that you provide as described in this Privacy Policy or for any other purpose disclosed to you at the time we collect your information.
+We will use other data that you provide as described in this Privacy Policy or for any other purpose disclosed to you at the time we collect your information.</data>
+</edge>
+<edge source="we" target="UNSPECIFIED_DATA" id="e18">
+  <data key="d2">COLLECT</data>
+  <data key="d3">We may obtain your information from other third-party services, such as:
+We may obtain your information from other third-party services, such as:
+We may deidentify your information such that it cannot reasonably be used to infer information about you or otherwise be linked to you, and we may use such deidentified information for any purpose.
+We may deidentify your information such that it cannot reasonably be used to infer information about you or otherwise be linked to you, and we may use such deidentified information for any purpose.
+We may share your information with our professional advisors (e.g. lawyers, auditors, bankers and insurers), in response to legal processes (e.g. responding to subpoenas or requests from U.S. law enforcement requests); and with other parties in order to enforce our agreements or policies, protect the rights, property and safety of Temu, users and others, and to detect, prevent and address actual or suspected fraud, violations of Temu's Terms of Use, other illegal activities, security issues or when it's required by law.
+We may share your information with our professional advisors (e.g. lawyers, auditors, bankers and insurers), in response to legal processes (e.g. responding to subpoenas or requests from U.S. law enforcement requests); and with other parties in order to enforce our agreements or policies, protect the rights, property and safety of Temu, users and others, and to detect, prevent and address actual or suspected fraud, violations of Temu's Terms of Use, other illegal activities, security issues or when it's required by law.</data>
+</edge>
+<edge source="we" target="logistic information" id="e19">
+  <data key="d2">COLLECT</data>
+  <data key="d3">We may combine the personal information that we receive from you with personal information that we obtain from other third-party sources, such as: Logistics service providers - to effectively complete order fulfillment, we will obtain your logistics information from logistics providers, such as delivery progress and delivery address.
+We may combine the personal information that we receive from you with personal information that we obtain from other third-party sources, such as: Logistics service providers - to effectively complete order fulfillment, we will obtain your logistics information from logistics providers, such as delivery progress and delivery address.</data>
+</edge>
+<edge source="we" target="information about you" id="e20">
+  <data key="d2">COLLECT</data>
+  <data key="d3">To enhance your experience with our services and support the other purposes for which we collect personal information, we, our service providers, and our business partners may automatically record information about you, your computer, or mobile device and your interactions with the Service, our communications, and other online services over time, such as:
+To enhance your experience with our services and support the other purposes for which we collect personal information, we, our service providers, and our business partners may automatically record information about you, your computer, or mobile device and your interactions with the Service, our communications, and other online services over time, such as:</data>
+</edge>
+<edge source="we" target="information about device you use" id="e21">
+  <data key="d2">COLLECT</data>
+  <data key="d3">We collect certain information about the device you use to access the Service, such as device model, operating system information, language settings, unique identifiers (including identifiers used for advertising purposes).
+We collect certain information about the device you use to access the Service, such as device model, operating system information, language settings, unique identifiers (including identifiers used for advertising purposes).</data>
+</edge>
+<edge source="we" target="information about interaction with service" id="e22">
+  <data key="d2">COLLECT</data>
+  <data key="d3">We collect information about your interactions with the Service, including the pages you view, the duration on a page, the source from which you arrived at the page, your interactions with the page, whether you opened our emails, and whether you clicked the links within our emails.
+We collect information about your interactions with the Service, including the pages you view, the duration on a page, the source from which you arrived at the page, your interactions with the page, whether you opened our emails, and whether you clicked the links within our emails.</data>
+</edge>
+<edge source="we" target="coarse geolocation" id="e23">
+  <data key="d2">COLLECT</data>
+  <data key="d3">We
+collect your approximate location data (e.g. IP address)</data>
+</edge>
+<edge source="we" target="cookie / pixel tag" id="e24">
+  <data key="d2">COLLECT</data>
+  <data key="d3">We use cookies and similar technologies to measure and analyze how you use the Service, including the pages you view and how you interact with the content.
+We use cookies and similar technologies to measure and analyze how you use the Service, including the pages you view and how you interact with the content.
+We and our partners also use cookies to promote the Service on other websites.
+We and our partners also use cookies to promote the Service on other websites.</data>
+</edge>
+<edge source="we" target="information about" id="e25">
+  <data key="d2">COLLECT</data>
+  <data key="d3">Some of these tools may enable us or third parties to collect information about how you act with our and other websites over time.
+Some of these tools may enable us or third parties to collect information about how you act with our and other websites over time.</data>
+</edge>
+<edge source="we" target="order" id="e26">
+  <data key="d2">COLLECT</data>
+  <data key="d3">We use your personal information to receive and process orders, deliver products and services, process payments, and communicate with you regarding orders, products and services, and promotional offers.
+We use your personal information to receive and process orders, deliver products and services, process payments, and communicate with you regarding orders, products and services, and promotional offers.</data>
+</edge>
+<edge source="we" target="deidentifie information" id="e27">
+  <data key="d2">COLLECT</data>
+  <data key="d3">To the extent we possess or process any deidentified information, we will maintain and use such information in deidentified form and not attempt to re-identify the information, except solely for the purpose of determining whether our deidentification process satisfies legal requirements.
+To the extent we possess or process any deidentified information, we will maintain and use such information in deidentified form and not attempt to re-identify the information, except solely for the purpose of determining whether our deidentification process satisfies legal requirements.</data>
+</edge>
+<edge source="we" target="user profile picture" id="e28">
+  <data key="d2">COLLECT</data>
+  <data key="d3">We may use your user profile picture and account information to identify you in related promotions and events, and facilitate your invitations to friends who you want to invite to join the Service.
+We may use your user profile picture and account information to identify you in related promotions and events, and facilitate your invitations to friends who you want to invite to join the Service.</data>
+</edge>
+<edge source="we" target="account information" id="e29">
+  <data key="d2">COLLECT</data>
+  <data key="d3">We may use your user profile picture and account information to identify you in related promotions and events, and facilitate your invitations to friends who you want to invite to join the Service.
+We may use your user profile picture and account information to identify you in related promotions and events, and facilitate your invitations to friends who you want to invite to join the Service.</data>
+</edge>
+<edge source="we" target="personal information relate to order fulfillment" id="e30">
+  <data key="d2">COLLECT</data>
+  <data key="d3">For the purpose of order fulfillment, we may share your personal information related to order fulfillment, such as shipping address, contact information, with Whaleco Inc.'s subsidiaries and affiliates.
+For the purpose of order fulfillment, we may share your personal information related to order fulfillment, such as shipping address, contact information, with Whaleco Inc.'s subsidiaries and affiliates.</data>
+</edge>
+<edge source="we" target="personal information require for service you request" id="e31">
+  <data key="d2">COLLECT</data>
+  <data key="d3">We may share the personal information required for the services you request with third parties designated by you.
+We may share the personal information required for the services you request with third parties designated by you.</data>
+</edge>
+<edge source="we" target="customization information for personalized item" id="e32">
+  <data key="d2">COLLECT</data>
+  <data key="d3">We may share with the merchandise partners the product reviews you leave, the return or refund reasons you request a return or refund, and customization information for customized / personalized items.
+We may share with the merchandise partners the product reviews you leave, the return or refund reasons you request a return or refund, and customization information for customized / personalized items.</data>
+</edge>
+<edge source="datum relate to order on service" target="transaction history" id="e33">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">In order to complete transactions and fulfill orders, we collect data related to your order on the Service (e.g. transaction history), payment information required to complete the transaction (e.g. payment card number or other third-party payment information required for payment), your shipping address (e.g. city, state, country of residence, postal code), and recipient contact information (e.g. name, mobile phone number).
+In order to complete transactions and fulfill orders, we collect data related to your order on the Service (e.g. transaction history), payment information required to complete the transaction (e.g. payment card number or other third-party payment information required for payment), your shipping address (e.g. city, state, country of residence, postal code), and recipient contact information (e.g. name, mobile phone number).</data>
+</edge>
+<edge source="payment information require" target="credit / debit card number" id="e34">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">In order to complete transactions and fulfill orders, we collect data related to your order on the Service (e.g. transaction history), payment information required to complete the transaction (e.g. payment card number or other third-party payment information required for payment), your shipping address (e.g. city, state, country of residence, postal code), and recipient contact information (e.g. name, mobile phone number).
+In order to complete transactions and fulfill orders, we collect data related to your order on the Service (e.g. transaction history), payment information required to complete the transaction (e.g. payment card number or other third-party payment information required for payment), your shipping address (e.g. city, state, country of residence, postal code), and recipient contact information (e.g. name, mobile phone number).</data>
+</edge>
+<edge source="payment information require" target="third party payment information require for payment" id="e35">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">In order to complete transactions and fulfill orders, we collect data related to your order on the Service (e.g. transaction history), payment information required to complete the transaction (e.g. payment card number or other third-party payment information required for payment), your shipping address (e.g. city, state, country of residence, postal code), and recipient contact information (e.g. name, mobile phone number).
+In order to complete transactions and fulfill orders, we collect data related to your order on the Service (e.g. transaction history), payment information required to complete the transaction (e.g. payment card number or other third-party payment information required for payment), your shipping address (e.g. city, state, country of residence, postal code), and recipient contact information (e.g. name, mobile phone number).</data>
+</edge>
+<edge source="postal address" target="country of residence" id="e36">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">In order to complete transactions and fulfill orders, we collect data related to your order on the Service (e.g. transaction history), payment information required to complete the transaction (e.g. payment card number or other third-party payment information required for payment), your shipping address (e.g. city, state, country of residence, postal code), and recipient contact information (e.g. name, mobile phone number).
+In order to complete transactions and fulfill orders, we collect data related to your order on the Service (e.g. transaction history), payment information required to complete the transaction (e.g. payment card number or other third-party payment information required for payment), your shipping address (e.g. city, state, country of residence, postal code), and recipient contact information (e.g. name, mobile phone number).</data>
+</edge>
+<edge source="postal address" target="postal code" id="e37">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">In order to complete transactions and fulfill orders, we collect data related to your order on the Service (e.g. transaction history), payment information required to complete the transaction (e.g. payment card number or other third-party payment information required for payment), your shipping address (e.g. city, state, country of residence, postal code), and recipient contact information (e.g. name, mobile phone number).
+In order to complete transactions and fulfill orders, we collect data related to your order on the Service (e.g. transaction history), payment information required to complete the transaction (e.g. payment card number or other third-party payment information required for payment), your shipping address (e.g. city, state, country of residence, postal code), and recipient contact information (e.g. name, mobile phone number).</data>
+</edge>
+<edge source="contact information" target="phone number" id="e38">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">In order to complete transactions and fulfill orders, we collect data related to your order on the Service (e.g. transaction history), payment information required to complete the transaction (e.g. payment card number or other third-party payment information required for payment), your shipping address (e.g. city, state, country of residence, postal code), and recipient contact information (e.g. name, mobile phone number).
+In order to complete transactions and fulfill orders, we collect data related to your order on the Service (e.g. transaction history), payment information required to complete the transaction (e.g. payment card number or other third-party payment information required for payment), your shipping address (e.g. city, state, country of residence, postal code), and recipient contact information (e.g. name, mobile phone number).</data>
+</edge>
+<edge source="contact information" target="person name" id="e39">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">In order to complete transactions and fulfill orders, we collect data related to your order on the Service (e.g. transaction history), payment information required to complete the transaction (e.g. payment card number or other third-party payment information required for payment), your shipping address (e.g. city, state, country of residence, postal code), and recipient contact information (e.g. name, mobile phone number).
+In order to complete transactions and fulfill orders, we collect data related to your order on the Service (e.g. transaction history), payment information required to complete the transaction (e.g. payment card number or other third-party payment information required for payment), your shipping address (e.g. city, state, country of residence, postal code), and recipient contact information (e.g. name, mobile phone number).
+Additionally, when you make a purchase, we may also share your recipient contact information (such as the name and address) as well as your order information with the merchandise partner to fulfill your order.
+Additionally, when you make a purchase, we may also share your recipient contact information (such as the name and address) as well as your order information with the merchandise partner to fulfill your order.</data>
+</edge>
+<edge source="contact information" target="postal address" id="e40">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">Additionally, when you make a purchase, we may also share your recipient contact information (such as the name and address) as well as your order information with the merchandise partner to fulfill your order.
+Additionally, when you make a purchase, we may also share your recipient contact information (such as the name and address) as well as your order information with the merchandise partner to fulfill your order.</data>
+</edge>
+<edge source="information you share" target="contact information" id="e41">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">We collect information that you actively share when you participate in a contest, promotion, or survey, such as contact information provided when you enter a sweepstakes, contest, or giveaway through the Service.
+We collect information that you actively share when you participate in a contest, promotion, or survey, such as contact information provided when you enter a sweepstakes, contest, or giveaway through the Service.</data>
+</edge>
+<edge source="logistic information" target="postal address" id="e42">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">We may combine the personal information that we receive from you with personal information that we obtain from other third-party sources, such as: Logistics service providers - to effectively complete order fulfillment, we will obtain your logistics information from logistics providers, such as delivery progress and delivery address.
+We may combine the personal information that we receive from you with personal information that we obtain from other third-party sources, such as: Logistics service providers - to effectively complete order fulfillment, we will obtain your logistics information from logistics providers, such as delivery progress and delivery address.</data>
+</edge>
+<edge source="logistic information" target="delivery progress" id="e43">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">We may combine the personal information that we receive from you with personal information that we obtain from other third-party sources, such as: Logistics service providers - to effectively complete order fulfillment, we will obtain your logistics information from logistics providers, such as delivery progress and delivery address.
+We may combine the personal information that we receive from you with personal information that we obtain from other third-party sources, such as: Logistics service providers - to effectively complete order fulfillment, we will obtain your logistics information from logistics providers, such as delivery progress and delivery address.</data>
+</edge>
+<edge source="information about device you use" target="language setting" id="e44">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">We collect certain information about the device you use to access the Service, such as device model, operating system information, language settings, unique identifiers (including identifiers used for advertising purposes).
+We collect certain information about the device you use to access the Service, such as device model, operating system information, language settings, unique identifiers (including identifiers used for advertising purposes).</data>
+</edge>
+<edge source="information about device you use" target="operating system information" id="e45">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">We collect certain information about the device you use to access the Service, such as device model, operating system information, language settings, unique identifiers (including identifiers used for advertising purposes).
+We collect certain information about the device you use to access the Service, such as device model, operating system information, language settings, unique identifiers (including identifiers used for advertising purposes).</data>
+</edge>
+<edge source="information about device you use" target="identifier" id="e46">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">We collect certain information about the device you use to access the Service, such as device model, operating system information, language settings, unique identifiers (including identifiers used for advertising purposes).
+We collect certain information about the device you use to access the Service, such as device model, operating system information, language settings, unique identifiers (including identifiers used for advertising purposes).</data>
+</edge>
+<edge source="information about device you use" target="device model" id="e47">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">We collect certain information about the device you use to access the Service, such as device model, operating system information, language settings, unique identifiers (including identifiers used for advertising purposes).
+We collect certain information about the device you use to access the Service, such as device model, operating system information, language settings, unique identifiers (including identifiers used for advertising purposes).</data>
+</edge>
+<edge source="device model" target="advertising id" id="e48">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">We collect certain information about the device you use to access the Service, such as device model, operating system information, language settings, unique identifiers (including identifiers used for advertising purposes).
+We collect certain information about the device you use to access the Service, such as device model, operating system information, language settings, unique identifiers (including identifiers used for advertising purposes).</data>
+</edge>
+<edge source="identifier" target="advertising id" id="e49">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">We collect certain information about the device you use to access the Service, such as device model, operating system information, language settings, unique identifiers (including identifiers used for advertising purposes).
+We collect certain information about the device you use to access the Service, such as device model, operating system information, language settings, unique identifiers (including identifiers used for advertising purposes).</data>
+</edge>
+<edge source="information about you" target="device datum" id="e50">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">To enhance your experience with our services and support the other purposes for which we collect personal information, we, our service providers, and our business partners may automatically record information about you, your computer, or mobile device and your interactions with the Service, our communications, and other online services over time, such as: Device Data:</data>
+</edge>
+<edge source="information about you" target="service usage information" id="e51">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">To enhance your experience with our services and support the other purposes for which we collect personal information, we, our service providers, and our business partners may automatically record information about you, your computer, or mobile device and your interactions with the Service, our communications, and other online services over time, such as: Service Usage Information:</data>
+</edge>
+<edge source="information about you" target="geolocation" id="e52">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">To enhance your experience with our services and support the other purposes for which we collect personal information, we, our service providers, and our business partners may automatically record information about you, your computer, or mobile device and your interactions with the Service, our communications, and other online services over time, such as: Location Data:</data>
+</edge>
+<edge source="information about interaction with service" target="link within email" id="e53">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">We collect information about your interactions with the Service, including the pages you view, the duration on a page, the source from which you arrived at the page, your interactions with the page, whether you opened our emails, and whether you clicked the links within our emails.
+We collect information about your interactions with the Service, including the pages you view, the duration on a page, the source from which you arrived at the page, your interactions with the page, whether you opened our emails, and whether you clicked the links within our emails.</data>
+</edge>
+<edge source="information about interaction with service" target="email address" id="e54">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">We collect information about your interactions with the Service, including the pages you view, the duration on a page, the source from which you arrived at the page, your interactions with the page, whether you opened our emails, and whether you clicked the links within our emails.
+We collect information about your interactions with the Service, including the pages you view, the duration on a page, the source from which you arrived at the page, your interactions with the page, whether you opened our emails, and whether you clicked the links within our emails.</data>
+</edge>
+<edge source="coarse geolocation" target="ip address" id="e55">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">collect your approximate location data (e.g. IP address)
+collect your approximate location data (e.g. IP address)</data>
+</edge>
+<edge source="personal information relate to order fulfillment" target="postal address" id="e56">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">For the purpose of order fulfillment, we may share your personal information related to order fulfillment, such as shipping address, contact information, with Whaleco Inc.'s subsidiaries and affiliates.
+For the purpose of order fulfillment, we may share your personal information related to order fulfillment, such as shipping address, contact information, with Whaleco Inc.'s subsidiaries and affiliates.
+For the purpose of order fulfillment, we may share your personal information related to order fulfillment, such as shipping address, contact information, with Whaleco Inc.'s subsidiaries and affiliates.</data>
+</edge>
+<edge source="personal information relate to order fulfillment" target="contact information" id="e57">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">For the purpose of order fulfillment, we may share your personal information related to order fulfillment, such as shipping address, contact information, with Whaleco Inc.'s subsidiaries and affiliates.
+For the purpose of order fulfillment, we may share your personal information related to order fulfillment, such as shipping address, contact information, with Whaleco Inc.'s subsidiaries and affiliates.
+For the purpose of order fulfillment, we may share your personal information related to order fulfillment, such as shipping address, contact information, with Whaleco Inc.'s subsidiaries and affiliates.</data>
+</edge>
+<edge source="professional advisor" target="banker" id="e58">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">We may share your information with our professional advisors (e.g. lawyers, auditors, bankers and insurers), in response to legal processes (e.g. responding to subpoenas or requests from U.S. law enforcement requests); and with other parties in order to enforce our agreements or policies, protect the rights, property and safety of Temu, users and others, and to detect, prevent and address actual or suspected fraud, violations of Temu's Terms of Use, other illegal activities, security issues or when it's required by law.
+We may share your information with our professional advisors (e.g. lawyers, auditors, bankers and insurers), in response to legal processes (e.g. responding to subpoenas or requests from U.S. law enforcement requests); and with other parties in order to enforce our agreements or policies, protect the rights, property and safety of Temu, users and others, and to detect, prevent and address actual or suspected fraud, violations of Temu's Terms of Use, other illegal activities, security issues or when it's required by law.</data>
+</edge>
+<edge source="professional advisor" target="insurer" id="e59">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">We may share your information with our professional advisors (e.g. lawyers, auditors, bankers and insurers), in response to legal processes (e.g. responding to subpoenas or requests from U.S. law enforcement requests); and with other parties in order to enforce our agreements or policies, protect the rights, property and safety of Temu, users and others, and to detect, prevent and address actual or suspected fraud, violations of Temu's Terms of Use, other illegal activities, security issues or when it's required by law.
+We may share your information with our professional advisors (e.g. lawyers, auditors, bankers and insurers), in response to legal processes (e.g. responding to subpoenas or requests from U.S. law enforcement requests); and with other parties in order to enforce our agreements or policies, protect the rights, property and safety of Temu, users and others, and to detect, prevent and address actual or suspected fraud, violations of Temu's Terms of Use, other illegal activities, security issues or when it's required by law.</data>
+</edge>
+<edge source="professional advisor" target="auditor" id="e60">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">We may share your information with our professional advisors (e.g. lawyers, auditors, bankers and insurers), in response to legal processes (e.g. responding to subpoenas or requests from U.S. law enforcement requests); and with other parties in order to enforce our agreements or policies, protect the rights, property and safety of Temu, users and others, and to detect, prevent and address actual or suspected fraud, violations of Temu's Terms of Use, other illegal activities, security issues or when it's required by law.
+We may share your information with our professional advisors (e.g. lawyers, auditors, bankers and insurers), in response to legal processes (e.g. responding to subpoenas or requests from U.S. law enforcement requests); and with other parties in order to enforce our agreements or policies, protect the rights, property and safety of Temu, users and others, and to detect, prevent and address actual or suspected fraud, violations of Temu's Terms of Use, other illegal activities, security issues or when it's required by law.</data>
+</edge>
+<edge source="professional advisor" target="UNSPECIFIED_DATA" id="e61">
+  <data key="d2">COLLECT</data>
+  <data key="d3">We may share your information with our professional advisors (e.g. lawyers, auditors, bankers and insurers), in response to legal processes (e.g. responding to subpoenas or requests from U.S. law enforcement requests); and with other parties in order to enforce our agreements or policies, protect the rights, property and safety of Temu, users and others, and to detect, prevent and address actual or suspected fraud, violations of Temu's Terms of Use, other illegal activities, security issues or when it's required by law.
+We may share your information with our professional advisors (e.g. lawyers, auditors, bankers and insurers), in response to legal processes (e.g. responding to subpoenas or requests from U.S. law enforcement requests); and with other parties in order to enforce our agreements or policies, protect the rights, property and safety of Temu, users and others, and to detect, prevent and address actual or suspected fraud, violations of Temu's Terms of Use, other illegal activities, security issues or when it's required by law.</data>
+</edge>
+<edge source="UNSPECIFIED_ACTOR" target="cookie / pixel tag" id="e62">
+  <data key="d2">COLLECT</data>
+  <data key="d3">We and our partners also use cookies to promote the Service on other websites.
+We and our partners also use cookies to promote the Service on other websites.</data>
+</edge>
+<edge source="UNSPECIFIED_ACTOR" target="information about" id="e63">
+  <data key="d2">COLLECT</data>
+  <data key="d3">Some of these tools may enable us or third parties to collect information about how you act with our and other websites over time.
+Some of these tools may enable us or third parties to collect information about how you act with our and other websites over time.</data>
+</edge>
+<edge source="UNSPECIFIED_ACTOR" target="personal information" id="e64">
+  <data key="d2">COLLECT</data>
+  <data key="d3">We may share your personal information with the following parties for the purpose of providing you with better services, providing you with personalized advertising and marketing communications, protecting your rights, and/or complying with U.S. legal requirements:
+We may share your personal information with the following parties for the purpose of providing you with better services, providing you with personalized advertising and marketing communications, protecting your rights, and/or complying with U.S. legal requirements:
+We may share your personal data with third parties where you have instructed us or provided your consent to do so.
+We may share your personal data with third parties where you have instructed us or provided your consent to do so.</data>
+</edge>
+<edge source="UNSPECIFIED_ACTOR" target="personal information relate to order fulfillment" id="e65">
+  <data key="d2">COLLECT</data>
+  <data key="d3">For the purpose of order fulfillment, we may share your personal information related to order fulfillment, such as shipping address, contact information, with Whaleco Inc.'s subsidiaries and affiliates.
+For the purpose of order fulfillment, we may share your personal information related to order fulfillment, such as shipping address, contact information, with Whaleco Inc.'s subsidiaries and affiliates.
+For the purpose of order fulfillment, we may share your personal information related to order fulfillment, such as shipping address, contact information, with Whaleco Inc.'s subsidiaries and affiliates.</data>
+</edge>
+<edge source="UNSPECIFIED_ACTOR" target="personal information need" id="e66">
+  <data key="d2">COLLECT</data>
+  <data key="d3">These third-party service providers have only access to personal information needed to perform their functions and services, but shall not use such information for other purposes.
+These third-party service providers have only access to personal information needed to perform their functions and services, but shall not use such information for other purposes.</data>
+</edge>
+<edge source="UNSPECIFIED_ACTOR" target="personal information require for service you request" id="e67">
+  <data key="d2">COLLECT</data>
+  <data key="d3">We may share the personal information required for the services you request with third parties designated by you.
+We may share the personal information required for the services you request with third parties designated by you.</data>
+</edge>
+<edge source="UNSPECIFIED_ACTOR" target="UNSPECIFIED_DATA" id="e68">
+  <data key="d2">COLLECT</data>
+  <data key="d3">We may share your information with our professional advisors (e.g. lawyers, auditors, bankers and insurers), in response to legal processes (e.g. responding to subpoenas or requests from U.S. law enforcement requests); and with other parties in order to enforce our agreements or policies, protect the rights, property and safety of Temu, users and others, and to detect, prevent and address actual or suspected fraud, violations of Temu's Terms of Use, other illegal activities, security issues or when it's required by law.
+We may share your information with our professional advisors (e.g. lawyers, auditors, bankers and insurers), in response to legal processes (e.g. responding to subpoenas or requests from U.S. law enforcement requests); and with other parties in order to enforce our agreements or policies, protect the rights, property and safety of Temu, users and others, and to detect, prevent and address actual or suspected fraud, violations of Temu's Terms of Use, other illegal activities, security issues or when it's required by law.</data>
+</edge>
+<edge source="service provider" target="information about you" id="e69">
+  <data key="d2">COLLECT</data>
+  <data key="d3">To enhance your experience with our services and support the other purposes for which we collect personal information, we, our service providers, and our business partners may automatically record information about you, your computer, or mobile device and your interactions with the Service, our communications, and other online services over time, such as:
+To enhance your experience with our services and support the other purposes for which we collect personal information, we, our service providers, and our business partners may automatically record information about you, your computer, or mobile device and your interactions with the Service, our communications, and other online services over time, such as:</data>
+</edge>
+<edge source="service provider" target="personal information" id="e70">
+  <data key="d2">COLLECT</data>
+  <data key="d3">We and our service providers may collect and use your personal information for marketing purposes.
+We and our service providers may collect and use your personal information for marketing purposes.
+We, our service providers, and our third-party advertising partners may collect and use your personal information for interest-based advertising purposes.
+We, our service providers, and our third-party advertising partners may collect and use your personal information for interest-based advertising purposes.</data>
+</edge>
+<edge source="business partner" target="information about you" id="e71">
+  <data key="d2">COLLECT</data>
+  <data key="d3">To enhance your experience with our services and support the other purposes for which we collect personal information, we, our service providers, and our business partners may automatically record information about you, your computer, or mobile device and your interactions with the Service, our communications, and other online services over time, such as:
+To enhance your experience with our services and support the other purposes for which we collect personal information, we, our service providers, and our business partners may automatically record information about you, your computer, or mobile device and your interactions with the Service, our communications, and other online services over time, such as:</data>
+</edge>
+<edge source="advertiser" target="personal information" id="e72">
+  <data key="d2">COLLECT</data>
+  <data key="d3">We, our service providers, and our third-party advertising partners may collect and use your personal information for interest-based advertising purposes.
+We, our service providers, and our third-party advertising partners may collect and use your personal information for interest-based advertising purposes.</data>
+</edge>
+<edge source="temu" target="personal information" id="e73">
+  <data key="d2">COLLECT</data>
+  <data key="d3">While Temu shares your personal information for the purposes of targeted advertising, which may be considered a "sale" under applicable U.S. state privacy laws, as described further in the US Privacy Notice Addendum for US Residents .
+While Temu shares your personal information for the purposes of targeted advertising, which may be considered a "sale" under applicable U.S. state privacy laws, as described further in the US Privacy Notice Addendum for US Residents .</data>
+</edge>
+<edge source="temu" target="datum relate to order fulfillment" id="e74">
+  <data key="d2">COLLECT</data>
+  <data key="d3">Temu is a global one-stop shopping destination, therefore where necessary, Temu may transfer data related to order fulfillment to service providers in other countries to provide order fulfillment and logistics services.
+Temu is a global one-stop shopping destination, therefore where necessary, Temu may transfer data related to order fulfillment to service providers in other countries to provide order fulfillment and logistics services.</data>
+</edge>
+<edge source="payment processor" target="credit / debit card number" id="e75">
+  <data key="d2">COLLECT</data>
+  <data key="d3">Any payment card information you use to make a purchase on the Service is collected and processed by our payment processors.
+Any payment card information you use to make a purchase on the Service is collected and processed by our payment processors.</data>
+</edge>
+<edge source="merchandise partner" target="customization information for personalized item" id="e76">
+  <data key="d2">COLLECT</data>
+  <data key="d3">We may share with the merchandise partners the product reviews you leave, the return or refund reasons you request a return or refund, and customization information for customized / personalized items.
+We may share with the merchandise partners the product reviews you leave, the return or refund reasons you request a return or refund, and customization information for customized / personalized items.</data>
+</edge>
+<edge source="service provider in country" target="datum relate to order fulfillment" id="e77">
+  <data key="d2">COLLECT</data>
+  <data key="d3">Temu is a global one-stop shopping destination, therefore where necessary, Temu may transfer data related to order fulfillment to service providers in other countries to provide order fulfillment and logistics services.
+Temu is a global one-stop shopping destination, therefore where necessary, Temu may transfer data related to order fulfillment to service providers in other countries to provide order fulfillment and logistics services.</data>
+</edge>
+</graph></graphml>

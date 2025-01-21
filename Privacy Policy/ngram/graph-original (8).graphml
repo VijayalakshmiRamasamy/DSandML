@@ -1,0 +1,559 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d3" for="edge" attr.name="text" attr.type="string"/>
+<key id="d2" for="edge" attr.name="relationship" attr.type="string"/>
+<key id="d1" for="node" attr.name="type" attr.type="string"/>
+<key id="d0" for="node" attr.name="label" attr.type="string"/>
+<graph edgedefault="directed"><node id="we">
+  <data key="d0">we</data>
+  <data key="d1">ACTOR</data>
+</node>
+<node id="wish online application">
+  <data key="d0">wish online application</data>
+  <data key="d1">ACTOR</data>
+</node>
+<node id="related service">
+  <data key="d0">related service</data>
+  <data key="d1">ACTOR</data>
+</node>
+<node id="device model">
+  <data key="d0">device model</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="operating system">
+  <data key="d0">operating system</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="version">
+  <data key="d0">version</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="person name">
+  <data key="d0">person name</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="ip address">
+  <data key="d0">ip address</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="domain from you access internet">
+  <data key="d0">domain from you access internet</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="device identifier">
+  <data key="d0">device identifier</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="device information">
+  <data key="d0">device information</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="date">
+  <data key="d0">date</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="time">
+  <data key="d0">time</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="language preference">
+  <data key="d0">language preference</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="personal information">
+  <data key="d0">personal information</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="service provider">
+  <data key="d0">service provider</data>
+  <data key="d1">ACTOR</data>
+</node>
+<node id="analytic provider">
+  <data key="d0">analytic provider</data>
+  <data key="d1">ACTOR</data>
+</node>
+<node id="advertiser">
+  <data key="d0">advertiser</data>
+  <data key="d1">ACTOR</data>
+</node>
+<node id="social media">
+  <data key="d0">social media</data>
+  <data key="d1">ACTOR</data>
+</node>
+<node id="mac address">
+  <data key="d0">mac address</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="postal address">
+  <data key="d0">postal address</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="phone number">
+  <data key="d0">phone number</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="cookie / pixel tag">
+  <data key="d0">cookie / pixel tag</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="merchant">
+  <data key="d0">merchant</data>
+  <data key="d1">ACTOR</data>
+</node>
+<node id="customer review">
+  <data key="d0">customer review</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="associate photo">
+  <data key="d0">associate photo</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="user information">
+  <data key="d0">user information</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="custom information">
+  <data key="d0">custom information</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="Facebook">
+  <data key="d0">Facebook</data>
+  <data key="d1">ACTOR</data>
+</node>
+<node id="Google">
+  <data key="d0">Google</data>
+  <data key="d1">ACTOR</data>
+</node>
+<node id="Microsoft">
+  <data key="d0">Microsoft</data>
+  <data key="d1">ACTOR</data>
+</node>
+<node id="Twitter">
+  <data key="d0">Twitter</data>
+  <data key="d1">ACTOR</data>
+</node>
+<node id="youtube">
+  <data key="d0">youtube</data>
+  <data key="d1">ACTOR</data>
+</node>
+<node id="UNSPECIFIED_ACTOR">
+  <data key="d0">UNSPECIFIED_ACTOR</data>
+  <data key="d1">ACTOR</data>
+</node>
+<node id="UNSPECIFIED_DATA">
+  <data key="d0">UNSPECIFIED_DATA</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="wish us holdings llc">
+  <data key="d0">wish us holdings llc</data>
+  <data key="d1">ACTOR</data>
+</node>
+<node id="personal information of customer">
+  <data key="d0">personal information of customer</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="wish">
+  <data key="d0">wish</data>
+  <data key="d1">ACTOR</data>
+</node>
+<node id="information you provide">
+  <data key="d0">information you provide</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="information about you">
+  <data key="d0">information about you</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="personal information we have">
+  <data key="d0">personal information we have</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="system">
+  <data key="d0">system</data>
+  <data key="d1">ACTOR</data>
+</node>
+<edge source="we" target="related service" id="e0">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">Privacy Notice
+
+1. Introduction
+
+This privacy notice explains how Wish US Holdings LLC and its subsidiaries and affiliates (collectively "Wish," "we," "us," "our") collects, uses, shares, and protects personal information of customers and merchants (where a merchant is a natural person) through the Wish online and mobile applications ("Apps") and related services (collectively, the "Services").
+Privacy Notice
+
+1. Introduction
+
+This privacy notice explains how Wish US Holdings LLC and its subsidiaries and affiliates (collectively "Wish," "we," "us," "our") collects, uses, shares, and protects personal information of customers and merchants (where a merchant is a natural person) through the Wish online and mobile applications ("Apps") and related services (collectively, the "Services").</data>
+</edge>
+<edge source="we" target="wish online application" id="e1">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">Privacy Notice
+
+1. Introduction
+
+This privacy notice explains how Wish US Holdings LLC and its subsidiaries and affiliates (collectively "Wish," "we," "us," "our") collects, uses, shares, and protects personal information of customers and merchants (where a merchant is a natural person) through the Wish online and mobile applications ("Apps") and related services (collectively, the "Services").
+Privacy Notice
+
+1. Introduction
+
+This privacy notice explains how Wish US Holdings LLC and its subsidiaries and affiliates (collectively "Wish," "we," "us," "our") collects, uses, shares, and protects personal information of customers and merchants (where a merchant is a natural person) through the Wish online and mobile applications ("Apps") and related services (collectively, the "Services").</data>
+</edge>
+<edge source="we" target="personal information" id="e2">
+  <data key="d2">COLLECT</data>
+  <data key="d3">: We collect personal information you provide us either directly or through your shopping behavior.
+: We collect personal information you provide us either directly or through your shopping behavior.
+The devices you use to access Wish provide personal information to us, including your device model, operating system and version, the name of the domain from which you access the Internet, your Internet Protocol ("IP") address, and other unique device identifiers.
+The devices you use to access Wish provide personal information to us, including your device model, operating system and version, the name of the domain from which you access the Internet, your Internet Protocol ("IP") address, and other unique device identifiers.
+Privacy Notice
+
+3. How We Use Personal Information
+Privacy Notice
+
+3. How We Use Personal Information
+Privacy Notice
+
+9. Legal Basis for Processing
+
+Wish will only process your personal information when allowed by law; that is, we will only process your personal information when we have a legal basis to do so.
+Privacy Notice
+
+9. Legal Basis for Processing
+
+Wish will only process your personal information when allowed by law; that is, we will only process your personal information when we have a legal basis to do so.
+We process personal data when one of the following legal bases applies:
+We process personal data when one of the following legal bases applies:</data>
+</edge>
+<edge source="we" target="cookie / pixel tag" id="e3">
+  <data key="d2">COLLECT</data>
+  <data key="d3">To collect much of this information, we use cookies, web beacons, and other similar technologies.
+To collect much of this information, we use cookies, web beacons, and other similar technologies.
+To collect much of this information, we use cookies, web beacons, and other similar technologies.</data>
+</edge>
+<edge source="we" target="UNSPECIFIED_DATA" id="e4">
+  <data key="d2">COLLECT</data>
+  <data key="d3">To collect much of this information, we use cookies, web beacons, and other similar technologies.
+To collect much of this information, we use cookies, web beacons, and other similar technologies.
+Privacy Notice
+
+6. Third-Party Plugins &amp; Links to Third-Party Websites
+
+Our Services may also offer you the ability to interact with plug-ins from social media sites, which may allow us or the social media site to receive data from or about you.
+Privacy Notice
+
+6. Third-Party Plugins &amp; Links to Third-Party Websites
+
+Our Services may also offer you the ability to interact with plug-ins from social media sites, which may allow us or the social media site to receive data from or about you.</data>
+</edge>
+<edge source="we" target="information about you" id="e5">
+  <data key="d2">COLLECT</data>
+  <data key="d3">Our vendors and service providers, such as our web hosting and analytics providers, and advertisers, may provide us information about you.
+Our vendors and service providers, such as our web hosting and analytics providers, and advertisers, may provide us information about you.</data>
+</edge>
+<edge source="we" target="user information" id="e6">
+  <data key="d2">COLLECT</data>
+  <data key="d3">We share user and merchant information to fulfill orders, including, for example, shipping address, phone number, and customs information.
+We share user and merchant information to fulfill orders, including, for example, shipping address, phone number, and customs information.</data>
+</edge>
+<edge source="device identifier" target="mac address" id="e7">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">Privacy Notice
+
+4. Types of Personal Information Wish Collects &amp; Processes
+
+such as your name, your Wish Account ID number, email address, shipping address, phone number, social network accounts and credentials, advertising ID, device identifiers such as MAC address and device attributes, and (where required for identity verification) government identifiers.
+Privacy Notice
+
+4. Types of Personal Information Wish Collects &amp; Processes
+
+such as your name, your Wish Account ID number, email address, shipping address, phone number, social network accounts and credentials, advertising ID, device identifiers such as MAC address and device attributes, and (where required for identity verification) government identifiers.
+Privacy Notice
+
+4. Types of Personal Information Wish Collects &amp; Processes
+
+such as your name, your Wish Account ID number, email address, shipping address, phone number, social network accounts and credentials, advertising ID, device identifiers such as MAC address and device attributes, and (where required for identity verification) government identifiers.</data>
+</edge>
+<edge source="device information" target="date" id="e8">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">Wish also collects device information like the date and time you access Wish online or via the App, which pages you visit, the search terms you use, the links you click on, the browser you use, and your language preference.
+Wish also collects device information like the date and time you access Wish online or via the App, which pages you visit, the search terms you use, the links you click on, the browser you use, and your language preference.</data>
+</edge>
+<edge source="device information" target="time" id="e9">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">Wish also collects device information like the date and time you access Wish online or via the App, which pages you visit, the search terms you use, the links you click on, the browser you use, and your language preference.
+Wish also collects device information like the date and time you access Wish online or via the App, which pages you visit, the search terms you use, the links you click on, the browser you use, and your language preference.</data>
+</edge>
+<edge source="device information" target="language preference" id="e10">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">Wish also collects device information like the date and time you access Wish online or via the App, which pages you visit, the search terms you use, the links you click on, the browser you use, and your language preference.
+Wish also collects device information like the date and time you access Wish online or via the App, which pages you visit, the search terms you use, the links you click on, the browser you use, and your language preference.</data>
+</edge>
+<edge source="personal information" target="device identifier" id="e11">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">The devices you use to access Wish provide personal information to us, including your device model, operating system and version, the name of the domain from which you access the Internet, your Internet Protocol ("IP") address, and other unique device identifiers.
+The devices you use to access Wish provide personal information to us, including your device model, operating system and version, the name of the domain from which you access the Internet, your Internet Protocol ("IP") address, and other unique device identifiers.</data>
+</edge>
+<edge source="personal information" target="operating system" id="e12">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">The devices you use to access Wish provide personal information to us, including your device model, operating system and version, the name of the domain from which you access the Internet, your Internet Protocol ("IP") address, and other unique device identifiers.
+The devices you use to access Wish provide personal information to us, including your device model, operating system and version, the name of the domain from which you access the Internet, your Internet Protocol ("IP") address, and other unique device identifiers.</data>
+</edge>
+<edge source="personal information" target="device model" id="e13">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">The devices you use to access Wish provide personal information to us, including your device model, operating system and version, the name of the domain from which you access the Internet, your Internet Protocol ("IP") address, and other unique device identifiers.
+The devices you use to access Wish provide personal information to us, including your device model, operating system and version, the name of the domain from which you access the Internet, your Internet Protocol ("IP") address, and other unique device identifiers.</data>
+</edge>
+<edge source="personal information" target="version" id="e14">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">The devices you use to access Wish provide personal information to us, including your device model, operating system and version, the name of the domain from which you access the Internet, your Internet Protocol ("IP") address, and other unique device identifiers.
+The devices you use to access Wish provide personal information to us, including your device model, operating system and version, the name of the domain from which you access the Internet, your Internet Protocol ("IP") address, and other unique device identifiers.</data>
+</edge>
+<edge source="personal information" target="person name" id="e15">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">The devices you use to access Wish provide personal information to us, including your device model, operating system and version, the name of the domain from which you access the Internet, your Internet Protocol ("IP") address, and other unique device identifiers.
+The devices you use to access Wish provide personal information to us, including your device model, operating system and version, the name of the domain from which you access the Internet, your Internet Protocol ("IP") address, and other unique device identifiers.</data>
+</edge>
+<edge source="personal information" target="ip address" id="e16">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">The devices you use to access Wish provide personal information to us, including your device model, operating system and version, the name of the domain from which you access the Internet, your Internet Protocol ("IP") address, and other unique device identifiers.
+The devices you use to access Wish provide personal information to us, including your device model, operating system and version, the name of the domain from which you access the Internet, your Internet Protocol ("IP") address, and other unique device identifiers.</data>
+</edge>
+<edge source="personal information" target="domain from you access internet" id="e17">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">The devices you use to access Wish provide personal information to us, including your device model, operating system and version, the name of the domain from which you access the Internet, your Internet Protocol ("IP") address, and other unique device identifiers.
+The devices you use to access Wish provide personal information to us, including your device model, operating system and version, the name of the domain from which you access the Internet, your Internet Protocol ("IP") address, and other unique device identifiers.</data>
+</edge>
+<edge source="service provider" target="advertiser" id="e18">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">Our vendors and service providers, such as our web hosting and analytics providers, and advertisers, may provide us information about you.
+Our vendors and service providers, such as our web hosting and analytics providers, and advertisers, may provide us information about you.</data>
+</edge>
+<edge source="service provider" target="analytic provider" id="e19">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">Our vendors and service providers, such as our web hosting and analytics providers, and advertisers, may provide us information about you.
+Our vendors and service providers, such as our web hosting and analytics providers, and advertisers, may provide us information about you.</data>
+</edge>
+<edge source="service provider" target="information about you" id="e20">
+  <data key="d2">COLLECT</data>
+  <data key="d3">Our vendors and service providers, such as our web hosting and analytics providers, and advertisers, may provide us information about you.
+Our vendors and service providers, such as our web hosting and analytics providers, and advertisers, may provide us information about you.</data>
+</edge>
+<edge source="service provider" target="personal information" id="e21">
+  <data key="d2">COLLECT</data>
+  <data key="d3">Privacy Notice
+
+13. Data Transfers
+
+At times, personal data may be transferred to service providers or systems in countries that may not offer a level of data protection equivalent to that in your country, including to and from the United States.
+Privacy Notice
+
+13. Data Transfers
+
+At times, personal data may be transferred to service providers or systems in countries that may not offer a level of data protection equivalent to that in your country, including to and from the United States.</data>
+</edge>
+<edge source="advertiser" target="Facebook" id="e22">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">Privacy Notice
+
+5. How We Share Personal Information
+
+With our online advertising partners, such as Facebook and Google, for the purpose of advertising to you.
+Privacy Notice
+
+5. How We Share Personal Information
+
+With our online advertising partners, such as Facebook and Google, for the purpose of advertising to you.</data>
+</edge>
+<edge source="advertiser" target="Google" id="e23">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">Privacy Notice
+
+5. How We Share Personal Information
+
+With our online advertising partners, such as Facebook and Google, for the purpose of advertising to you.
+Privacy Notice
+
+5. How We Share Personal Information
+
+With our online advertising partners, such as Facebook and Google, for the purpose of advertising to you.</data>
+</edge>
+<edge source="social media" target="Microsoft" id="e24">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">For example, if you choose, you may follow links to social media sites such as Instagram, Facebook, LinkedIn, Twitter, YouTube, and others.
+For example, if you choose, you may follow links to social media sites such as Instagram, Facebook, LinkedIn, Twitter, YouTube, and others.</data>
+</edge>
+<edge source="social media" target="Facebook" id="e25">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">For example, if you choose, you may follow links to social media sites such as Instagram, Facebook, LinkedIn, Twitter, YouTube, and others.
+For example, if you choose, you may follow links to social media sites such as Instagram, Facebook, LinkedIn, Twitter, YouTube, and others.
+For example, if you choose, you may follow links to social media sites such as Instagram, Facebook, LinkedIn, Twitter, YouTube, and others.</data>
+</edge>
+<edge source="social media" target="Twitter" id="e26">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">For example, if you choose, you may follow links to social media sites such as Instagram, Facebook, LinkedIn, Twitter, YouTube, and others.
+For example, if you choose, you may follow links to social media sites such as Instagram, Facebook, LinkedIn, Twitter, YouTube, and others.</data>
+</edge>
+<edge source="social media" target="youtube" id="e27">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">For example, if you choose, you may follow links to social media sites such as Instagram, Facebook, LinkedIn, Twitter, YouTube, and others.
+For example, if you choose, you may follow links to social media sites such as Instagram, Facebook, LinkedIn, Twitter, YouTube, and others.</data>
+</edge>
+<edge source="social media" target="UNSPECIFIED_DATA" id="e28">
+  <data key="d2">COLLECT</data>
+  <data key="d3">Privacy Notice
+
+6. Third-Party Plugins &amp; Links to Third-Party Websites
+
+Our Services may also offer you the ability to interact with plug-ins from social media sites, which may allow us or the social media site to receive data from or about you.
+Privacy Notice
+
+6. Third-Party Plugins &amp; Links to Third-Party Websites
+
+Our Services may also offer you the ability to interact with plug-ins from social media sites, which may allow us or the social media site to receive data from or about you.</data>
+</edge>
+<edge source="merchant" target="customer review" id="e29">
+  <data key="d2">COLLECT</data>
+  <data key="d3">For example, merchant information is shared with potential customers, and customer reviews (including associated photos and videos) of merchants are shared with other potential customers and merchants.
+For example, merchant information is shared with potential customers, and customer reviews (including associated photos and videos) of merchants are shared with other potential customers and merchants.</data>
+</edge>
+<edge source="customer review" target="associate photo" id="e30">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">For example, merchant information is shared with potential customers, and customer reviews (including associated photos and videos) of merchants are shared with other potential customers and merchants.
+For example, merchant information is shared with potential customers, and customer reviews (including associated photos and videos) of merchants are shared with other potential customers and merchants.</data>
+</edge>
+<edge source="user information" target="custom information" id="e31">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">We share user and merchant information to fulfill orders, including, for example, shipping address, phone number, and customs information.
+We share user and merchant information to fulfill orders, including, for example, shipping address, phone number, and customs information.</data>
+</edge>
+<edge source="user information" target="phone number" id="e32">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">We share user and merchant information to fulfill orders, including, for example, shipping address, phone number, and customs information.
+We share user and merchant information to fulfill orders, including, for example, shipping address, phone number, and customs information.</data>
+</edge>
+<edge source="user information" target="postal address" id="e33">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">We share user and merchant information to fulfill orders, including, for example, shipping address, phone number, and customs information.
+We share user and merchant information to fulfill orders, including, for example, shipping address, phone number, and customs information.</data>
+</edge>
+<edge source="Google" target="cookie / pixel tag" id="e34">
+  <data key="d2">COLLECT</data>
+  <data key="d3">Google Analytics uses cookies, which transmit anonymized or truncated personal data to a Google server.
+Google Analytics uses cookies, which transmit anonymized or truncated personal data to a Google server.</data>
+</edge>
+<edge source="UNSPECIFIED_ACTOR" target="personal information of customer" id="e35">
+  <data key="d2">COLLECT</data>
+  <data key="d3">Privacy Notice
+
+1. Introduction
+
+This privacy notice explains how Wish US Holdings LLC and its subsidiaries and affiliates (collectively "Wish," "we," "us," "our") collects, uses, shares, and protects personal information of customers and merchants (where a merchant is a natural person) through the Wish online and mobile applications ("Apps") and related services (collectively, the "Services").
+Privacy Notice
+
+1. Introduction
+
+This privacy notice explains how Wish US Holdings LLC and its subsidiaries and affiliates (collectively "Wish," "we," "us," "our") collects, uses, shares, and protects personal information of customers and merchants (where a merchant is a natural person) through the Wish online and mobile applications ("Apps") and related services (collectively, the "Services").</data>
+</edge>
+<edge source="UNSPECIFIED_ACTOR" target="information about you" id="e36">
+  <data key="d2">COLLECT</data>
+  <data key="d3">Our vendors and service providers, such as our web hosting and analytics providers, and advertisers, may provide us information about you.
+Our vendors and service providers, such as our web hosting and analytics providers, and advertisers, may provide us information about you.</data>
+</edge>
+<edge source="wish us holdings llc" target="personal information of customer" id="e37">
+  <data key="d2">COLLECT</data>
+  <data key="d3">Privacy Notice
+
+1. Introduction
+
+This privacy notice explains how Wish US Holdings LLC and its subsidiaries and affiliates (collectively "Wish," "we," "us," "our") collects, uses, shares, and protects personal information of customers and merchants (where a merchant is a natural person) through the Wish online and mobile applications ("Apps") and related services (collectively, the "Services").
+Privacy Notice
+
+1. Introduction
+
+This privacy notice explains how Wish US Holdings LLC and its subsidiaries and affiliates (collectively "Wish," "we," "us," "our") collects, uses, shares, and protects personal information of customers and merchants (where a merchant is a natural person) through the Wish online and mobile applications ("Apps") and related services (collectively, the "Services").</data>
+</edge>
+<edge source="wish" target="personal information" id="e38">
+  <data key="d2">COLLECT</data>
+  <data key="d3">Privacy Notice
+
+2. How We Collect Personal Information
+
+Wish may collect personal information about you from a variety of sources, including:
+Privacy Notice
+
+2. How We Collect Personal Information
+
+Wish may collect personal information about you from a variety of sources, including:
+Privacy Notice
+
+5. How We Share Personal Information
+
+Wish may share your personal information among its affiliates and subsidiaries, and with others, as follows:
+Privacy Notice
+
+5. How We Share Personal Information
+
+Wish may share your personal information among its affiliates and subsidiaries, and with others, as follows:
+Privacy Notice
+
+9. Legal Basis for Processing
+
+Wish will only process your personal information when allowed by law; that is, we will only process your personal information when we have a legal basis to do so.
+Privacy Notice
+
+9. Legal Basis for Processing
+
+Wish will only process your personal information when allowed by law; that is, we will only process your personal information when we have a legal basis to do so.
+10. Purpose Limitation
+
+Wish will only process personal information in a way that is compatible with and relevant to the purpose for which it was collected or authorized by you, or when we notify you if the purposes change.
+10. Purpose Limitation
+
+Wish will only process personal information in a way that is compatible with and relevant to the purpose for which it was collected or authorized by you, or when we notify you if the purposes change.
+12. Data Retention
+
+Wish will retain your personal information for as long as reasonably necessary for legitimate business purposes or as required by law.
+12. Data Retention
+
+Wish will retain your personal information for as long as reasonably necessary for legitimate business purposes or as required by law.</data>
+</edge>
+<edge source="wish" target="information you provide" id="e39">
+  <data key="d2">COLLECT</data>
+  <data key="d3">For example, Wish collects information you provide when you make a purchase, create an account and profile, write a product review, place an item in your cart, or submit a request for Wish to contact you.
+For example, Wish collects information you provide when you make a purchase, create an account and profile, write a product review, place an item in your cart, or submit a request for Wish to contact you.</data>
+</edge>
+<edge source="wish" target="device information" id="e40">
+  <data key="d2">COLLECT</data>
+  <data key="d3">Wish also collects device information like the date and time you access Wish online or via the App, which pages you visit, the search terms you use, the links you click on, the browser you use, and your language preference.
+Wish also collects device information like the date and time you access Wish online or via the App, which pages you visit, the search terms you use, the links you click on, the browser you use, and your language preference.</data>
+</edge>
+<edge source="wish" target="personal information we have" id="e41">
+  <data key="d2">COLLECT</data>
+  <data key="d3">Wish may use the personal information we have for a variety of purposes, including but not limited to:
+Wish may use the personal information we have for a variety of purposes, including but not limited to:</data>
+</edge>
+<edge source="wish" target="cookie / pixel tag" id="e42">
+  <data key="d2">COLLECT</data>
+  <data key="d3">Privacy Notice
+
+17. Your Rights to Opt-out of Advertising &amp; Personal Information Sharing
+
+Wish uses third-party cookies and tracking technologies, such as Facebook Pixels, to identify and place
+Privacy Notice
+
+17. Your Rights to Opt-out of Advertising &amp; Personal Information Sharing
+
+Wish uses third-party cookies and tracking technologies, such as Facebook Pixels, to identify and place</data>
+</edge>
+<edge source="system" target="personal information" id="e43">
+  <data key="d2">COLLECT</data>
+  <data key="d3">Privacy Notice
+
+13. Data Transfers
+
+At times, personal data may be transferred to service providers or systems in countries that may not offer a level of data protection equivalent to that in your country, including to and from the United States.
+Privacy Notice
+
+13. Data Transfers
+
+At times, personal data may be transferred to service providers or systems in countries that may not offer a level of data protection equivalent to that in your country, including to and from the United States.</data>
+</edge>
+</graph></graphml>

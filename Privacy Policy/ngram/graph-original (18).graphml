@@ -1,0 +1,475 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d3" for="edge" attr.name="text" attr.type="string"/>
+<key id="d2" for="edge" attr.name="relationship" attr.type="string"/>
+<key id="d1" for="node" attr.name="type" attr.type="string"/>
+<key id="d0" for="node" attr.name="label" attr.type="string"/>
+<graph edgedefault="directed"><node id="contact information">
+  <data key="d0">contact information</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="person name">
+  <data key="d0">person name</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="postal address">
+  <data key="d0">postal address</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="email address">
+  <data key="d0">email address</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="profile picture">
+  <data key="d0">profile picture</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="information you choose">
+  <data key="d0">information you choose</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="information about computer you use">
+  <data key="d0">information about computer you use</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="ip address">
+  <data key="d0">ip address</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="device identifier">
+  <data key="d0">device identifier</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="cookie / pixel tag">
+  <data key="d0">cookie / pixel tag</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="network connection">
+  <data key="d0">network connection</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="identifier">
+  <data key="d0">identifier</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="device information">
+  <data key="d0">device information</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="payment information">
+  <data key="d0">payment information</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="credit / debit card number">
+  <data key="d0">credit / debit card number</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="expiration date">
+  <data key="d0">expiration date</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="interaction">
+  <data key="d0">interaction</data>
+  <data key="d1">ACTOR</data>
+</node>
+<node id="shops you visit">
+  <data key="d0">shops you visit</data>
+  <data key="d1">ACTOR</data>
+</node>
+<node id="Shopify">
+  <data key="d0">Shopify</data>
+  <data key="d1">ACTOR</data>
+</node>
+<node id="product you view">
+  <data key="d0">product you view</data>
+  <data key="d1">ACTOR</data>
+</node>
+<node id="product review">
+  <data key="d0">product review</data>
+  <data key="d1">ACTOR</data>
+</node>
+<node id="rating">
+  <data key="d0">rating</data>
+  <data key="d1">ACTOR</data>
+</node>
+<node id="favorite shops">
+  <data key="d0">favorite shops</data>
+  <data key="d1">ACTOR</data>
+</node>
+<node id="personal information">
+  <data key="d0">personal information</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="message content">
+  <data key="d0">message content</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="email service provider">
+  <data key="d0">email service provider</data>
+  <data key="d1">ACTOR</data>
+</node>
+<node id="advertiser">
+  <data key="d0">advertiser</data>
+  <data key="d1">ACTOR</data>
+</node>
+<node id="personalized advertising">
+  <data key="d0">personalized advertising</data>
+  <data key="d1">ACTOR</data>
+</node>
+<node id="Xandr">
+  <data key="d0">Xandr</data>
+  <data key="d1">ACTOR</data>
+</node>
+<node id="analytic provider">
+  <data key="d0">analytic provider</data>
+  <data key="d1">ACTOR</data>
+</node>
+<node id="asset">
+  <data key="d0">asset</data>
+  <data key="d1">ACTOR</data>
+</node>
+<node id="UNSPECIFIED_DATA">
+  <data key="d0">UNSPECIFIED_DATA</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="we">
+  <data key="d0">we</data>
+  <data key="d1">ACTOR</data>
+</node>
+<node id="information about setting on shopify">
+  <data key="d0">information about setting on shopify</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="information about browser privacy setting">
+  <data key="d0">information about browser privacy setting</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="privacy preference">
+  <data key="d0">privacy preference</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="personal datum from merchants you interact">
+  <data key="d0">personal datum from merchants you interact</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="information about use of">
+  <data key="d0">information about use of</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="actual acquirer">
+  <data key="d0">actual acquirer</data>
+  <data key="d1">ACTOR</data>
+</node>
+<node id="relevant participant">
+  <data key="d0">relevant participant</data>
+  <data key="d1">ACTOR</data>
+</node>
+<node id="social network accounts">
+  <data key="d0">social network accounts</data>
+  <data key="d1">DATA</data>
+</node>
+<edge source="contact information" target="postal address" id="e0">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">Profile and Contact Information : We receive contact or other profile information when you sign up for or interact with Shopify Consumer Services, which may include name, shipping address, email address, profile picture, or other information you choose to provide us.
+Profile and Contact Information : We receive contact or other profile information when you sign up for or interact with Shopify Consumer Services, which may include name, shipping address, email address, profile picture, or other information you choose to provide us.</data>
+</edge>
+<edge source="contact information" target="person name" id="e1">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">Profile and Contact Information : We receive contact or other profile information when you sign up for or interact with Shopify Consumer Services, which may include name, shipping address, email address, profile picture, or other information you choose to provide us.
+Profile and Contact Information : We receive contact or other profile information when you sign up for or interact with Shopify Consumer Services, which may include name, shipping address, email address, profile picture, or other information you choose to provide us.</data>
+</edge>
+<edge source="contact information" target="email address" id="e2">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">Profile and Contact Information : We receive contact or other profile information when you sign up for or interact with Shopify Consumer Services, which may include name, shipping address, email address, profile picture, or other information you choose to provide us.
+Profile and Contact Information : We receive contact or other profile information when you sign up for or interact with Shopify Consumer Services, which may include name, shipping address, email address, profile picture, or other information you choose to provide us.</data>
+</edge>
+<edge source="contact information" target="profile picture" id="e3">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">Profile and Contact Information : We receive contact or other profile information when you sign up for or interact with Shopify Consumer Services, which may include name, shipping address, email address, profile picture, or other information you choose to provide us.
+Profile and Contact Information : We receive contact or other profile information when you sign up for or interact with Shopify Consumer Services, which may include name, shipping address, email address, profile picture, or other information you choose to provide us.</data>
+</edge>
+<edge source="contact information" target="information you choose" id="e4">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">Profile and Contact Information : We receive contact or other profile information when you sign up for or interact with Shopify Consumer Services, which may include name, shipping address, email address, profile picture, or other information you choose to provide us.
+Profile and Contact Information : We receive contact or other profile information when you sign up for or interact with Shopify Consumer Services, which may include name, shipping address, email address, profile picture, or other information you choose to provide us.</data>
+</edge>
+<edge source="information about computer you use" target="network connection" id="e5">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">Device Information : We receive information about the computers, phones, and other devices you use or interact with Shopify or Shopify Consumer Services, including IP address (which may be used to determine general location), device identifiers, cookie IDs, the browser you use, your network connection, or other unique identifiers or device information.
+Device Information : We receive information about the computers, phones, and other devices you use or interact with Shopify or Shopify Consumer Services, including IP address (which may be used to determine general location), device identifiers, cookie IDs, the browser you use, your network connection, or other unique identifiers or device information.</data>
+</edge>
+<edge source="information about computer you use" target="identifier" id="e6">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">Device Information : We receive information about the computers, phones, and other devices you use or interact with Shopify or Shopify Consumer Services, including IP address (which may be used to determine general location), device identifiers, cookie IDs, the browser you use, your network connection, or other unique identifiers or device information.
+Device Information : We receive information about the computers, phones, and other devices you use or interact with Shopify or Shopify Consumer Services, including IP address (which may be used to determine general location), device identifiers, cookie IDs, the browser you use, your network connection, or other unique identifiers or device information.</data>
+</edge>
+<edge source="information about computer you use" target="device information" id="e7">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">Device Information : We receive information about the computers, phones, and other devices you use or interact with Shopify or Shopify Consumer Services, including IP address (which may be used to determine general location), device identifiers, cookie IDs, the browser you use, your network connection, or other unique identifiers or device information.
+Device Information : We receive information about the computers, phones, and other devices you use or interact with Shopify or Shopify Consumer Services, including IP address (which may be used to determine general location), device identifiers, cookie IDs, the browser you use, your network connection, or other unique identifiers or device information.</data>
+</edge>
+<edge source="information about computer you use" target="cookie / pixel tag" id="e8">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">Device Information : We receive information about the computers, phones, and other devices you use or interact with Shopify or Shopify Consumer Services, including IP address (which may be used to determine general location), device identifiers, cookie IDs, the browser you use, your network connection, or other unique identifiers or device information.
+Device Information : We receive information about the computers, phones, and other devices you use or interact with Shopify or Shopify Consumer Services, including IP address (which may be used to determine general location), device identifiers, cookie IDs, the browser you use, your network connection, or other unique identifiers or device information.</data>
+</edge>
+<edge source="information about computer you use" target="ip address" id="e9">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">Device Information : We receive information about the computers, phones, and other devices you use or interact with Shopify or Shopify Consumer Services, including IP address (which may be used to determine general location), device identifiers, cookie IDs, the browser you use, your network connection, or other unique identifiers or device information.
+Device Information : We receive information about the computers, phones, and other devices you use or interact with Shopify or Shopify Consumer Services, including IP address (which may be used to determine general location), device identifiers, cookie IDs, the browser you use, your network connection, or other unique identifiers or device information.</data>
+</edge>
+<edge source="information about computer you use" target="device identifier" id="e10">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">Device Information : We receive information about the computers, phones, and other devices you use or interact with Shopify or Shopify Consumer Services, including IP address (which may be used to determine general location), device identifiers, cookie IDs, the browser you use, your network connection, or other unique identifiers or device information.
+Device Information : We receive information about the computers, phones, and other devices you use or interact with Shopify or Shopify Consumer Services, including IP address (which may be used to determine general location), device identifiers, cookie IDs, the browser you use, your network connection, or other unique identifiers or device information.</data>
+</edge>
+<edge source="payment information" target="expiration date" id="e11">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">Payment Information : We receive payment information when you use Shop Pay or make a purchase through Shopify services, such as your payment card number and expiration date.
+Payment Information : We receive payment information when you use Shop Pay or make a purchase through Shopify services, such as your payment card number and expiration date.</data>
+</edge>
+<edge source="payment information" target="credit / debit card number" id="e12">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">Payment Information : We receive payment information when you use Shop Pay or make a purchase through Shopify services, such as your payment card number and expiration date.
+Payment Information : We receive payment information when you use Shop Pay or make a purchase through Shopify services, such as your payment card number and expiration date.</data>
+</edge>
+<edge source="Shopify" target="interaction" id="e13">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">We receive Personal Data when you use or interact with Shopify or Shopify services, which may include the following categories: Use of Shopify Consumer Services : We receive information regarding your use of or interactions with Shopify Consumer Services, whether or not you are logged in to Shopify, such as your interactions with Shopify Merchants, the Shops you visit, the products you view and visit, the product reviews and ratings you post and share, your order history, your interactions with Shop.app/search or other marketing activities related to the Shopify Consumer Services, and favorited Shops.
+We receive Personal Data when you use or interact with Shopify or Shopify services, which may include the following categories: Use of Shopify Consumer Services : We receive information regarding your use of or interactions with Shopify Consumer Services, whether or not you are logged in to Shopify, such as your interactions with Shopify Merchants, the Shops you visit, the products you view and visit, the product reviews and ratings you post and share, your order history, your interactions with Shop.app/search or other marketing activities related to the Shopify Consumer Services, and favorited Shops.
+We receive Personal Data when you use or interact with Shopify or Shopify services, which may include the following categories: Use of Shopify Consumer Services : We receive information regarding your use of or interactions with Shopify Consumer Services, whether or not you are logged in to Shopify, such as your interactions with Shopify Merchants, the Shops you visit, the products you view and visit, the product reviews and ratings you post and share, your order history, your interactions with Shop.app/search or other marketing activities related to the Shopify Consumer Services, and favorited Shops.</data>
+</edge>
+<edge source="Shopify" target="shops you visit" id="e14">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">We receive Personal Data when you use or interact with Shopify or Shopify services, which may include the following categories: Use of Shopify Consumer Services : We receive information regarding your use of or interactions with Shopify Consumer Services, whether or not you are logged in to Shopify, such as your interactions with Shopify Merchants, the Shops you visit, the products you view and visit, the product reviews and ratings you post and share, your order history, your interactions with Shop.app/search or other marketing activities related to the Shopify Consumer Services, and favorited Shops.
+We receive Personal Data when you use or interact with Shopify or Shopify services, which may include the following categories: Use of Shopify Consumer Services : We receive information regarding your use of or interactions with Shopify Consumer Services, whether or not you are logged in to Shopify, such as your interactions with Shopify Merchants, the Shops you visit, the products you view and visit, the product reviews and ratings you post and share, your order history, your interactions with Shop.app/search or other marketing activities related to the Shopify Consumer Services, and favorited Shops.</data>
+</edge>
+<edge source="Shopify" target="product review" id="e15">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">We receive Personal Data when you use or interact with Shopify or Shopify services, which may include the following categories: Use of Shopify Consumer Services : We receive information regarding your use of or interactions with Shopify Consumer Services, whether or not you are logged in to Shopify, such as your interactions with Shopify Merchants, the Shops you visit, the products you view and visit, the product reviews and ratings you post and share, your order history, your interactions with Shop.app/search or other marketing activities related to the Shopify Consumer Services, and favorited Shops.
+We receive Personal Data when you use or interact with Shopify or Shopify services, which may include the following categories: Use of Shopify Consumer Services : We receive information regarding your use of or interactions with Shopify Consumer Services, whether or not you are logged in to Shopify, such as your interactions with Shopify Merchants, the Shops you visit, the products you view and visit, the product reviews and ratings you post and share, your order history, your interactions with Shop.app/search or other marketing activities related to the Shopify Consumer Services, and favorited Shops.</data>
+</edge>
+<edge source="Shopify" target="favorite shops" id="e16">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">We receive Personal Data when you use or interact with Shopify or Shopify services, which may include the following categories: Use of Shopify Consumer Services : We receive information regarding your use of or interactions with Shopify Consumer Services, whether or not you are logged in to Shopify, such as your interactions with Shopify Merchants, the Shops you visit, the products you view and visit, the product reviews and ratings you post and share, your order history, your interactions with Shop.app/search or other marketing activities related to the Shopify Consumer Services, and favorited Shops.
+We receive Personal Data when you use or interact with Shopify or Shopify services, which may include the following categories: Use of Shopify Consumer Services : We receive information regarding your use of or interactions with Shopify Consumer Services, whether or not you are logged in to Shopify, such as your interactions with Shopify Merchants, the Shops you visit, the products you view and visit, the product reviews and ratings you post and share, your order history, your interactions with Shop.app/search or other marketing activities related to the Shopify Consumer Services, and favorited Shops.</data>
+</edge>
+<edge source="Shopify" target="rating" id="e17">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">We receive Personal Data when you use or interact with Shopify or Shopify services, which may include the following categories: Use of Shopify Consumer Services : We receive information regarding your use of or interactions with Shopify Consumer Services, whether or not you are logged in to Shopify, such as your interactions with Shopify Merchants, the Shops you visit, the products you view and visit, the product reviews and ratings you post and share, your order history, your interactions with Shop.app/search or other marketing activities related to the Shopify Consumer Services, and favorited Shops.
+We receive Personal Data when you use or interact with Shopify or Shopify services, which may include the following categories: Use of Shopify Consumer Services : We receive information regarding your use of or interactions with Shopify Consumer Services, whether or not you are logged in to Shopify, such as your interactions with Shopify Merchants, the Shops you visit, the products you view and visit, the product reviews and ratings you post and share, your order history, your interactions with Shop.app/search or other marketing activities related to the Shopify Consumer Services, and favorited Shops.</data>
+</edge>
+<edge source="Shopify" target="product you view" id="e18">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">We receive Personal Data when you use or interact with Shopify or Shopify services, which may include the following categories: Use of Shopify Consumer Services : We receive information regarding your use of or interactions with Shopify Consumer Services, whether or not you are logged in to Shopify, such as your interactions with Shopify Merchants, the Shops you visit, the products you view and visit, the product reviews and ratings you post and share, your order history, your interactions with Shop.app/search or other marketing activities related to the Shopify Consumer Services, and favorited Shops.
+We receive Personal Data when you use or interact with Shopify or Shopify services, which may include the following categories: Use of Shopify Consumer Services : We receive information regarding your use of or interactions with Shopify Consumer Services, whether or not you are logged in to Shopify, such as your interactions with Shopify Merchants, the Shops you visit, the products you view and visit, the product reviews and ratings you post and share, your order history, your interactions with Shop.app/search or other marketing activities related to the Shopify Consumer Services, and favorited Shops.</data>
+</edge>
+<edge source="Shopify" target="email service provider" id="e19">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">We receive Personal Data when you use or interact with Shopify or Shopify services, which may include the following categories: Email and Shopping Service Integrations .</data>
+</edge>
+<edge source="Shopify" target="asset" id="e20">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">Change of Control : We may share Personal Data with actual or prospective acquirers, their representatives and other relevant participants in, or during negotiations of, any sale, merger, acquisition, restructuring, or change in control involving all or a portion of Shopify's business or assets, including in connection with bankruptcy or similar proceedings.
+Change of Control : We may share Personal Data with actual or prospective acquirers, their representatives and other relevant participants in, or during negotiations of, any sale, merger, acquisition, restructuring, or change in control involving all or a portion of Shopify's business or assets, including in connection with bankruptcy or similar proceedings.</data>
+</edge>
+<edge source="Shopify" target="personal information" id="e21">
+  <data key="d2">COLLECT</data>
+  <data key="d3">Shopify Consumer Privacy Policy
+
+3. How We Use Your Personal Data
+
+Shopify uses Personal Data for the following purposes depending on how you interact with us or which Shopify services you use and based on your activity across all devices where you log in to, or interact with, Shopify or Shopify services:
+Shopify Consumer Privacy Policy
+
+3. How We Use Your Personal Data
+
+Shopify uses Personal Data for the following purposes depending on how you interact with us or which Shopify services you use and based on your activity across all devices where you log in to, or interact with, Shopify or Shopify services:
+5. Third-Parties Who May Receive Personal Data
+
+Depending on which Shopify services you use or interact with, Shopify may provide Personal Data to the following categories of third parties:
+5. Third-Parties Who May Receive Personal Data
+
+Depending on which Shopify services you use or interact with, Shopify may provide Personal Data to the following categories of third parties:</data>
+</edge>
+<edge source="Shopify" target="personal datum from merchants you interact" id="e22">
+  <data key="d2">COLLECT</data>
+  <data key="d3">Shopify also processes your Personal Data from Merchants you interact or shop with in order to help Merchants run their Shops and to provide business services to our Merchants.
+Shopify also processes your Personal Data from Merchants you interact or shop with in order to help Merchants run their Shops and to provide business services to our Merchants.</data>
+</edge>
+<edge source="personal information" target="contact information" id="e23">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">We receive Personal Data when you use or interact with Shopify or Shopify services, which may include the following categories:
+Profile and Contact Information : We receive contact or other profile information when you sign up for or interact with Shopify Consumer Services, which may include name, shipping address, email address, profile picture, or other information you choose to provide us.</data>
+</edge>
+<edge source="personal information" target="social network accounts" id="e24">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">We receive Personal Data when you use or interact with Shopify or Shopify services, which may include the following categories: Social Network Accounts .</data>
+</edge>
+<edge source="advertiser" target="personalized advertising" id="e25">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">Shopify Consumer Privacy Policy
+
+3. How We Use Your Personal Data
+
+Shopify uses Personal Data for the following purposes depending on how you interact with us or which Shopify services you use and based on your activity across all devices where you log in to, or interact with, Shopify or Shopify services: Provide Customized Advertising for our Merchants : To provide advertising services to our Merchants, which may include personalized advertising.
+Shopify Consumer Privacy Policy
+
+3. How We Use Your Personal Data
+
+Shopify uses Personal Data for the following purposes depending on how you interact with us or which Shopify services you use and based on your activity across all devices where you log in to, or interact with, Shopify or Shopify services: Provide Customized Advertising for our Merchants : To provide advertising services to our Merchants, which may include personalized advertising.</data>
+</edge>
+<edge source="advertiser" target="personal information" id="e26">
+  <data key="d2">COLLECT</data>
+  <data key="d3">5. Third-Parties Who May Receive Personal Data
+
+Depending on which Shopify services you use or interact with, Shopify may provide Personal Data to the following categories of third parties: Marketing, Advertising, and Analytics Partners : We may use third-party marketing, advertising, and business analytics partners to deliver personalized advertising and to help us understand how people use or interact with Shopify services and our Merchants.
+5. Third-Parties Who May Receive Personal Data
+
+Depending on which Shopify services you use or interact with, Shopify may provide Personal Data to the following categories of third parties: Marketing, Advertising, and Analytics Partners : We may use third-party marketing, advertising, and business analytics partners to deliver personalized advertising and to help us understand how people use or interact with Shopify services and our Merchants.
+5. Third-Parties Who May Receive Personal Data
+
+Depending on which Shopify services you use or interact with, Shopify may provide Personal Data to the following categories of third parties: Marketing, Advertising, and Analytics Partners : We may use third-party marketing, advertising, and business analytics partners to deliver personalized advertising and to help us understand how people use or interact with Shopify services and our Merchants.</data>
+</edge>
+<edge source="advertiser" target="information about use of" id="e27">
+  <data key="d2">COLLECT</data>
+  <data key="d3">5. Third-Parties Who May Receive Personal Data
+
+Depending on which Shopify services you use or interact with, Shopify may provide Personal Data to the following categories of third parties: Marketing, Advertising, and Analytics Partners : We may use third-party marketing, advertising, and business analytics partners to deliver personalized advertising and to help us understand how people use or interact with Shopify services and our Merchants.
+5. Third-Parties Who May Receive Personal Data
+
+Depending on which Shopify services you use or interact with, Shopify may provide Personal Data to the following categories of third parties: Marketing, Advertising, and Analytics Partners : We may use third-party marketing, advertising, and business analytics partners to deliver personalized advertising and to help us understand how people use or interact with Shopify services and our Merchants.
+These partners may receive information about your use of, or interactions with, Shopify services, including through third-party cookies or other technologies.</data>
+</edge>
+<edge source="Xandr" target="personal information" id="e28">
+  <data key="d2">COLLECT</data>
+  <data key="d3">5. Third-Parties Who May Receive Personal Data
+
+Depending on which Shopify services you use or interact with, Shopify may provide Personal Data to the following categories of third parties: Marketing, Advertising, and Analytics Partners : We may use third-party marketing, advertising, and business analytics partners to deliver personalized advertising and to help us understand how people use or interact with Shopify services and our Merchants.
+5. Third-Parties Who May Receive Personal Data
+
+Depending on which Shopify services you use or interact with, Shopify may provide Personal Data to the following categories of third parties: Marketing, Advertising, and Analytics Partners : We may use third-party marketing, advertising, and business analytics partners to deliver personalized advertising and to help us understand how people use or interact with Shopify services and our Merchants.
+5. Third-Parties Who May Receive Personal Data
+
+Depending on which Shopify services you use or interact with, Shopify may provide Personal Data to the following categories of third parties: Marketing, Advertising, and Analytics Partners : We may use third-party marketing, advertising, and business analytics partners to deliver personalized advertising and to help us understand how people use or interact with Shopify services and our Merchants.</data>
+</edge>
+<edge source="Xandr" target="information about use of" id="e29">
+  <data key="d2">COLLECT</data>
+  <data key="d3">5. Third-Parties Who May Receive Personal Data
+
+Depending on which Shopify services you use or interact with, Shopify may provide Personal Data to the following categories of third parties: Marketing, Advertising, and Analytics Partners : We may use third-party marketing, advertising, and business analytics partners to deliver personalized advertising and to help us understand how people use or interact with Shopify services and our Merchants.
+These partners may receive information about your use of, or interactions with, Shopify services, including through third-party cookies or other technologies.</data>
+</edge>
+<edge source="analytic provider" target="personal information" id="e30">
+  <data key="d2">COLLECT</data>
+  <data key="d3">5. Third-Parties Who May Receive Personal Data
+
+Depending on which Shopify services you use or interact with, Shopify may provide Personal Data to the following categories of third parties: Marketing, Advertising, and Analytics Partners : We may use third-party marketing, advertising, and business analytics partners to deliver personalized advertising and to help us understand how people use or interact with Shopify services and our Merchants.
+5. Third-Parties Who May Receive Personal Data
+
+Depending on which Shopify services you use or interact with, Shopify may provide Personal Data to the following categories of third parties: Marketing, Advertising, and Analytics Partners : We may use third-party marketing, advertising, and business analytics partners to deliver personalized advertising and to help us understand how people use or interact with Shopify services and our Merchants.
+5. Third-Parties Who May Receive Personal Data
+
+Depending on which Shopify services you use or interact with, Shopify may provide Personal Data to the following categories of third parties: Marketing, Advertising, and Analytics Partners : We may use third-party marketing, advertising, and business analytics partners to deliver personalized advertising and to help us understand how people use or interact with Shopify services and our Merchants.</data>
+</edge>
+<edge source="analytic provider" target="information about use of" id="e31">
+  <data key="d2">COLLECT</data>
+  <data key="d3">5. Third-Parties Who May Receive Personal Data
+
+Depending on which Shopify services you use or interact with, Shopify may provide Personal Data to the following categories of third parties: Marketing, Advertising, and Analytics Partners : We may use third-party marketing, advertising, and business analytics partners to deliver personalized advertising and to help us understand how people use or interact with Shopify services and our Merchants.
+5. Third-Parties Who May Receive Personal Data
+
+Depending on which Shopify services you use or interact with, Shopify may provide Personal Data to the following categories of third parties: Marketing, Advertising, and Analytics Partners : We may use third-party marketing, advertising, and business analytics partners to deliver personalized advertising and to help us understand how people use or interact with Shopify services and our Merchants.
+These partners may receive information about your use of, or interactions with, Shopify services, including through third-party cookies or other technologies.</data>
+</edge>
+<edge source="we" target="personal information" id="e32">
+  <data key="d2">COLLECT</data>
+  <data key="d3">TABLE OF CONTENTS
+
+2. What Personal Data We Receive
+TABLE OF CONTENTS
+
+2. What Personal Data We Receive
+Shopify Consumer Privacy Policy
+
+2. What Personal Data We Receive
+Shopify Consumer Privacy Policy
+
+2. What Personal Data We Receive
+We receive Personal Data when you use or interact with Shopify or Shopify services, which may include the following categories:
+We receive Personal Data when you use or interact with Shopify or Shopify services, which may include the following categories:
+Change of Control : We may share Personal Data with actual or prospective acquirers, their representatives and other relevant participants in, or during negotiations of, any sale, merger, acquisition, restructuring, or change in control involving all or a portion of Shopify's business or assets, including in connection with bankruptcy or similar proceedings.
+Change of Control : We may share Personal Data with actual or prospective acquirers, their representatives and other relevant participants in, or during negotiations of, any sale, merger, acquisition, restructuring, or change in control involving all or a portion of Shopify's business or assets, including in connection with bankruptcy or similar proceedings.
+We may share Personal Data as needed to: (1) comply with applicable law or respond to, investigate, or participate in valid legal process and proceedings, including from law enforcement or government agencies; (2) enforce or investigate potential violations of its Terms of Service or policies; (3) detect, prevent, or investigate potential fraud, abuse, or safety and security concerns, including threats to the public; (4) meet our corporate and social responsibility commitments; (5) protect our and our Merchants and users' rights and property; and (6) resolve disputes and enforce agreements.
+We may share Personal Data as needed to: (1) comply with applicable law or respond to, investigate, or participate in valid legal process and proceedings, including from law enforcement or government agencies; (2) enforce or investigate potential violations of its Terms of Service or policies; (3) detect, prevent, or investigate potential fraud, abuse, or safety and security concerns, including threats to the public; (4) meet our corporate and social responsibility commitments; (5) protect our and our Merchants and users' rights and property; and (6) resolve disputes and enforce agreements.
+Shopify Consumer Privacy Policy
+
+8. Retention
+
+We retain Personal Data for as long as we have an ongoing business need to do so (e.g., to provide the Shopify services, to comply with applicable legal, tax, or accounting requirements, for security and fraud detection or prevention, or in connection with backup or disaster recovery processes), unless a different retention period is permitted or required by applicable law.
+Shopify Consumer Privacy Policy
+
+8. Retention
+
+We retain Personal Data for as long as we have an ongoing business need to do so (e.g., to provide the Shopify services, to comply with applicable legal, tax, or accounting requirements, for security and fraud detection or prevention, or in connection with backup or disaster recovery processes), unless a different retention period is permitted or required by applicable law.</data>
+</edge>
+<edge source="we" target="privacy preference" id="e33">
+  <data key="d2">COLLECT</data>
+  <data key="d3">We receive Personal Data when you use or interact with Shopify or Shopify services, which may include the following categories:
+Settings and Privacy Preferences : We receive information about your settings and preferences on Shopify and our Merchants, as well as information about your browser and device privacy settings.</data>
+</edge>
+<edge source="we" target="contact information" id="e34">
+  <data key="d2">COLLECT</data>
+  <data key="d3">Profile and Contact Information : We receive contact or other profile information when you sign up for or interact with Shopify Consumer Services, which may include name, shipping address, email address, profile picture, or other information you choose to provide us.
+Profile and Contact Information : We receive contact or other profile information when you sign up for or interact with Shopify Consumer Services, which may include name, shipping address, email address, profile picture, or other information you choose to provide us.</data>
+</edge>
+<edge source="we" target="information about computer you use" id="e35">
+  <data key="d2">COLLECT</data>
+  <data key="d3">Device Information : We receive information about the computers, phones, and other devices you use or interact with Shopify or Shopify Consumer Services, including IP address (which may be used to determine general location), device identifiers, cookie IDs, the browser you use, your network connection, or other unique identifiers or device information.
+Device Information : We receive information about the computers, phones, and other devices you use or interact with Shopify or Shopify Consumer Services, including IP address (which may be used to determine general location), device identifiers, cookie IDs, the browser you use, your network connection, or other unique identifiers or device information.</data>
+</edge>
+<edge source="we" target="payment information" id="e36">
+  <data key="d2">COLLECT</data>
+  <data key="d3">Payment Information : We receive payment information when you use Shop Pay or make a purchase through Shopify services, such as your payment card number and expiration date.
+Payment Information : We receive payment information when you use Shop Pay or make a purchase through Shopify services, such as your payment card number and expiration date.</data>
+</edge>
+<edge source="we" target="UNSPECIFIED_DATA" id="e37">
+  <data key="d2">COLLECT</data>
+  <data key="d3">We receive Personal Data when you use or interact with Shopify or Shopify services, which may include the following categories: Use of Shopify Consumer Services : We receive information regarding your use of or interactions with Shopify Consumer Services, whether or not you are logged in to Shopify, such as your interactions with Shopify Merchants, the Shops you visit, the products you view and visit, the product reviews and ratings you post and share, your order history, your interactions with Shop.app/search or other marketing activities related to the Shopify Consumer Services, and favorited Shops.
+We receive Personal Data when you use or interact with Shopify or Shopify services, which may include the following categories: Use of Shopify Consumer Services : We receive information regarding your use of or interactions with Shopify Consumer Services, whether or not you are logged in to Shopify, such as your interactions with Shopify Merchants, the Shops you visit, the products you view and visit, the product reviews and ratings you post and share, your order history, your interactions with Shop.app/search or other marketing activities related to the Shopify Consumer Services, and favorited Shops.
+We receive information from email messages in the inboxes that you connect to your Shop account, and information from email messages you transfer to the app to be included in your order history.
+We receive information from email messages in the inboxes that you connect to your Shop account, and information from email messages you transfer to the app to be included in your order history.
+We also use your information to respond to you when you contact us.
+We also use your information to respond to you when you contact us.
+3. How We Use Your Personal Data
+
+Shopify may also aggregate, de-identify, and/or anonymize any information collected through the Shopify services in such a way that we cannot reasonably link information to you or your device.
+We may use such aggregate, de-identified, or anonymous information for any purpose, including, for example, to improve the Shopify service.
+Sharing at Your Discretion : Where you provide consent, we share your information as described at the time of consent, such as when connecting with a third party application or website.
+Sharing at Your Discretion : Where you provide consent, we share your information as described at the time of consent, such as when connecting with a third party application or website.</data>
+</edge>
+<edge source="we" target="information about setting on shopify" id="e38">
+  <data key="d2">COLLECT</data>
+  <data key="d3">Settings and Privacy Preferences : We receive information about your settings and preferences on Shopify and our Merchants, as well as information about your browser and device privacy settings.
+Settings and Privacy Preferences : We receive information about your settings and preferences on Shopify and our Merchants, as well as information about your browser and device privacy settings.</data>
+</edge>
+<edge source="we" target="information about browser privacy setting" id="e39">
+  <data key="d2">COLLECT</data>
+  <data key="d3">Settings and Privacy Preferences : We receive information about your settings and preferences on Shopify and our Merchants, as well as information about your browser and device privacy settings.
+Settings and Privacy Preferences : We receive information about your settings and preferences on Shopify and our Merchants, as well as information about your browser and device privacy settings.</data>
+</edge>
+<edge source="we" target="message content" id="e40">
+  <data key="d2">COLLECT</data>
+  <data key="d3">We receive Personal Data when you use or interact with Shopify or Shopify services, which may include the following categories: Communications with Shopify : We receive information, including message and email content, when you communicate with Shopify (such as for customer support inquiries, taking surveys, participating in promotions or research).
+We receive Personal Data when you use or interact with Shopify or Shopify services, which may include the following categories: Communications with Shopify : We receive information, including message and email content, when you communicate with Shopify (such as for customer support inquiries, taking surveys, participating in promotions or research).</data>
+</edge>
+<edge source="actual acquirer" target="personal information" id="e41">
+  <data key="d2">COLLECT</data>
+  <data key="d3">Change of Control : We may share Personal Data with actual or prospective acquirers, their representatives and other relevant participants in, or during negotiations of, any sale, merger, acquisition, restructuring, or change in control involving all or a portion of Shopify's business or assets, including in connection with bankruptcy or similar proceedings.
+Change of Control : We may share Personal Data with actual or prospective acquirers, their representatives and other relevant participants in, or during negotiations of, any sale, merger, acquisition, restructuring, or change in control involving all or a portion of Shopify's business or assets, including in connection with bankruptcy or similar proceedings.</data>
+</edge>
+<edge source="relevant participant" target="personal information" id="e42">
+  <data key="d2">COLLECT</data>
+  <data key="d3">Change of Control : We may share Personal Data with actual or prospective acquirers, their representatives and other relevant participants in, or during negotiations of, any sale, merger, acquisition, restructuring, or change in control involving all or a portion of Shopify's business or assets, including in connection with bankruptcy or similar proceedings.
+Change of Control : We may share Personal Data with actual or prospective acquirers, their representatives and other relevant participants in, or during negotiations of, any sale, merger, acquisition, restructuring, or change in control involving all or a portion of Shopify's business or assets, including in connection with bankruptcy or similar proceedings.</data>
+</edge>
+</graph></graphml>

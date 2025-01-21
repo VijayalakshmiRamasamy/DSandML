@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d3" for="edge" attr.name="text" attr.type="string"/>
+<key id="d2" for="edge" attr.name="relationship" attr.type="string"/>
+<key id="d1" for="node" attr.name="type" attr.type="string"/>
+<key id="d0" for="node" attr.name="label" attr.type="string"/>
+<graph edgedefault="directed"><node id="we">
+  <data key="d0">we</data>
+  <data key="d1">ACTOR</data>
+</node>
+<node id="information about you">
+  <data key="d0">information about you</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="UNSPECIFIED_ACTOR">
+  <data key="d0">UNSPECIFIED_ACTOR</data>
+  <data key="d1">ACTOR</data>
+</node>
+<node id="UNSPECIFIED_DATA">
+  <data key="d0">UNSPECIFIED_DATA</data>
+  <data key="d1">DATA</data>
+</node>
+<edge source="we" target="information about you" id="e0">
+  <data key="d2">COLLECT</data>
+  <data key="d3">At Target, we want you to know how we collect, use, share, and protect information about you.
+At Target, we want you to know how we collect, use, share, and protect information about you.</data>
+</edge>
+<edge source="UNSPECIFIED_ACTOR" target="UNSPECIFIED_DATA" id="e1">
+  <data key="d2">COLLECT</data>
+  <data key="d3">Privacy Policy
+
+How is Your Information Shared? 
+
+Sharing Non-identifiable or Aggregate Information with Third Parties
+Privacy Policy
+
+How is Your Information Shared? 
+
+Sharing Non-identifiable or Aggregate Information with Third Parties</data>
+</edge>
+</graph></graphml>

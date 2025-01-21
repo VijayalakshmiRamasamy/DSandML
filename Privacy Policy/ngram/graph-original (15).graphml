@@ -1,0 +1,399 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d3" for="edge" attr.name="text" attr.type="string"/>
+<key id="d2" for="edge" attr.name="relationship" attr.type="string"/>
+<key id="d1" for="node" attr.name="type" attr.type="string"/>
+<key id="d0" for="node" attr.name="label" attr.type="string"/>
+<graph edgedefault="directed"><node id="we">
+  <data key="d0">we</data>
+  <data key="d1">ACTOR</data>
+</node>
+<node id="personal information">
+  <data key="d0">personal information</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="personal identifier">
+  <data key="d0">personal identifier</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="person name">
+  <data key="d0">person name</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="postal address">
+  <data key="d0">postal address</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="email address">
+  <data key="d0">email address</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="phone number">
+  <data key="d0">phone number</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="ip address">
+  <data key="d0">ip address</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="identifier">
+  <data key="d0">identifier</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="account username">
+  <data key="d0">account username</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="password">
+  <data key="d0">password</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="date of birth">
+  <data key="d0">date of birth</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="gender">
+  <data key="d0">gender</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="contact">
+  <data key="d0">contact</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="identifying information you provide">
+  <data key="d0">identifying information you provide</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="contact information">
+  <data key="d0">contact information</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="inference draw from">
+  <data key="d0">inference draw from</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="cookie / pixel tag">
+  <data key="d0">cookie / pixel tag</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="analytic provider">
+  <data key="d0">analytic provider</data>
+  <data key="d1">ACTOR</data>
+</node>
+<node id="record of product purchase">
+  <data key="d0">record of product purchase</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="UNSPECIFIED_ACTOR">
+  <data key="d0">UNSPECIFIED_ACTOR</data>
+  <data key="d1">ACTOR</data>
+</node>
+<node id="Google">
+  <data key="d0">Google</data>
+  <data key="d1">ACTOR</data>
+</node>
+<node id="comment about product">
+  <data key="d0">comment about product</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="commercial information">
+  <data key="d0">commercial information</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="consume history">
+  <data key="d0">consume history</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="tendency">
+  <data key="d0">tendency</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="record">
+  <data key="d0">record</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="audio information">
+  <data key="d0">audio information</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="recording of customer service call">
+  <data key="d0">recording of customer service call</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="track technology">
+  <data key="d0">track technology</data>
+  <data key="d1">ACTOR</data>
+</node>
+<node id="UNSPECIFIED_DATA">
+  <data key="d0">UNSPECIFIED_DATA</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="internet information">
+  <data key="d0">internet information</data>
+  <data key="d1">DATA</data>
+</node>
+<edge source="we" target="personal information" id="e0">
+  <data key="d2">COLLECT</data>
+  <data key="d3">We may also collect your personal information from other users who share their contact lists with us or submit comments to us about your use of our Services.
+We may also collect your personal information from other users who share their contact lists with us or submit comments to us about your use of our Services.
+Purposes for Collection of Personal Information
+
+We use your Personal Information to identify and authenticate your access to certain features of the Sites and Services; to provide you with our Services; to fulfill your orders, ship you products, and process returns; to administer our rewards program; to market and advertise the Services; to recommend products and videos you may like on our platform; to support and troubleshoot the Services and to respond to your queries; and to investigate and resolve disputes in connection with your use of the Services.
+Purposes for Collection of Personal Information
+
+We use your Personal Information to identify and authenticate your access to certain features of the Sites and Services; to provide you with our Services; to fulfill your orders, ship you products, and process returns; to administer our rewards program; to market and advertise the Services; to recommend products and videos you may like on our platform; to support and troubleshoot the Services and to respond to your queries; and to investigate and resolve disputes in connection with your use of the Services.
+Purposes for Collection of Personal Information
+
+Additionally, we use Personal Information, including about your use of our Sites, to monitor or improve our Sites; for internal business analysis; to prevent fraud, activities that violate our Terms of Service or that are illegal; and to protect our rights and the rights and safety of our users or others.
+Purposes for Collection of Personal Information
+
+Additionally, we use Personal Information, including about your use of our Sites, to monitor or improve our Sites; for internal business analysis; to prevent fraud, activities that violate our Terms of Service or that are illegal; and to protect our rights and the rights and safety of our users or others.
+Flip Privacy Policy
+
+Disclosure of Personal Information to Third Parties
+
+We may share your personal information with third party service providers that assist us with the operation of our business, including entities that assist with order fulfillment and returns processing; payment processing; marketing and advertisements; business analytics; customer relationship management; operation of and maintenance of the Sites; operation of our Creator program; auditors or business advisors; and for other operational purposes.
+Flip Privacy Policy
+
+Disclosure of Personal Information to Third Parties
+
+We may share your personal information with third party service providers that assist us with the operation of our business, including entities that assist with order fulfillment and returns processing; payment processing; marketing and advertisements; business analytics; customer relationship management; operation of and maintenance of the Sites; operation of our Creator program; auditors or business advisors; and for other operational purposes.
+We may also share personal information as required or permitted by law to comply with a subpoena or similar legal process or government request, or when we believe in good faith that disclosure is legally required or otherwise necessary to protect our rights and property or the rights, property or safety of others, including to law enforcement agencies, and judicial and regulatory authorities.
+We may also share personal information as required or permitted by law to comply with a subpoena or similar legal process or government request, or when we believe in good faith that disclosure is legally required or otherwise necessary to protect our rights and property or the rights, property or safety of others, including to law enforcement agencies, and judicial and regulatory authorities.
+We may also share your personal information with third parties to help detect and protect against fraud or data security vulnerabilities.
+We may also share your personal information with third parties to help detect and protect against fraud or data security vulnerabilities.
+We may also transfer your personal information to a third party in the event of an actual or contemplated sale, merger, investment in or reorganization of our business.
+We may also transfer your personal information to a third party in the event of an actual or contemplated sale, merger, investment in or reorganization of our business.</data>
+</edge>
+<edge source="we" target="comment about product" id="e1">
+  <data key="d2">COLLECT</data>
+  <data key="d3">We may collect the following types of personal information about you when you use the Services, including by creating a user profile on the Sites or register to become a Flip Creator, post a flip video, indicate that you like a product or a Flip video clip, purchase or return a product, submit comments about a product or a Flip video, sign onto our Services through a social media platform, or redeem Rewards earned or other compensation associated with your use of our Sites, and otherwise communicate with us.
+We may collect the following types of personal information about you when you use the Services, including by creating a user profile on the Sites or register to become a Flip Creator, post a flip video, indicate that you like a product or a Flip video clip, purchase or return a product, submit comments about a product or a Flip video, sign onto our Services through a social media platform, or redeem Rewards earned or other compensation associated with your use of our Sites, and otherwise communicate with us.</data>
+</edge>
+<edge source="we" target="record of product purchase" id="e2">
+  <data key="d2">COLLECT</data>
+  <data key="d3">Personal Information We Collect - Sources and Categories
+
+We collect the following categories of Personal Information from the sources identified above:
+We collect the following categories of Personal Information from the sources identified above: Commercial information: Records of products purchased or considered; consuming histories or tendencies; records of videos viewed and engagement with those videos (comments, likes, dislikes) and products that appear on them; comments, reviews, likes and dislikes and purchases associated with videos you post; beauty preferences (hair type, skin type and tone, skin concerns) provided.</data>
+</edge>
+<edge source="we" target="consume history" id="e3">
+  <data key="d2">COLLECT</data>
+  <data key="d3">Personal Information We Collect - Sources and Categories
+
+We collect the following categories of Personal Information from the sources identified above:
+We collect the following categories of Personal Information from the sources identified above: Commercial information: Records of products purchased or considered; consuming histories or tendencies; records of videos viewed and engagement with those videos (comments, likes, dislikes) and products that appear on them; comments, reviews, likes and dislikes and purchases associated with videos you post; beauty preferences (hair type, skin type and tone, skin concerns) provided.</data>
+</edge>
+<edge source="we" target="tendency" id="e4">
+  <data key="d2">COLLECT</data>
+  <data key="d3">Personal Information We Collect - Sources and Categories
+
+We collect the following categories of Personal Information from the sources identified above:
+We collect the following categories of Personal Information from the sources identified above: Commercial information: Records of products purchased or considered; consuming histories or tendencies; records of videos viewed and engagement with those videos (comments, likes, dislikes) and products that appear on them; comments, reviews, likes and dislikes and purchases associated with videos you post; beauty preferences (hair type, skin type and tone, skin concerns) provided.</data>
+</edge>
+<edge source="we" target="record" id="e5">
+  <data key="d2">COLLECT</data>
+  <data key="d3">Personal Information We Collect - Sources and Categories
+
+We collect the following categories of Personal Information from the sources identified above:
+We collect the following categories of Personal Information from the sources identified above: Commercial information: Records of products purchased or considered; consuming histories or tendencies; records of videos viewed and engagement with those videos (comments, likes, dislikes) and products that appear on them; comments, reviews, likes and dislikes and purchases associated with videos you post; beauty preferences (hair type, skin type and tone, skin concerns) provided.</data>
+</edge>
+<edge source="we" target="recording of customer service call" id="e6">
+  <data key="d2">COLLECT</data>
+  <data key="d3">Personal Information We Collect - Sources and Categories
+
+We collect the following categories of Personal Information from the sources identified above:
+We collect the following categories of Personal Information from the sources identified above: Audio and visual information: Recordings of customer service calls, your voice and image as they appear on videos uploaded to the platform, photographs you post.</data>
+</edge>
+<edge source="we" target="inference draw from" id="e7">
+  <data key="d2">COLLECT</data>
+  <data key="d3">Personal Information We Collect - Sources and Categories
+
+We collect the following categories of Personal Information from the sources identified above: Inferences drawn from any of the Personal Information identified above.</data>
+</edge>
+<edge source="we" target="personal identifier" id="e8">
+  <data key="d2">COLLECT</data>
+  <data key="d3">Personal Information We Collect - Sources and Categories
+
+We collect the following categories of Personal Information from the sources identified above: Personal identifiers: Name, billing and mailing addresses, email address, telephone numbers, IP address or other unique identifier, account username and password, social media platform usernames/handles, date of birth, gender, your contacts and their contact information (if you choose to provide us with access), and identifying information you may voluntarily provide to use through our Live Support or other customer service platforms.</data>
+</edge>
+<edge source="we" target="commercial information" id="e9">
+  <data key="d2">COLLECT</data>
+  <data key="d3">Personal Information We Collect - Sources and Categories
+
+We collect the following categories of Personal Information from the sources identified above:
+We collect the following categories of Personal Information from the sources identified above: Commercial information: Records of products purchased or considered; consuming histories or tendencies; records of videos viewed and engagement with those videos (comments, likes, dislikes) and products that appear on them; comments, reviews, likes and dislikes and purchases associated with videos you post; beauty preferences (hair type, skin type and tone, skin concerns) provided.</data>
+</edge>
+<edge source="we" target="audio information" id="e10">
+  <data key="d2">COLLECT</data>
+  <data key="d3">Personal Information We Collect - Sources and Categories
+
+We collect the following categories of Personal Information from the sources identified above:
+We collect the following categories of Personal Information from the sources identified above: Audio and visual information: Recordings of customer service calls, your voice and image as they appear on videos uploaded to the platform, photographs you post.</data>
+</edge>
+<edge source="we" target="internet information" id="e11">
+  <data key="d2">COLLECT</data>
+  <data key="d3">Personal Information We Collect - Sources and Categories
+
+We collect the following categories of Personal Information from the sources identified above: Internet or other electronic activity information: Device and browser type, your browsing and search history on our Sites, and information regarding your interaction with our Sites (including flip videos on the Site) and our advertisements.</data>
+</edge>
+<edge source="we" target="cookie / pixel tag" id="e12">
+  <data key="d2">COLLECT</data>
+  <data key="d3">We may use cookies or similar tracking technologies to capture information about the use of our Sites, including to improve your user experience.
+We may use cookies or similar tracking technologies to capture information about the use of our Sites, including to improve your user experience.</data>
+</edge>
+<edge source="we" target="UNSPECIFIED_DATA" id="e13">
+  <data key="d2">COLLECT</data>
+  <data key="d3">Accordingly, we may store and retrieve information on your device through the use of cookies and similar technologies.
+Accordingly, we may store and retrieve information on your device through the use of cookies and similar technologies.</data>
+</edge>
+<edge source="personal information" target="contact" id="e14">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">Personal Information We Collect - Sources and Categories
+
+We collect the following categories of Personal Information from the sources identified above: Personal identifiers: Name, billing and mailing addresses, email address, telephone numbers, IP address or other unique identifier, account username and password, social media platform usernames/handles, date of birth, gender, your contacts and their contact information (if you choose to provide us with access), and identifying information you may voluntarily provide to use through our Live Support or other customer service platforms.</data>
+</edge>
+<edge source="personal information" target="gender" id="e15">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">Personal Information We Collect - Sources and Categories
+
+We collect the following categories of Personal Information from the sources identified above: Personal identifiers: Name, billing and mailing addresses, email address, telephone numbers, IP address or other unique identifier, account username and password, social media platform usernames/handles, date of birth, gender, your contacts and their contact information (if you choose to provide us with access), and identifying information you may voluntarily provide to use through our Live Support or other customer service platforms.</data>
+</edge>
+<edge source="personal information" target="identifying information you provide" id="e16">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">Personal Information We Collect - Sources and Categories
+
+We collect the following categories of Personal Information from the sources identified above: Personal identifiers: Name, billing and mailing addresses, email address, telephone numbers, IP address or other unique identifier, account username and password, social media platform usernames/handles, date of birth, gender, your contacts and their contact information (if you choose to provide us with access), and identifying information you may voluntarily provide to use through our Live Support or other customer service platforms.</data>
+</edge>
+<edge source="personal information" target="email address" id="e17">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">Personal Information We Collect - Sources and Categories
+
+We collect the following categories of Personal Information from the sources identified above: Personal identifiers: Name, billing and mailing addresses, email address, telephone numbers, IP address or other unique identifier, account username and password, social media platform usernames/handles, date of birth, gender, your contacts and their contact information (if you choose to provide us with access), and identifying information you may voluntarily provide to use through our Live Support or other customer service platforms.</data>
+</edge>
+<edge source="personal information" target="postal address" id="e18">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">Personal Information We Collect - Sources and Categories
+
+We collect the following categories of Personal Information from the sources identified above: Personal identifiers: Name, billing and mailing addresses, email address, telephone numbers, IP address or other unique identifier, account username and password, social media platform usernames/handles, date of birth, gender, your contacts and their contact information (if you choose to provide us with access), and identifying information you may voluntarily provide to use through our Live Support or other customer service platforms.</data>
+</edge>
+<edge source="personal information" target="phone number" id="e19">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">Personal Information We Collect - Sources and Categories
+
+We collect the following categories of Personal Information from the sources identified above: Personal identifiers: Name, billing and mailing addresses, email address, telephone numbers, IP address or other unique identifier, account username and password, social media platform usernames/handles, date of birth, gender, your contacts and their contact information (if you choose to provide us with access), and identifying information you may voluntarily provide to use through our Live Support or other customer service platforms.</data>
+</edge>
+<edge source="personal information" target="ip address" id="e20">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">Personal Information We Collect - Sources and Categories
+
+We collect the following categories of Personal Information from the sources identified above: Personal identifiers: Name, billing and mailing addresses, email address, telephone numbers, IP address or other unique identifier, account username and password, social media platform usernames/handles, date of birth, gender, your contacts and their contact information (if you choose to provide us with access), and identifying information you may voluntarily provide to use through our Live Support or other customer service platforms.</data>
+</edge>
+<edge source="personal information" target="password" id="e21">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">Personal Information We Collect - Sources and Categories
+
+We collect the following categories of Personal Information from the sources identified above: Personal identifiers: Name, billing and mailing addresses, email address, telephone numbers, IP address or other unique identifier, account username and password, social media platform usernames/handles, date of birth, gender, your contacts and their contact information (if you choose to provide us with access), and identifying information you may voluntarily provide to use through our Live Support or other customer service platforms.</data>
+</edge>
+<edge source="personal information" target="date of birth" id="e22">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">Personal Information We Collect - Sources and Categories
+
+We collect the following categories of Personal Information from the sources identified above: Personal identifiers: Name, billing and mailing addresses, email address, telephone numbers, IP address or other unique identifier, account username and password, social media platform usernames/handles, date of birth, gender, your contacts and their contact information (if you choose to provide us with access), and identifying information you may voluntarily provide to use through our Live Support or other customer service platforms.</data>
+</edge>
+<edge source="personal information" target="contact information" id="e23">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">Personal Information We Collect - Sources and Categories
+
+We collect the following categories of Personal Information from the sources identified above: Personal identifiers: Name, billing and mailing addresses, email address, telephone numbers, IP address or other unique identifier, account username and password, social media platform usernames/handles, date of birth, gender, your contacts and their contact information (if you choose to provide us with access), and identifying information you may voluntarily provide to use through our Live Support or other customer service platforms.</data>
+</edge>
+<edge source="personal information" target="person name" id="e24">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">Personal Information We Collect - Sources and Categories
+
+We collect the following categories of Personal Information from the sources identified above: Personal identifiers: Name, billing and mailing addresses, email address, telephone numbers, IP address or other unique identifier, account username and password, social media platform usernames/handles, date of birth, gender, your contacts and their contact information (if you choose to provide us with access), and identifying information you may voluntarily provide to use through our Live Support or other customer service platforms.</data>
+</edge>
+<edge source="personal information" target="identifier" id="e25">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">Personal Information We Collect - Sources and Categories
+
+We collect the following categories of Personal Information from the sources identified above: Personal identifiers: Name, billing and mailing addresses, email address, telephone numbers, IP address or other unique identifier, account username and password, social media platform usernames/handles, date of birth, gender, your contacts and their contact information (if you choose to provide us with access), and identifying information you may voluntarily provide to use through our Live Support or other customer service platforms.</data>
+</edge>
+<edge source="personal information" target="account username" id="e26">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">Personal Information We Collect - Sources and Categories
+
+We collect the following categories of Personal Information from the sources identified above: Personal identifiers: Name, billing and mailing addresses, email address, telephone numbers, IP address or other unique identifier, account username and password, social media platform usernames/handles, date of birth, gender, your contacts and their contact information (if you choose to provide us with access), and identifying information you may voluntarily provide to use through our Live Support or other customer service platforms.</data>
+</edge>
+<edge source="personal information" target="inference draw from" id="e27">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">Personal Information We Collect - Sources and Categories
+
+We collect the following categories of Personal Information from the sources identified above: Inferences drawn from any of the Personal Information identified above.</data>
+</edge>
+<edge source="personal information" target="personal identifier" id="e28">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">Personal Information We Collect - Sources and Categories
+
+We collect the following categories of Personal Information from the sources identified above: Personal identifiers: Name, billing and mailing addresses, email address, telephone numbers, IP address or other unique identifier, account username and password, social media platform usernames/handles, date of birth, gender, your contacts and their contact information (if you choose to provide us with access), and identifying information you may voluntarily provide to use through our Live Support or other customer service platforms.</data>
+</edge>
+<edge source="personal information" target="commercial information" id="e29">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">Personal Information We Collect - Sources and Categories
+
+We collect the following categories of Personal Information from the sources identified above:
+We collect the following categories of Personal Information from the sources identified above: Commercial information: Records of products purchased or considered; consuming histories or tendencies; records of videos viewed and engagement with those videos (comments, likes, dislikes) and products that appear on them; comments, reviews, likes and dislikes and purchases associated with videos you post; beauty preferences (hair type, skin type and tone, skin concerns) provided.</data>
+</edge>
+<edge source="personal information" target="audio information" id="e30">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">Personal Information We Collect - Sources and Categories
+
+We collect the following categories of Personal Information from the sources identified above:
+We collect the following categories of Personal Information from the sources identified above: Audio and visual information: Recordings of customer service calls, your voice and image as they appear on videos uploaded to the platform, photographs you post.</data>
+</edge>
+<edge source="personal information" target="internet information" id="e31">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">Personal Information We Collect - Sources and Categories
+
+We collect the following categories of Personal Information from the sources identified above: Internet or other electronic activity information: Device and browser type, your browsing and search history on our Sites, and information regarding your interaction with our Sites (including flip videos on the Site) and our advertisements.</data>
+</edge>
+<edge source="analytic provider" target="personal information" id="e32">
+  <data key="d2">COLLECT</data>
+  <data key="d3">Flip Privacy Policy
+
+Disclosure of Personal Information to Third Parties
+
+We may share your personal information with third party service providers that assist us with the operation of our business, including entities that assist with order fulfillment and returns processing; payment processing; marketing and advertisements; business analytics; customer relationship management; operation of and maintenance of the Sites; operation of our Creator program; auditors or business advisors; and for other operational purposes.
+Flip Privacy Policy
+
+Disclosure of Personal Information to Third Parties
+
+We may share your personal information with third party service providers that assist us with the operation of our business, including entities that assist with order fulfillment and returns processing; payment processing; marketing and advertisements; business analytics; customer relationship management; operation of and maintenance of the Sites; operation of our Creator program; auditors or business advisors; and for other operational purposes.</data>
+</edge>
+<edge source="UNSPECIFIED_ACTOR" target="personal information" id="e33">
+  <data key="d2">COLLECT</data>
+  <data key="d3">We may also share your personal information with third parties to help detect and protect against fraud or data security vulnerabilities.
+We may also share your personal information with third parties to help detect and protect against fraud or data security vulnerabilities.
+We may also transfer your personal information to a third party in the event of an actual or contemplated sale, merger, investment in or reorganization of our business.
+We may also transfer your personal information to a third party in the event of an actual or contemplated sale, merger, investment in or reorganization of our business.</data>
+</edge>
+<edge source="Google" target="cookie / pixel tag" id="e34">
+  <data key="d2">COLLECT</data>
+  <data key="d3">Google Analytics uses cookies and other identifiers to collect information, such as how often users visit a website, what pages they visit when they do so, and what other websites they visited prior to visiting a website.
+Google Analytics uses cookies and other identifiers to collect information, such as how often users visit a website, what pages they visit when they do so, and what other websites they visited prior to visiting a website.</data>
+</edge>
+<edge source="Google" target="identifier" id="e35">
+  <data key="d2">COLLECT</data>
+  <data key="d3">Google Analytics uses cookies and other identifiers to collect information, such as how often users visit a website, what pages they visit when they do so, and what other websites they visited prior to visiting a website.
+Google Analytics uses cookies and other identifiers to collect information, such as how often users visit a website, what pages they visit when they do so, and what other websites they visited prior to visiting a website.</data>
+</edge>
+<edge source="Google" target="UNSPECIFIED_DATA" id="e36">
+  <data key="d2">COLLECT</data>
+  <data key="d3">Google Analytics uses cookies and other identifiers to collect information, such as how often users visit a website, what pages they visit when they do so, and what other websites they visited prior to visiting a website.
+Google Analytics uses cookies and other identifiers to collect information, such as how often users visit a website, what pages they visit when they do so, and what other websites they visited prior to visiting a website.</data>
+</edge>
+<edge source="track technology" target="ip address" id="e37">
+  <data key="d2">COLLECT</data>
+  <data key="d3">The cookies and other tracking technologies may also collect information about your IP address or actions taken in connection with the Sites.
+The cookies and other tracking technologies may also collect information about your IP address or actions taken in connection with the Sites.</data>
+</edge>
+</graph></graphml>

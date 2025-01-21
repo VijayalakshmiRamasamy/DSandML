@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d3" for="edge" attr.name="text" attr.type="string"/>
+<key id="d2" for="edge" attr.name="relationship" attr.type="string"/>
+<key id="d1" for="node" attr.name="type" attr.type="string"/>
+<key id="d0" for="node" attr.name="label" attr.type="string"/>
+<graph edgedefault="directed"><node id="we">
+  <data key="d0">we</data>
+  <data key="d1">ACTOR</data>
+</node>
+<node id="UNSPECIFIED_DATA">
+  <data key="d0">UNSPECIFIED_DATA</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="datum we collect">
+  <data key="d0">datum we collect</data>
+  <data key="d1">DATA</data>
+</node>
+<edge source="we" target="UNSPECIFIED_DATA" id="e0">
+  <data key="d2">COLLECT</data>
+  <data key="d3">:
+
+We may share some or all of the above listed data in the following circumstances: at your direction (e.g. if you authorize us to share data with other users).
+:
+
+We may share some or all of the above listed data in the following circumstances: at your direction (e.g. if you authorize us to share data with other users).
+We retain data as needed to facilitate and personalize your use of CL, combat fraud/abuse and/or as required by law.
+We retain data as needed to facilitate and personalize your use of CL, combat fraud/abuse and/or as required by law.</data>
+</edge>
+<edge source="we" target="datum we collect" id="e1">
+  <data key="d2">COLLECT</data>
+  <data key="d3">By accessing CL or providing us data, you agree we may use and disclose data we collect as described here or as communicated to you, transmit it outside your resident jurisdiction, and store it on servers in the United States.
+By accessing CL or providing us data, you agree we may use and disclose data we collect as described here or as communicated to you, transmit it outside your resident jurisdiction, and store it on servers in the United States.</data>
+</edge>
+</graph></graphml>

@@ -1,0 +1,471 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d3" for="edge" attr.name="text" attr.type="string"/>
+<key id="d2" for="edge" attr.name="relationship" attr.type="string"/>
+<key id="d1" for="node" attr.name="type" attr.type="string"/>
+<key id="d0" for="node" attr.name="label" attr.type="string"/>
+<graph edgedefault="directed"><node id="personal information">
+  <data key="d0">personal information</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="UNSPECIFIED_DATA">
+  <data key="d0">UNSPECIFIED_DATA</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="contact information">
+  <data key="d0">contact information</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="person name">
+  <data key="d0">person name</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="postal address">
+  <data key="d0">postal address</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="email address">
+  <data key="d0">email address</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="credit / debit card number">
+  <data key="d0">credit / debit card number</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="date of birth">
+  <data key="d0">date of birth</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="tax identification number">
+  <data key="d0">tax identification number</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="ssn">
+  <data key="d0">ssn</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="information about mercari transaction">
+  <data key="d0">information about mercari transaction</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="message exchange with mercari user">
+  <data key="d0">message exchange with mercari user</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="item">
+  <data key="d0">item</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="ip address">
+  <data key="d0">ip address</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="device identifier">
+  <data key="d0">device identifier</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="action within service setting">
+  <data key="d0">action within service setting</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="Google">
+  <data key="d0">Google</data>
+  <data key="d1">ACTOR</data>
+</node>
+<node id="device datum">
+  <data key="d0">device datum</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="browsing / search history">
+  <data key="d0">browsing / search history</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="internet activity">
+  <data key="d0">internet activity</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="credit card account">
+  <data key="d0">credit card account</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="gender">
+  <data key="d0">gender</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="check account information">
+  <data key="d0">check account information</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="address information">
+  <data key="d0">address information</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="transaction history">
+  <data key="d0">transaction history</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="UNSPECIFIED_ACTOR">
+  <data key="d0">UNSPECIFIED_ACTOR</data>
+  <data key="d1">ACTOR</data>
+</node>
+<node id="information we receive">
+  <data key="d0">information we receive</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="financial company">
+  <data key="d0">financial company</data>
+  <data key="d1">ACTOR</data>
+</node>
+<node id="we">
+  <data key="d0">we</data>
+  <data key="d1">ACTOR</data>
+</node>
+<node id="account registration information you access">
+  <data key="d0">account registration information you access</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="social network information">
+  <data key="d0">social network information</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="usage information">
+  <data key="d0">usage information</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="information about you">
+  <data key="d0">information about you</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="information regard use of website">
+  <data key="d0">information regard use of website</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="Mercari">
+  <data key="d0">Mercari</data>
+  <data key="d1">ACTOR</data>
+</node>
+<node id="information collect">
+  <data key="d0">information collect</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="credit card">
+  <data key="d0">credit card</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="sensitive personal information">
+  <data key="d0">sensitive personal information</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="request">
+  <data key="d0">request</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="cookie / pixel tag">
+  <data key="d0">cookie / pixel tag</data>
+  <data key="d1">DATA</data>
+</node>
+<edge source="personal information" target="date of birth" id="e0">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">Privacy Policy
+
+Account Data
+
+3. Detailed personal information, such as your date of birth or tax identification number
+Privacy Policy
+
+Account Data
+
+3. Detailed personal information, such as your date of birth or tax identification number</data>
+</edge>
+<edge source="personal information" target="tax identification number" id="e1">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">Privacy Policy
+
+Account Data
+
+3. Detailed personal information, such as your date of birth or tax identification number
+Privacy Policy
+
+Account Data
+
+3. Detailed personal information, such as your date of birth or tax identification number</data>
+</edge>
+<edge source="personal information" target="transaction history" id="e2">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">The types of personal information we collect and share depend on the product or service you have with us.
+This information can include: Social Security number and name and gender and address information Credit card account and checking account information Transaction history</data>
+</edge>
+<edge source="personal information" target="person name" id="e3">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">The types of personal information we collect and share depend on the product or service you have with us.
+This information can include: Social Security number and name and gender and address information Credit card account and checking account information Transaction history</data>
+</edge>
+<edge source="personal information" target="check account information" id="e4">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">The types of personal information we collect and share depend on the product or service you have with us.
+This information can include: Social Security number and name and gender and address information Credit card account and checking account information Transaction history</data>
+</edge>
+<edge source="personal information" target="address information" id="e5">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">The types of personal information we collect and share depend on the product or service you have with us.
+This information can include: Social Security number and name and gender and address information Credit card account and checking account information Transaction history</data>
+</edge>
+<edge source="personal information" target="gender" id="e6">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">The types of personal information we collect and share depend on the product or service you have with us.
+This information can include: Social Security number and name and gender and address information Credit card account and checking account information Transaction history</data>
+</edge>
+<edge source="personal information" target="credit card account" id="e7">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">The types of personal information we collect and share depend on the product or service you have with us.
+This information can include: Social Security number and name and gender and address information Credit card account and checking account information Transaction history</data>
+</edge>
+<edge source="personal information" target="ssn" id="e8">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">The types of personal information we collect and share depend on the product or service you have with us.
+This information can include: Social Security number and name and gender and address information Credit card account and checking account information Transaction history</data>
+</edge>
+<edge source="contact information" target="person name" id="e9">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">Account Data
+
+When you sign up for our service, you actively provide us with account registration information that you can access and update within the Mercari app or website at any time, including: 1. Contact information, such as your name, address, phone, and email
+Account Data
+
+When you sign up for our service, you actively provide us with account registration information that you can access and update within the Mercari app or website at any time, including: 1. Contact information, such as your name, address, phone, and email</data>
+</edge>
+<edge source="contact information" target="email address" id="e10">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">Account Data
+
+When you sign up for our service, you actively provide us with account registration information that you can access and update within the Mercari app or website at any time, including: 1. Contact information, such as your name, address, phone, and email
+Account Data
+
+When you sign up for our service, you actively provide us with account registration information that you can access and update within the Mercari app or website at any time, including: 1. Contact information, such as your name, address, phone, and email</data>
+</edge>
+<edge source="contact information" target="postal address" id="e11">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">Account Data
+
+When you sign up for our service, you actively provide us with account registration information that you can access and update within the Mercari app or website at any time, including: 1. Contact information, such as your name, address, phone, and email
+Account Data
+
+When you sign up for our service, you actively provide us with account registration information that you can access and update within the Mercari app or website at any time, including: 1. Contact information, such as your name, address, phone, and email</data>
+</edge>
+<edge source="information about mercari transaction" target="message exchange with mercari user" id="e12">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">When you use the Mercari service, we process and deliver to you and other users of our service information about your Mercari transactions, such as information about items that you list for sale through our service and messages exchanged with other Mercari users.
+When you use the Mercari service, we process and deliver to you and other users of our service information about your Mercari transactions, such as information about items that you list for sale through our service and messages exchanged with other Mercari users.</data>
+</edge>
+<edge source="information about mercari transaction" target="item" id="e13">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">When you use the Mercari service, we process and deliver to you and other users of our service information about your Mercari transactions, such as information about items that you list for sale through our service and messages exchanged with other Mercari users.
+When you use the Mercari service, we process and deliver to you and other users of our service information about your Mercari transactions, such as information about items that you list for sale through our service and messages exchanged with other Mercari users.</data>
+</edge>
+<edge source="Google" target="information regard use of website" id="e14">
+  <data key="d2">COLLECT</data>
+  <data key="d3">Google Analytics collects information regarding the use of other websites, apps and online resources.
+Google Analytics collects information regarding the use of other websites, apps and online resources.</data>
+</edge>
+<edge source="UNSPECIFIED_ACTOR" target="internet activity" id="e15">
+  <data key="d2">COLLECT</data>
+  <data key="d3">We and third parties we work with may automatically collect information such as device data and online activity data through automated methods such as cookies, web beacons and similar technologies.
+We and third parties we work with may automatically collect information such as device data and online activity data through automated methods such as cookies, web beacons and similar technologies.</data>
+</edge>
+<edge source="UNSPECIFIED_ACTOR" target="browsing / search history" id="e16">
+  <data key="d2">COLLECT</data>
+  <data key="d3">We and third parties we work with may automatically collect information such as device data and online activity data through automated methods such as cookies, web beacons and similar technologies.
+We and third parties we work with may automatically collect information such as device data and online activity data through automated methods such as cookies, web beacons and similar technologies.</data>
+</edge>
+<edge source="UNSPECIFIED_ACTOR" target="device datum" id="e17">
+  <data key="d2">COLLECT</data>
+  <data key="d3">We and third parties we work with may automatically collect information such as device data and online activity data through automated methods such as cookies, web beacons and similar technologies.
+We and third parties we work with may automatically collect information such as device data and online activity data through automated methods such as cookies, web beacons and similar technologies.</data>
+</edge>
+<edge source="financial company" target="personal information" id="e18">
+  <data key="d2">COLLECT</data>
+  <data key="d3">All financial companies need to share customers' personal information to run their everyday business.
+All financial companies need to share customers' personal information to run their everyday business.</data>
+</edge>
+<edge source="we" target="account registration information you access" id="e19">
+  <data key="d2">COLLECT</data>
+  <data key="d3">Account Data
+
+When you sign up for our service, you actively provide us with account registration information that you can access and update within the Mercari app or website at any time, including:
+Account Data
+
+When you sign up for our service, you actively provide us with account registration information that you can access and update within the Mercari app or website at any time, including:</data>
+</edge>
+<edge source="we" target="personal information" id="e20">
+  <data key="d2">COLLECT</data>
+  <data key="d3">Account Data
+
+We use the personal information we collect about you to provide our services, improve our services, and to market to you.
+Account Data
+
+We use the personal information we collect about you to provide our services, improve our services, and to market to you.
+We may retain personal information from your account to collect any fees owed, resolve disputes, complete investigations, prevent fraud, enforce our Terms of Service, or take other actions as required or permitted by law.
+We may retain personal information from your account to collect any fees owed, resolve disputes, complete investigations, prevent fraud, enforce our Terms of Service, or take other actions as required or permitted by law.
+To facilitate our operations, we may transfer, store and process your personal information in the United States and jurisdictions other than where you live.
+To facilitate our operations, we may transfer, store and process your personal information in the United States and jurisdictions other than where you live.
+In accordance with applicable law, you may have the right to: Request to Know or Access Personal Information Collected about you, including: (i) confirming whether we are processing your personal information; (ii) obtaining access to or a copy of your personal information; and (iii) receiving an electronic copy of personal information that you have provided to us, or asking us to send that information to another company (the "right of data portability").
+In accordance with applicable law, you may have the right to: Request to Know or Access Personal Information Collected about you, including: (i) confirming whether we are processing your personal information; (ii) obtaining access to or a copy of your personal information; and (iii) receiving an electronic copy of personal information that you have provided to us, or asking us to send that information to another company (the "right of data portability").
+Federal law also requires us to tell you how we collect, share, and protect your personal information.
+Federal law also requires us to tell you how we collect, share, and protect your personal information.
+We collect your personal information, for example, when you 1. open an account or provide account information 2. give us your contact info or tell us where to send money 3. use your credit or debit card We also collect your personal information from others, such as credit bureaus, affiliates, or other companies.
+We collect your personal information, for example, when you 1. open an account or provide account information 2. give us your contact info or tell us where to send money 3. use your credit or debit card We also collect your personal information from others, such as credit bureaus, affiliates, or other companies.
+We collect your personal information, for example, when you 1. open an account or provide account information 2. give us your contact info or tell us where to send money 3. use your credit or debit card We also collect your personal information from others, such as credit bureaus, affiliates, or other companies.
+We collect your personal information, for example, when you 1. open an account or provide account information 2. give us your contact info or tell us where to send money 3. use your credit or debit card We also collect your personal information from others, such as credit bureaus, affiliates, or other companies.
+Mercari may share your personal information with our affiliates.
+Mercari may share your personal information with our affiliates.
+We may transfer personal information to other countries, for example, for customer service or for data processing.
+We may transfer personal information to other countries, for example, for customer service or for data processing.
+We will retain personal information in accordance with the time periods set forth in our Privacy Policy.
+We will retain personal information in accordance with the time periods set forth in our Privacy Policy.
+We "sell" and "share" your personal information to provide you with cross-context behavioral advertising about Mercari's services and products featured on Mercari's services.
+We "sell" and "share" your personal information to provide you with cross-context behavioral advertising about Mercari's services and products featured on Mercari's services.</data>
+</edge>
+<edge source="we" target="email address" id="e21">
+  <data key="d2">COLLECT</data>
+  <data key="d3">For example, we use your email address to communicate with you about transactions, new services and other topics we believe are of interest to you.
+For example, we use your email address to communicate with you about transactions, new services and other topics we believe are of interest to you.</data>
+</edge>
+<edge source="we" target="postal address" id="e22">
+  <data key="d2">COLLECT</data>
+  <data key="d3">We use your mailing address for delivery of items you purchase through our service.
+We use your mailing address for delivery of items you purchase through our service.</data>
+</edge>
+<edge source="we" target="credit / debit card number" id="e23">
+  <data key="d2">COLLECT</data>
+  <data key="d3">We collect your credit card or other payment card information for payment processing purposes and your bank account information to post deposits when you sell items through our service.
+We collect your credit card or other payment card information for payment processing purposes and your bank account information to post deposits when you sell items through our service.</data>
+</edge>
+<edge source="we" target="social network information" id="e24">
+  <data key="d2">COLLECT</data>
+  <data key="d3">We collect social network information for login and authentication purposes.
+We collect social network information for login and authentication purposes.</data>
+</edge>
+<edge source="we" target="date of birth" id="e25">
+  <data key="d2">COLLECT</data>
+  <data key="d3">When we are required by applicable law, we collect additional information from you such as your social security number, tax identification number or date of birth, and we may request you to provide us with such information.
+When we are required by applicable law, we collect additional information from you such as your social security number, tax identification number or date of birth, and we may request you to provide us with such information.</data>
+</edge>
+<edge source="we" target="tax identification number" id="e26">
+  <data key="d2">COLLECT</data>
+  <data key="d3">When we are required by applicable law, we collect additional information from you such as your social security number, tax identification number or date of birth, and we may request you to provide us with such information.
+When we are required by applicable law, we collect additional information from you such as your social security number, tax identification number or date of birth, and we may request you to provide us with such information.</data>
+</edge>
+<edge source="we" target="ssn" id="e27">
+  <data key="d2">COLLECT</data>
+  <data key="d3">When we are required by applicable law, we collect additional information from you such as your social security number, tax identification number or date of birth, and we may request you to provide us with such information.
+When we are required by applicable law, we collect additional information from you such as your social security number, tax identification number or date of birth, and we may request you to provide us with such information.</data>
+</edge>
+<edge source="we" target="UNSPECIFIED_DATA" id="e28">
+  <data key="d2">COLLECT</data>
+  <data key="d3">We use this additional information, in combination with other information we may collect from you such as information about your government-issued identification, for identity verification and fraud prevention purposes, or any other purposes necessary to comply with applicable law.
+We use this additional information, in combination with other information we may collect from you such as information about your government-issued identification, for identity verification and fraud prevention purposes, or any other purposes necessary to comply with applicable law.</data>
+</edge>
+<edge source="we" target="information about mercari transaction" id="e29">
+  <data key="d2">COLLECT</data>
+  <data key="d3">When you use the Mercari service, we process and deliver to you and other users of our service information about your Mercari transactions, such as information about items that you list for sale through our service and messages exchanged with other Mercari users.
+When you use the Mercari service, we process and deliver to you and other users of our service information about your Mercari transactions, such as information about items that you list for sale through our service and messages exchanged with other Mercari users.</data>
+</edge>
+<edge source="we" target="device identifier" id="e30">
+  <data key="d2">COLLECT</data>
+  <data key="d3">In this context, we receive information about your device, software, who you communicate with, message content, locations and our access logs, which includes IP address, device ID, your actions within our service and language settings.
+In this context, we receive information about your device, software, who you communicate with, message content, locations and our access logs, which includes IP address, device ID, your actions within our service and language settings.</data>
+</edge>
+<edge source="we" target="ip address" id="e31">
+  <data key="d2">COLLECT</data>
+  <data key="d3">In this context, we receive information about your device, software, who you communicate with, message content, locations and our access logs, which includes IP address, device ID, your actions within our service and language settings.
+In this context, we receive information about your device, software, who you communicate with, message content, locations and our access logs, which includes IP address, device ID, your actions within our service and language settings.</data>
+</edge>
+<edge source="we" target="action within service setting" id="e32">
+  <data key="d2">COLLECT</data>
+  <data key="d3">In this context, we receive information about your device, software, who you communicate with, message content, locations and our access logs, which includes IP address, device ID, your actions within our service and language settings.
+In this context, we receive information about your device, software, who you communicate with, message content, locations and our access logs, which includes IP address, device ID, your actions within our service and language settings.</data>
+</edge>
+<edge source="we" target="usage information" id="e33">
+  <data key="d2">COLLECT</data>
+  <data key="d3">We process usage information to deliver, improve and optimize our Mercari service, to protect our services, users and others from actual or potential fraud and misuse, and to determine what information, features, promotional information and other services you need or may be interested in.
+We process usage information to deliver, improve and optimize our Mercari service, to protect our services, users and others from actual or potential fraud and misuse, and to determine what information, features, promotional information and other services you need or may be interested in.</data>
+</edge>
+<edge source="we" target="information about you" id="e34">
+  <data key="d2">COLLECT</data>
+  <data key="d3">Privacy Policy
+
+Third Party Sources
+
+We may obtain information about you from third parties such as identity verification services.
+Privacy Policy
+
+Third Party Sources
+
+We may obtain information about you from third parties such as identity verification services.</data>
+</edge>
+<edge source="we" target="information we receive" id="e35">
+  <data key="d2">COLLECT</data>
+  <data key="d3">The information we may receive varies by site and is controlled by that site.
+By associating an account managed by a third party with your Mercari account and authorizing Mercari to have access to this information, you agree that we may collect, store and use this information in accordance with this Privacy Policy.</data>
+</edge>
+<edge source="we" target="internet activity" id="e36">
+  <data key="d2">COLLECT</data>
+  <data key="d3">We and third parties we work with may automatically collect information such as device data and online activity data through automated methods such as cookies, web beacons and similar technologies.
+We and third parties we work with may automatically collect information such as device data and online activity data through automated methods such as cookies, web beacons and similar technologies.
+We retain account and usage data as long as required or permitted by applicable law.
+We retain account and usage data as long as required or permitted by applicable law.</data>
+</edge>
+<edge source="we" target="browsing / search history" id="e37">
+  <data key="d2">COLLECT</data>
+  <data key="d3">We and third parties we work with may automatically collect information such as device data and online activity data through automated methods such as cookies, web beacons and similar technologies.
+We and third parties we work with may automatically collect information such as device data and online activity data through automated methods such as cookies, web beacons and similar technologies.</data>
+</edge>
+<edge source="we" target="device datum" id="e38">
+  <data key="d2">COLLECT</data>
+  <data key="d3">We and third parties we work with may automatically collect information such as device data and online activity data through automated methods such as cookies, web beacons and similar technologies.
+We and third parties we work with may automatically collect information such as device data and online activity data through automated methods such as cookies, web beacons and similar technologies.</data>
+</edge>
+<edge source="we" target="contact information" id="e39">
+  <data key="d2">COLLECT</data>
+  <data key="d3">We collect your personal information, for example, when you 1. open an account or provide account information 2. give us your contact info or tell us where to send money 3. use your credit or debit card We also collect your personal information from others, such as credit bureaus, affiliates, or other companies.
+We collect your personal information, for example, when you 1. open an account or provide account information 2. give us your contact info or tell us where to send money 3. use your credit or debit card We also collect your personal information from others, such as credit bureaus, affiliates, or other companies.
+We collect your personal information, for example, when you 1. open an account or provide account information 2. give us your contact info or tell us where to send money 3. use your credit or debit card We also collect your personal information from others, such as credit bureaus, affiliates, or other companies.</data>
+</edge>
+<edge source="we" target="credit card" id="e40">
+  <data key="d2">COLLECT</data>
+  <data key="d3">We collect your personal information, for example, when you 1. open an account or provide account information 2. give us your contact info or tell us where to send money 3. use your credit or debit card We also collect your personal information from others, such as credit bureaus, affiliates, or other companies.
+We collect your personal information, for example, when you 1. open an account or provide account information 2. give us your contact info or tell us where to send money 3. use your credit or debit card We also collect your personal information from others, such as credit bureaus, affiliates, or other companies.</data>
+</edge>
+<edge source="we" target="request" id="e41">
+  <data key="d2">COLLECT</data>
+  <data key="d3">We will process such requests in accordance with applicable laws.
+We will process such requests in accordance with applicable laws.</data>
+</edge>
+<edge source="we" target="cookie / pixel tag" id="e42">
+  <data key="d2">COLLECT</data>
+  <data key="d3">We use cookies to improve site experience, advertising, and other purposes.
+We use cookies to improve site experience, advertising, and other purposes.</data>
+</edge>
+<edge source="Mercari" target="information collect" id="e43">
+  <data key="d2">COLLECT</data>
+  <data key="d3">Privacy Policy
+
+Your Choices and Rights
+
+Mercari may use information collected for its own marketing purpose.
+Privacy Policy
+
+Your Choices and Rights
+
+Mercari may use information collected for its own marketing purpose.</data>
+</edge>
+<edge source="Mercari" target="personal information" id="e44">
+  <data key="d2">COLLECT</data>
+  <data key="d3">Mercari may share your personal information with our affiliates.
+Mercari may share your personal information with our affiliates.</data>
+</edge>
+<edge source="Mercari" target="sensitive personal information" id="e45">
+  <data key="d2">COLLECT</data>
+  <data key="d3">Mercari only uses and discloses sensitive personal information for the following purposes:
+Mercari only uses and discloses sensitive personal information for the following purposes:</data>
+</edge>
+</graph></graphml>

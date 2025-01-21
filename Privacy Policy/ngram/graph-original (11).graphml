@@ -1,0 +1,2156 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d3" for="edge" attr.name="text" attr.type="string"/>
+<key id="d2" for="edge" attr.name="relationship" attr.type="string"/>
+<key id="d1" for="node" attr.name="type" attr.type="string"/>
+<key id="d0" for="node" attr.name="label" attr.type="string"/>
+<graph edgedefault="directed"><node id="ALDI International Services">
+  <data key="d0">ALDI International Services</data>
+  <data key="d1">ACTOR</data>
+</node>
+<node id="we">
+  <data key="d0">we</data>
+  <data key="d1">ACTOR</data>
+</node>
+<node id="personal information">
+  <data key="d0">personal information</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="choice available regard use of information">
+  <data key="d0">choice available regard use of information</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="ip address">
+  <data key="d0">ip address</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="cookie / pixel tag">
+  <data key="d0">cookie / pixel tag</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="person name">
+  <data key="d0">person name</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="phone number">
+  <data key="d0">phone number</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="email address">
+  <data key="d0">email address</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="contact information">
+  <data key="d0">contact information</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="payment information">
+  <data key="d0">payment information</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="demographic information">
+  <data key="d0">demographic information</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="UNSPECIFIED_DATA">
+  <data key="d0">UNSPECIFIED_DATA</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="identifier">
+  <data key="d0">identifier</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="nickname">
+  <data key="d0">nickname</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="postal address">
+  <data key="d0">postal address</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="date of birth">
+  <data key="d0">date of birth</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="login credential for service">
+  <data key="d0">login credential for service</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="username">
+  <data key="d0">username</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="password">
+  <data key="d0">password</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="credit card">
+  <data key="d0">credit card</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="ebt number">
+  <data key="d0">ebt number</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="security code">
+  <data key="d0">security code</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="expiration date">
+  <data key="d0">expiration date</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="shopping list information">
+  <data key="d0">shopping list information</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="in connection with career page personal information contain in resume">
+  <data key="d0">in connection with career page personal information contain in resume</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="education history">
+  <data key="d0">education history</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="datum post to service page">
+  <data key="d0">datum post to service page</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="information we obtain through relate social medium app">
+  <data key="d0">information we obtain through relate social medium app</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="UNSPECIFIED_ACTOR">
+  <data key="d0">UNSPECIFIED_ACTOR</data>
+  <data key="d1">ACTOR</data>
+</node>
+<node id="analytic provider">
+  <data key="d0">analytic provider</data>
+  <data key="d1">ACTOR</data>
+</node>
+<node id="advertiser">
+  <data key="d0">advertiser</data>
+  <data key="d1">ACTOR</data>
+</node>
+<node id="usage information">
+  <data key="d0">usage information</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="device identifier">
+  <data key="d0">device identifier</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="web browser characteristic">
+  <data key="d0">web browser characteristic</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="device characteristic">
+  <data key="d0">device characteristic</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="operating system">
+  <data key="d0">operating system</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="language preference">
+  <data key="d0">language preference</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="refer url">
+  <data key="d0">refer url</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="clickstream datum">
+  <data key="d0">clickstream datum</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="date">
+  <data key="d0">date</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="time">
+  <data key="d0">time</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="browser type">
+  <data key="d0">browser type</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="date time stamp">
+  <data key="d0">date time stamp</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="advertising id">
+  <data key="d0">advertising id</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="device type use">
+  <data key="d0">device type use</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="version">
+  <data key="d0">version</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="configuration">
+  <data key="d0">configuration</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="battery strength">
+  <data key="d0">battery strength</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="mobile network information">
+  <data key="d0">mobile network information</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="usage statistic">
+  <data key="d0">usage statistic</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="refer email">
+  <data key="d0">refer email</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="web address">
+  <data key="d0">web address</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="action take on apps">
+  <data key="d0">action take on apps</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="business partner">
+  <data key="d0">business partner</data>
+  <data key="d1">ACTOR</data>
+</node>
+<node id="company assist we with online advertising">
+  <data key="d0">company assist we with online advertising</data>
+  <data key="d1">ACTOR</data>
+</node>
+<node id="social media">
+  <data key="d0">social media</data>
+  <data key="d1">ACTOR</data>
+</node>
+<node id="Facebook">
+  <data key="d0">Facebook</data>
+  <data key="d1">ACTOR</data>
+</node>
+<node id="youtube">
+  <data key="d0">youtube</data>
+  <data key="d1">ACTOR</data>
+</node>
+<node id="Pinterest">
+  <data key="d0">Pinterest</data>
+  <data key="d1">ACTOR</data>
+</node>
+<node id="information collect from">
+  <data key="d0">information collect from</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="non-personal information">
+  <data key="d0">non-personal information</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="information hash">
+  <data key="d0">information hash</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="identify information">
+  <data key="d0">identify information</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="veteran status">
+  <data key="d0">veteran status</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="gender">
+  <data key="d0">gender</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="race / ethnicity">
+  <data key="d0">race / ethnicity</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="government agency">
+  <data key="d0">government agency</data>
+  <data key="d1">ACTOR</data>
+</node>
+<node id="law enforcement authority">
+  <data key="d0">law enforcement authority</data>
+  <data key="d1">ACTOR</data>
+</node>
+<node id="asset">
+  <data key="d0">asset</data>
+  <data key="d1">ACTOR</data>
+</node>
+<node id="specific piece">
+  <data key="d0">specific piece</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="specific piece of information">
+  <data key="d0">specific piece of information</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="category of personal information describe in notice">
+  <data key="d0">category of personal information describe in notice</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="account name">
+  <data key="d0">account name</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="protected classification">
+  <data key="d0">protected classification</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="religion">
+  <data key="d0">religion</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="marital status">
+  <data key="d0">marital status</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="veteran military status">
+  <data key="d0">veteran military status</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="commercial information">
+  <data key="d0">commercial information</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="purchasing history">
+  <data key="d0">purchasing history</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="research datum you provide">
+  <data key="d0">research datum you provide</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="geolocation">
+  <data key="d0">geolocation</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="internet activity">
+  <data key="d0">internet activity</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="browsing / search history">
+  <data key="d0">browsing / search history</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="banner you click">
+  <data key="d0">banner you click</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="preference">
+  <data key="d0">preference</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="characteristic">
+  <data key="d0">characteristic</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="predisposition">
+  <data key="d0">predisposition</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="behavior">
+  <data key="d0">behavior</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="type of information">
+  <data key="d0">type of information</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="information about webpage you visit">
+  <data key="d0">information about webpage you visit</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="fraudulent activity">
+  <data key="d0">fraudulent activity</data>
+  <data key="d1">ACTOR</data>
+</node>
+<node id="information we have about you">
+  <data key="d0">information we have about you</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="third party advertising">
+  <data key="d0">third party advertising</data>
+  <data key="d1">ACTOR</data>
+</node>
+<node id="choice">
+  <data key="d0">choice</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="aggregate / deidentified / pseudonymized information">
+  <data key="d0">aggregate / deidentified / pseudonymized information</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="feature on service">
+  <data key="d0">feature on service</data>
+  <data key="d1">ACTOR</data>
+</node>
+<node id="information about preference">
+  <data key="d0">information about preference</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="code">
+  <data key="d0">code</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="precise geolocation">
+  <data key="d0">precise geolocation</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="mobile service provider">
+  <data key="d0">mobile service provider</data>
+  <data key="d1">ACTOR</data>
+</node>
+<node id="session interaction with service user interface">
+  <data key="d0">session interaction with service user interface</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="information about you">
+  <data key="d0">information about you</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="information collect">
+  <data key="d0">information collect</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="information we collect about you">
+  <data key="d0">information we collect about you</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="fraud prevention service provider">
+  <data key="d0">fraud prevention service provider</data>
+  <data key="d1">ACTOR</data>
+</node>
+<node id="fusion92">
+  <data key="d0">fusion92</data>
+  <data key="d1">ACTOR</data>
+</node>
+<node id="service provider">
+  <data key="d0">service provider</data>
+  <data key="d1">ACTOR</data>
+</node>
+<node id="appropriate government">
+  <data key="d0">appropriate government</data>
+  <data key="d1">ACTOR</data>
+</node>
+<node id="acquire entity">
+  <data key="d0">acquire entity</data>
+  <data key="d1">ACTOR</data>
+</node>
+<node id="not track signal">
+  <data key="d0">not track signal</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="online service">
+  <data key="d0">online service</data>
+  <data key="d1">ACTOR</data>
+</node>
+<node id="information from">
+  <data key="d0">information from</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="content provider">
+  <data key="d0">content provider</data>
+  <data key="d1">ACTOR</data>
+</node>
+<node id="racial origin">
+  <data key="d0">racial origin</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="third party with whom we have joint marketing">
+  <data key="d0">third party with whom we have joint marketing</data>
+  <data key="d1">ACTOR</data>
+</node>
+<node id="law enforcement">
+  <data key="d0">law enforcement</data>
+  <data key="d1">ACTOR</data>
+</node>
+<node id="government entity">
+  <data key="d0">government entity</data>
+  <data key="d1">ACTOR</data>
+</node>
+<node id="third party payment processor">
+  <data key="d0">third party payment processor</data>
+  <data key="d1">ACTOR</data>
+</node>
+<node id="age">
+  <data key="d0">age</data>
+  <data key="d1">DATA</data>
+</node>
+<edge source="ALDI International Services" target="social media" id="e0">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">We may disclose this type of information to: Third parties whose features are integrated with the ALDI Services, such as social media companies;
+We may disclose this type of information to: Third parties whose features are integrated with the ALDI Services, such as social media companies;
+We may disclose this type of information to: Third parties whose features are integrated with the ALDI Services, such as social media companies;
+We may disclose this type of information to: Third parties whose features are integrated with the ALDI Services, such as social media companies;
+We may disclose this type of information to: Third parties whose features are integrated with the ALDI Services, such as social media companies;
+We may disclose this type of information to: Third parties whose features are integrated with the ALDI Services, such as social media companies;
+We may disclose this type of information to: Third parties whose features are integrated with the ALDI Services, such as social media companies;
+We may disclose this type of information to: Third parties whose features are integrated with the ALDI Services, such as social media companies;
+We may disclose this type of information to: Third parties whose features are integrated with the ALDI Services, such as social media companies;
+We may disclose this type of information to: Third parties whose features are integrated with the ALDI Services, such as social media companies;
+We may disclose this type of information to: Third parties whose features are integrated with the ALDI Services, such as social media companies;
+We may disclose this type of information to: Third parties whose features are integrated with the ALDI Services, such as social media companies;</data>
+</edge>
+<edge source="ALDI International Services" target="type of information" id="e1">
+  <data key="d2">COLLECT</data>
+  <data key="d3">We may disclose this type of information to: Third parties whose features are integrated with the ALDI Services, such as social media companies;
+We may disclose this type of information to: Third parties whose features are integrated with the ALDI Services, such as social media companies;
+We may disclose this type of information to: Third parties whose features are integrated with the ALDI Services, such as social media companies;
+We may disclose this type of information to: Third parties whose features are integrated with the ALDI Services, such as social media companies;
+ALDI: U.S. Privacy Policy
+
+Notice To California Residents
+
+Geolocation data . We may disclose this type of information to:
+We may disclose this type of information to: Third parties whose features are integrated with the ALDI Services, such as social media companies;
+We may disclose this type of information to: Third parties whose features are integrated with the ALDI Services, such as social media companies;</data>
+</edge>
+<edge source="ALDI International Services" target="session interaction with service user interface" id="e2">
+  <data key="d2">COLLECT</data>
+  <data key="d3">ALDI: U.S. Privacy Policy
+
+Information We Collect By Automated Means
+
+ALDI may record session interactions with Service user interfaces, including what pages you visit on the Services, how long you visit those pages, the links you click, and your path through the Services, for website analytics purposes, solely for our internal business purposes, to improve the Services and our products and services.
+ALDI: U.S. Privacy Policy
+
+Information We Collect By Automated Means
+
+ALDI may record session interactions with Service user interfaces, including what pages you visit on the Services, how long you visit those pages, the links you click, and your path through the Services, for website analytics purposes, solely for our internal business purposes, to improve the Services and our products and services.</data>
+</edge>
+<edge source="ALDI International Services" target="non-personal information" id="e3">
+  <data key="d2">COLLECT</data>
+  <data key="d3">ALDI may share non-personal information, which may include Usage Information and information that has been hashed or otherwise de-identified or pseudonymized, with third parties in our discretion and as allowed by law, including for targeted advertising purposes.
+ALDI may share non-personal information, which may include Usage Information and information that has been hashed or otherwise de-identified or pseudonymized, with third parties in our discretion and as allowed by law, including for targeted advertising purposes.</data>
+</edge>
+<edge source="ALDI International Services" target="choice" id="e4">
+  <data key="d2">COLLECT</data>
+  <data key="d3">As stated in this U.S. Privacy Policy, ALDI provides you choice prior to sharing your personal information with third parties for their direct marketing purposes.
+As stated in this U.S. Privacy Policy, ALDI provides you choice prior to sharing your personal information with third parties for their direct marketing purposes.</data>
+</edge>
+<edge source="we" target="ALDI International Services" id="e5">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">This U.S. Privacy Policy describes our practices regarding the collection, use and +disclosure of personal information collected by ALDI Inc. ("ALDI" or "we," "us," or "our") through our websites, web pages and mobile applications that post or include a link to this U.S. Privacy Policy (including those listed here( https://www.aldi.us/terms-of-use/scope-of-us-online-privacy-notice/ ), and by Aldi offline (collectively, the "Services").
+This U.S. Privacy Policy describes our practices regarding the collection, use and +disclosure of personal information collected by ALDI Inc. ("ALDI" or "we," "us," or "our") through our websites, web pages and mobile applications that post or include a link to this U.S. Privacy Policy (including those listed here( https://www.aldi.us/terms-of-use/scope-of-us-online-privacy-notice/ ), and by Aldi offline (collectively, the "Services").</data>
+</edge>
+<edge source="we" target="asset" id="e6">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">We reserve the right to transfer any information we have about you in the event we sell or transfer all or a portion of our business or assets (including in the event of a reorganization, dissolution or liquidation); by providing your information, you understand and agree that we may transfer such information to the acquiring entity without your further consent.
+We reserve the right to transfer any information we have about you in the event we sell or transfer all or a portion of our business or assets (including in the event of a reorganization, dissolution or liquidation); by providing your information, you understand and agree that we may transfer such information to the acquiring entity without your further consent.</data>
+</edge>
+<edge source="we" target="UNSPECIFIED_DATA" id="e7">
+  <data key="d2">COLLECT</data>
+  <data key="d3">We collect information from you directly, automatically when you visit the Services and sometimes from third parties.
+We collect information from you directly, automatically when you visit the Services and sometimes from third parties.
+ALDI: U.S. Privacy Policy
+
+Information You Provide Us Directly
+
+We may ask you to provide information when you interact with us, including contact information and other personal information, payment information (for example, credit card or gift card information), demographic information (for example, your gender, age or similar information), and other information as set forth below.
+ALDI: U.S. Privacy Policy
+
+Information You Provide Us Directly
+
+We may ask you to provide information when you interact with us, including contact information and other personal information, payment information (for example, credit card or gift card information), demographic information (for example, your gender, age or similar information), and other information as set forth below.
+ALDI: U.S. Privacy Policy
+
+Information You Provide Us Directly
+
+We may ask you to provide information when you interact with us, including contact information and other personal information, payment information (for example, credit card or gift card information), demographic information (for example, your gender, age or similar information), and other information as set forth below.
+We may also collect information from you when you interact with our customer service team, whether by phone, email, webform submission or physical mail, or if you respond to our text messages.
+We may also collect information from you when you interact with our customer service team, whether by phone, email, webform submission or physical mail, or if you respond to our text messages.
+We may also collect information from you when you interact in-store with our associates.
+We may also collect information from you when you interact in-store with our associates.
+ALDI: U.S. Privacy Policy
+
+Information We Collect By Automated Means
+
+We use the following types of Tracking Technologies to automatically collect information when you interact with us online:
+ALDI: U.S. Privacy Policy
+
+Information We Collect By Automated Means
+
+We use the following types of Tracking Technologies to automatically collect information when you interact with us online:
+When you use our mobile applications (" Apps "), we also may collect certain information by automated means, such as through device logs, server logs and other technologies.
+When you use our mobile applications (" Apps "), we also may collect certain information by automated means, such as through device logs, server logs and other technologies.
+The information we collect in this manner may include the device type used, the mobile operating system and version, device identifiers and similar unique identifiers such as the ID for Advertising (IDFA) on Apple devices, and the Advertising ID on Android devices, device settings and configurations, IP addresses, battery and signal strength, mobile network information, usage statistics, referring emails and web addresses, dates and times of usage, actions taken on the Apps and other information regarding use of the Apps.
+The information we collect in this manner may include the device type used, the mobile operating system and version, device identifiers and similar unique identifiers such as the ID for Advertising (IDFA) on Apple devices, and the Advertising ID on Android devices, device settings and configurations, IP addresses, battery and signal strength, mobile network information, usage statistics, referring emails and web addresses, dates and times of usage, actions taken on the Apps and other information regarding use of the Apps.
+We may share information with third party service providers or allow those third parties to collect information about you, to enable them to perform services on our behalf , such as website hosting, conducting website usage analytics, sending email, text, or other communications, fulfilling orders, providing marketing assistance and data analysis, processing payments, and other services .
+We may share information with third party service providers or allow those third parties to collect information about you, to enable them to perform services on our behalf , such as website hosting, conducting website usage analytics, sending email, text, or other communications, fulfilling orders, providing marketing assistance and data analysis, processing payments, and other services .
+Additionally, we may share various information relating to our users and fraudulent or potentially fraudulent activities with our fraud prevention and similar service providers , and they will use this information to help us and their other clients prevent fraudulent and illegal transactions.
+Additionally, we may share various information relating to our users and fraudulent or potentially fraudulent activities with our fraud prevention and similar service providers , and they will use this information to help us and their other clients prevent fraudulent and illegal transactions.
+When you use the Services to interact with third parties who operate certain portions of the Services, those third parties may share certain information about you with us (as described above) and we may also share certain information with that third party.
+When you use the Services to interact with third parties who operate certain portions of the Services, those third parties may share certain information about you with us (as described above) and we may also share certain information with that third party.
+We may share information when you direct us to do so.
+We may share information when you direct us to do so.
+ALDI: U.S. Privacy Policy
+
+How We Share Your Information
+
+Parent and Affiliated Entities : We may share information with our affiliates and subsidiaries for internal business, analytical, and operational purposes.
+ALDI: U.S. Privacy Policy
+
+How We Share Your Information
+
+Parent and Affiliated Entities : We may share information with our affiliates and subsidiaries for internal business, analytical, and operational purposes.
+ALDI: U.S. Privacy Policy
+
+How We Share Your Information
+
+Parent and Affiliated Entities : We may share information with our affiliates and subsidiaries for internal business, analytical, and operational purposes.
+This service may also collect information regarding the use of other websites, apps, and online services.
+This service may also collect information regarding the use of other websites, apps, and online services.
+You use the Services and provide us information at your own risk.
+You use the Services and provide us information at your own risk.
+Notice To California Residents
+
+When you exercise your Right to Know, Right to Delete, and/or Right to Correct, we may ask that you provide us with information, beyond your full name, in order to verify your identity and fulfill your request.
+Notice To California Residents
+
+When you exercise your Right to Know, Right to Delete, and/or Right to Correct, we may ask that you provide us with information, beyond your full name, in order to verify your identity and fulfill your request.
+We may collect the following information, only in the context of an employment application: Your racial origin (solely for reporting purposes)
+We may collect the following information, only in the context of an employment application: Your racial origin (solely for reporting purposes)</data>
+</edge>
+<edge source="we" target="aggregate / deidentified / pseudonymized information" id="e8">
+  <data key="d2">COLLECT</data>
+  <data key="d3">We maintain and use de-identified data without attempting to re-identify it, except where permitted by applicable law, such as to determine whether our de-identification processes satisfy legal requirements.
+We maintain and use de-identified data without attempting to re-identify it, except where permitted by applicable law, such as to determine whether our de-identification processes satisfy legal requirements.</data>
+</edge>
+<edge source="we" target="demographic information" id="e9">
+  <data key="d2">COLLECT</data>
+  <data key="d3">ALDI: U.S. Privacy Policy
+
+Information You Provide Us Directly
+
+We may ask you to provide information when you interact with us, including contact information and other personal information, payment information (for example, credit card or gift card information), demographic information (for example, your gender, age or similar information), and other information as set forth below.
+ALDI: U.S. Privacy Policy
+
+Information You Provide Us Directly
+
+We may ask you to provide information when you interact with us, including contact information and other personal information, payment information (for example, credit card or gift card information), demographic information (for example, your gender, age or similar information), and other information as set forth below.</data>
+</edge>
+<edge source="we" target="personal information" id="e10">
+  <data key="d2">COLLECT</data>
+  <data key="d3">ALDI: U.S. Privacy Policy
+
+Information You Provide Us Directly
+
+We may ask you to provide information when you interact with us, including contact information and other personal information, payment information (for example, credit card or gift card information), demographic information (for example, your gender, age or similar information), and other information as set forth below.
+ALDI: U.S. Privacy Policy
+
+Information You Provide Us Directly
+
+We may ask you to provide information when you interact with us, including contact information and other personal information, payment information (for example, credit card or gift card information), demographic information (for example, your gender, age or similar information), and other information as set forth below.
+Except as noted differently on specific pages or apps, we retain your personal information while you have an account with us, or while you are using our Services or continuing to visit us.
+Except as noted differently on specific pages or apps, we retain your personal information while you have an account with us, or while you are using our Services or continuing to visit us.</data>
+</edge>
+<edge source="we" target="payment information" id="e11">
+  <data key="d2">COLLECT</data>
+  <data key="d3">ALDI: U.S. Privacy Policy
+
+Information You Provide Us Directly
+
+We may ask you to provide information when you interact with us, including contact information and other personal information, payment information (for example, credit card or gift card information), demographic information (for example, your gender, age or similar information), and other information as set forth below.
+ALDI: U.S. Privacy Policy
+
+Information You Provide Us Directly
+
+We may ask you to provide information when you interact with us, including contact information and other personal information, payment information (for example, credit card or gift card information), demographic information (for example, your gender, age or similar information), and other information as set forth below.
+ALDI: U.S. Privacy Policy
+
+Information You Provide Us Directly
+
+The types of personal information we may collect may include: payment information (such as credit or debit card or EBT number, security code, expiration date and billing address);</data>
+</edge>
+<edge source="we" target="age" id="e12">
+  <data key="d2">COLLECT</data>
+  <data key="d3">ALDI: U.S. Privacy Policy
+
+Information You Provide Us Directly
+
+We may ask you to provide information when you interact with us, including contact information and other personal information, payment information (for example, credit card or gift card information), demographic information (for example, your gender, age or similar information), and other information as set forth below.
+ALDI: U.S. Privacy Policy
+
+Information You Provide Us Directly
+
+We may ask you to provide information when you interact with us, including contact information and other personal information, payment information (for example, credit card or gift card information), demographic information (for example, your gender, age or similar information), and other information as set forth below.</data>
+</edge>
+<edge source="we" target="contact information" id="e13">
+  <data key="d2">COLLECT</data>
+  <data key="d3">ALDI: U.S. Privacy Policy
+
+Information You Provide Us Directly
+
+We may ask you to provide information when you interact with us, including contact information and other personal information, payment information (for example, credit card or gift card information), demographic information (for example, your gender, age or similar information), and other information as set forth below.
+ALDI: U.S. Privacy Policy
+
+Information You Provide Us Directly
+
+We may ask you to provide information when you interact with us, including contact information and other personal information, payment information (for example, credit card or gift card information), demographic information (for example, your gender, age or similar information), and other information as set forth below.</data>
+</edge>
+<edge source="we" target="shopping list information" id="e14">
+  <data key="d2">COLLECT</data>
+  <data key="d3">ALDI: U.S. Privacy Policy
+
+Information You Provide Us Directly
+
+The types of personal information we may collect may include: shopping list and purchase history information;
+ALDI: U.S. Privacy Policy
+
+Information You Provide Us Directly
+
+The types of personal information we may collect may include: shopping list and purchase history information;</data>
+</edge>
+<edge source="we" target="identifier" id="e15">
+  <data key="d2">COLLECT</data>
+  <data key="d3">ALDI: U.S. Privacy Policy
+
+Information You Provide Us Directly
+
+The types of personal information we may collect may include: Identifiers, such as name, nickname, postal address, email address and telephone number;
+The information we collect in this manner may include the device type used, the mobile operating system and version, device identifiers and similar unique identifiers such as the ID for Advertising (IDFA) on Apple devices, and the Advertising ID on Android devices, device settings and configurations, IP addresses, battery and signal strength, mobile network information, usage statistics, referring emails and web addresses, dates and times of usage, actions taken on the Apps and other information regarding use of the Apps.
+The information we collect in this manner may include the device type used, the mobile operating system and version, device identifiers and similar unique identifiers such as the ID for Advertising (IDFA) on Apple devices, and the Advertising ID on Android devices, device settings and configurations, IP addresses, battery and signal strength, mobile network information, usage statistics, referring emails and web addresses, dates and times of usage, actions taken on the Apps and other information regarding use of the Apps.</data>
+</edge>
+<edge source="we" target="datum post to service page" id="e16">
+  <data key="d2">COLLECT</data>
+  <data key="d3">ALDI: U.S. Privacy Policy
+
+Information You Provide Us Directly
+
+The types of personal information we may collect may include:
+Information You Provide Us Directly
+
+The types of personal information we may collect may include: content and other data posted to our Services and social media pages, and information we obtain through ALDI-related social media apps, tools, widgets and plug-in</data>
+</edge>
+<edge source="we" target="date of birth" id="e17">
+  <data key="d2">COLLECT</data>
+  <data key="d3">ALDI: U.S. Privacy Policy
+
+Information You Provide Us Directly
+
+The types of personal information we may collect may include: Purchaser's date of birth (in connection with our legal obligations in the context of alcohol sales);</data>
+</edge>
+<edge source="we" target="login credential for service" id="e18">
+  <data key="d2">COLLECT</data>
+  <data key="d3">ALDI: U.S. Privacy Policy
+
+Information You Provide Us Directly
+
+The types of personal information we may collect may include: login credentials for our Services (such as a username or email address and password);</data>
+</edge>
+<edge source="we" target="information we obtain through relate social medium app" id="e19">
+  <data key="d2">COLLECT</data>
+  <data key="d3">ALDI: U.S. Privacy Policy
+
+Information You Provide Us Directly
+
+The types of personal information we may collect may include:
+Information You Provide Us Directly
+
+The types of personal information we may collect may include: content and other data posted to our Services and social media pages, and information we obtain through ALDI-related social media apps, tools, widgets and plug-in</data>
+</edge>
+<edge source="we" target="in connection with career page personal information contain in resume" id="e20">
+  <data key="d2">COLLECT</data>
+  <data key="d3">ALDI: U.S. Privacy Policy
+
+Information You Provide Us Directly
+
+The types of personal information we may collect may include: in connection with our careers pages, personal information contained in your resume, cover letter or other documents submitted online, including your name and education history; and</data>
+</edge>
+<edge source="we" target="usage information" id="e21">
+  <data key="d2">COLLECT</data>
+  <data key="d3">When you visit or otherwise interact with our Services, we and our third party business partners (including any third party service providers or third party analytics or content or advertising providers) may collect certain "Usage Information" by automated means, using technologies such as cookies, web server logs, image pixels, web beacons and JavaScript (collectively referred to as " Tracking Technologies ").
+When you visit or otherwise interact with our Services, we and our third party business partners (including any third party service providers or third party analytics or content or advertising providers) may collect certain "Usage Information" by automated means, using technologies such as cookies, web server logs, image pixels, web beacons and JavaScript (collectively referred to as " Tracking Technologies ").
+We may share information, typically information that has been hashed or otherwise de-identified or pseudonymized (including hashed email addresses), Usage Information, and location information, with third party advertising companies, analytics providers and other third parties for the purpose of serving you more relevant ads on and off the Services .
+We may share information, typically information that has been hashed or otherwise de-identified or pseudonymized (including hashed email addresses), Usage Information, and location information, with third party advertising companies, analytics providers and other third parties for the purpose of serving you more relevant ads on and off the Services .</data>
+</edge>
+<edge source="we" target="geolocation" id="e22">
+  <data key="d2">COLLECT</data>
+  <data key="d3">In some cases, we may directly collect location information through your device.
+In some cases, we may directly collect location information through your device.
+We may also collect your mobile device's geolocation information.
+We may also collect your mobile device's geolocation information.
+With your permission, we may receive the precise geolocation and other location information of your mobile device through GPS, Bluetooth and WiFi signals, and other technologies to provide you with the Apps, facilitate online orders and offer you personalized coupons and other offers.
+With your permission, we may receive the precise geolocation and other location information of your mobile device through GPS, Bluetooth and WiFi signals, and other technologies to provide you with the Apps, facilitate online orders and offer you personalized coupons and other offers.
+In addition, some mobile service providers may also provide us or our third-party service providers with information regarding the physical location of the device used to access the Services.
+In addition, some mobile service providers may also provide us or our third-party service providers with information regarding the physical location of the device used to access the Services.
+We may share information, typically information that has been hashed or otherwise de-identified or pseudonymized (including hashed email addresses), Usage Information, and location information, with third party advertising companies, analytics providers and other third parties for the purpose of serving you more relevant ads on and off the Services .
+We may share information, typically information that has been hashed or otherwise de-identified or pseudonymized (including hashed email addresses), Usage Information, and location information, with third party advertising companies, analytics providers and other third parties for the purpose of serving you more relevant ads on and off the Services .</data>
+</edge>
+<edge source="we" target="cookie / pixel tag" id="e23">
+  <data key="d2">COLLECT</data>
+  <data key="d3">We may use cookies and other technologies to help keep your use of the Services more secure, to study traffic patterns on the Services, to study the effectiveness of our customer communications, to maintain the integrity of the Services, to measure crash analytics and other maintenance related information, to manage and measure the performance of advertisements displayed on or delivered by or through the Services, and to personalize your experience through the Services, such as to recognize you when you return to the Services.
+We may use cookies and other technologies to help keep your use of the Services more secure, to study traffic patterns on the Services, to study the effectiveness of our customer communications, to maintain the integrity of the Services, to measure crash analytics and other maintenance related information, to manage and measure the performance of advertisements displayed on or delivered by or through the Services, and to personalize your experience through the Services, such as to recognize you when you return to the Services.
+When you ask us to send you information on a promotion or a newsletter, we may use web beacons to establish when an email is opened.
+When you ask us to send you information on a promotion or a newsletter, we may use web beacons to establish when an email is opened.</data>
+</edge>
+<edge source="we" target="browser type" id="e24">
+  <data key="d2">COLLECT</data>
+  <data key="d3">The information we store includes internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data.
+The information we store includes internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data.</data>
+</edge>
+<edge source="we" target="clickstream datum" id="e25">
+  <data key="d2">COLLECT</data>
+  <data key="d3">The information we store includes internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data.
+The information we store includes internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data.</data>
+</edge>
+<edge source="we" target="ip address" id="e26">
+  <data key="d2">COLLECT</data>
+  <data key="d3">The information we store includes internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data.
+The information we store includes internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data.
+The information we collect in this manner may include the device type used, the mobile operating system and version, device identifiers and similar unique identifiers such as the ID for Advertising (IDFA) on Apple devices, and the Advertising ID on Android devices, device settings and configurations, IP addresses, battery and signal strength, mobile network information, usage statistics, referring emails and web addresses, dates and times of usage, actions taken on the Apps and other information regarding use of the Apps.
+The information we collect in this manner may include the device type used, the mobile operating system and version, device identifiers and similar unique identifiers such as the ID for Advertising (IDFA) on Apple devices, and the Advertising ID on Android devices, device settings and configurations, IP addresses, battery and signal strength, mobile network information, usage statistics, referring emails and web addresses, dates and times of usage, actions taken on the Apps and other information regarding use of the Apps.</data>
+</edge>
+<edge source="we" target="date time stamp" id="e27">
+  <data key="d2">COLLECT</data>
+  <data key="d3">The information we store includes internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data.
+The information we store includes internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data.</data>
+</edge>
+<edge source="we" target="code" id="e28">
+  <data key="d2">COLLECT</data>
+  <data key="d3">The code is temporarily used by our server or a third-party service provider or business partner while you browse or interact with our Services and is deactivated or deleted when you disconnect from our Services.
+The code is temporarily used by our server or a third-party service provider or business partner while you browse or interact with our Services and is deactivated or deleted when you disconnect from our Services.</data>
+</edge>
+<edge source="we" target="mobile network information" id="e29">
+  <data key="d2">COLLECT</data>
+  <data key="d3">The information we collect in this manner may include the device type used, the mobile operating system and version, device identifiers and similar unique identifiers such as the ID for Advertising (IDFA) on Apple devices, and the Advertising ID on Android devices, device settings and configurations, IP addresses, battery and signal strength, mobile network information, usage statistics, referring emails and web addresses, dates and times of usage, actions taken on the Apps and other information regarding use of the Apps.
+The information we collect in this manner may include the device type used, the mobile operating system and version, device identifiers and similar unique identifiers such as the ID for Advertising (IDFA) on Apple devices, and the Advertising ID on Android devices, device settings and configurations, IP addresses, battery and signal strength, mobile network information, usage statistics, referring emails and web addresses, dates and times of usage, actions taken on the Apps and other information regarding use of the Apps.</data>
+</edge>
+<edge source="we" target="refer email" id="e30">
+  <data key="d2">COLLECT</data>
+  <data key="d3">The information we collect in this manner may include the device type used, the mobile operating system and version, device identifiers and similar unique identifiers such as the ID for Advertising (IDFA) on Apple devices, and the Advertising ID on Android devices, device settings and configurations, IP addresses, battery and signal strength, mobile network information, usage statistics, referring emails and web addresses, dates and times of usage, actions taken on the Apps and other information regarding use of the Apps.
+The information we collect in this manner may include the device type used, the mobile operating system and version, device identifiers and similar unique identifiers such as the ID for Advertising (IDFA) on Apple devices, and the Advertising ID on Android devices, device settings and configurations, IP addresses, battery and signal strength, mobile network information, usage statistics, referring emails and web addresses, dates and times of usage, actions taken on the Apps and other information regarding use of the Apps.</data>
+</edge>
+<edge source="we" target="usage statistic" id="e31">
+  <data key="d2">COLLECT</data>
+  <data key="d3">The information we collect in this manner may include the device type used, the mobile operating system and version, device identifiers and similar unique identifiers such as the ID for Advertising (IDFA) on Apple devices, and the Advertising ID on Android devices, device settings and configurations, IP addresses, battery and signal strength, mobile network information, usage statistics, referring emails and web addresses, dates and times of usage, actions taken on the Apps and other information regarding use of the Apps.
+The information we collect in this manner may include the device type used, the mobile operating system and version, device identifiers and similar unique identifiers such as the ID for Advertising (IDFA) on Apple devices, and the Advertising ID on Android devices, device settings and configurations, IP addresses, battery and signal strength, mobile network information, usage statistics, referring emails and web addresses, dates and times of usage, actions taken on the Apps and other information regarding use of the Apps.</data>
+</edge>
+<edge source="we" target="web address" id="e32">
+  <data key="d2">COLLECT</data>
+  <data key="d3">The information we collect in this manner may include the device type used, the mobile operating system and version, device identifiers and similar unique identifiers such as the ID for Advertising (IDFA) on Apple devices, and the Advertising ID on Android devices, device settings and configurations, IP addresses, battery and signal strength, mobile network information, usage statistics, referring emails and web addresses, dates and times of usage, actions taken on the Apps and other information regarding use of the Apps.
+The information we collect in this manner may include the device type used, the mobile operating system and version, device identifiers and similar unique identifiers such as the ID for Advertising (IDFA) on Apple devices, and the Advertising ID on Android devices, device settings and configurations, IP addresses, battery and signal strength, mobile network information, usage statistics, referring emails and web addresses, dates and times of usage, actions taken on the Apps and other information regarding use of the Apps.</data>
+</edge>
+<edge source="we" target="device type use" id="e33">
+  <data key="d2">COLLECT</data>
+  <data key="d3">The information we collect in this manner may include the device type used, the mobile operating system and version, device identifiers and similar unique identifiers such as the ID for Advertising (IDFA) on Apple devices, and the Advertising ID on Android devices, device settings and configurations, IP addresses, battery and signal strength, mobile network information, usage statistics, referring emails and web addresses, dates and times of usage, actions taken on the Apps and other information regarding use of the Apps.
+The information we collect in this manner may include the device type used, the mobile operating system and version, device identifiers and similar unique identifiers such as the ID for Advertising (IDFA) on Apple devices, and the Advertising ID on Android devices, device settings and configurations, IP addresses, battery and signal strength, mobile network information, usage statistics, referring emails and web addresses, dates and times of usage, actions taken on the Apps and other information regarding use of the Apps.</data>
+</edge>
+<edge source="we" target="battery strength" id="e34">
+  <data key="d2">COLLECT</data>
+  <data key="d3">The information we collect in this manner may include the device type used, the mobile operating system and version, device identifiers and similar unique identifiers such as the ID for Advertising (IDFA) on Apple devices, and the Advertising ID on Android devices, device settings and configurations, IP addresses, battery and signal strength, mobile network information, usage statistics, referring emails and web addresses, dates and times of usage, actions taken on the Apps and other information regarding use of the Apps.
+The information we collect in this manner may include the device type used, the mobile operating system and version, device identifiers and similar unique identifiers such as the ID for Advertising (IDFA) on Apple devices, and the Advertising ID on Android devices, device settings and configurations, IP addresses, battery and signal strength, mobile network information, usage statistics, referring emails and web addresses, dates and times of usage, actions taken on the Apps and other information regarding use of the Apps.</data>
+</edge>
+<edge source="we" target="date" id="e35">
+  <data key="d2">COLLECT</data>
+  <data key="d3">The information we collect in this manner may include the device type used, the mobile operating system and version, device identifiers and similar unique identifiers such as the ID for Advertising (IDFA) on Apple devices, and the Advertising ID on Android devices, device settings and configurations, IP addresses, battery and signal strength, mobile network information, usage statistics, referring emails and web addresses, dates and times of usage, actions taken on the Apps and other information regarding use of the Apps.
+The information we collect in this manner may include the device type used, the mobile operating system and version, device identifiers and similar unique identifiers such as the ID for Advertising (IDFA) on Apple devices, and the Advertising ID on Android devices, device settings and configurations, IP addresses, battery and signal strength, mobile network information, usage statistics, referring emails and web addresses, dates and times of usage, actions taken on the Apps and other information regarding use of the Apps.</data>
+</edge>
+<edge source="we" target="version" id="e36">
+  <data key="d2">COLLECT</data>
+  <data key="d3">The information we collect in this manner may include the device type used, the mobile operating system and version, device identifiers and similar unique identifiers such as the ID for Advertising (IDFA) on Apple devices, and the Advertising ID on Android devices, device settings and configurations, IP addresses, battery and signal strength, mobile network information, usage statistics, referring emails and web addresses, dates and times of usage, actions taken on the Apps and other information regarding use of the Apps.
+The information we collect in this manner may include the device type used, the mobile operating system and version, device identifiers and similar unique identifiers such as the ID for Advertising (IDFA) on Apple devices, and the Advertising ID on Android devices, device settings and configurations, IP addresses, battery and signal strength, mobile network information, usage statistics, referring emails and web addresses, dates and times of usage, actions taken on the Apps and other information regarding use of the Apps.</data>
+</edge>
+<edge source="we" target="device identifier" id="e37">
+  <data key="d2">COLLECT</data>
+  <data key="d3">The information we collect in this manner may include the device type used, the mobile operating system and version, device identifiers and similar unique identifiers such as the ID for Advertising (IDFA) on Apple devices, and the Advertising ID on Android devices, device settings and configurations, IP addresses, battery and signal strength, mobile network information, usage statistics, referring emails and web addresses, dates and times of usage, actions taken on the Apps and other information regarding use of the Apps.
+The information we collect in this manner may include the device type used, the mobile operating system and version, device identifiers and similar unique identifiers such as the ID for Advertising (IDFA) on Apple devices, and the Advertising ID on Android devices, device settings and configurations, IP addresses, battery and signal strength, mobile network information, usage statistics, referring emails and web addresses, dates and times of usage, actions taken on the Apps and other information regarding use of the Apps.</data>
+</edge>
+<edge source="we" target="configuration" id="e38">
+  <data key="d2">COLLECT</data>
+  <data key="d3">The information we collect in this manner may include the device type used, the mobile operating system and version, device identifiers and similar unique identifiers such as the ID for Advertising (IDFA) on Apple devices, and the Advertising ID on Android devices, device settings and configurations, IP addresses, battery and signal strength, mobile network information, usage statistics, referring emails and web addresses, dates and times of usage, actions taken on the Apps and other information regarding use of the Apps.
+The information we collect in this manner may include the device type used, the mobile operating system and version, device identifiers and similar unique identifiers such as the ID for Advertising (IDFA) on Apple devices, and the Advertising ID on Android devices, device settings and configurations, IP addresses, battery and signal strength, mobile network information, usage statistics, referring emails and web addresses, dates and times of usage, actions taken on the Apps and other information regarding use of the Apps.</data>
+</edge>
+<edge source="we" target="action take on apps" id="e39">
+  <data key="d2">COLLECT</data>
+  <data key="d3">The information we collect in this manner may include the device type used, the mobile operating system and version, device identifiers and similar unique identifiers such as the ID for Advertising (IDFA) on Apple devices, and the Advertising ID on Android devices, device settings and configurations, IP addresses, battery and signal strength, mobile network information, usage statistics, referring emails and web addresses, dates and times of usage, actions taken on the Apps and other information regarding use of the Apps.
+The information we collect in this manner may include the device type used, the mobile operating system and version, device identifiers and similar unique identifiers such as the ID for Advertising (IDFA) on Apple devices, and the Advertising ID on Android devices, device settings and configurations, IP addresses, battery and signal strength, mobile network information, usage statistics, referring emails and web addresses, dates and times of usage, actions taken on the Apps and other information regarding use of the Apps.</data>
+</edge>
+<edge source="we" target="precise geolocation" id="e40">
+  <data key="d2">COLLECT</data>
+  <data key="d3">With your permission, we may receive the precise geolocation and other location information of your mobile device through GPS, Bluetooth and WiFi signals, and other technologies to provide you with the Apps, facilitate online orders and offer you personalized coupons and other offers.
+With your permission, we may receive the precise geolocation and other location information of your mobile device through GPS, Bluetooth and WiFi signals, and other technologies to provide you with the Apps, facilitate online orders and offer you personalized coupons and other offers.</data>
+</edge>
+<edge source="we" target="information about you" id="e41">
+  <data key="d2">COLLECT</data>
+  <data key="d3">ALDI: U.S. Privacy Policy
+
+Information We Collect From Third Parties About You
+
+We may receive information about you from third parties, such as business partners (including companies that assist us with online advertising and analytics), data providers who enhance the information we have about you, sources of publicly available information, and other users of the Services (such as when they provide your information to send you one of our products or participate in a "refer a friend" or similar programs that we may offer).
+ALDI: U.S. Privacy Policy
+
+Information We Collect From Third Parties About You
+
+We may receive information about you from third parties, such as business partners (including companies that assist us with online advertising and analytics), data providers who enhance the information we have about you, sources of publicly available information, and other users of the Services (such as when they provide your information to send you one of our products or participate in a "refer a friend" or similar programs that we may offer).
+When you interact with social media through the Services, we will receive information about you from the social media service and you will be choosing to share information about your interactions with ALDI with that social media service.
+When you interact with social media through the Services, we will receive information about you from the social media service and you will be choosing to share information about your interactions with ALDI with that social media service.
+We may also receive information about you if other users of social media give us access to their profiles and you are one of their connections or "friends."
+We may also receive information about you if other users of social media give us access to their profiles and you are one of their connections or "friends."
+The third party may allow you to remove the application or feature, in which case we will no longer collect information about you through the application or feature but may retain the information previously collected.
+The third party may allow you to remove the application or feature, in which case we will no longer collect information about you through the application or feature but may retain the information previously collected.
+When you use the Services to interact with third parties who operate certain portions of the Services, those third parties may share certain information about you with us (as described above) and we may also share certain information with that third party.
+When you use the Services to interact with third parties who operate certain portions of the Services, those third parties may share certain information about you with us (as described above) and we may also share certain information with that third party.
+We also may disclose information about you (i) if we are required to do so by law, regulation or legal process (such as a court order or subpoena), (ii) in response to requests by government agencies, such as law enforcement authorities, (iii) when we believe disclosure is necessary or appropriate to prevent physical harm or financial loss or in connection with an investigation of suspected or actual illegal activity; (iv) to protect and/or defend the Terms of Use, or other policies applicable to a Service ; or (v) to respond to an emergency.
+We also may disclose information about you (i) if we are required to do so by law, regulation or legal process (such as a court order or subpoena), (ii) in response to requests by government agencies, such as law enforcement authorities, (iii) when we believe disclosure is necessary or appropriate to prevent physical harm or financial loss or in connection with an investigation of suspected or actual illegal activity; (iv) to protect and/or defend the Terms of Use, or other policies applicable to a Service ; or (v) to respond to an emergency.</data>
+</edge>
+<edge source="we" target="information collect" id="e42">
+  <data key="d2">COLLECT</data>
+  <data key="d3">The third party may allow you to remove the application or feature, in which case we will no longer collect information about you through the application or feature but may retain the information previously collected.
+The third party may allow you to remove the application or feature, in which case we will no longer collect information about you through the application or feature but may retain the information previously collected.</data>
+</edge>
+<edge source="we" target="non-personal information" id="e43">
+  <data key="d2">COLLECT</data>
+  <data key="d3">We may use non-personal information for any purpose allowable by law, including for advertising, research, and marketing purposes.
+We may use non-personal information for any purpose allowable by law, including for advertising, research, and marketing purposes.</data>
+</edge>
+<edge source="we" target="information collect from" id="e44">
+  <data key="d2">COLLECT</data>
+  <data key="d3">We use information collected from or about you, including personal information and Usage Information, as disclosed in this U.S. Privacy Policy, including to:
+We use information collected from or about you, including personal information and Usage Information, as disclosed in this U.S. Privacy Policy, including to:</data>
+</edge>
+<edge source="we" target="information we collect about you" id="e45">
+  <data key="d2">COLLECT</data>
+  <data key="d3">We may share the information we have collected about you as allowed by law and as disclosed at the time you provide your information, as described in this U.S. Privacy Policy, with your consent, and in the following circumstances:
+We may share the information we have collected about you as allowed by law and as disclosed at the time you provide your information, as described in this U.S. Privacy Policy, with your consent, and in the following circumstances:</data>
+</edge>
+<edge source="we" target="identify information" id="e46">
+  <data key="d2">COLLECT</data>
+  <data key="d3">If you apply for a job through the Services, we or our service providers may ask you to provide self-identifying information (such as veteran status, gender, and ethnicity) in conjunction with laws and regulations enforced by the Equal Employment Opportunity Commission and other federal, state and local regulatory agencies.
+If you apply for a job through the Services, we or our service providers may ask you to provide self-identifying information (such as veteran status, gender, and ethnicity) in conjunction with laws and regulations enforced by the Equal Employment Opportunity Commission and other federal, state and local regulatory agencies.
+Providing such self-identifying information is voluntary, but if you do provide such information, we and/or our service provider may submit that information to the appropriate government or regulatory agencies to fulfill reporting requirements and use that information to defend against employment-related complaints.</data>
+</edge>
+<edge source="we" target="information we have about you" id="e47">
+  <data key="d2">COLLECT</data>
+  <data key="d3">We reserve the right to transfer any information we have about you in the event we sell or transfer all or a portion of our business or assets (including in the event of a reorganization, dissolution or liquidation); by providing your information, you understand and agree that we may transfer such information to the acquiring entity without your further consent.
+We reserve the right to transfer any information we have about you in the event we sell or transfer all or a portion of our business or assets (including in the event of a reorganization, dissolution or liquidation); by providing your information, you understand and agree that we may transfer such information to the acquiring entity without your further consent.</data>
+</edge>
+<edge source="we" target="information hash" id="e48">
+  <data key="d2">COLLECT</data>
+  <data key="d3">We may share information, typically information that has been hashed or otherwise de-identified or pseudonymized (including hashed email addresses), Usage Information, and location information, with third party advertising companies, analytics providers and other third parties for the purpose of serving you more relevant ads on and off the Services .
+We may share information, typically information that has been hashed or otherwise de-identified or pseudonymized (including hashed email addresses), Usage Information, and location information, with third party advertising companies, analytics providers and other third parties for the purpose of serving you more relevant ads on and off the Services .</data>
+</edge>
+<edge source="we" target="email address" id="e49">
+  <data key="d2">COLLECT</data>
+  <data key="d3">We may share information, typically information that has been hashed or otherwise de-identified or pseudonymized (including hashed email addresses), Usage Information, and location information, with third party advertising companies, analytics providers and other third parties for the purpose of serving you more relevant ads on and off the Services .
+We may share information, typically information that has been hashed or otherwise de-identified or pseudonymized (including hashed email addresses), Usage Information, and location information, with third party advertising companies, analytics providers and other third parties for the purpose of serving you more relevant ads on and off the Services .</data>
+</edge>
+<edge source="we" target="category of personal information describe in notice" id="e50">
+  <data key="d2">COLLECT</data>
+  <data key="d3">We will retain all categories of personal information described in this Notice for as long as it is reasonably necessary for the purposes set out in this Notice, considering the time period reasonably necessary to: enable you to exercise the choices and rights you have requested; comply with our contractual obligations; enforce our terms for use of the ALDI Services; and comply with legal and regulatory requirements.
+We will retain all categories of personal information described in this Notice for as long as it is reasonably necessary for the purposes set out in this Notice, considering the time period reasonably necessary to: enable you to exercise the choices and rights you have requested; comply with our contractual obligations; enforce our terms for use of the ALDI Services; and comply with legal and regulatory requirements.</data>
+</edge>
+<edge source="we" target="racial origin" id="e51">
+  <data key="d2">COLLECT</data>
+  <data key="d3">We may collect the following information, only in the context of an employment application: Your racial origin (solely for reporting purposes)
+We may collect the following information, only in the context of an employment application: Your racial origin (solely for reporting purposes)</data>
+</edge>
+<edge source="we" target="type of information" id="e52">
+  <data key="d2">COLLECT</data>
+  <data key="d3">ALDI: U.S. Privacy Policy
+
+Notice To California Residents
+
+Sensory data . We may collect this type of information from:
+ALDI: U.S. Privacy Policy
+
+Notice To California Residents
+
+Sensory data . We may collect this type of information from:
+ALDI: U.S. Privacy Policy
+
+Notice To California Residents
+
+Inferences drawn from other personal information . We may collect this type of information from:
+ALDI: U.S. Privacy Policy
+
+Notice To California Residents
+
+Inferences drawn from other personal information . We may collect this type of information from:
+Notice To California Residents
+
+Identifiers. We may use this type of information for:
+Notice To California Residents
+
+Identifiers. We may use this type of information for:
+ALDI: U.S. Privacy Policy
+
+Notice To California Residents
+
+Geolocation data . We may use this type of information to:
+ALDI: U.S. Privacy Policy
+
+Notice To California Residents
+
+Geolocation data . We may use this type of information to:
+ALDI: U.S. Privacy Policy
+
+Notice To California Residents
+
+Geolocation data . We may disclose this type of information to:
+ALDI: U.S. Privacy Policy
+
+Notice To California Residents
+
+Geolocation data . We may disclose this type of information to:
+ALDI: U.S. Privacy Policy
+
+Notice To California Residents
+
+Sensory data . We may disclose this type of information to:
+ALDI: U.S. Privacy Policy
+
+Notice To California Residents
+
+Sensory data . We may disclose this type of information to:</data>
+</edge>
+<edge source="personal information" target="choice available regard use of information" id="e53">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">This U.S.  Privacy Policy describes the types of personal information we collect on the Services, how we may use the information, with whom we may share it and the choices available to you regarding our use of the information.
+This U.S.  Privacy Policy describes the types of personal information we collect on the Services, how we may use the information, with whom we may share it and the choices available to you regarding our use of the information.</data>
+</edge>
+<edge source="personal information" target="payment information" id="e54">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">ALDI: U.S. Privacy Policy
+
+Information You Provide Us Directly
+
+The types of personal information we may collect may include: payment information (such as credit or debit card or EBT number, security code, expiration date and billing address);</data>
+</edge>
+<edge source="personal information" target="shopping list information" id="e55">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">ALDI: U.S. Privacy Policy
+
+Information You Provide Us Directly
+
+The types of personal information we may collect may include: shopping list and purchase history information;
+ALDI: U.S. Privacy Policy
+
+Information You Provide Us Directly
+
+The types of personal information we may collect may include: shopping list and purchase history information;</data>
+</edge>
+<edge source="personal information" target="identifier" id="e56">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">ALDI: U.S. Privacy Policy
+
+Information You Provide Us Directly
+
+The types of personal information we may collect may include: Identifiers, such as name, nickname, postal address, email address and telephone number;</data>
+</edge>
+<edge source="personal information" target="datum post to service page" id="e57">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">ALDI: U.S. Privacy Policy
+
+Information You Provide Us Directly
+
+The types of personal information we may collect may include:
+Information You Provide Us Directly
+
+The types of personal information we may collect may include: content and other data posted to our Services and social media pages, and information we obtain through ALDI-related social media apps, tools, widgets and plug-in</data>
+</edge>
+<edge source="personal information" target="date of birth" id="e58">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">ALDI: U.S. Privacy Policy
+
+Information You Provide Us Directly
+
+The types of personal information we may collect may include: Purchaser's date of birth (in connection with our legal obligations in the context of alcohol sales);</data>
+</edge>
+<edge source="personal information" target="login credential for service" id="e59">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">ALDI: U.S. Privacy Policy
+
+Information You Provide Us Directly
+
+The types of personal information we may collect may include: login credentials for our Services (such as a username or email address and password);</data>
+</edge>
+<edge source="personal information" target="information we obtain through relate social medium app" id="e60">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">ALDI: U.S. Privacy Policy
+
+Information You Provide Us Directly
+
+The types of personal information we may collect may include:
+Information You Provide Us Directly
+
+The types of personal information we may collect may include: content and other data posted to our Services and social media pages, and information we obtain through ALDI-related social media apps, tools, widgets and plug-in</data>
+</edge>
+<edge source="personal information" target="in connection with career page personal information contain in resume" id="e61">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">ALDI: U.S. Privacy Policy
+
+Information You Provide Us Directly
+
+The types of personal information we may collect may include: in connection with our careers pages, personal information contained in your resume, cover letter or other documents submitted online, including your name and education history; and</data>
+</edge>
+<edge source="personal information" target="specific piece" id="e62">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">ALDI: U.S. Privacy Policy
+
+Notice To California Residents
+
+California Consumers have the right to request: (1) that we disclose to you what personal information we collect, use, disclose, share, and sell, including the right to request that we provide to you the categories and specific pieces of personal information we have collected about you (" Right to Know "); (2) that we delete the personal information we collect about you (" Right to Delete "); (3) that we correct inaccurate personal information we hold about you (" Right to Correct "); (4) to opt-out from the sharing of your personal information to a third party for cross-context behavioral advertising (i.e. targeted advertising) (" Right to Opt-Out of Sharing "); (5) to opt-out from the sale of their personal information and sensitive personal information (" Right to Opt-Out of Sales "); and (6) that we limit the use or disclosure of your sensitive personal information to purposes set forth in the statute, including that use which is necessary and anticipated to perform the services or provide the goods reasonably expected by an average consumer who requests those goods or services (" Right to Limit The Use and Disclosure of Sensitive Personal Information "), all subject to exceptions set forth in the CPRA
+ALDI: U.S. Privacy Policy
+
+Notice To California Residents
+
+California Consumers have the right to request: (1) that we disclose to you what personal information we collect, use, disclose, share, and sell, including the right to request that we provide to you the categories and specific pieces of personal information we have collected about you (" Right to Know "); (2) that we delete the personal information we collect about you (" Right to Delete "); (3) that we correct inaccurate personal information we hold about you (" Right to Correct "); (4) to opt-out from the sharing of your personal information to a third party for cross-context behavioral advertising (i.e. targeted advertising) (" Right to Opt-Out of Sharing "); (5) to opt-out from the sale of their personal information and sensitive personal information (" Right to Opt-Out of Sales "); and (6) that we limit the use or disclosure of your sensitive personal information to purposes set forth in the statute, including that use which is necessary and anticipated to perform the services or provide the goods reasonably expected by an average consumer who requests those goods or services (" Right to Limit The Use and Disclosure of Sensitive Personal Information "), all subject to exceptions set forth in the CPRA</data>
+</edge>
+<edge source="personal information" target="specific piece of information" id="e63">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">ALDI: U.S. Privacy Policy
+
+Notice To California Residents
+
+Right to Know California Consumers have the right to know what information we have collected about you, including both the categories of personal information and the specific pieces of information.
+ALDI: U.S. Privacy Policy
+
+Notice To California Residents
+
+Right to Know California Consumers have the right to know what information we have collected about you, including both the categories of personal information and the specific pieces of information.</data>
+</edge>
+<edge source="personal information" target="predisposition" id="e64">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">ALDI: U.S. Privacy Policy
+
+Notice To California Residents
+
+We may collect the following: Inferences drawn from other personal information , such as preferences, characteristics, predispositions and behaviors.
+ALDI: U.S. Privacy Policy
+
+Notice To California Residents
+
+We may collect the following: Inferences drawn from other personal information , such as preferences, characteristics, predispositions and behaviors.</data>
+</edge>
+<edge source="personal information" target="preference" id="e65">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">ALDI: U.S. Privacy Policy
+
+Notice To California Residents
+
+We may collect the following: Inferences drawn from other personal information , such as preferences, characteristics, predispositions and behaviors.
+ALDI: U.S. Privacy Policy
+
+Notice To California Residents
+
+We may collect the following: Inferences drawn from other personal information , such as preferences, characteristics, predispositions and behaviors.</data>
+</edge>
+<edge source="personal information" target="behavior" id="e66">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">ALDI: U.S. Privacy Policy
+
+Notice To California Residents
+
+We may collect the following: Inferences drawn from other personal information , such as preferences, characteristics, predispositions and behaviors.
+ALDI: U.S. Privacy Policy
+
+Notice To California Residents
+
+We may collect the following: Inferences drawn from other personal information , such as preferences, characteristics, predispositions and behaviors.</data>
+</edge>
+<edge source="personal information" target="characteristic" id="e67">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">ALDI: U.S. Privacy Policy
+
+Notice To California Residents
+
+We may collect the following: Inferences drawn from other personal information , such as preferences, characteristics, predispositions and behaviors.
+ALDI: U.S. Privacy Policy
+
+Notice To California Residents
+
+We may collect the following: Inferences drawn from other personal information , such as preferences, characteristics, predispositions and behaviors.</data>
+</edge>
+<edge source="personal information" target="geolocation" id="e68">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">ALDI: U.S. Privacy Policy
+
+Notice To California Residents
+
+Identifiers; Any categories of personal information described in subdivision 1798.140; Protected classification characteristics; Commercial information; Geolocation data; Internet or electronic network activity: Third party advertising, analytics, and similar third parties may have access to these categories of data through cookies and similar technologies, and this may be considered "sale" or "share" under the CCPA and CPRA under certain circumstances.
+ALDI: U.S. Privacy Policy
+
+Notice To California Residents
+
+Identifiers; Any categories of personal information described in subdivision 1798.140; Protected classification characteristics; Commercial information; Geolocation data; Internet or electronic network activity: Third party advertising, analytics, and similar third parties may have access to these categories of data through cookies and similar technologies, and this may be considered "sale" or "share" under the CCPA and CPRA under certain circumstances.</data>
+</edge>
+<edge source="personal information" target="internet activity" id="e69">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">ALDI: U.S. Privacy Policy
+
+Notice To California Residents
+
+Identifiers; Any categories of personal information described in subdivision 1798.140; Protected classification characteristics; Commercial information; Geolocation data; Internet or electronic network activity: Third party advertising, analytics, and similar third parties may have access to these categories of data through cookies and similar technologies, and this may be considered "sale" or "share" under the CCPA and CPRA under certain circumstances.
+ALDI: U.S. Privacy Policy
+
+Notice To California Residents
+
+Identifiers; Any categories of personal information described in subdivision 1798.140; Protected classification characteristics; Commercial information; Geolocation data; Internet or electronic network activity: Third party advertising, analytics, and similar third parties may have access to these categories of data through cookies and similar technologies, and this may be considered "sale" or "share" under the CCPA and CPRA under certain circumstances.</data>
+</edge>
+<edge source="personal information" target="protected classification" id="e70">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">ALDI: U.S. Privacy Policy
+
+Notice To California Residents
+
+Identifiers; Any categories of personal information described in subdivision 1798.140; Protected classification characteristics; Commercial information; Geolocation data; Internet or electronic network activity: Third party advertising, analytics, and similar third parties may have access to these categories of data through cookies and similar technologies, and this may be considered "sale" or "share" under the CCPA and CPRA under certain circumstances.
+ALDI: U.S. Privacy Policy
+
+Notice To California Residents
+
+Identifiers; Any categories of personal information described in subdivision 1798.140; Protected classification characteristics; Commercial information; Geolocation data; Internet or electronic network activity: Third party advertising, analytics, and similar third parties may have access to these categories of data through cookies and similar technologies, and this may be considered "sale" or "share" under the CCPA and CPRA under certain circumstances.</data>
+</edge>
+<edge source="personal information" target="commercial information" id="e71">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">ALDI: U.S. Privacy Policy
+
+Notice To California Residents
+
+Identifiers; Any categories of personal information described in subdivision 1798.140; Protected classification characteristics; Commercial information; Geolocation data; Internet or electronic network activity: Third party advertising, analytics, and similar third parties may have access to these categories of data through cookies and similar technologies, and this may be considered "sale" or "share" under the CCPA and CPRA under certain circumstances.
+ALDI: U.S. Privacy Policy
+
+Notice To California Residents
+
+Identifiers; Any categories of personal information described in subdivision 1798.140; Protected classification characteristics; Commercial information; Geolocation data; Internet or electronic network activity: Third party advertising, analytics, and similar third parties may have access to these categories of data through cookies and similar technologies, and this may be considered "sale" or "share" under the CCPA and CPRA under certain circumstances.</data>
+</edge>
+<edge source="payment information" target="expiration date" id="e72">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">ALDI: U.S. Privacy Policy
+
+Information You Provide Us Directly
+
+The types of personal information we may collect may include: payment information (such as credit or debit card or EBT number, security code, expiration date and billing address);
+ALDI: U.S. Privacy Policy
+
+Information You Provide Us Directly
+
+The types of personal information we may collect may include: payment information (such as credit or debit card or EBT number, security code, expiration date and billing address);</data>
+</edge>
+<edge source="payment information" target="postal address" id="e73">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">ALDI: U.S. Privacy Policy
+
+Information You Provide Us Directly
+
+The types of personal information we may collect may include: payment information (such as credit or debit card or EBT number, security code, expiration date and billing address);
+ALDI: U.S. Privacy Policy
+
+Information You Provide Us Directly
+
+The types of personal information we may collect may include: payment information (such as credit or debit card or EBT number, security code, expiration date and billing address);</data>
+</edge>
+<edge source="payment information" target="ebt number" id="e74">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">ALDI: U.S. Privacy Policy
+
+Information You Provide Us Directly
+
+The types of personal information we may collect may include: payment information (such as credit or debit card or EBT number, security code, expiration date and billing address);
+ALDI: U.S. Privacy Policy
+
+Information You Provide Us Directly
+
+The types of personal information we may collect may include: payment information (such as credit or debit card or EBT number, security code, expiration date and billing address);
+ALDI: U.S. Privacy Policy
+
+Information You Provide Us Directly
+
+The types of personal information we may collect may include: payment information (such as credit or debit card or EBT number, security code, expiration date and billing address);</data>
+</edge>
+<edge source="payment information" target="credit card" id="e75">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">ALDI: U.S. Privacy Policy
+
+Information You Provide Us Directly
+
+The types of personal information we may collect may include: payment information (such as credit or debit card or EBT number, security code, expiration date and billing address);
+ALDI: U.S. Privacy Policy
+
+Information You Provide Us Directly
+
+The types of personal information we may collect may include: payment information (such as credit or debit card or EBT number, security code, expiration date and billing address);</data>
+</edge>
+<edge source="payment information" target="security code" id="e76">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">ALDI: U.S. Privacy Policy
+
+Information You Provide Us Directly
+
+The types of personal information we may collect may include: payment information (such as credit or debit card or EBT number, security code, expiration date and billing address);
+ALDI: U.S. Privacy Policy
+
+Information You Provide Us Directly
+
+The types of personal information we may collect may include: payment information (such as credit or debit card or EBT number, security code, expiration date and billing address);</data>
+</edge>
+<edge source="identifier" target="postal address" id="e77">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">ALDI: U.S. Privacy Policy
+
+Information You Provide Us Directly
+
+The types of personal information we may collect may include: Identifiers, such as name, nickname, postal address, email address and telephone number;
+ALDI: U.S. Privacy Policy
+
+Information You Provide Us Directly
+
+The types of personal information we may collect may include: Identifiers, such as name, nickname, postal address, email address and telephone number;
+ALDI: U.S. Privacy Policy
+
+Notice To California Residents
+
+We may collect the following: Identifiers , such as name, mailing address, IP address, email address or account name.
+ALDI: U.S. Privacy Policy
+
+Notice To California Residents
+
+We may collect the following: Identifiers , such as name, mailing address, IP address, email address or account name.</data>
+</edge>
+<edge source="identifier" target="nickname" id="e78">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">ALDI: U.S. Privacy Policy
+
+Information You Provide Us Directly
+
+The types of personal information we may collect may include: Identifiers, such as name, nickname, postal address, email address and telephone number;
+ALDI: U.S. Privacy Policy
+
+Information You Provide Us Directly
+
+The types of personal information we may collect may include: Identifiers, such as name, nickname, postal address, email address and telephone number;</data>
+</edge>
+<edge source="identifier" target="email address" id="e79">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">ALDI: U.S. Privacy Policy
+
+Information You Provide Us Directly
+
+The types of personal information we may collect may include: Identifiers, such as name, nickname, postal address, email address and telephone number;
+ALDI: U.S. Privacy Policy
+
+Information You Provide Us Directly
+
+The types of personal information we may collect may include: Identifiers, such as name, nickname, postal address, email address and telephone number;
+ALDI: U.S. Privacy Policy
+
+Notice To California Residents
+
+We may collect the following: Identifiers , such as name, mailing address, IP address, email address or account name.
+ALDI: U.S. Privacy Policy
+
+Notice To California Residents
+
+We may collect the following: Identifiers , such as name, mailing address, IP address, email address or account name.</data>
+</edge>
+<edge source="identifier" target="phone number" id="e80">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">ALDI: U.S. Privacy Policy
+
+Information You Provide Us Directly
+
+The types of personal information we may collect may include: Identifiers, such as name, nickname, postal address, email address and telephone number;
+ALDI: U.S. Privacy Policy
+
+Information You Provide Us Directly
+
+The types of personal information we may collect may include: Identifiers, such as name, nickname, postal address, email address and telephone number;</data>
+</edge>
+<edge source="identifier" target="person name" id="e81">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">ALDI: U.S. Privacy Policy
+
+Information You Provide Us Directly
+
+The types of personal information we may collect may include: Identifiers, such as name, nickname, postal address, email address and telephone number;
+ALDI: U.S. Privacy Policy
+
+Information You Provide Us Directly
+
+The types of personal information we may collect may include: Identifiers, such as name, nickname, postal address, email address and telephone number;
+ALDI: U.S. Privacy Policy
+
+Notice To California Residents
+
+We may collect the following: Identifiers , such as name, mailing address, IP address, email address or account name.
+ALDI: U.S. Privacy Policy
+
+Notice To California Residents
+
+We may collect the following: Identifiers , such as name, mailing address, IP address, email address or account name.</data>
+</edge>
+<edge source="identifier" target="advertising id" id="e82">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">The information we collect in this manner may include the device type used, the mobile operating system and version, device identifiers and similar unique identifiers such as the ID for Advertising (IDFA) on Apple devices, and the Advertising ID on Android devices, device settings and configurations, IP addresses, battery and signal strength, mobile network information, usage statistics, referring emails and web addresses, dates and times of usage, actions taken on the Apps and other information regarding use of the Apps.
+The information we collect in this manner may include the device type used, the mobile operating system and version, device identifiers and similar unique identifiers such as the ID for Advertising (IDFA) on Apple devices, and the Advertising ID on Android devices, device settings and configurations, IP addresses, battery and signal strength, mobile network information, usage statistics, referring emails and web addresses, dates and times of usage, actions taken on the Apps and other information regarding use of the Apps.
+The information we collect in this manner may include the device type used, the mobile operating system and version, device identifiers and similar unique identifiers such as the ID for Advertising (IDFA) on Apple devices, and the Advertising ID on Android devices, device settings and configurations, IP addresses, battery and signal strength, mobile network information, usage statistics, referring emails and web addresses, dates and times of usage, actions taken on the Apps and other information regarding use of the Apps.
+The information we collect in this manner may include the device type used, the mobile operating system and version, device identifiers and similar unique identifiers such as the ID for Advertising (IDFA) on Apple devices, and the Advertising ID on Android devices, device settings and configurations, IP addresses, battery and signal strength, mobile network information, usage statistics, referring emails and web addresses, dates and times of usage, actions taken on the Apps and other information regarding use of the Apps.</data>
+</edge>
+<edge source="identifier" target="ip address" id="e83">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">ALDI: U.S. Privacy Policy
+
+Notice To California Residents
+
+We may collect the following: Identifiers , such as name, mailing address, IP address, email address or account name.
+ALDI: U.S. Privacy Policy
+
+Notice To California Residents
+
+We may collect the following: Identifiers , such as name, mailing address, IP address, email address or account name.</data>
+</edge>
+<edge source="identifier" target="account name" id="e84">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">ALDI: U.S. Privacy Policy
+
+Notice To California Residents
+
+We may collect the following: Identifiers , such as name, mailing address, IP address, email address or account name.
+ALDI: U.S. Privacy Policy
+
+Notice To California Residents
+
+We may collect the following: Identifiers , such as name, mailing address, IP address, email address or account name.</data>
+</edge>
+<edge source="login credential for service" target="username" id="e85">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">ALDI: U.S. Privacy Policy
+
+Information You Provide Us Directly
+
+The types of personal information we may collect may include: login credentials for our Services (such as a username or email address and password);
+ALDI: U.S. Privacy Policy
+
+Information You Provide Us Directly
+
+The types of personal information we may collect may include: login credentials for our Services (such as a username or email address and password);</data>
+</edge>
+<edge source="login credential for service" target="email address" id="e86">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">ALDI: U.S. Privacy Policy
+
+Information You Provide Us Directly
+
+The types of personal information we may collect may include: login credentials for our Services (such as a username or email address and password);
+ALDI: U.S. Privacy Policy
+
+Information You Provide Us Directly
+
+The types of personal information we may collect may include: login credentials for our Services (such as a username or email address and password);</data>
+</edge>
+<edge source="login credential for service" target="password" id="e87">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">ALDI: U.S. Privacy Policy
+
+Information You Provide Us Directly
+
+The types of personal information we may collect may include: login credentials for our Services (such as a username or email address and password);
+ALDI: U.S. Privacy Policy
+
+Information You Provide Us Directly
+
+The types of personal information we may collect may include: login credentials for our Services (such as a username or email address and password);</data>
+</edge>
+<edge source="in connection with career page personal information contain in resume" target="education history" id="e88">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">ALDI: U.S. Privacy Policy
+
+Information You Provide Us Directly
+
+The types of personal information we may collect may include: in connection with our careers pages, personal information contained in your resume, cover letter or other documents submitted online, including your name and education history; and
+ALDI: U.S. Privacy Policy
+
+Information You Provide Us Directly
+
+The types of personal information we may collect may include: in connection with our careers pages, personal information contained in your resume, cover letter or other documents submitted online, including your name and education history; and</data>
+</edge>
+<edge source="in connection with career page personal information contain in resume" target="person name" id="e89">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">ALDI: U.S. Privacy Policy
+
+Information You Provide Us Directly
+
+The types of personal information we may collect may include: in connection with our careers pages, personal information contained in your resume, cover letter or other documents submitted online, including your name and education history; and
+ALDI: U.S. Privacy Policy
+
+Information You Provide Us Directly
+
+The types of personal information we may collect may include: in connection with our careers pages, personal information contained in your resume, cover letter or other documents submitted online, including your name and education history; and</data>
+</edge>
+<edge source="UNSPECIFIED_ACTOR" target="UNSPECIFIED_DATA" id="e90">
+  <data key="d2">COLLECT</data>
+  <data key="d3">We may share information with third party service providers or allow those third parties to collect information about you, to enable them to perform services on our behalf , such as website hosting, conducting website usage analytics, sending email, text, or other communications, fulfilling orders, providing marketing assistance and data analysis, processing payments, and other services .
+We may share information with third party service providers or allow those third parties to collect information about you, to enable them to perform services on our behalf , such as website hosting, conducting website usage analytics, sending email, text, or other communications, fulfilling orders, providing marketing assistance and data analysis, processing payments, and other services .
+When you use the Services to interact with third parties who operate certain portions of the Services, those third parties may share certain information about you with us (as described above) and we may also share certain information with that third party.
+When you use the Services to interact with third parties who operate certain portions of the Services, those third parties may share certain information about you with us (as described above) and we may also share certain information with that third party.
+ALDI: U.S. Privacy Policy
+
+How We Share Your Information
+
+Parent and Affiliated Entities : We may share information with our affiliates and subsidiaries for internal business, analytical, and operational purposes.
+ALDI: U.S. Privacy Policy
+
+How We Share Your Information
+
+Parent and Affiliated Entities : We may share information with our affiliates and subsidiaries for internal business, analytical, and operational purposes.</data>
+</edge>
+<edge source="UNSPECIFIED_ACTOR" target="cookie / pixel tag" id="e91">
+  <data key="d2">COLLECT</data>
+  <data key="d3">The third-party operators and content providers use their own cookies or other tracking technologies, and they may independently collect information from or about you.
+The third-party operators and content providers use their own cookies or other tracking technologies, and they may independently collect information from or about you.
+The third-party operators and content providers use their own cookies or other tracking technologies, and they may independently collect information from or about you.
+The third-party operators and content providers use their own cookies or other tracking technologies, and they may independently collect information from or about you.</data>
+</edge>
+<edge source="UNSPECIFIED_ACTOR" target="information from" id="e92">
+  <data key="d2">COLLECT</data>
+  <data key="d3">The third-party operators and content providers use their own cookies or other tracking technologies, and they may independently collect information from or about you.
+The third-party operators and content providers use their own cookies or other tracking technologies, and they may independently collect information from or about you.
+The third-party operators and content providers use their own cookies or other tracking technologies, and they may independently collect information from or about you.
+The third-party operators and content providers use their own cookies or other tracking technologies, and they may independently collect information from or about you.</data>
+</edge>
+<edge source="UNSPECIFIED_ACTOR" target="type of information" id="e93">
+  <data key="d2">COLLECT</data>
+  <data key="d3">ALDI: U.S. Privacy Policy
+
+Notice To California Residents
+
+Identifiers. We may disclose this type of information to: Affiliates and subsidiaries;
+ALDI: U.S. Privacy Policy
+
+Notice To California Residents
+
+Identifiers. We may disclose this type of information to: Affiliates and subsidiaries;
+ALDI: U.S. Privacy Policy
+
+Notice To California Residents
+
+Geolocation data . We may disclose this type of information to: Third party service providers;
+ALDI: U.S. Privacy Policy
+
+Notice To California Residents
+
+Geolocation data . We may disclose this type of information to: Third parties who may acquire your information as a result of a merger, acquisition or other ownership transition;
+ALDI: U.S. Privacy Policy
+
+Notice To California Residents
+
+Sensory data . We may disclose this type of information to: Third party service providers;
+ALDI: U.S. Privacy Policy
+
+Notice To California Residents
+
+Sensory data . We may disclose this type of information to: Third parties who may acquire your information as a result of a merger, acquisition or other ownership transition;
+ALDI: U.S. Privacy Policy
+
+Notice To California Residents
+
+Sensory data . We may disclose this type of information to: Third parties when you agree to or direct that we share your information with them.
+We may disclose this type of information to: Third parties who may acquire your information as a result of a merger, acquisition, or other ownership transition.</data>
+</edge>
+<edge source="UNSPECIFIED_ACTOR" target="code" id="e94">
+  <data key="d2">COLLECT</data>
+  <data key="d3">The code is temporarily used by our server or a third-party service provider or business partner while you browse or interact with our Services and is deactivated or deleted when you disconnect from our Services.
+The code is temporarily used by our server or a third-party service provider or business partner while you browse or interact with our Services and is deactivated or deleted when you disconnect from our Services.</data>
+</edge>
+<edge source="UNSPECIFIED_ACTOR" target="geolocation" id="e95">
+  <data key="d2">COLLECT</data>
+  <data key="d3">In addition, some mobile service providers may also provide us or our third-party service providers with information regarding the physical location of the device used to access the Services.
+In addition, some mobile service providers may also provide us or our third-party service providers with information regarding the physical location of the device used to access the Services.
+We may share information, typically information that has been hashed or otherwise de-identified or pseudonymized (including hashed email addresses), Usage Information, and location information, with third party advertising companies, analytics providers and other third parties for the purpose of serving you more relevant ads on and off the Services .
+We may share information, typically information that has been hashed or otherwise de-identified or pseudonymized (including hashed email addresses), Usage Information, and location information, with third party advertising companies, analytics providers and other third parties for the purpose of serving you more relevant ads on and off the Services .</data>
+</edge>
+<edge source="UNSPECIFIED_ACTOR" target="non-personal information" id="e96">
+  <data key="d2">COLLECT</data>
+  <data key="d3">ALDI may share non-personal information, which may include Usage Information and information that has been hashed or otherwise de-identified or pseudonymized, with third parties in our discretion and as allowed by law, including for targeted advertising purposes.
+ALDI may share non-personal information, which may include Usage Information and information that has been hashed or otherwise de-identified or pseudonymized, with third parties in our discretion and as allowed by law, including for targeted advertising purposes.</data>
+</edge>
+<edge source="UNSPECIFIED_ACTOR" target="information about you" id="e97">
+  <data key="d2">COLLECT</data>
+  <data key="d3">We may share information with third party service providers or allow those third parties to collect information about you, to enable them to perform services on our behalf , such as website hosting, conducting website usage analytics, sending email, text, or other communications, fulfilling orders, providing marketing assistance and data analysis, processing payments, and other services .
+We may share information with third party service providers or allow those third parties to collect information about you, to enable them to perform services on our behalf , such as website hosting, conducting website usage analytics, sending email, text, or other communications, fulfilling orders, providing marketing assistance and data analysis, processing payments, and other services .
+When you use the Services to interact with third parties who operate certain portions of the Services, those third parties may share certain information about you with us (as described above) and we may also share certain information with that third party.
+When you use the Services to interact with third parties who operate certain portions of the Services, those third parties may share certain information about you with us (as described above) and we may also share certain information with that third party.</data>
+</edge>
+<edge source="UNSPECIFIED_ACTOR" target="personal information" id="e98">
+  <data key="d2">COLLECT</data>
+  <data key="d3">If you choose to enter a Promotion, personal information may be disclosed to third parties or the public in connection with the administration of such Promotion, including, without limitation, in connection with winner selection, prize fulfillment, as required by law , or as permitted by the Promotion's terms or official rules ( such as on a winners list ).
+If you choose to enter a Promotion, personal information may be disclosed to third parties or the public in connection with the administration of such Promotion, including, without limitation, in connection with winner selection, prize fulfillment, as required by law , or as permitted by the Promotion's terms or official rules ( such as on a winners list ).</data>
+</edge>
+<edge source="UNSPECIFIED_ACTOR" target="information hash" id="e99">
+  <data key="d2">COLLECT</data>
+  <data key="d3">We may share information, typically information that has been hashed or otherwise de-identified or pseudonymized (including hashed email addresses), Usage Information, and location information, with third party advertising companies, analytics providers and other third parties for the purpose of serving you more relevant ads on and off the Services .
+We may share information, typically information that has been hashed or otherwise de-identified or pseudonymized (including hashed email addresses), Usage Information, and location information, with third party advertising companies, analytics providers and other third parties for the purpose of serving you more relevant ads on and off the Services .</data>
+</edge>
+<edge source="UNSPECIFIED_ACTOR" target="usage information" id="e100">
+  <data key="d2">COLLECT</data>
+  <data key="d3">When you visit or otherwise interact with our Services, we and our third party business partners (including any third party service providers or third party analytics or content or advertising providers) may collect certain "Usage Information" by automated means, using technologies such as cookies, web server logs, image pixels, web beacons and JavaScript (collectively referred to as " Tracking Technologies ").
+When you visit or otherwise interact with our Services, we and our third party business partners (including any third party service providers or third party analytics or content or advertising providers) may collect certain "Usage Information" by automated means, using technologies such as cookies, web server logs, image pixels, web beacons and JavaScript (collectively referred to as " Tracking Technologies ").
+We may share information, typically information that has been hashed or otherwise de-identified or pseudonymized (including hashed email addresses), Usage Information, and location information, with third party advertising companies, analytics providers and other third parties for the purpose of serving you more relevant ads on and off the Services .
+We may share information, typically information that has been hashed or otherwise de-identified or pseudonymized (including hashed email addresses), Usage Information, and location information, with third party advertising companies, analytics providers and other third parties for the purpose of serving you more relevant ads on and off the Services .</data>
+</edge>
+<edge source="UNSPECIFIED_ACTOR" target="email address" id="e101">
+  <data key="d2">COLLECT</data>
+  <data key="d3">We may share information, typically information that has been hashed or otherwise de-identified or pseudonymized (including hashed email addresses), Usage Information, and location information, with third party advertising companies, analytics providers and other third parties for the purpose of serving you more relevant ads on and off the Services .
+We may share information, typically information that has been hashed or otherwise de-identified or pseudonymized (including hashed email addresses), Usage Information, and location information, with third party advertising companies, analytics providers and other third parties for the purpose of serving you more relevant ads on and off the Services .</data>
+</edge>
+<edge source="UNSPECIFIED_ACTOR" target="not track signal" id="e102">
+  <data key="d2">COLLECT</data>
+  <data key="d3">ALDI: U.S. Privacy Policy
+
+"Do Not Track" and Global Privacy Control Signals
+
+Do Not Track : Note that your browser settings may allow you to automatically transmit a "Do Not Track" signal to websites and online services you visit.
+ALDI: U.S. Privacy Policy
+
+"Do Not Track" and Global Privacy Control Signals
+
+Do Not Track : Note that your browser settings may allow you to automatically transmit a "Do Not Track" signal to websites and online services you visit.</data>
+</edge>
+<edge source="UNSPECIFIED_ACTOR" target="information about webpage you visit" id="e103">
+  <data key="d2">COLLECT</data>
+  <data key="d3">Like other sites, the social media platform will receive information about the webpage you are visiting, the date and time of your visit, and other browser-related information.
+Like other sites, the social media platform will receive information about the webpage you are visiting, the date and time of your visit, and other browser-related information.</data>
+</edge>
+<edge source="analytic provider" target="information hash" id="e104">
+  <data key="d2">COLLECT</data>
+  <data key="d3">We may share information, typically information that has been hashed or otherwise de-identified or pseudonymized (including hashed email addresses), Usage Information, and location information, with third party advertising companies, analytics providers and other third parties for the purpose of serving you more relevant ads on and off the Services .
+We may share information, typically information that has been hashed or otherwise de-identified or pseudonymized (including hashed email addresses), Usage Information, and location information, with third party advertising companies, analytics providers and other third parties for the purpose of serving you more relevant ads on and off the Services .</data>
+</edge>
+<edge source="analytic provider" target="usage information" id="e105">
+  <data key="d2">COLLECT</data>
+  <data key="d3">When you visit or otherwise interact with our Services, we and our third party business partners (including any third party service providers or third party analytics or content or advertising providers) may collect certain "Usage Information" by automated means, using technologies such as cookies, web server logs, image pixels, web beacons and JavaScript (collectively referred to as " Tracking Technologies ").
+When you visit or otherwise interact with our Services, we and our third party business partners (including any third party service providers or third party analytics or content or advertising providers) may collect certain "Usage Information" by automated means, using technologies such as cookies, web server logs, image pixels, web beacons and JavaScript (collectively referred to as " Tracking Technologies ").
+We may share information, typically information that has been hashed or otherwise de-identified or pseudonymized (including hashed email addresses), Usage Information, and location information, with third party advertising companies, analytics providers and other third parties for the purpose of serving you more relevant ads on and off the Services .
+We may share information, typically information that has been hashed or otherwise de-identified or pseudonymized (including hashed email addresses), Usage Information, and location information, with third party advertising companies, analytics providers and other third parties for the purpose of serving you more relevant ads on and off the Services .</data>
+</edge>
+<edge source="analytic provider" target="geolocation" id="e106">
+  <data key="d2">COLLECT</data>
+  <data key="d3">We may share information, typically information that has been hashed or otherwise de-identified or pseudonymized (including hashed email addresses), Usage Information, and location information, with third party advertising companies, analytics providers and other third parties for the purpose of serving you more relevant ads on and off the Services .
+We may share information, typically information that has been hashed or otherwise de-identified or pseudonymized (including hashed email addresses), Usage Information, and location information, with third party advertising companies, analytics providers and other third parties for the purpose of serving you more relevant ads on and off the Services .</data>
+</edge>
+<edge source="analytic provider" target="email address" id="e107">
+  <data key="d2">COLLECT</data>
+  <data key="d3">We may share information, typically information that has been hashed or otherwise de-identified or pseudonymized (including hashed email addresses), Usage Information, and location information, with third party advertising companies, analytics providers and other third parties for the purpose of serving you more relevant ads on and off the Services .
+We may share information, typically information that has been hashed or otherwise de-identified or pseudonymized (including hashed email addresses), Usage Information, and location information, with third party advertising companies, analytics providers and other third parties for the purpose of serving you more relevant ads on and off the Services .</data>
+</edge>
+<edge source="analytic provider" target="type of information" id="e108">
+  <data key="d2">COLLECT</data>
+  <data key="d3">We may disclose this type of information to: Third party advertising and analytics companies;
+We may disclose this type of information to: Third party advertising and analytics companies;
+We may disclose this type of information to: Third party advertising and analytics companies;
+We may disclose this type of information to: Third party advertising and analytics companies;
+ALDI: U.S. Privacy Policy
+
+Notice To California Residents
+
+Geolocation data . We may disclose this type of information to:
+We may disclose this type of information to: Third party advertising and analytics companies;
+We may disclose this type of information to: Third party advertising and analytics companies;
+We may disclose this type of information to: Third party advertising and analytics companies;</data>
+</edge>
+<edge source="advertiser" target="information hash" id="e109">
+  <data key="d2">COLLECT</data>
+  <data key="d3">We may share information, typically information that has been hashed or otherwise de-identified or pseudonymized (including hashed email addresses), Usage Information, and location information, with third party advertising companies, analytics providers and other third parties for the purpose of serving you more relevant ads on and off the Services .
+We may share information, typically information that has been hashed or otherwise de-identified or pseudonymized (including hashed email addresses), Usage Information, and location information, with third party advertising companies, analytics providers and other third parties for the purpose of serving you more relevant ads on and off the Services .</data>
+</edge>
+<edge source="advertiser" target="usage information" id="e110">
+  <data key="d2">COLLECT</data>
+  <data key="d3">When you visit or otherwise interact with our Services, we and our third party business partners (including any third party service providers or third party analytics or content or advertising providers) may collect certain "Usage Information" by automated means, using technologies such as cookies, web server logs, image pixels, web beacons and JavaScript (collectively referred to as " Tracking Technologies ").
+When you visit or otherwise interact with our Services, we and our third party business partners (including any third party service providers or third party analytics or content or advertising providers) may collect certain "Usage Information" by automated means, using technologies such as cookies, web server logs, image pixels, web beacons and JavaScript (collectively referred to as " Tracking Technologies ").
+When you visit or otherwise interact with our Services, we and our third party business partners (including any third party service providers or third party analytics or content or advertising providers) may collect certain "Usage Information" by automated means, using technologies such as cookies, web server logs, image pixels, web beacons and JavaScript (collectively referred to as " Tracking Technologies ").
+When you visit or otherwise interact with our Services, we and our third party business partners (including any third party service providers or third party analytics or content or advertising providers) may collect certain "Usage Information" by automated means, using technologies such as cookies, web server logs, image pixels, web beacons and JavaScript (collectively referred to as " Tracking Technologies ").
+We may share information, typically information that has been hashed or otherwise de-identified or pseudonymized (including hashed email addresses), Usage Information, and location information, with third party advertising companies, analytics providers and other third parties for the purpose of serving you more relevant ads on and off the Services .
+We may share information, typically information that has been hashed or otherwise de-identified or pseudonymized (including hashed email addresses), Usage Information, and location information, with third party advertising companies, analytics providers and other third parties for the purpose of serving you more relevant ads on and off the Services .</data>
+</edge>
+<edge source="advertiser" target="geolocation" id="e111">
+  <data key="d2">COLLECT</data>
+  <data key="d3">We may share information, typically information that has been hashed or otherwise de-identified or pseudonymized (including hashed email addresses), Usage Information, and location information, with third party advertising companies, analytics providers and other third parties for the purpose of serving you more relevant ads on and off the Services .
+We may share information, typically information that has been hashed or otherwise de-identified or pseudonymized (including hashed email addresses), Usage Information, and location information, with third party advertising companies, analytics providers and other third parties for the purpose of serving you more relevant ads on and off the Services .</data>
+</edge>
+<edge source="advertiser" target="email address" id="e112">
+  <data key="d2">COLLECT</data>
+  <data key="d3">We may share information, typically information that has been hashed or otherwise de-identified or pseudonymized (including hashed email addresses), Usage Information, and location information, with third party advertising companies, analytics providers and other third parties for the purpose of serving you more relevant ads on and off the Services .
+We may share information, typically information that has been hashed or otherwise de-identified or pseudonymized (including hashed email addresses), Usage Information, and location information, with third party advertising companies, analytics providers and other third parties for the purpose of serving you more relevant ads on and off the Services .</data>
+</edge>
+<edge source="advertiser" target="type of information" id="e113">
+  <data key="d2">COLLECT</data>
+  <data key="d3">We may disclose this type of information to: Third party advertising and analytics companies;
+We may disclose this type of information to: Third party advertising and analytics companies;
+We may disclose this type of information to: Third party advertising and analytics companies;
+We may disclose this type of information to: Third party advertising and analytics companies;
+ALDI: U.S. Privacy Policy
+
+Notice To California Residents
+
+Geolocation data . We may disclose this type of information to:
+We may disclose this type of information to: Third party advertising and analytics companies;
+We may disclose this type of information to: Third party advertising and analytics companies;
+We may disclose this type of information to: Third party advertising and analytics companies;</data>
+</edge>
+<edge source="usage information" target="web browser characteristic" id="e114">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">Usage Information may include your device IP address or other unique device identifier (" Device Identifier "), web browser characteristics, device characteristics, operating system, language preferences, referring URLs, clickstream data, and dates and times of website visits.
+Usage Information may include your device IP address or other unique device identifier (" Device Identifier "), web browser characteristics, device characteristics, operating system, language preferences, referring URLs, clickstream data, and dates and times of website visits.</data>
+</edge>
+<edge source="usage information" target="operating system" id="e115">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">Usage Information may include your device IP address or other unique device identifier (" Device Identifier "), web browser characteristics, device characteristics, operating system, language preferences, referring URLs, clickstream data, and dates and times of website visits.
+Usage Information may include your device IP address or other unique device identifier (" Device Identifier "), web browser characteristics, device characteristics, operating system, language preferences, referring URLs, clickstream data, and dates and times of website visits.</data>
+</edge>
+<edge source="usage information" target="device identifier" id="e116">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">Usage Information may include your device IP address or other unique device identifier (" Device Identifier "), web browser characteristics, device characteristics, operating system, language preferences, referring URLs, clickstream data, and dates and times of website visits.
+Usage Information may include your device IP address or other unique device identifier (" Device Identifier "), web browser characteristics, device characteristics, operating system, language preferences, referring URLs, clickstream data, and dates and times of website visits.
+Usage Information may include your device IP address or other unique device identifier (" Device Identifier "), web browser characteristics, device characteristics, operating system, language preferences, referring URLs, clickstream data, and dates and times of website visits.</data>
+</edge>
+<edge source="usage information" target="language preference" id="e117">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">Usage Information may include your device IP address or other unique device identifier (" Device Identifier "), web browser characteristics, device characteristics, operating system, language preferences, referring URLs, clickstream data, and dates and times of website visits.
+Usage Information may include your device IP address or other unique device identifier (" Device Identifier "), web browser characteristics, device characteristics, operating system, language preferences, referring URLs, clickstream data, and dates and times of website visits.</data>
+</edge>
+<edge source="usage information" target="clickstream datum" id="e118">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">Usage Information may include your device IP address or other unique device identifier (" Device Identifier "), web browser characteristics, device characteristics, operating system, language preferences, referring URLs, clickstream data, and dates and times of website visits.
+Usage Information may include your device IP address or other unique device identifier (" Device Identifier "), web browser characteristics, device characteristics, operating system, language preferences, referring URLs, clickstream data, and dates and times of website visits.</data>
+</edge>
+<edge source="usage information" target="refer url" id="e119">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">Usage Information may include your device IP address or other unique device identifier (" Device Identifier "), web browser characteristics, device characteristics, operating system, language preferences, referring URLs, clickstream data, and dates and times of website visits.
+Usage Information may include your device IP address or other unique device identifier (" Device Identifier "), web browser characteristics, device characteristics, operating system, language preferences, referring URLs, clickstream data, and dates and times of website visits.</data>
+</edge>
+<edge source="usage information" target="date" id="e120">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">Usage Information may include your device IP address or other unique device identifier (" Device Identifier "), web browser characteristics, device characteristics, operating system, language preferences, referring URLs, clickstream data, and dates and times of website visits.
+Usage Information may include your device IP address or other unique device identifier (" Device Identifier "), web browser characteristics, device characteristics, operating system, language preferences, referring URLs, clickstream data, and dates and times of website visits.</data>
+</edge>
+<edge source="usage information" target="ip address" id="e121">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">Usage Information may include your device IP address or other unique device identifier (" Device Identifier "), web browser characteristics, device characteristics, operating system, language preferences, referring URLs, clickstream data, and dates and times of website visits.
+Usage Information may include your device IP address or other unique device identifier (" Device Identifier "), web browser characteristics, device characteristics, operating system, language preferences, referring URLs, clickstream data, and dates and times of website visits.</data>
+</edge>
+<edge source="usage information" target="time" id="e122">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">Usage Information may include your device IP address or other unique device identifier (" Device Identifier "), web browser characteristics, device characteristics, operating system, language preferences, referring URLs, clickstream data, and dates and times of website visits.
+Usage Information may include your device IP address or other unique device identifier (" Device Identifier "), web browser characteristics, device characteristics, operating system, language preferences, referring URLs, clickstream data, and dates and times of website visits.</data>
+</edge>
+<edge source="usage information" target="device characteristic" id="e123">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">Usage Information may include your device IP address or other unique device identifier (" Device Identifier "), web browser characteristics, device characteristics, operating system, language preferences, referring URLs, clickstream data, and dates and times of website visits.
+Usage Information may include your device IP address or other unique device identifier (" Device Identifier "), web browser characteristics, device characteristics, operating system, language preferences, referring URLs, clickstream data, and dates and times of website visits.</data>
+</edge>
+<edge source="business partner" target="company assist we with online advertising" id="e124">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">ALDI: U.S. Privacy Policy
+
+Information We Collect From Third Parties About You
+
+We may receive information about you from third parties, such as business partners (including companies that assist us with online advertising and analytics), data providers who enhance the information we have about you, sources of publicly available information, and other users of the Services (such as when they provide your information to send you one of our products or participate in a "refer a friend" or similar programs that we may offer).
+ALDI: U.S. Privacy Policy
+
+Information We Collect From Third Parties About You
+
+We may receive information about you from third parties, such as business partners (including companies that assist us with online advertising and analytics), data providers who enhance the information we have about you, sources of publicly available information, and other users of the Services (such as when they provide your information to send you one of our products or participate in a "refer a friend" or similar programs that we may offer).</data>
+</edge>
+<edge source="business partner" target="code" id="e125">
+  <data key="d2">COLLECT</data>
+  <data key="d3">The code is temporarily used by our server or a third-party service provider or business partner while you browse or interact with our Services and is deactivated or deleted when you disconnect from our Services.
+The code is temporarily used by our server or a third-party service provider or business partner while you browse or interact with our Services and is deactivated or deleted when you disconnect from our Services.</data>
+</edge>
+<edge source="social media" target="Facebook" id="e126">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">ALDI: U.S. Privacy Policy
+
+Information We Collect From Third Parties About You
+
+Social Media Interactions : We may facilitate interactions with social media platforms, like Facebook, YouTube, Pinterest, and Instagram.
+ALDI: U.S. Privacy Policy
+
+Information We Collect From Third Parties About You
+
+Social Media Interactions : We may facilitate interactions with social media platforms, like Facebook, YouTube, Pinterest, and Instagram.
+ALDI: U.S. Privacy Policy
+
+Information We Collect From Third Parties About You
+
+Social Media Interactions : We may facilitate interactions with social media platforms, like Facebook, YouTube, Pinterest, and Instagram.</data>
+</edge>
+<edge source="social media" target="youtube" id="e127">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">ALDI: U.S. Privacy Policy
+
+Information We Collect From Third Parties About You
+
+Social Media Interactions : We may facilitate interactions with social media platforms, like Facebook, YouTube, Pinterest, and Instagram.
+ALDI: U.S. Privacy Policy
+
+Information We Collect From Third Parties About You
+
+Social Media Interactions : We may facilitate interactions with social media platforms, like Facebook, YouTube, Pinterest, and Instagram.</data>
+</edge>
+<edge source="social media" target="Pinterest" id="e128">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">ALDI: U.S. Privacy Policy
+
+Information We Collect From Third Parties About You
+
+Social Media Interactions : We may facilitate interactions with social media platforms, like Facebook, YouTube, Pinterest, and Instagram.
+ALDI: U.S. Privacy Policy
+
+Information We Collect From Third Parties About You
+
+Social Media Interactions : We may facilitate interactions with social media platforms, like Facebook, YouTube, Pinterest, and Instagram.</data>
+</edge>
+<edge source="social media" target="device identifier" id="e129">
+  <data key="d2">COLLECT</data>
+  <data key="d3">In addition, the social media service may set their own cookies and collect information about your use of the Services, including your IP address or other device identifiers, and which pages you visit on the Services.
+In addition, the social media service may set their own cookies and collect information about your use of the Services, including your IP address or other device identifiers, and which pages you visit on the Services.</data>
+</edge>
+<edge source="social media" target="ip address" id="e130">
+  <data key="d2">COLLECT</data>
+  <data key="d3">In addition, the social media service may set their own cookies and collect information about your use of the Services, including your IP address or other device identifiers, and which pages you visit on the Services.
+In addition, the social media service may set their own cookies and collect information about your use of the Services, including your IP address or other device identifiers, and which pages you visit on the Services.</data>
+</edge>
+<edge source="social media" target="information about webpage you visit" id="e131">
+  <data key="d2">COLLECT</data>
+  <data key="d3">Like other sites, the social media platform will receive information about the webpage you are visiting, the date and time of your visit, and other browser-related information.
+Like other sites, the social media platform will receive information about the webpage you are visiting, the date and time of your visit, and other browser-related information.</data>
+</edge>
+<edge source="information collect from" target="personal information" id="e132">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">We use information collected from or about you, including personal information and Usage Information, as disclosed in this U.S. Privacy Policy, including to:
+We use information collected from or about you, including personal information and Usage Information, as disclosed in this U.S. Privacy Policy, including to:</data>
+</edge>
+<edge source="information collect from" target="usage information" id="e133">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">We use information collected from or about you, including personal information and Usage Information, as disclosed in this U.S. Privacy Policy, including to:
+We use information collected from or about you, including personal information and Usage Information, as disclosed in this U.S. Privacy Policy, including to:</data>
+</edge>
+<edge source="non-personal information" target="usage information" id="e134">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">ALDI may share non-personal information, which may include Usage Information and information that has been hashed or otherwise de-identified or pseudonymized, with third parties in our discretion and as allowed by law, including for targeted advertising purposes.
+ALDI may share non-personal information, which may include Usage Information and information that has been hashed or otherwise de-identified or pseudonymized, with third parties in our discretion and as allowed by law, including for targeted advertising purposes.</data>
+</edge>
+<edge source="non-personal information" target="information hash" id="e135">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">ALDI may share non-personal information, which may include Usage Information and information that has been hashed or otherwise de-identified or pseudonymized, with third parties in our discretion and as allowed by law, including for targeted advertising purposes.
+ALDI may share non-personal information, which may include Usage Information and information that has been hashed or otherwise de-identified or pseudonymized, with third parties in our discretion and as allowed by law, including for targeted advertising purposes.</data>
+</edge>
+<edge source="information hash" target="email address" id="e136">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">We may share information, typically information that has been hashed or otherwise de-identified or pseudonymized (including hashed email addresses), Usage Information, and location information, with third party advertising companies, analytics providers and other third parties for the purpose of serving you more relevant ads on and off the Services .
+We may share information, typically information that has been hashed or otherwise de-identified or pseudonymized (including hashed email addresses), Usage Information, and location information, with third party advertising companies, analytics providers and other third parties for the purpose of serving you more relevant ads on and off the Services .</data>
+</edge>
+<edge source="identify information" target="veteran status" id="e137">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">If you apply for a job through the Services, we or our service providers may ask you to provide self-identifying information (such as veteran status, gender, and ethnicity) in conjunction with laws and regulations enforced by the Equal Employment Opportunity Commission and other federal, state and local regulatory agencies.
+If you apply for a job through the Services, we or our service providers may ask you to provide self-identifying information (such as veteran status, gender, and ethnicity) in conjunction with laws and regulations enforced by the Equal Employment Opportunity Commission and other federal, state and local regulatory agencies.</data>
+</edge>
+<edge source="identify information" target="race / ethnicity" id="e138">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">If you apply for a job through the Services, we or our service providers may ask you to provide self-identifying information (such as veteran status, gender, and ethnicity) in conjunction with laws and regulations enforced by the Equal Employment Opportunity Commission and other federal, state and local regulatory agencies.
+If you apply for a job through the Services, we or our service providers may ask you to provide self-identifying information (such as veteran status, gender, and ethnicity) in conjunction with laws and regulations enforced by the Equal Employment Opportunity Commission and other federal, state and local regulatory agencies.</data>
+</edge>
+<edge source="identify information" target="gender" id="e139">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">If you apply for a job through the Services, we or our service providers may ask you to provide self-identifying information (such as veteran status, gender, and ethnicity) in conjunction with laws and regulations enforced by the Equal Employment Opportunity Commission and other federal, state and local regulatory agencies.
+If you apply for a job through the Services, we or our service providers may ask you to provide self-identifying information (such as veteran status, gender, and ethnicity) in conjunction with laws and regulations enforced by the Equal Employment Opportunity Commission and other federal, state and local regulatory agencies.</data>
+</edge>
+<edge source="government agency" target="law enforcement authority" id="e140">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">We also may disclose information about you (i) if we are required to do so by law, regulation or legal process (such as a court order or subpoena), (ii) in response to requests by government agencies, such as law enforcement authorities, (iii) when we believe disclosure is necessary or appropriate to prevent physical harm or financial loss or in connection with an investigation of suspected or actual illegal activity; (iv) to protect and/or defend the Terms of Use, or other policies applicable to a Service ; or (v) to respond to an emergency.
+We also may disclose information about you (i) if we are required to do so by law, regulation or legal process (such as a court order or subpoena), (ii) in response to requests by government agencies, such as law enforcement authorities, (iii) when we believe disclosure is necessary or appropriate to prevent physical harm or financial loss or in connection with an investigation of suspected or actual illegal activity; (iv) to protect and/or defend the Terms of Use, or other policies applicable to a Service ; or (v) to respond to an emergency.</data>
+</edge>
+<edge source="government agency" target="type of information" id="e141">
+  <data key="d2">COLLECT</data>
+  <data key="d3">We may disclose this type of information to: Third parties (including government agencies) as required by law or in connection with court proceedings (such as pursuant to subpoenas or court orders);</data>
+</edge>
+<edge source="protected classification" target="gender" id="e142">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">ALDI: U.S. Privacy Policy
+
+Notice To California Residents
+
+We may collect the following: Protected classification characteristics , such as age, gender, race, ethnicity, religion, marital status, and veteran/military status
+ALDI: U.S. Privacy Policy
+
+Notice To California Residents
+
+We may collect the following: Protected classification characteristics , such as age, gender, race, ethnicity, religion, marital status, and veteran/military status</data>
+</edge>
+<edge source="protected classification" target="religion" id="e143">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">ALDI: U.S. Privacy Policy
+
+Notice To California Residents
+
+We may collect the following: Protected classification characteristics , such as age, gender, race, ethnicity, religion, marital status, and veteran/military status
+ALDI: U.S. Privacy Policy
+
+Notice To California Residents
+
+We may collect the following: Protected classification characteristics , such as age, gender, race, ethnicity, religion, marital status, and veteran/military status</data>
+</edge>
+<edge source="protected classification" target="marital status" id="e144">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">ALDI: U.S. Privacy Policy
+
+Notice To California Residents
+
+We may collect the following: Protected classification characteristics , such as age, gender, race, ethnicity, religion, marital status, and veteran/military status
+ALDI: U.S. Privacy Policy
+
+Notice To California Residents
+
+We may collect the following: Protected classification characteristics , such as age, gender, race, ethnicity, religion, marital status, and veteran/military status</data>
+</edge>
+<edge source="protected classification" target="race / ethnicity" id="e145">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">ALDI: U.S. Privacy Policy
+
+Notice To California Residents
+
+We may collect the following: Protected classification characteristics , such as age, gender, race, ethnicity, religion, marital status, and veteran/military status
+ALDI: U.S. Privacy Policy
+
+Notice To California Residents
+
+We may collect the following: Protected classification characteristics , such as age, gender, race, ethnicity, religion, marital status, and veteran/military status
+ALDI: U.S. Privacy Policy
+
+Notice To California Residents
+
+We may collect the following: Protected classification characteristics , such as age, gender, race, ethnicity, religion, marital status, and veteran/military status</data>
+</edge>
+<edge source="protected classification" target="veteran military status" id="e146">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">ALDI: U.S. Privacy Policy
+
+Notice To California Residents
+
+We may collect the following: Protected classification characteristics , such as age, gender, race, ethnicity, religion, marital status, and veteran/military status
+ALDI: U.S. Privacy Policy
+
+Notice To California Residents
+
+We may collect the following: Protected classification characteristics , such as age, gender, race, ethnicity, religion, marital status, and veteran/military status</data>
+</edge>
+<edge source="protected classification" target="age" id="e147">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">ALDI: U.S. Privacy Policy
+
+Notice To California Residents
+
+We may collect the following: Protected classification characteristics , such as age, gender, race, ethnicity, religion, marital status, and veteran/military status
+ALDI: U.S. Privacy Policy
+
+Notice To California Residents
+
+We may collect the following: Protected classification characteristics , such as age, gender, race, ethnicity, religion, marital status, and veteran/military status</data>
+</edge>
+<edge source="commercial information" target="purchasing history" id="e148">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">ALDI: U.S. Privacy Policy
+
+Notice To California Residents
+
+We may collect the following: Commercial information , such as your purchasing history, payment information (as described in our U.S. Privacy Policy), or research data that you provide when you agree to participate in our surveys or research activities
+ALDI: U.S. Privacy Policy
+
+Notice To California Residents
+
+We may collect the following: Commercial information , such as your purchasing history, payment information (as described in our U.S. Privacy Policy), or research data that you provide when you agree to participate in our surveys or research activities</data>
+</edge>
+<edge source="commercial information" target="payment information" id="e149">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">ALDI: U.S. Privacy Policy
+
+Notice To California Residents
+
+We may collect the following: Commercial information , such as your purchasing history, payment information (as described in our U.S. Privacy Policy), or research data that you provide when you agree to participate in our surveys or research activities
+ALDI: U.S. Privacy Policy
+
+Notice To California Residents
+
+We may collect the following: Commercial information , such as your purchasing history, payment information (as described in our U.S. Privacy Policy), or research data that you provide when you agree to participate in our surveys or research activities</data>
+</edge>
+<edge source="commercial information" target="research datum you provide" id="e150">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">ALDI: U.S. Privacy Policy
+
+Notice To California Residents
+
+We may collect the following: Commercial information , such as your purchasing history, payment information (as described in our U.S. Privacy Policy), or research data that you provide when you agree to participate in our surveys or research activities
+ALDI: U.S. Privacy Policy
+
+Notice To California Residents
+
+We may collect the following: Commercial information , such as your purchasing history, payment information (as described in our U.S. Privacy Policy), or research data that you provide when you agree to participate in our surveys or research activities</data>
+</edge>
+<edge source="internet activity" target="browsing / search history" id="e151">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">ALDI: U.S. Privacy Policy
+
+Notice To California Residents
+
+We may collect the following: Internet or electronic network activity , such as browsing history, search history, banners you click, and pages you visit on our site.
+ALDI: U.S. Privacy Policy
+
+Notice To California Residents
+
+We may collect the following: Internet or electronic network activity , such as browsing history, search history, banners you click, and pages you visit on our site.
+ALDI: U.S. Privacy Policy
+
+Notice To California Residents
+
+We may collect the following: Internet or electronic network activity , such as browsing history, search history, banners you click, and pages you visit on our site.</data>
+</edge>
+<edge source="internet activity" target="banner you click" id="e152">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">ALDI: U.S. Privacy Policy
+
+Notice To California Residents
+
+We may collect the following: Internet or electronic network activity , such as browsing history, search history, banners you click, and pages you visit on our site.
+ALDI: U.S. Privacy Policy
+
+Notice To California Residents
+
+We may collect the following: Internet or electronic network activity , such as browsing history, search history, banners you click, and pages you visit on our site.</data>
+</edge>
+<edge source="fraudulent activity" target="UNSPECIFIED_DATA" id="e153">
+  <data key="d2">COLLECT</data>
+  <data key="d3">Additionally, we may share various information relating to our users and fraudulent or potentially fraudulent activities with our fraud prevention and similar service providers , and they will use this information to help us and their other clients prevent fraudulent and illegal transactions.
+Additionally, we may share various information relating to our users and fraudulent or potentially fraudulent activities with our fraud prevention and similar service providers , and they will use this information to help us and their other clients prevent fraudulent and illegal transactions.</data>
+</edge>
+<edge source="third party advertising" target="usage information" id="e154">
+  <data key="d2">COLLECT</data>
+  <data key="d3">Third Party Advertising &amp; Analytics
+These third parties may set and access their own tracking technologies on your device (including cookies and web beacons), and they may otherwise collect or have access to Usage Information and other information about you, some of which may be personal information under various state laws.</data>
+</edge>
+<edge source="third party advertising" target="information about you" id="e155">
+  <data key="d2">COLLECT</data>
+  <data key="d3">Third Party Advertising &amp; Analytics
+These third parties may set and access their own tracking technologies on your device (including cookies and web beacons), and they may otherwise collect or have access to Usage Information and other information about you, some of which may be personal information under various state laws.</data>
+</edge>
+<edge source="feature on service" target="information about preference" id="e156">
+  <data key="d2">COLLECT</data>
+  <data key="d3">Certain features on our Services may also collect information about your preferences and interests.
+Certain features on our Services may also collect information about your preferences and interests.</data>
+</edge>
+<edge source="mobile service provider" target="geolocation" id="e157">
+  <data key="d2">COLLECT</data>
+  <data key="d3">In addition, some mobile service providers may also provide us or our third-party service providers with information regarding the physical location of the device used to access the Services.
+In addition, some mobile service providers may also provide us or our third-party service providers with information regarding the physical location of the device used to access the Services.</data>
+</edge>
+<edge source="fraud prevention service provider" target="UNSPECIFIED_DATA" id="e158">
+  <data key="d2">COLLECT</data>
+  <data key="d3">Additionally, we may share various information relating to our users and fraudulent or potentially fraudulent activities with our fraud prevention and similar service providers , and they will use this information to help us and their other clients prevent fraudulent and illegal transactions.
+Additionally, we may share various information relating to our users and fraudulent or potentially fraudulent activities with our fraud prevention and similar service providers , and they will use this information to help us and their other clients prevent fraudulent and illegal transactions.
+Additionally, we may share various information relating to our users and fraudulent or potentially fraudulent activities with our fraud prevention and similar service providers , and they will use this information to help us and their other clients prevent fraudulent and illegal transactions.</data>
+</edge>
+<edge source="fusion92" target="usage information" id="e159">
+  <data key="d2">COLLECT</data>
+  <data key="d3">Fusion92 may set and access its own tracking technologies on your device (including cookies and web beacons ), and it may otherwise collect or have access to Usage Information and other information about you, some of which may be personal information under various state laws. .
+Fusion92 may set and access its own tracking technologies on your device (including cookies and web beacons ), and it may otherwise collect or have access to Usage Information and other information about you, some of which may be personal information under various state laws. .</data>
+</edge>
+<edge source="fusion92" target="information about you" id="e160">
+  <data key="d2">COLLECT</data>
+  <data key="d3">Fusion92 may set and access its own tracking technologies on your device (including cookies and web beacons ), and it may otherwise collect or have access to Usage Information and other information about you, some of which may be personal information under various state laws. .
+Fusion92 may set and access its own tracking technologies on your device (including cookies and web beacons ), and it may otherwise collect or have access to Usage Information and other information about you, some of which may be personal information under various state laws. .</data>
+</edge>
+<edge source="service provider" target="identify information" id="e161">
+  <data key="d2">COLLECT</data>
+  <data key="d3">If you apply for a job through the Services, we or our service providers may ask you to provide self-identifying information (such as veteran status, gender, and ethnicity) in conjunction with laws and regulations enforced by the Equal Employment Opportunity Commission and other federal, state and local regulatory agencies.
+If you apply for a job through the Services, we or our service providers may ask you to provide self-identifying information (such as veteran status, gender, and ethnicity) in conjunction with laws and regulations enforced by the Equal Employment Opportunity Commission and other federal, state and local regulatory agencies.
+Providing such self-identifying information is voluntary, but if you do provide such information, we and/or our service provider may submit that information to the appropriate government or regulatory agencies to fulfill reporting requirements and use that information to defend against employment-related complaints.</data>
+</edge>
+<edge source="service provider" target="type of information" id="e162">
+  <data key="d2">COLLECT</data>
+  <data key="d3">We may disclose this type of information to: Service Providers;</data>
+</edge>
+<edge source="appropriate government" target="identify information" id="e163">
+  <data key="d2">COLLECT</data>
+  <data key="d3">If you apply for a job through the Services, we or our service providers may ask you to provide self-identifying information (such as veteran status, gender, and ethnicity) in conjunction with laws and regulations enforced by the Equal Employment Opportunity Commission and other federal, state and local regulatory agencies.
+Providing such self-identifying information is voluntary, but if you do provide such information, we and/or our service provider may submit that information to the appropriate government or regulatory agencies to fulfill reporting requirements and use that information to defend against employment-related complaints.</data>
+</edge>
+<edge source="acquire entity" target="information we have about you" id="e164">
+  <data key="d2">COLLECT</data>
+  <data key="d3">We reserve the right to transfer any information we have about you in the event we sell or transfer all or a portion of our business or assets (including in the event of a reorganization, dissolution or liquidation); by providing your information, you understand and agree that we may transfer such information to the acquiring entity without your further consent.
+We reserve the right to transfer any information we have about you in the event we sell or transfer all or a portion of our business or assets (including in the event of a reorganization, dissolution or liquidation); by providing your information, you understand and agree that we may transfer such information to the acquiring entity without your further consent.</data>
+</edge>
+<edge source="online service" target="not track signal" id="e165">
+  <data key="d2">COLLECT</data>
+  <data key="d3">ALDI: U.S. Privacy Policy
+
+"Do Not Track" and Global Privacy Control Signals
+
+Do Not Track : Note that your browser settings may allow you to automatically transmit a "Do Not Track" signal to websites and online services you visit.
+ALDI: U.S. Privacy Policy
+
+"Do Not Track" and Global Privacy Control Signals
+
+Do Not Track : Note that your browser settings may allow you to automatically transmit a "Do Not Track" signal to websites and online services you visit.</data>
+</edge>
+<edge source="content provider" target="cookie / pixel tag" id="e166">
+  <data key="d2">COLLECT</data>
+  <data key="d3">The third-party operators and content providers use their own cookies or other tracking technologies, and they may independently collect information from or about you.
+The third-party operators and content providers use their own cookies or other tracking technologies, and they may independently collect information from or about you.
+The third-party operators and content providers use their own cookies or other tracking technologies, and they may independently collect information from or about you.
+The third-party operators and content providers use their own cookies or other tracking technologies, and they may independently collect information from or about you.</data>
+</edge>
+<edge source="third party with whom we have joint marketing" target="type of information" id="e167">
+  <data key="d2">COLLECT</data>
+  <data key="d3">ALDI: U.S. Privacy Policy
+
+Notice To California Residents
+
+Geolocation data . We may disclose this type of information to: Third parties with whom we have joint marketing and similar arrangements;</data>
+</edge>
+<edge source="law enforcement" target="type of information" id="e168">
+  <data key="d2">COLLECT</data>
+  <data key="d3">ALDI: U.S. Privacy Policy
+
+Notice To California Residents
+
+Identifiers. We may disclose this type of information to: Law enforcement, government entities, or others if required by law or in connection with court proceedings (such as pursuant to subpoenas or court orders);
+ALDI: U.S. Privacy Policy
+
+Notice To California Residents
+
+Geolocation data . We may disclose this type of information to:
+ALDI: U.S. Privacy Policy
+
+Notice To California Residents
+
+Sensory data . We may disclose this type of information to: Law enforcement, government entities, or others if required by law or in connection with court proceedings (such as pursuant to subpoenas or court orders);</data>
+</edge>
+<edge source="government entity" target="type of information" id="e169">
+  <data key="d2">COLLECT</data>
+  <data key="d3">ALDI: U.S. Privacy Policy
+
+Notice To California Residents
+
+Identifiers. We may disclose this type of information to: Law enforcement, government entities, or others if required by law or in connection with court proceedings (such as pursuant to subpoenas or court orders);
+ALDI: U.S. Privacy Policy
+
+Notice To California Residents
+
+Geolocation data . We may disclose this type of information to:
+ALDI: U.S. Privacy Policy
+
+Notice To California Residents
+
+Sensory data . We may disclose this type of information to: Law enforcement, government entities, or others if required by law or in connection with court proceedings (such as pursuant to subpoenas or court orders);</data>
+</edge>
+<edge source="third party payment processor" target="type of information" id="e170">
+  <data key="d2">COLLECT</data>
+  <data key="d3">We may disclose this type of information to: Third party payment processors;</data>
+</edge>
+</graph></graphml>

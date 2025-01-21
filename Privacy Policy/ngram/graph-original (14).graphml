@@ -1,0 +1,341 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d3" for="edge" attr.name="text" attr.type="string"/>
+<key id="d2" for="edge" attr.name="relationship" attr.type="string"/>
+<key id="d1" for="node" attr.name="type" attr.type="string"/>
+<key id="d0" for="node" attr.name="label" attr.type="string"/>
+<graph edgedefault="directed"><node id="contact information">
+  <data key="d0">contact information</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="person name">
+  <data key="d0">person name</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="postal address">
+  <data key="d0">postal address</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="phone number">
+  <data key="d0">phone number</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="email address">
+  <data key="d0">email address</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="information about platform">
+  <data key="d0">information about platform</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="operating system">
+  <data key="d0">operating system</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="software attribute">
+  <data key="d0">software attribute</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="number of session">
+  <data key="d0">number of session</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="ip address">
+  <data key="d0">ip address</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="date">
+  <data key="d0">date</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="device type">
+  <data key="d0">device type</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="unique device identification number">
+  <data key="d0">unique device identification number</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="browser type">
+  <data key="d0">browser type</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="coarse geolocation">
+  <data key="d0">coarse geolocation</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="browsing pattern">
+  <data key="d0">browsing pattern</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="detail of">
+  <data key="d0">detail of</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="UNSPECIFIED_ACTOR">
+  <data key="d0">UNSPECIFIED_ACTOR</data>
+  <data key="d1">ACTOR</data>
+</node>
+<node id="analytic provider">
+  <data key="d0">analytic provider</data>
+  <data key="d1">ACTOR</data>
+</node>
+<node id="appsflyer">
+  <data key="d0">appsflyer</data>
+  <data key="d1">ACTOR</data>
+</node>
+<node id="Criteo">
+  <data key="d0">Criteo</data>
+  <data key="d1">ACTOR</data>
+</node>
+<node id="cookie / pixel tag">
+  <data key="d0">cookie / pixel tag</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="we">
+  <data key="d0">we</data>
+  <data key="d1">ACTOR</data>
+</node>
+<node id="personal information">
+  <data key="d0">personal information</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="UNSPECIFIED_DATA">
+  <data key="d0">UNSPECIFIED_DATA</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="advertiser">
+  <data key="d0">advertiser</data>
+  <data key="d1">ACTOR</data>
+</node>
+<node id="social medium account blog information">
+  <data key="d0">social medium account blog information</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="inference about you">
+  <data key="d0">inference about you</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="social medium account handle">
+  <data key="d0">social medium account handle</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="information about people with whom you share content">
+  <data key="d0">information about people with whom you share content</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="Google">
+  <data key="d0">Google</data>
+  <data key="d1">ACTOR</data>
+</node>
+<node id="personal information for processing">
+  <data key="d0">personal information for processing</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="personal datum process through platform">
+  <data key="d0">personal datum process through platform</data>
+  <data key="d1">DATA</data>
+</node>
+<edge source="contact information" target="postal address" id="e0">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">contact information including: name; address; phone number; email address;
+contact information including: name; address; phone number; email address;</data>
+</edge>
+<edge source="contact information" target="email address" id="e1">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">contact information including: name; address; phone number; email address;
+contact information including: name; address; phone number; email address;</data>
+</edge>
+<edge source="contact information" target="phone number" id="e2">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">contact information including: name; address; phone number; email address;
+contact information including: name; address; phone number; email address;</data>
+</edge>
+<edge source="contact information" target="person name" id="e3">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">contact information including: name; address; phone number; email address;
+contact information including: name; address; phone number; email address;</data>
+</edge>
+<edge source="information about platform" target="software attribute" id="e4">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">In addition, we gather information about the Platform and visitors to the Platform including browser software, operating system, software and hardware attributes, pages viewed, number of sessions and unique visitors.
+In addition, we gather information about the Platform and visitors to the Platform including browser software, operating system, software and hardware attributes, pages viewed, number of sessions and unique visitors.</data>
+</edge>
+<edge source="information about platform" target="operating system" id="e5">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">In addition, we gather information about the Platform and visitors to the Platform including browser software, operating system, software and hardware attributes, pages viewed, number of sessions and unique visitors.
+In addition, we gather information about the Platform and visitors to the Platform including browser software, operating system, software and hardware attributes, pages viewed, number of sessions and unique visitors.</data>
+</edge>
+<edge source="information about platform" target="number of session" id="e6">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">In addition, we gather information about the Platform and visitors to the Platform including browser software, operating system, software and hardware attributes, pages viewed, number of sessions and unique visitors.
+In addition, we gather information about the Platform and visitors to the Platform including browser software, operating system, software and hardware attributes, pages viewed, number of sessions and unique visitors.</data>
+</edge>
+<edge source="UNSPECIFIED_ACTOR" target="UNSPECIFIED_DATA" id="e7">
+  <data key="d2">COLLECT</data>
+  <data key="d3">Google uses the data on behalf of AliExpress to evaluate your use of the Platform, to compile reports on website activity for the website operators and for other website activity and internet usage services.
+Google may disclose this information to third parties under the terms of the law or for further processing by third parties on behalf of Google.
+As discussed above, we share your information with certain third parties that we believe can provide you with offers and promotions for products and service of interest to you and in the other ways described above.
+As discussed above, we share your information with certain third parties that we believe can provide you with offers and promotions for products and service of interest to you and in the other ways described above.</data>
+</edge>
+<edge source="analytic provider" target="Criteo" id="e8">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">marketing and advertising partners ,  such as Google, Twitter, Facebook, Instagram, and VKontakte, and providers of analytics services relating to users' behavior such as Appsflyer, Criteo, so that they may tailor the content you see when visiting our Platform for analytics and/or advertising purposes.
+marketing and advertising partners ,  such as Google, Twitter, Facebook, Instagram, and VKontakte, and providers of analytics services relating to users' behavior such as Appsflyer, Criteo, so that they may tailor the content you see when visiting our Platform for analytics and/or advertising purposes.</data>
+</edge>
+<edge source="analytic provider" target="appsflyer" id="e9">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">marketing and advertising partners ,  such as Google, Twitter, Facebook, Instagram, and VKontakte, and providers of analytics services relating to users' behavior such as Appsflyer, Criteo, so that they may tailor the content you see when visiting our Platform for analytics and/or advertising purposes.
+marketing and advertising partners ,  such as Google, Twitter, Facebook, Instagram, and VKontakte, and providers of analytics services relating to users' behavior such as Appsflyer, Criteo, so that they may tailor the content you see when visiting our Platform for analytics and/or advertising purposes.</data>
+</edge>
+<edge source="analytic provider" target="UNSPECIFIED_DATA" id="e10">
+  <data key="d2">COLLECT</data>
+  <data key="d3">We disclose or share personal information in the ways described above in section C. DISCLOSURE OF PERSONAL DATA, including by allowing third parties that provide us analytics and advertising services to collect information through cookies and other similar technologies.
+We disclose or share personal information in the ways described above in section C. DISCLOSURE OF PERSONAL DATA, including by allowing third parties that provide us analytics and advertising services to collect information through cookies and other similar technologies.</data>
+</edge>
+<edge source="we" target="contact information" id="e11">
+  <data key="d2">COLLECT</data>
+  <data key="d3">If you are a certified blogger / influencer for AliExpress ,  we may also ask you to provide us with your contact information and social media accounts / blog information.
+If you are a certified blogger / influencer for AliExpress ,  we may also ask you to provide us with your contact information and social media accounts / blog information.</data>
+</edge>
+<edge source="we" target="social medium account blog information" id="e12">
+  <data key="d2">COLLECT</data>
+  <data key="d3">If you are a certified blogger / influencer for AliExpress ,  we may also ask you to provide us with your contact information and social media accounts / blog information.
+If you are a certified blogger / influencer for AliExpress ,  we may also ask you to provide us with your contact information and social media accounts / blog information.</data>
+</edge>
+<edge source="we" target="date" id="e13">
+  <data key="d2">COLLECT</data>
+  <data key="d3">Details of Platform buying and browsing activities , for these purposes we will automatically collect information from your device.
+Specifically, this collected information may include IP addresses, date and time of access to the Platform , device type, unique device identification numbers, browser type, broad geographic location (e.g. country or city-level location), browsing patterns and details of how you have interacted with our Platform and the goods and services available on it.</data>
+</edge>
+<edge source="we" target="coarse geolocation" id="e14">
+  <data key="d2">COLLECT</data>
+  <data key="d3">Details of Platform buying and browsing activities , for these purposes we will automatically collect information from your device.
+Specifically, this collected information may include IP addresses, date and time of access to the Platform , device type, unique device identification numbers, browser type, broad geographic location (e.g. country or city-level location), browsing patterns and details of how you have interacted with our Platform and the goods and services available on it.</data>
+</edge>
+<edge source="we" target="browser type" id="e15">
+  <data key="d2">COLLECT</data>
+  <data key="d3">Details of Platform buying and browsing activities , for these purposes we will automatically collect information from your device.
+Specifically, this collected information may include IP addresses, date and time of access to the Platform , device type, unique device identification numbers, browser type, broad geographic location (e.g. country or city-level location), browsing patterns and details of how you have interacted with our Platform and the goods and services available on it.</data>
+</edge>
+<edge source="we" target="unique device identification number" id="e16">
+  <data key="d2">COLLECT</data>
+  <data key="d3">Details of Platform buying and browsing activities , for these purposes we will automatically collect information from your device.
+Specifically, this collected information may include IP addresses, date and time of access to the Platform , device type, unique device identification numbers, browser type, broad geographic location (e.g. country or city-level location), browsing patterns and details of how you have interacted with our Platform and the goods and services available on it.</data>
+</edge>
+<edge source="we" target="browsing pattern" id="e17">
+  <data key="d2">COLLECT</data>
+  <data key="d3">Details of Platform buying and browsing activities , for these purposes we will automatically collect information from your device.
+Specifically, this collected information may include IP addresses, date and time of access to the Platform , device type, unique device identification numbers, browser type, broad geographic location (e.g. country or city-level location), browsing patterns and details of how you have interacted with our Platform and the goods and services available on it.</data>
+</edge>
+<edge source="we" target="ip address" id="e18">
+  <data key="d2">COLLECT</data>
+  <data key="d3">Details of Platform buying and browsing activities , for these purposes we will automatically collect information from your device.
+Specifically, this collected information may include IP addresses, date and time of access to the Platform , device type, unique device identification numbers, browser type, broad geographic location (e.g. country or city-level location), browsing patterns and details of how you have interacted with our Platform and the goods and services available on it.</data>
+</edge>
+<edge source="we" target="detail of" id="e19">
+  <data key="d2">COLLECT</data>
+  <data key="d3">Details of Platform buying and browsing activities , for these purposes we will automatically collect information from your device.
+Specifically, this collected information may include IP addresses, date and time of access to the Platform , device type, unique device identification numbers, browser type, broad geographic location (e.g. country or city-level location), browsing patterns and details of how you have interacted with our Platform and the goods and services available on it.</data>
+</edge>
+<edge source="we" target="device type" id="e20">
+  <data key="d2">COLLECT</data>
+  <data key="d3">Details of Platform buying and browsing activities , for these purposes we will automatically collect information from your device.
+Specifically, this collected information may include IP addresses, date and time of access to the Platform , device type, unique device identification numbers, browser type, broad geographic location (e.g. country or city-level location), browsing patterns and details of how you have interacted with our Platform and the goods and services available on it.</data>
+</edge>
+<edge source="we" target="information about platform" id="e21">
+  <data key="d2">COLLECT</data>
+  <data key="d3">In addition, we gather information about the Platform and visitors to the Platform including browser software, operating system, software and hardware attributes, pages viewed, number of sessions and unique visitors.
+In addition, we gather information about the Platform and visitors to the Platform including browser software, operating system, software and hardware attributes, pages viewed, number of sessions and unique visitors.</data>
+</edge>
+<edge source="we" target="inference about you" id="e22">
+  <data key="d2">COLLECT</data>
+  <data key="d3">We also may derive or collect inferences about you based on your buying and browsing activity information and other information we have collected about you.
+We also may derive or collect inferences about you based on your buying and browsing activity information and other information we have collected about you.</data>
+</edge>
+<edge source="we" target="social medium account handle" id="e23">
+  <data key="d2">COLLECT</data>
+  <data key="d3">If you are successfully certified by AliExpress as an AliExpress blogger or an influencer, we may also collect your social media account handles and posts/comments made in relation to the Platform.
+If you are successfully certified by AliExpress as an AliExpress blogger or an influencer, we may also collect your social media account handles and posts/comments made in relation to the Platform.</data>
+</edge>
+<edge source="we" target="information about people with whom you share content" id="e24">
+  <data key="d2">COLLECT</data>
+  <data key="d3">We may collect information about the people or accounts with whom you share content or interact and contact information if you choose to upload or import it from a device (such as an address book).
+We may collect information about the people or accounts with whom you share content or interact and contact information if you choose to upload or import it from a device (such as an address book).</data>
+</edge>
+<edge source="we" target="personal information" id="e25">
+  <data key="d2">COLLECT</data>
+  <data key="d3">If you are a Buyer or Seller we may receive personal information about you from :
+If you are a Buyer or Seller we may receive personal information about you from :
+We will only collect personal information from third parties where we have checked that these third parties either have your consent or are otherwise legally permitted or required to disclose your personal information to us.
+We will only collect personal information from third parties where we have checked that these third parties either have your consent or are otherwise legally permitted or required to disclose your personal information to us.
+We collect and use your personal information for the following purposes:
+We collect and use your personal information for the following purposes:
+We may also use your personal information for other purposes that are compatible with the purposes we have disclosed to you if and where this is permitted by applicable data protection laws.
+We may also use your personal information for other purposes that are compatible with the purposes we have disclosed to you if and where this is permitted by applicable data protection laws.
+We will retain your personal information for as long as we have an ongoing legitimate business need to do so, to provide services or products to you, or as required or permitted by applicable laws.
+We will retain your personal information for as long as we have an ongoing legitimate business need to do so, to provide services or products to you, or as required or permitted by applicable laws.
+When we have no ongoing legitimate business need to process your personal information, we will either delete or anonymize it, or if this is not possible (for example, because your personal information has been stored in backup archives), then we will securely store your personal information and isolate it from any further processing until deletion is possible.
+When we have no ongoing legitimate business need to process your personal information, we will either delete or anonymize it, or if this is not possible (for example, because your personal information has been stored in backup archives), then we will securely store your personal information and isolate it from any further processing until deletion is possible.
+We process personal information for the purposes set out in this Privacy Policy.
+We process personal information for the purposes set out in this Privacy Policy.
+We disclose or share personal information in the ways described above in section C. DISCLOSURE OF PERSONAL DATA, including by allowing third parties that provide us analytics and advertising services to collect information through cookies and other similar technologies.
+We disclose or share personal information in the ways described above in section C. DISCLOSURE OF PERSONAL DATA, including by allowing third parties that provide us analytics and advertising services to collect information through cookies and other similar technologies.
+We do not believe that we currently sell personal information as defined by the CCPA, and accordingly, we do not treat this as a sale of personal information for purposes of state law, although you do have the choices that we describe to you in this Privacy Policy.
+We do not believe that we currently sell personal information as defined by the CCPA, and accordingly, we do not treat this as a sale of personal information for purposes of state law, although you do have the choices that we describe to you in this Privacy Policy.
+We process personal information for the purposes set out in this Privacy Policy observing legal bases set out in the LGPD.
+We process personal information for the purposes set out in this Privacy Policy observing legal bases set out in the LGPD.</data>
+</edge>
+<edge source="we" target="cookie / pixel tag" id="e26">
+  <data key="d2">COLLECT</data>
+  <data key="d3">We use both session cookies and persistent cookies.
+We use both session cookies and persistent cookies.
+We use both session cookies and persistent cookies.
+We use first- and third-party Cookies for several reasons.
+We use first- and third-party Cookies for several reasons.
+For example, we use essential or strictly necessary Cookies to enable us to remember goods added to your shopping basket and to recognize you when you sign into your account.
+For example, we use essential or strictly necessary Cookies to enable us to remember goods added to your shopping basket and to recognize you when you sign into your account.
+We also use social media Cookies.
+We also use social media Cookies.
+We also use Cookies to enable us to track and target the interests of Platform visitors to enhance the experience on our Platform by researching visiting patterns and conducting interest-based advertising; assisting our partners in tracking user visits to the Platforms; and to track progress and participation in promotions and the success of our email marketing campaigns.
+We also use Cookies to enable us to track and target the interests of Platform visitors to enhance the experience on our Platform by researching visiting patterns and conducting interest-based advertising; assisting our partners in tracking user visits to the Platforms; and to track progress and participation in promotions and the success of our email marketing campaigns.
+We will also use marketing Cookies to   evaluate the effectiveness of our marketing communications by monitoring open   rate and conversions.
+We will also use marketing Cookies to   evaluate the effectiveness of our marketing communications by monitoring open   rate and conversions.</data>
+</edge>
+<edge source="we" target="personal information for processing" id="e27">
+  <data key="d2">COLLECT</data>
+  <data key="d3">In some instances, you may be required to provide us with personal information for processing as described above, in order for us to be able to provide you all of our services, and for you to use all the features of our Platform.
+In some instances, you may be required to provide us with personal information for processing as described above, in order for us to be able to provide you all of our services, and for you to use all the features of our Platform.</data>
+</edge>
+<edge source="we" target="UNSPECIFIED_DATA" id="e28">
+  <data key="d2">COLLECT</data>
+  <data key="d3">As discussed above, we share your information with certain third parties that we believe can provide you with offers and promotions for products and service of interest to you and in the other ways described above.
+As discussed above, we share your information with certain third parties that we believe can provide you with offers and promotions for products and service of interest to you and in the other ways described above.</data>
+</edge>
+<edge source="we" target="personal datum process through platform" id="e29">
+  <data key="d2">COLLECT</data>
+  <data key="d3">In connection with providing the services through our Platform, we will store your personal data processed through the Platform in the United States, Russia, Germany, China and/or Singapore, depending on the country you are located in.
+In connection with providing the services through our Platform, we will store your personal data processed through the Platform in the United States, Russia, Germany, China and/or Singapore, depending on the country you are located in.</data>
+</edge>
+<edge source="advertiser" target="UNSPECIFIED_DATA" id="e30">
+  <data key="d2">COLLECT</data>
+  <data key="d3">We disclose or share personal information in the ways described above in section C. DISCLOSURE OF PERSONAL DATA, including by allowing third parties that provide us analytics and advertising services to collect information through cookies and other similar technologies.
+We disclose or share personal information in the ways described above in section C. DISCLOSURE OF PERSONAL DATA, including by allowing third parties that provide us analytics and advertising services to collect information through cookies and other similar technologies.</data>
+</edge>
+<edge source="Google" target="cookie / pixel tag" id="e31">
+  <data key="d2">COLLECT</data>
+  <data key="d3">The data generated by the cookie about your use of the Platform will be transmitted to Google and stored by Google on servers in the United States.
+The data generated by the cookie about your use of the Platform will be transmitted to Google and stored by Google on servers in the United States.
+The data generated by the cookie about your use of the Platform will be transmitted to Google and stored by Google on servers in the United States.</data>
+</edge>
+<edge source="Google" target="ip address" id="e32">
+  <data key="d2">COLLECT</data>
+  <data key="d3">In some cases, non-truncated IP address may be transmitted to Google's servers in the US and then truncated there.
+In some cases, non-truncated IP address may be transmitted to Google's servers in the US and then truncated there.</data>
+</edge>
+<edge source="Google" target="UNSPECIFIED_DATA" id="e33">
+  <data key="d2">COLLECT</data>
+  <data key="d3">Google uses the data on behalf of AliExpress to evaluate your use of the Platform, to compile reports on website activity for the website operators and for other website activity and internet usage services.
+Google uses the data on behalf of AliExpress to evaluate your use of the Platform, to compile reports on website activity for the website operators and for other website activity and internet usage services.
+Google may disclose this information to third parties under the terms of the law or for further processing by third parties on behalf of Google.</data>
+</edge>
+</graph></graphml>

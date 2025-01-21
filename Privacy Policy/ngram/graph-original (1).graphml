@@ -1,0 +1,185 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d3" for="edge" attr.name="text" attr.type="string"/>
+<key id="d2" for="edge" attr.name="relationship" attr.type="string"/>
+<key id="d1" for="node" attr.name="type" attr.type="string"/>
+<key id="d0" for="node" attr.name="label" attr.type="string"/>
+<graph edgedefault="directed"><node id="we">
+  <data key="d0">we</data>
+  <data key="d1">ACTOR</data>
+</node>
+<node id="carvana">
+  <data key="d0">carvana</data>
+  <data key="d1">ACTOR</data>
+</node>
+<node id="carvana operations hc llc">
+  <data key="d0">carvana operations hc llc</data>
+  <data key="d1">ACTOR</data>
+</node>
+<node id="transaction">
+  <data key="d0">transaction</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="registration">
+  <data key="d0">registration</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="UNSPECIFIED_ACTOR">
+  <data key="d0">UNSPECIFIED_ACTOR</data>
+  <data key="d1">ACTOR</data>
+</node>
+<node id="postal address">
+  <data key="d0">postal address</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="phone number">
+  <data key="d0">phone number</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="licensor">
+  <data key="d0">licensor</data>
+  <data key="d1">ACTOR</data>
+</node>
+<node id="vehicle listing information">
+  <data key="d0">vehicle listing information</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="vehicle description">
+  <data key="d0">vehicle description</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="vehicle history">
+  <data key="d0">vehicle history</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="person name">
+  <data key="d0">person name</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="credit">
+  <data key="d0">credit</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="payment information">
+  <data key="d0">payment information</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="email address">
+  <data key="d0">email address</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="personal identifier">
+  <data key="d0">personal identifier</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="registration information">
+  <data key="d0">registration information</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="transcript of communication with you">
+  <data key="d0">transcript of communication with you</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="archive copy of it">
+  <data key="d0">archive copy of it</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="search engine">
+  <data key="d0">search engine</data>
+  <data key="d1">ACTOR</data>
+</node>
+<edge source="we" target="carvana" id="e0">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">This User Agreement governs each website, mobile site, application, and/or other service, regardless of how distributed, transmitted, published, or broadcast (each, a "Service") provided by any parent, subsidiary, or affiliate of Carvana Operations HC LLC ("Carvana," "we," "us," or "our") that links to this User Agreement, which is binding on all those who access, visit and/or use the Service, whether acting as an individual or on behalf of an entity, including you and all persons, entities, or digital engines of any kind that harvest, crawl, index, scrape, spider, or mine digital content by an automated or manual process or otherwise (collectively, "you" or "your").
+This User Agreement governs each website, mobile site, application, and/or other service, regardless of how distributed, transmitted, published, or broadcast (each, a "Service") provided by any parent, subsidiary, or affiliate of Carvana Operations HC LLC ("Carvana," "we," "us," or "our") that links to this User Agreement, which is binding on all those who access, visit and/or use the Service, whether acting as an individual or on behalf of an entity, including you and all persons, entities, or digital engines of any kind that harvest, crawl, index, scrape, spider, or mine digital content by an automated or manual process or otherwise (collectively, "you" or "your").</data>
+</edge>
+<edge source="we" target="carvana operations hc llc" id="e1">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">This User Agreement governs each website, mobile site, application, and/or other service, regardless of how distributed, transmitted, published, or broadcast (each, a "Service") provided by any parent, subsidiary, or affiliate of Carvana Operations HC LLC ("Carvana," "we," "us," or "our") that links to this User Agreement, which is binding on all those who access, visit and/or use the Service, whether acting as an individual or on behalf of an entity, including you and all persons, entities, or digital engines of any kind that harvest, crawl, index, scrape, spider, or mine digital content by an automated or manual process or otherwise (collectively, "you" or "your").
+This User Agreement governs each website, mobile site, application, and/or other service, regardless of how distributed, transmitted, published, or broadcast (each, a "Service") provided by any parent, subsidiary, or affiliate of Carvana Operations HC LLC ("Carvana," "we," "us," or "our") that links to this User Agreement, which is binding on all those who access, visit and/or use the Service, whether acting as an individual or on behalf of an entity, including you and all persons, entities, or digital engines of any kind that harvest, crawl, index, scrape, spider, or mine digital content by an automated or manual process or otherwise (collectively, "you" or "your").</data>
+</edge>
+<edge source="we" target="licensor" id="e2">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">Such Content is subject to the same terms, conditions, limitations, and restrictions applicable to all Content provided by us, our licensors, vendors, other users, and/or service providers.
+Such Content is subject to the same terms, conditions, limitations, and restrictions applicable to all Content provided by us, our licensors, vendors, other users, and/or service providers.</data>
+</edge>
+<edge source="we" target="credit" id="e3">
+  <data key="d2">COLLECT</data>
+  <data key="d3">We may at times require that you register and/or set up an account/profile to access, visit and/or use certain portions of the Service, or the Service as a whole, in which case you may be provided, or required to choose, a password and/or User ID, and you may provide a credit, debit, charge card number, or other payment information, as well as your name, telephone numbers, email and/or street address, or other personally identifiable information.
+We may at times require that you register and/or set up an account/profile to access, visit and/or use certain portions of the Service, or the Service as a whole, in which case you may be provided, or required to choose, a password and/or User ID, and you may provide a credit, debit, charge card number, or other payment information, as well as your name, telephone numbers, email and/or street address, or other personally identifiable information.</data>
+</edge>
+<edge source="we" target="person name" id="e4">
+  <data key="d2">COLLECT</data>
+  <data key="d3">We may at times require that you register and/or set up an account/profile to access, visit and/or use certain portions of the Service, or the Service as a whole, in which case you may be provided, or required to choose, a password and/or User ID, and you may provide a credit, debit, charge card number, or other payment information, as well as your name, telephone numbers, email and/or street address, or other personally identifiable information.
+We may at times require that you register and/or set up an account/profile to access, visit and/or use certain portions of the Service, or the Service as a whole, in which case you may be provided, or required to choose, a password and/or User ID, and you may provide a credit, debit, charge card number, or other payment information, as well as your name, telephone numbers, email and/or street address, or other personally identifiable information.</data>
+</edge>
+<edge source="we" target="phone number" id="e5">
+  <data key="d2">COLLECT</data>
+  <data key="d3">We may at times require that you register and/or set up an account/profile to access, visit and/or use certain portions of the Service, or the Service as a whole, in which case you may be provided, or required to choose, a password and/or User ID, and you may provide a credit, debit, charge card number, or other payment information, as well as your name, telephone numbers, email and/or street address, or other personally identifiable information.
+We may at times require that you register and/or set up an account/profile to access, visit and/or use certain portions of the Service, or the Service as a whole, in which case you may be provided, or required to choose, a password and/or User ID, and you may provide a credit, debit, charge card number, or other payment information, as well as your name, telephone numbers, email and/or street address, or other personally identifiable information.</data>
+</edge>
+<edge source="we" target="payment information" id="e6">
+  <data key="d2">COLLECT</data>
+  <data key="d3">We may at times require that you register and/or set up an account/profile to access, visit and/or use certain portions of the Service, or the Service as a whole, in which case you may be provided, or required to choose, a password and/or User ID, and you may provide a credit, debit, charge card number, or other payment information, as well as your name, telephone numbers, email and/or street address, or other personally identifiable information.
+We may at times require that you register and/or set up an account/profile to access, visit and/or use certain portions of the Service, or the Service as a whole, in which case you may be provided, or required to choose, a password and/or User ID, and you may provide a credit, debit, charge card number, or other payment information, as well as your name, telephone numbers, email and/or street address, or other personally identifiable information.</data>
+</edge>
+<edge source="we" target="email address" id="e7">
+  <data key="d2">COLLECT</data>
+  <data key="d3">We may at times require that you register and/or set up an account/profile to access, visit and/or use certain portions of the Service, or the Service as a whole, in which case you may be provided, or required to choose, a password and/or User ID, and you may provide a credit, debit, charge card number, or other payment information, as well as your name, telephone numbers, email and/or street address, or other personally identifiable information.
+We may at times require that you register and/or set up an account/profile to access, visit and/or use certain portions of the Service, or the Service as a whole, in which case you may be provided, or required to choose, a password and/or User ID, and you may provide a credit, debit, charge card number, or other payment information, as well as your name, telephone numbers, email and/or street address, or other personally identifiable information.</data>
+</edge>
+<edge source="we" target="postal address" id="e8">
+  <data key="d2">COLLECT</data>
+  <data key="d3">We may at times require that you register and/or set up an account/profile to access, visit and/or use certain portions of the Service, or the Service as a whole, in which case you may be provided, or required to choose, a password and/or User ID, and you may provide a credit, debit, charge card number, or other payment information, as well as your name, telephone numbers, email and/or street address, or other personally identifiable information.
+We may at times require that you register and/or set up an account/profile to access, visit and/or use certain portions of the Service, or the Service as a whole, in which case you may be provided, or required to choose, a password and/or User ID, and you may provide a credit, debit, charge card number, or other payment information, as well as your name, telephone numbers, email and/or street address, or other personally identifiable information.</data>
+</edge>
+<edge source="we" target="personal identifier" id="e9">
+  <data key="d2">COLLECT</data>
+  <data key="d3">We may at times require that you register and/or set up an account/profile to access, visit and/or use certain portions of the Service, or the Service as a whole, in which case you may be provided, or required to choose, a password and/or User ID, and you may provide a credit, debit, charge card number, or other payment information, as well as your name, telephone numbers, email and/or street address, or other personally identifiable information.
+We may at times require that you register and/or set up an account/profile to access, visit and/or use certain portions of the Service, or the Service as a whole, in which case you may be provided, or required to choose, a password and/or User ID, and you may provide a credit, debit, charge card number, or other payment information, as well as your name, telephone numbers, email and/or street address, or other personally identifiable information.</data>
+</edge>
+<edge source="we" target="registration information" id="e10">
+  <data key="d2">COLLECT</data>
+  <data key="d3">We may collect, use, and/or share your Registration Information as described in our Privacy Notice.
+We may collect, use, and/or share your Registration Information as described in our Privacy Notice.</data>
+</edge>
+<edge source="we" target="transaction" id="e11">
+  <data key="d2">COLLECT</data>
+  <data key="d3">You acknowledge and specifically authorize that we may process transactions, including without limitation purchases and/or registration for additional merchandise, products, and/or services, including without limitation Content, that are initiated by use of your Registration Information.
+You acknowledge and specifically authorize that we may process transactions, including without limitation purchases and/or registration for additional merchandise, products, and/or services, including without limitation Content, that are initiated by use of your Registration Information.</data>
+</edge>
+<edge source="we" target="transcript of communication with you" id="e12">
+  <data key="d2">COLLECT</data>
+  <data key="d3">By choosing to utilize these tools, you agree that we may record, monitor, and retain transcripts of all communications with you via these interactive tools.
+By choosing to utilize these tools, you agree that we may record, monitor, and retain transcripts of all communications with you via these interactive tools.</data>
+</edge>
+<edge source="carvana" target="vehicle listing information" id="e13">
+  <data key="d2">COLLECT</data>
+  <data key="d3">Carvana may obtain vehicle listing information, including vehicle descriptions and vehicle histories from third parties or other users, so there is a possibility that unintentional or unknown errors occur.
+Carvana may obtain vehicle listing information, including vehicle descriptions and vehicle histories from third parties or other users, so there is a possibility that unintentional or unknown errors occur.</data>
+</edge>
+<edge source="transaction" target="registration" id="e14">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">You acknowledge and specifically authorize that we may process transactions, including without limitation purchases and/or registration for additional merchandise, products, and/or services, including without limitation Content, that are initiated by use of your Registration Information.
+You acknowledge and specifically authorize that we may process transactions, including without limitation purchases and/or registration for additional merchandise, products, and/or services, including without limitation Content, that are initiated by use of your Registration Information.</data>
+</edge>
+<edge source="UNSPECIFIED_ACTOR" target="archive copy of it" id="e15">
+  <data key="d2">COLLECT</data>
+  <data key="d3">For instance, third-parties may have republished the post and archived copies of it may be stored by search engines and others that we do not control.
+For instance, third-parties may have republished the post and archived copies of it may be stored by search engines and others that we do not control.</data>
+</edge>
+<edge source="vehicle listing information" target="vehicle description" id="e16">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">Carvana may obtain vehicle listing information, including vehicle descriptions and vehicle histories from third parties or other users, so there is a possibility that unintentional or unknown errors occur.
+Carvana may obtain vehicle listing information, including vehicle descriptions and vehicle histories from third parties or other users, so there is a possibility that unintentional or unknown errors occur.</data>
+</edge>
+<edge source="vehicle listing information" target="vehicle history" id="e17">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">Carvana may obtain vehicle listing information, including vehicle descriptions and vehicle histories from third parties or other users, so there is a possibility that unintentional or unknown errors occur.
+Carvana may obtain vehicle listing information, including vehicle descriptions and vehicle histories from third parties or other users, so there is a possibility that unintentional or unknown errors occur.</data>
+</edge>
+<edge source="search engine" target="archive copy of it" id="e18">
+  <data key="d2">COLLECT</data>
+  <data key="d3">For instance, third-parties may have republished the post and archived copies of it may be stored by search engines and others that we do not control.
+For instance, third-parties may have republished the post and archived copies of it may be stored by search engines and others that we do not control.</data>
+</edge>
+</graph></graphml>

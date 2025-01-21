@@ -1,0 +1,694 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d3" for="edge" attr.name="text" attr.type="string"/>
+<key id="d2" for="edge" attr.name="relationship" attr.type="string"/>
+<key id="d1" for="node" attr.name="type" attr.type="string"/>
+<key id="d0" for="node" attr.name="label" attr.type="string"/>
+<graph edgedefault="directed"><node id="email address">
+  <data key="d0">email address</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="person name">
+  <data key="d0">person name</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="phone number">
+  <data key="d0">phone number</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="postal address">
+  <data key="d0">postal address</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="general personal datum not identify you">
+  <data key="d0">general personal datum not identify you</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="body shape">
+  <data key="d0">body shape</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="personal height">
+  <data key="d0">personal height</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="chest waist hip circumference">
+  <data key="d0">chest waist hip circumference</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="weight">
+  <data key="d0">weight</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="browser type">
+  <data key="d0">browser type</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="device information">
+  <data key="d0">device information</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="identifier">
+  <data key="d0">identifier</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="Facebook">
+  <data key="d0">Facebook</data>
+  <data key="d1">ACTOR</data>
+</node>
+<node id="personal information">
+  <data key="d0">personal information</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="account information">
+  <data key="d0">account information</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="wallet balance">
+  <data key="d0">wallet balance</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="point information">
+  <data key="d0">point information</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="cookie / pixel tag">
+  <data key="d0">cookie / pixel tag</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="clickstream datum">
+  <data key="d0">clickstream datum</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="domain name">
+  <data key="d0">domain name</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="device type">
+  <data key="d0">device type</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="ip address">
+  <data key="d0">ip address</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="average time spend on site">
+  <data key="d0">average time spend on site</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="access time">
+  <data key="d0">access time</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="relevant statistic">
+  <data key="d0">relevant statistic</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="correspondence you have with we">
+  <data key="d0">correspondence you have with we</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="commercial information">
+  <data key="d0">commercial information</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="personal identifier">
+  <data key="d0">personal identifier</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="directly identifiable alphanumerical number associate with device">
+  <data key="d0">directly identifiable alphanumerical number associate with device</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="record of product purchase">
+  <data key="d0">record of product purchase</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="internet electronic information">
+  <data key="d0">internet electronic information</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="browsing / search history">
+  <data key="d0">browsing / search history</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="length of visit">
+  <data key="d0">length of visit</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="number of page view">
+  <data key="d0">number of page view</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="click stream datum">
+  <data key="d0">click stream datum</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="locale preference">
+  <data key="d0">locale preference</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="date stamp associate with transaction">
+  <data key="d0">date stamp associate with transaction</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="system configuration information">
+  <data key="d0">system configuration information</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="audio recording of voice">
+  <data key="d0">audio recording of voice</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="relate information">
+  <data key="d0">relate information</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="inference">
+  <data key="d0">inference</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="preference">
+  <data key="d0">preference</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="characteristic">
+  <data key="d0">characteristic</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="behavior">
+  <data key="d0">behavior</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="attitude">
+  <data key="d0">attitude</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="UNSPECIFIED_DATA">
+  <data key="d0">UNSPECIFIED_DATA</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="UNSPECIFIED_ACTOR">
+  <data key="d0">UNSPECIFIED_ACTOR</data>
+  <data key="d1">ACTOR</data>
+</node>
+<node id="we">
+  <data key="d0">we</data>
+  <data key="d1">ACTOR</data>
+</node>
+<node id="customer service">
+  <data key="d0">customer service</data>
+  <data key="d1">ACTOR</data>
+</node>
+<node id="relate communication">
+  <data key="d0">relate communication</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="support">
+  <data key="d0">support</data>
+  <data key="d1">ACTOR</data>
+</node>
+<node id="affiliate of corporate group">
+  <data key="d0">affiliate of corporate group</data>
+  <data key="d1">ACTOR</data>
+</node>
+<node id="co - branded partner">
+  <data key="d0">co - branded partner</data>
+  <data key="d1">ACTOR</data>
+</node>
+<node id="corporate affiliate">
+  <data key="d0">corporate affiliate</data>
+  <data key="d1">ACTOR</data>
+</node>
+<node id="successor">
+  <data key="d0">successor</data>
+  <data key="d1">ACTOR</data>
+</node>
+<node id="aggregate / deidentified / pseudonymized information">
+  <data key="d0">aggregate / deidentified / pseudonymized information</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="tag">
+  <data key="d0">tag</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="web pixel">
+  <data key="d0">web pixel</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="information on service">
+  <data key="d0">information on service</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="advertiser">
+  <data key="d0">advertiser</data>
+  <data key="d1">ACTOR</data>
+</node>
+<node id="browser">
+  <data key="d0">browser</data>
+  <data key="d1">ACTOR</data>
+</node>
+<node id="conversion pixel">
+  <data key="d0">conversion pixel</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="hash datum">
+  <data key="d0">hash datum</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="page of site">
+  <data key="d0">page of site</data>
+  <data key="d1">ACTOR</data>
+</node>
+<node id="java script">
+  <data key="d0">java script</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="entity tag">
+  <data key="d0">entity tag</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="html5 local storage">
+  <data key="d0">html5 local storage</data>
+  <data key="d1">DATA</data>
+</node>
+<edge source="general personal datum not identify you" target="personal height" id="e0">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">When you optionally provide such information, we may collect general personal data that cannot identify you, such as body shape, personal height, chest/waist/hip circumference, and weight.
+When you optionally provide such information, we may collect general personal data that cannot identify you, such as body shape, personal height, chest/waist/hip circumference, and weight.</data>
+</edge>
+<edge source="general personal datum not identify you" target="chest waist hip circumference" id="e1">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">When you optionally provide such information, we may collect general personal data that cannot identify you, such as body shape, personal height, chest/waist/hip circumference, and weight.
+When you optionally provide such information, we may collect general personal data that cannot identify you, such as body shape, personal height, chest/waist/hip circumference, and weight.</data>
+</edge>
+<edge source="general personal datum not identify you" target="body shape" id="e2">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">When you optionally provide such information, we may collect general personal data that cannot identify you, such as body shape, personal height, chest/waist/hip circumference, and weight.
+When you optionally provide such information, we may collect general personal data that cannot identify you, such as body shape, personal height, chest/waist/hip circumference, and weight.</data>
+</edge>
+<edge source="general personal datum not identify you" target="weight" id="e3">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">When you optionally provide such information, we may collect general personal data that cannot identify you, such as body shape, personal height, chest/waist/hip circumference, and weight.
+When you optionally provide such information, we may collect general personal data that cannot identify you, such as body shape, personal height, chest/waist/hip circumference, and weight.</data>
+</edge>
+<edge source="identifier" target="commercial information" id="e4">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">identifiers such as a name, address, unique personal identifier, email, phone number, your device's IP address, and non-directly identifiable alphanumerical numbers associated with your devices; commercial information such as records of products or services purchased, obtained, or considered by you; Internet or other electronic information regarding your browsing activity, length of visit and number of page views, click-stream data, locale preferences, your mobile carrier, date and time stamps associated with transactions, and system configuration information; audio recordings of your voice to the extent you call us, as permitted under applicable law; employment-related information; and inferences about your preferences, characteristics, behavior and attitudes.
+identifiers such as a name, address, unique personal identifier, email, phone number, your device's IP address, and non-directly identifiable alphanumerical numbers associated with your devices; commercial information such as records of products or services purchased, obtained, or considered by you; Internet or other electronic information regarding your browsing activity, length of visit and number of page views, click-stream data, locale preferences, your mobile carrier, date and time stamps associated with transactions, and system configuration information; audio recordings of your voice to the extent you call us, as permitted under applicable law; employment-related information; and inferences about your preferences, characteristics, behavior and attitudes.</data>
+</edge>
+<edge source="identifier" target="person name" id="e5">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">identifiers such as a name, address, unique personal identifier, email, phone number, your device's IP address, and non-directly identifiable alphanumerical numbers associated with your devices; commercial information such as records of products or services purchased, obtained, or considered by you; Internet or other electronic information regarding your browsing activity, length of visit and number of page views, click-stream data, locale preferences, your mobile carrier, date and time stamps associated with transactions, and system configuration information; audio recordings of your voice to the extent you call us, as permitted under applicable law; employment-related information; and inferences about your preferences, characteristics, behavior and attitudes.
+identifiers such as a name, address, unique personal identifier, email, phone number, your device's IP address, and non-directly identifiable alphanumerical numbers associated with your devices; commercial information such as records of products or services purchased, obtained, or considered by you; Internet or other electronic information regarding your browsing activity, length of visit and number of page views, click-stream data, locale preferences, your mobile carrier, date and time stamps associated with transactions, and system configuration information; audio recordings of your voice to the extent you call us, as permitted under applicable law; employment-related information; and inferences about your preferences, characteristics, behavior and attitudes.</data>
+</edge>
+<edge source="identifier" target="personal identifier" id="e6">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">identifiers such as a name, address, unique personal identifier, email, phone number, your device's IP address, and non-directly identifiable alphanumerical numbers associated with your devices; commercial information such as records of products or services purchased, obtained, or considered by you; Internet or other electronic information regarding your browsing activity, length of visit and number of page views, click-stream data, locale preferences, your mobile carrier, date and time stamps associated with transactions, and system configuration information; audio recordings of your voice to the extent you call us, as permitted under applicable law; employment-related information; and inferences about your preferences, characteristics, behavior and attitudes.
+identifiers such as a name, address, unique personal identifier, email, phone number, your device's IP address, and non-directly identifiable alphanumerical numbers associated with your devices; commercial information such as records of products or services purchased, obtained, or considered by you; Internet or other electronic information regarding your browsing activity, length of visit and number of page views, click-stream data, locale preferences, your mobile carrier, date and time stamps associated with transactions, and system configuration information; audio recordings of your voice to the extent you call us, as permitted under applicable law; employment-related information; and inferences about your preferences, characteristics, behavior and attitudes.</data>
+</edge>
+<edge source="identifier" target="directly identifiable alphanumerical number associate with device" id="e7">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">identifiers such as a name, address, unique personal identifier, email, phone number, your device's IP address, and non-directly identifiable alphanumerical numbers associated with your devices; commercial information such as records of products or services purchased, obtained, or considered by you; Internet or other electronic information regarding your browsing activity, length of visit and number of page views, click-stream data, locale preferences, your mobile carrier, date and time stamps associated with transactions, and system configuration information; audio recordings of your voice to the extent you call us, as permitted under applicable law; employment-related information; and inferences about your preferences, characteristics, behavior and attitudes.
+identifiers such as a name, address, unique personal identifier, email, phone number, your device's IP address, and non-directly identifiable alphanumerical numbers associated with your devices; commercial information such as records of products or services purchased, obtained, or considered by you; Internet or other electronic information regarding your browsing activity, length of visit and number of page views, click-stream data, locale preferences, your mobile carrier, date and time stamps associated with transactions, and system configuration information; audio recordings of your voice to the extent you call us, as permitted under applicable law; employment-related information; and inferences about your preferences, characteristics, behavior and attitudes.</data>
+</edge>
+<edge source="identifier" target="postal address" id="e8">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">identifiers such as a name, address, unique personal identifier, email, phone number, your device's IP address, and non-directly identifiable alphanumerical numbers associated with your devices; commercial information such as records of products or services purchased, obtained, or considered by you; Internet or other electronic information regarding your browsing activity, length of visit and number of page views, click-stream data, locale preferences, your mobile carrier, date and time stamps associated with transactions, and system configuration information; audio recordings of your voice to the extent you call us, as permitted under applicable law; employment-related information; and inferences about your preferences, characteristics, behavior and attitudes.
+identifiers such as a name, address, unique personal identifier, email, phone number, your device's IP address, and non-directly identifiable alphanumerical numbers associated with your devices; commercial information such as records of products or services purchased, obtained, or considered by you; Internet or other electronic information regarding your browsing activity, length of visit and number of page views, click-stream data, locale preferences, your mobile carrier, date and time stamps associated with transactions, and system configuration information; audio recordings of your voice to the extent you call us, as permitted under applicable law; employment-related information; and inferences about your preferences, characteristics, behavior and attitudes.</data>
+</edge>
+<edge source="identifier" target="email address" id="e9">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">identifiers such as a name, address, unique personal identifier, email, phone number, your device's IP address, and non-directly identifiable alphanumerical numbers associated with your devices; commercial information such as records of products or services purchased, obtained, or considered by you; Internet or other electronic information regarding your browsing activity, length of visit and number of page views, click-stream data, locale preferences, your mobile carrier, date and time stamps associated with transactions, and system configuration information; audio recordings of your voice to the extent you call us, as permitted under applicable law; employment-related information; and inferences about your preferences, characteristics, behavior and attitudes.
+identifiers such as a name, address, unique personal identifier, email, phone number, your device's IP address, and non-directly identifiable alphanumerical numbers associated with your devices; commercial information such as records of products or services purchased, obtained, or considered by you; Internet or other electronic information regarding your browsing activity, length of visit and number of page views, click-stream data, locale preferences, your mobile carrier, date and time stamps associated with transactions, and system configuration information; audio recordings of your voice to the extent you call us, as permitted under applicable law; employment-related information; and inferences about your preferences, characteristics, behavior and attitudes.</data>
+</edge>
+<edge source="identifier" target="phone number" id="e10">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">identifiers such as a name, address, unique personal identifier, email, phone number, your device's IP address, and non-directly identifiable alphanumerical numbers associated with your devices; commercial information such as records of products or services purchased, obtained, or considered by you; Internet or other electronic information regarding your browsing activity, length of visit and number of page views, click-stream data, locale preferences, your mobile carrier, date and time stamps associated with transactions, and system configuration information; audio recordings of your voice to the extent you call us, as permitted under applicable law; employment-related information; and inferences about your preferences, characteristics, behavior and attitudes.
+identifiers such as a name, address, unique personal identifier, email, phone number, your device's IP address, and non-directly identifiable alphanumerical numbers associated with your devices; commercial information such as records of products or services purchased, obtained, or considered by you; Internet or other electronic information regarding your browsing activity, length of visit and number of page views, click-stream data, locale preferences, your mobile carrier, date and time stamps associated with transactions, and system configuration information; audio recordings of your voice to the extent you call us, as permitted under applicable law; employment-related information; and inferences about your preferences, characteristics, behavior and attitudes.</data>
+</edge>
+<edge source="identifier" target="ip address" id="e11">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">identifiers such as a name, address, unique personal identifier, email, phone number, your device's IP address, and non-directly identifiable alphanumerical numbers associated with your devices; commercial information such as records of products or services purchased, obtained, or considered by you; Internet or other electronic information regarding your browsing activity, length of visit and number of page views, click-stream data, locale preferences, your mobile carrier, date and time stamps associated with transactions, and system configuration information; audio recordings of your voice to the extent you call us, as permitted under applicable law; employment-related information; and inferences about your preferences, characteristics, behavior and attitudes.
+identifiers such as a name, address, unique personal identifier, email, phone number, your device's IP address, and non-directly identifiable alphanumerical numbers associated with your devices; commercial information such as records of products or services purchased, obtained, or considered by you; Internet or other electronic information regarding your browsing activity, length of visit and number of page views, click-stream data, locale preferences, your mobile carrier, date and time stamps associated with transactions, and system configuration information; audio recordings of your voice to the extent you call us, as permitted under applicable law; employment-related information; and inferences about your preferences, characteristics, behavior and attitudes.</data>
+</edge>
+<edge source="Facebook" target="email address" id="e12">
+  <data key="d2">COLLECT</data>
+  <data key="d3">To do so, a list of email addresses is irreversibly encrypted through hashing and uploaded or transmitted from our site, and Facebook matches the hashed data against its own users, generating a lookalike audience and deleting the uploaded list.
+To do so, a list of email addresses is irreversibly encrypted through hashing and uploaded or transmitted from our site, and Facebook matches the hashed data against its own users, generating a lookalike audience and deleting the uploaded list.</data>
+</edge>
+<edge source="Facebook" target="hash datum" id="e13">
+  <data key="d2">COLLECT</data>
+  <data key="d3">To do so, a list of email addresses is irreversibly encrypted through hashing and uploaded or transmitted from our site, and Facebook matches the hashed data against its own users, generating a lookalike audience and deleting the uploaded list.
+To do so, a list of email addresses is irreversibly encrypted through hashing and uploaded or transmitted from our site, and Facebook matches the hashed data against its own users, generating a lookalike audience and deleting the uploaded list.</data>
+</edge>
+<edge source="personal information" target="wallet balance" id="e14">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">We may disclose personal information--including account information, Wallet balance or points information--to a buyer, prospective buyer, corporate affiliate, or other successors in the event of a merger, divestiture, restructuring, reorganization, dissolution, or sale or transfer of some or all of our assets, whether as a going concern or as part of bankruptcy, liquidation, or similar proceeding in which personal information held by us about our Services users is among the assets transferred.
+We may disclose personal information--including account information, Wallet balance or points information--to a buyer, prospective buyer, corporate affiliate, or other successors in the event of a merger, divestiture, restructuring, reorganization, dissolution, or sale or transfer of some or all of our assets, whether as a going concern or as part of bankruptcy, liquidation, or similar proceeding in which personal information held by us about our Services users is among the assets transferred.</data>
+</edge>
+<edge source="personal information" target="account information" id="e15">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">We may disclose personal information--including account information, Wallet balance or points information--to a buyer, prospective buyer, corporate affiliate, or other successors in the event of a merger, divestiture, restructuring, reorganization, dissolution, or sale or transfer of some or all of our assets, whether as a going concern or as part of bankruptcy, liquidation, or similar proceeding in which personal information held by us about our Services users is among the assets transferred.
+We may disclose personal information--including account information, Wallet balance or points information--to a buyer, prospective buyer, corporate affiliate, or other successors in the event of a merger, divestiture, restructuring, reorganization, dissolution, or sale or transfer of some or all of our assets, whether as a going concern or as part of bankruptcy, liquidation, or similar proceeding in which personal information held by us about our Services users is among the assets transferred.</data>
+</edge>
+<edge source="personal information" target="point information" id="e16">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">We may disclose personal information--including account information, Wallet balance or points information--to a buyer, prospective buyer, corporate affiliate, or other successors in the event of a merger, divestiture, restructuring, reorganization, dissolution, or sale or transfer of some or all of our assets, whether as a going concern or as part of bankruptcy, liquidation, or similar proceeding in which personal information held by us about our Services users is among the assets transferred.
+We may disclose personal information--including account information, Wallet balance or points information--to a buyer, prospective buyer, corporate affiliate, or other successors in the event of a merger, divestiture, restructuring, reorganization, dissolution, or sale or transfer of some or all of our assets, whether as a going concern or as part of bankruptcy, liquidation, or similar proceeding in which personal information held by us about our Services users is among the assets transferred.</data>
+</edge>
+<edge source="personal information" target="correspondence you have with we" id="e17">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">We will retain your personal data, including any correspondence you have with us only for as long as is necessary for the purposes set out in this Policy, including retaining Personal Data to comply with our legal obligations, to resolve disputes, for information security purposes, and to enforce our legal rights, terms, and policies.
+We will retain your personal data, including any correspondence you have with us only for as long as is necessary for the purposes set out in this Policy, including retaining Personal Data to comply with our legal obligations, to resolve disputes, for information security purposes, and to enforce our legal rights, terms, and policies.</data>
+</edge>
+<edge source="clickstream datum" target="device type" id="e18">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">We may also use Tracking Technologies to collect "clickstream" data, such as the domain name of the service providing you with Internet access, your device type, IP address used to connect your computer to the Internet, your browser type and version, operating system and platform, the average time spent on our Site, webpages viewed, content searched for, access times and other relevant statistics, and assign unique identifiers to the device or other credentials you use to access the Site for the same purposes.
+We may also use Tracking Technologies to collect "clickstream" data, such as the domain name of the service providing you with Internet access, your device type, IP address used to connect your computer to the Internet, your browser type and version, operating system and platform, the average time spent on our Site, webpages viewed, content searched for, access times and other relevant statistics, and assign unique identifiers to the device or other credentials you use to access the Site for the same purposes.</data>
+</edge>
+<edge source="clickstream datum" target="ip address" id="e19">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">We may also use Tracking Technologies to collect "clickstream" data, such as the domain name of the service providing you with Internet access, your device type, IP address used to connect your computer to the Internet, your browser type and version, operating system and platform, the average time spent on our Site, webpages viewed, content searched for, access times and other relevant statistics, and assign unique identifiers to the device or other credentials you use to access the Site for the same purposes.
+We may also use Tracking Technologies to collect "clickstream" data, such as the domain name of the service providing you with Internet access, your device type, IP address used to connect your computer to the Internet, your browser type and version, operating system and platform, the average time spent on our Site, webpages viewed, content searched for, access times and other relevant statistics, and assign unique identifiers to the device or other credentials you use to access the Site for the same purposes.</data>
+</edge>
+<edge source="clickstream datum" target="relevant statistic" id="e20">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">We may also use Tracking Technologies to collect "clickstream" data, such as the domain name of the service providing you with Internet access, your device type, IP address used to connect your computer to the Internet, your browser type and version, operating system and platform, the average time spent on our Site, webpages viewed, content searched for, access times and other relevant statistics, and assign unique identifiers to the device or other credentials you use to access the Site for the same purposes.
+We may also use Tracking Technologies to collect "clickstream" data, such as the domain name of the service providing you with Internet access, your device type, IP address used to connect your computer to the Internet, your browser type and version, operating system and platform, the average time spent on our Site, webpages viewed, content searched for, access times and other relevant statistics, and assign unique identifiers to the device or other credentials you use to access the Site for the same purposes.</data>
+</edge>
+<edge source="clickstream datum" target="browser type" id="e21">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">We may also use Tracking Technologies to collect "clickstream" data, such as the domain name of the service providing you with Internet access, your device type, IP address used to connect your computer to the Internet, your browser type and version, operating system and platform, the average time spent on our Site, webpages viewed, content searched for, access times and other relevant statistics, and assign unique identifiers to the device or other credentials you use to access the Site for the same purposes.
+We may also use Tracking Technologies to collect "clickstream" data, such as the domain name of the service providing you with Internet access, your device type, IP address used to connect your computer to the Internet, your browser type and version, operating system and platform, the average time spent on our Site, webpages viewed, content searched for, access times and other relevant statistics, and assign unique identifiers to the device or other credentials you use to access the Site for the same purposes.</data>
+</edge>
+<edge source="clickstream datum" target="access time" id="e22">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">We may also use Tracking Technologies to collect "clickstream" data, such as the domain name of the service providing you with Internet access, your device type, IP address used to connect your computer to the Internet, your browser type and version, operating system and platform, the average time spent on our Site, webpages viewed, content searched for, access times and other relevant statistics, and assign unique identifiers to the device or other credentials you use to access the Site for the same purposes.
+We may also use Tracking Technologies to collect "clickstream" data, such as the domain name of the service providing you with Internet access, your device type, IP address used to connect your computer to the Internet, your browser type and version, operating system and platform, the average time spent on our Site, webpages viewed, content searched for, access times and other relevant statistics, and assign unique identifiers to the device or other credentials you use to access the Site for the same purposes.</data>
+</edge>
+<edge source="clickstream datum" target="domain name" id="e23">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">We may also use Tracking Technologies to collect "clickstream" data, such as the domain name of the service providing you with Internet access, your device type, IP address used to connect your computer to the Internet, your browser type and version, operating system and platform, the average time spent on our Site, webpages viewed, content searched for, access times and other relevant statistics, and assign unique identifiers to the device or other credentials you use to access the Site for the same purposes.
+We may also use Tracking Technologies to collect "clickstream" data, such as the domain name of the service providing you with Internet access, your device type, IP address used to connect your computer to the Internet, your browser type and version, operating system and platform, the average time spent on our Site, webpages viewed, content searched for, access times and other relevant statistics, and assign unique identifiers to the device or other credentials you use to access the Site for the same purposes.</data>
+</edge>
+<edge source="clickstream datum" target="average time spend on site" id="e24">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">We may also use Tracking Technologies to collect "clickstream" data, such as the domain name of the service providing you with Internet access, your device type, IP address used to connect your computer to the Internet, your browser type and version, operating system and platform, the average time spent on our Site, webpages viewed, content searched for, access times and other relevant statistics, and assign unique identifiers to the device or other credentials you use to access the Site for the same purposes.
+We may also use Tracking Technologies to collect "clickstream" data, such as the domain name of the service providing you with Internet access, your device type, IP address used to connect your computer to the Internet, your browser type and version, operating system and platform, the average time spent on our Site, webpages viewed, content searched for, access times and other relevant statistics, and assign unique identifiers to the device or other credentials you use to access the Site for the same purposes.</data>
+</edge>
+<edge source="commercial information" target="locale preference" id="e25">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">identifiers such as a name, address, unique personal identifier, email, phone number, your device's IP address, and non-directly identifiable alphanumerical numbers associated with your devices; commercial information such as records of products or services purchased, obtained, or considered by you; Internet or other electronic information regarding your browsing activity, length of visit and number of page views, click-stream data, locale preferences, your mobile carrier, date and time stamps associated with transactions, and system configuration information; audio recordings of your voice to the extent you call us, as permitted under applicable law; employment-related information; and inferences about your preferences, characteristics, behavior and attitudes.
+identifiers such as a name, address, unique personal identifier, email, phone number, your device's IP address, and non-directly identifiable alphanumerical numbers associated with your devices; commercial information such as records of products or services purchased, obtained, or considered by you; Internet or other electronic information regarding your browsing activity, length of visit and number of page views, click-stream data, locale preferences, your mobile carrier, date and time stamps associated with transactions, and system configuration information; audio recordings of your voice to the extent you call us, as permitted under applicable law; employment-related information; and inferences about your preferences, characteristics, behavior and attitudes.</data>
+</edge>
+<edge source="commercial information" target="click stream datum" id="e26">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">identifiers such as a name, address, unique personal identifier, email, phone number, your device's IP address, and non-directly identifiable alphanumerical numbers associated with your devices; commercial information such as records of products or services purchased, obtained, or considered by you; Internet or other electronic information regarding your browsing activity, length of visit and number of page views, click-stream data, locale preferences, your mobile carrier, date and time stamps associated with transactions, and system configuration information; audio recordings of your voice to the extent you call us, as permitted under applicable law; employment-related information; and inferences about your preferences, characteristics, behavior and attitudes.
+identifiers such as a name, address, unique personal identifier, email, phone number, your device's IP address, and non-directly identifiable alphanumerical numbers associated with your devices; commercial information such as records of products or services purchased, obtained, or considered by you; Internet or other electronic information regarding your browsing activity, length of visit and number of page views, click-stream data, locale preferences, your mobile carrier, date and time stamps associated with transactions, and system configuration information; audio recordings of your voice to the extent you call us, as permitted under applicable law; employment-related information; and inferences about your preferences, characteristics, behavior and attitudes.</data>
+</edge>
+<edge source="commercial information" target="characteristic" id="e27">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">identifiers such as a name, address, unique personal identifier, email, phone number, your device's IP address, and non-directly identifiable alphanumerical numbers associated with your devices; commercial information such as records of products or services purchased, obtained, or considered by you; Internet or other electronic information regarding your browsing activity, length of visit and number of page views, click-stream data, locale preferences, your mobile carrier, date and time stamps associated with transactions, and system configuration information; audio recordings of your voice to the extent you call us, as permitted under applicable law; employment-related information; and inferences about your preferences, characteristics, behavior and attitudes.
+identifiers such as a name, address, unique personal identifier, email, phone number, your device's IP address, and non-directly identifiable alphanumerical numbers associated with your devices; commercial information such as records of products or services purchased, obtained, or considered by you; Internet or other electronic information regarding your browsing activity, length of visit and number of page views, click-stream data, locale preferences, your mobile carrier, date and time stamps associated with transactions, and system configuration information; audio recordings of your voice to the extent you call us, as permitted under applicable law; employment-related information; and inferences about your preferences, characteristics, behavior and attitudes.</data>
+</edge>
+<edge source="commercial information" target="record of product purchase" id="e28">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">identifiers such as a name, address, unique personal identifier, email, phone number, your device's IP address, and non-directly identifiable alphanumerical numbers associated with your devices; commercial information such as records of products or services purchased, obtained, or considered by you; Internet or other electronic information regarding your browsing activity, length of visit and number of page views, click-stream data, locale preferences, your mobile carrier, date and time stamps associated with transactions, and system configuration information; audio recordings of your voice to the extent you call us, as permitted under applicable law; employment-related information; and inferences about your preferences, characteristics, behavior and attitudes.
+identifiers such as a name, address, unique personal identifier, email, phone number, your device's IP address, and non-directly identifiable alphanumerical numbers associated with your devices; commercial information such as records of products or services purchased, obtained, or considered by you; Internet or other electronic information regarding your browsing activity, length of visit and number of page views, click-stream data, locale preferences, your mobile carrier, date and time stamps associated with transactions, and system configuration information; audio recordings of your voice to the extent you call us, as permitted under applicable law; employment-related information; and inferences about your preferences, characteristics, behavior and attitudes.</data>
+</edge>
+<edge source="commercial information" target="browsing / search history" id="e29">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">identifiers such as a name, address, unique personal identifier, email, phone number, your device's IP address, and non-directly identifiable alphanumerical numbers associated with your devices; commercial information such as records of products or services purchased, obtained, or considered by you; Internet or other electronic information regarding your browsing activity, length of visit and number of page views, click-stream data, locale preferences, your mobile carrier, date and time stamps associated with transactions, and system configuration information; audio recordings of your voice to the extent you call us, as permitted under applicable law; employment-related information; and inferences about your preferences, characteristics, behavior and attitudes.
+identifiers such as a name, address, unique personal identifier, email, phone number, your device's IP address, and non-directly identifiable alphanumerical numbers associated with your devices; commercial information such as records of products or services purchased, obtained, or considered by you; Internet or other electronic information regarding your browsing activity, length of visit and number of page views, click-stream data, locale preferences, your mobile carrier, date and time stamps associated with transactions, and system configuration information; audio recordings of your voice to the extent you call us, as permitted under applicable law; employment-related information; and inferences about your preferences, characteristics, behavior and attitudes.</data>
+</edge>
+<edge source="commercial information" target="date stamp associate with transaction" id="e30">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">identifiers such as a name, address, unique personal identifier, email, phone number, your device's IP address, and non-directly identifiable alphanumerical numbers associated with your devices; commercial information such as records of products or services purchased, obtained, or considered by you; Internet or other electronic information regarding your browsing activity, length of visit and number of page views, click-stream data, locale preferences, your mobile carrier, date and time stamps associated with transactions, and system configuration information; audio recordings of your voice to the extent you call us, as permitted under applicable law; employment-related information; and inferences about your preferences, characteristics, behavior and attitudes.
+identifiers such as a name, address, unique personal identifier, email, phone number, your device's IP address, and non-directly identifiable alphanumerical numbers associated with your devices; commercial information such as records of products or services purchased, obtained, or considered by you; Internet or other electronic information regarding your browsing activity, length of visit and number of page views, click-stream data, locale preferences, your mobile carrier, date and time stamps associated with transactions, and system configuration information; audio recordings of your voice to the extent you call us, as permitted under applicable law; employment-related information; and inferences about your preferences, characteristics, behavior and attitudes.</data>
+</edge>
+<edge source="commercial information" target="behavior" id="e31">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">identifiers such as a name, address, unique personal identifier, email, phone number, your device's IP address, and non-directly identifiable alphanumerical numbers associated with your devices; commercial information such as records of products or services purchased, obtained, or considered by you; Internet or other electronic information regarding your browsing activity, length of visit and number of page views, click-stream data, locale preferences, your mobile carrier, date and time stamps associated with transactions, and system configuration information; audio recordings of your voice to the extent you call us, as permitted under applicable law; employment-related information; and inferences about your preferences, characteristics, behavior and attitudes.
+identifiers such as a name, address, unique personal identifier, email, phone number, your device's IP address, and non-directly identifiable alphanumerical numbers associated with your devices; commercial information such as records of products or services purchased, obtained, or considered by you; Internet or other electronic information regarding your browsing activity, length of visit and number of page views, click-stream data, locale preferences, your mobile carrier, date and time stamps associated with transactions, and system configuration information; audio recordings of your voice to the extent you call us, as permitted under applicable law; employment-related information; and inferences about your preferences, characteristics, behavior and attitudes.</data>
+</edge>
+<edge source="commercial information" target="number of page view" id="e32">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">identifiers such as a name, address, unique personal identifier, email, phone number, your device's IP address, and non-directly identifiable alphanumerical numbers associated with your devices; commercial information such as records of products or services purchased, obtained, or considered by you; Internet or other electronic information regarding your browsing activity, length of visit and number of page views, click-stream data, locale preferences, your mobile carrier, date and time stamps associated with transactions, and system configuration information; audio recordings of your voice to the extent you call us, as permitted under applicable law; employment-related information; and inferences about your preferences, characteristics, behavior and attitudes.
+identifiers such as a name, address, unique personal identifier, email, phone number, your device's IP address, and non-directly identifiable alphanumerical numbers associated with your devices; commercial information such as records of products or services purchased, obtained, or considered by you; Internet or other electronic information regarding your browsing activity, length of visit and number of page views, click-stream data, locale preferences, your mobile carrier, date and time stamps associated with transactions, and system configuration information; audio recordings of your voice to the extent you call us, as permitted under applicable law; employment-related information; and inferences about your preferences, characteristics, behavior and attitudes.</data>
+</edge>
+<edge source="commercial information" target="relate information" id="e33">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">identifiers such as a name, address, unique personal identifier, email, phone number, your device's IP address, and non-directly identifiable alphanumerical numbers associated with your devices; commercial information such as records of products or services purchased, obtained, or considered by you; Internet or other electronic information regarding your browsing activity, length of visit and number of page views, click-stream data, locale preferences, your mobile carrier, date and time stamps associated with transactions, and system configuration information; audio recordings of your voice to the extent you call us, as permitted under applicable law; employment-related information; and inferences about your preferences, characteristics, behavior and attitudes.
+identifiers such as a name, address, unique personal identifier, email, phone number, your device's IP address, and non-directly identifiable alphanumerical numbers associated with your devices; commercial information such as records of products or services purchased, obtained, or considered by you; Internet or other electronic information regarding your browsing activity, length of visit and number of page views, click-stream data, locale preferences, your mobile carrier, date and time stamps associated with transactions, and system configuration information; audio recordings of your voice to the extent you call us, as permitted under applicable law; employment-related information; and inferences about your preferences, characteristics, behavior and attitudes.</data>
+</edge>
+<edge source="commercial information" target="internet electronic information" id="e34">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">identifiers such as a name, address, unique personal identifier, email, phone number, your device's IP address, and non-directly identifiable alphanumerical numbers associated with your devices; commercial information such as records of products or services purchased, obtained, or considered by you; Internet or other electronic information regarding your browsing activity, length of visit and number of page views, click-stream data, locale preferences, your mobile carrier, date and time stamps associated with transactions, and system configuration information; audio recordings of your voice to the extent you call us, as permitted under applicable law; employment-related information; and inferences about your preferences, characteristics, behavior and attitudes.
+identifiers such as a name, address, unique personal identifier, email, phone number, your device's IP address, and non-directly identifiable alphanumerical numbers associated with your devices; commercial information such as records of products or services purchased, obtained, or considered by you; Internet or other electronic information regarding your browsing activity, length of visit and number of page views, click-stream data, locale preferences, your mobile carrier, date and time stamps associated with transactions, and system configuration information; audio recordings of your voice to the extent you call us, as permitted under applicable law; employment-related information; and inferences about your preferences, characteristics, behavior and attitudes.</data>
+</edge>
+<edge source="commercial information" target="inference" id="e35">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">identifiers such as a name, address, unique personal identifier, email, phone number, your device's IP address, and non-directly identifiable alphanumerical numbers associated with your devices; commercial information such as records of products or services purchased, obtained, or considered by you; Internet or other electronic information regarding your browsing activity, length of visit and number of page views, click-stream data, locale preferences, your mobile carrier, date and time stamps associated with transactions, and system configuration information; audio recordings of your voice to the extent you call us, as permitted under applicable law; employment-related information; and inferences about your preferences, characteristics, behavior and attitudes.
+identifiers such as a name, address, unique personal identifier, email, phone number, your device's IP address, and non-directly identifiable alphanumerical numbers associated with your devices; commercial information such as records of products or services purchased, obtained, or considered by you; Internet or other electronic information regarding your browsing activity, length of visit and number of page views, click-stream data, locale preferences, your mobile carrier, date and time stamps associated with transactions, and system configuration information; audio recordings of your voice to the extent you call us, as permitted under applicable law; employment-related information; and inferences about your preferences, characteristics, behavior and attitudes.</data>
+</edge>
+<edge source="commercial information" target="system configuration information" id="e36">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">identifiers such as a name, address, unique personal identifier, email, phone number, your device's IP address, and non-directly identifiable alphanumerical numbers associated with your devices; commercial information such as records of products or services purchased, obtained, or considered by you; Internet or other electronic information regarding your browsing activity, length of visit and number of page views, click-stream data, locale preferences, your mobile carrier, date and time stamps associated with transactions, and system configuration information; audio recordings of your voice to the extent you call us, as permitted under applicable law; employment-related information; and inferences about your preferences, characteristics, behavior and attitudes.
+identifiers such as a name, address, unique personal identifier, email, phone number, your device's IP address, and non-directly identifiable alphanumerical numbers associated with your devices; commercial information such as records of products or services purchased, obtained, or considered by you; Internet or other electronic information regarding your browsing activity, length of visit and number of page views, click-stream data, locale preferences, your mobile carrier, date and time stamps associated with transactions, and system configuration information; audio recordings of your voice to the extent you call us, as permitted under applicable law; employment-related information; and inferences about your preferences, characteristics, behavior and attitudes.</data>
+</edge>
+<edge source="commercial information" target="preference" id="e37">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">identifiers such as a name, address, unique personal identifier, email, phone number, your device's IP address, and non-directly identifiable alphanumerical numbers associated with your devices; commercial information such as records of products or services purchased, obtained, or considered by you; Internet or other electronic information regarding your browsing activity, length of visit and number of page views, click-stream data, locale preferences, your mobile carrier, date and time stamps associated with transactions, and system configuration information; audio recordings of your voice to the extent you call us, as permitted under applicable law; employment-related information; and inferences about your preferences, characteristics, behavior and attitudes.
+identifiers such as a name, address, unique personal identifier, email, phone number, your device's IP address, and non-directly identifiable alphanumerical numbers associated with your devices; commercial information such as records of products or services purchased, obtained, or considered by you; Internet or other electronic information regarding your browsing activity, length of visit and number of page views, click-stream data, locale preferences, your mobile carrier, date and time stamps associated with transactions, and system configuration information; audio recordings of your voice to the extent you call us, as permitted under applicable law; employment-related information; and inferences about your preferences, characteristics, behavior and attitudes.</data>
+</edge>
+<edge source="commercial information" target="length of visit" id="e38">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">identifiers such as a name, address, unique personal identifier, email, phone number, your device's IP address, and non-directly identifiable alphanumerical numbers associated with your devices; commercial information such as records of products or services purchased, obtained, or considered by you; Internet or other electronic information regarding your browsing activity, length of visit and number of page views, click-stream data, locale preferences, your mobile carrier, date and time stamps associated with transactions, and system configuration information; audio recordings of your voice to the extent you call us, as permitted under applicable law; employment-related information; and inferences about your preferences, characteristics, behavior and attitudes.
+identifiers such as a name, address, unique personal identifier, email, phone number, your device's IP address, and non-directly identifiable alphanumerical numbers associated with your devices; commercial information such as records of products or services purchased, obtained, or considered by you; Internet or other electronic information regarding your browsing activity, length of visit and number of page views, click-stream data, locale preferences, your mobile carrier, date and time stamps associated with transactions, and system configuration information; audio recordings of your voice to the extent you call us, as permitted under applicable law; employment-related information; and inferences about your preferences, characteristics, behavior and attitudes.</data>
+</edge>
+<edge source="commercial information" target="audio recording of voice" id="e39">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">identifiers such as a name, address, unique personal identifier, email, phone number, your device's IP address, and non-directly identifiable alphanumerical numbers associated with your devices; commercial information such as records of products or services purchased, obtained, or considered by you; Internet or other electronic information regarding your browsing activity, length of visit and number of page views, click-stream data, locale preferences, your mobile carrier, date and time stamps associated with transactions, and system configuration information; audio recordings of your voice to the extent you call us, as permitted under applicable law; employment-related information; and inferences about your preferences, characteristics, behavior and attitudes.
+identifiers such as a name, address, unique personal identifier, email, phone number, your device's IP address, and non-directly identifiable alphanumerical numbers associated with your devices; commercial information such as records of products or services purchased, obtained, or considered by you; Internet or other electronic information regarding your browsing activity, length of visit and number of page views, click-stream data, locale preferences, your mobile carrier, date and time stamps associated with transactions, and system configuration information; audio recordings of your voice to the extent you call us, as permitted under applicable law; employment-related information; and inferences about your preferences, characteristics, behavior and attitudes.</data>
+</edge>
+<edge source="commercial information" target="attitude" id="e40">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">identifiers such as a name, address, unique personal identifier, email, phone number, your device's IP address, and non-directly identifiable alphanumerical numbers associated with your devices; commercial information such as records of products or services purchased, obtained, or considered by you; Internet or other electronic information regarding your browsing activity, length of visit and number of page views, click-stream data, locale preferences, your mobile carrier, date and time stamps associated with transactions, and system configuration information; audio recordings of your voice to the extent you call us, as permitted under applicable law; employment-related information; and inferences about your preferences, characteristics, behavior and attitudes.
+identifiers such as a name, address, unique personal identifier, email, phone number, your device's IP address, and non-directly identifiable alphanumerical numbers associated with your devices; commercial information such as records of products or services purchased, obtained, or considered by you; Internet or other electronic information regarding your browsing activity, length of visit and number of page views, click-stream data, locale preferences, your mobile carrier, date and time stamps associated with transactions, and system configuration information; audio recordings of your voice to the extent you call us, as permitted under applicable law; employment-related information; and inferences about your preferences, characteristics, behavior and attitudes.</data>
+</edge>
+<edge source="UNSPECIFIED_ACTOR" target="UNSPECIFIED_DATA" id="e41">
+  <data key="d2">COLLECT</data>
+  <data key="d3">We strive to ensure that our third-party service providers can only use your data for the purposes for which it was provided to them and to the extent necessary for such purposes, in accordance with our written instructions.
+We strive to ensure that our third-party service providers can only use your data for the purposes for which it was provided to them and to the extent necessary for such purposes, in accordance with our written instructions.</data>
+</edge>
+<edge source="UNSPECIFIED_ACTOR" target="personal information" id="e42">
+  <data key="d2">COLLECT</data>
+  <data key="d3">To share your personal data with third-party service providers to advertise our Services and/or products on our Site.
+To share your personal data with third-party service providers to advertise our Services and/or products on our Site.
+Where a third-party seller sells its' products on the platform and the third-party seller will ship the products to you directly, we may share your personal data (name, address, and telephone number) with them so that they may fulfill your order and provide your personal data to a shipping logistics provider in order to ship the products to you.
+Where a third-party seller sells its' products on the platform and the third-party seller will ship the products to you directly, we may share your personal data (name, address, and telephone number) with them so that they may fulfill your order and provide your personal data to a shipping logistics provider in order to ship the products to you.</data>
+</edge>
+<edge source="UNSPECIFIED_ACTOR" target="identifier" id="e43">
+  <data key="d2">COLLECT</data>
+  <data key="d3">In the previous 12 months, we may have shared identifiers and inferences about you with our partners, third parties, and affiliates in such a way that, under such privacy laws, may be interpreted as "selling."
+In the previous 12 months, we may have shared identifiers and inferences about you with our partners, third parties, and affiliates in such a way that, under such privacy laws, may be interpreted as "selling."
+In the previous 12 months, we may have shared identifiers and inferences about you with our partners, third parties, and affiliates in such a way that, under such privacy laws, may be interpreted as "selling."
+In the previous 12 months, we may have shared identifiers and inferences about you with our partners, third parties, and affiliates in such a way that, under such privacy laws, may be interpreted as "selling."</data>
+</edge>
+<edge source="UNSPECIFIED_ACTOR" target="inference" id="e44">
+  <data key="d2">COLLECT</data>
+  <data key="d3">In the previous 12 months, we may have shared identifiers and inferences about you with our partners, third parties, and affiliates in such a way that, under such privacy laws, may be interpreted as "selling."
+In the previous 12 months, we may have shared identifiers and inferences about you with our partners, third parties, and affiliates in such a way that, under such privacy laws, may be interpreted as "selling."
+In the previous 12 months, we may have shared identifiers and inferences about you with our partners, third parties, and affiliates in such a way that, under such privacy laws, may be interpreted as "selling."
+In the previous 12 months, we may have shared identifiers and inferences about you with our partners, third parties, and affiliates in such a way that, under such privacy laws, may be interpreted as "selling."</data>
+</edge>
+<edge source="UNSPECIFIED_ACTOR" target="person name" id="e45">
+  <data key="d2">COLLECT</data>
+  <data key="d3">Where a third-party seller sells its' products on the platform and the third-party seller will ship the products to you directly, we may share your personal data (name, address, and telephone number) with them so that they may fulfill your order and provide your personal data to a shipping logistics provider in order to ship the products to you.
+Where a third-party seller sells its' products on the platform and the third-party seller will ship the products to you directly, we may share your personal data (name, address, and telephone number) with them so that they may fulfill your order and provide your personal data to a shipping logistics provider in order to ship the products to you.</data>
+</edge>
+<edge source="UNSPECIFIED_ACTOR" target="postal address" id="e46">
+  <data key="d2">COLLECT</data>
+  <data key="d3">Where a third-party seller sells its' products on the platform and the third-party seller will ship the products to you directly, we may share your personal data (name, address, and telephone number) with them so that they may fulfill your order and provide your personal data to a shipping logistics provider in order to ship the products to you.
+Where a third-party seller sells its' products on the platform and the third-party seller will ship the products to you directly, we may share your personal data (name, address, and telephone number) with them so that they may fulfill your order and provide your personal data to a shipping logistics provider in order to ship the products to you.</data>
+</edge>
+<edge source="UNSPECIFIED_ACTOR" target="phone number" id="e47">
+  <data key="d2">COLLECT</data>
+  <data key="d3">Where a third-party seller sells its' products on the platform and the third-party seller will ship the products to you directly, we may share your personal data (name, address, and telephone number) with them so that they may fulfill your order and provide your personal data to a shipping logistics provider in order to ship the products to you.
+Where a third-party seller sells its' products on the platform and the third-party seller will ship the products to you directly, we may share your personal data (name, address, and telephone number) with them so that they may fulfill your order and provide your personal data to a shipping logistics provider in order to ship the products to you.</data>
+</edge>
+<edge source="we" target="personal information" id="e48">
+  <data key="d2">COLLECT</data>
+  <data key="d3">1. How We Collect and Use Your Personal Data &gt;
+1. How We Collect and Use Your Personal Data &gt;
+We collect personal information when you use our Services.
+We collect personal information when you use our Services.
+Your personal data is collected and used by us to support a range of different business purposes.
+Your personal data is collected and used by us to support a range of different business purposes.
+We may disclose and share your personal information with the parties as described below.
+We may disclose and share your personal information with the parties as described below.
+We may share your personal information with our related group companies and, in some cases, other affiliates of our corporate group for business maintenance and personalization continuity purposes, for instance, so that you may enjoy a personalized user experience across our digital properties, to provide you with the Services, or to take actions based on your requests or preferences.
+We may share your personal information with our related group companies and, in some cases, other affiliates of our corporate group for business maintenance and personalization continuity purposes, for instance, so that you may enjoy a personalized user experience across our digital properties, to provide you with the Services, or to take actions based on your requests or preferences.
+We may share your personal information with our related group companies and, in some cases, other affiliates of our corporate group for business maintenance and personalization continuity purposes, for instance, so that you may enjoy a personalized user experience across our digital properties, to provide you with the Services, or to take actions based on your requests or preferences.
+Where a third-party seller sells its' products on the platform and the third-party seller will ship the products to you directly, we may share your personal data (name, address, and telephone number) with them so that they may fulfill your order and provide your personal data to a shipping logistics provider in order to ship the products to you.
+Where a third-party seller sells its' products on the platform and the third-party seller will ship the products to you directly, we may share your personal data (name, address, and telephone number) with them so that they may fulfill your order and provide your personal data to a shipping logistics provider in order to ship the products to you.
+We may provide access to or share your personal information with the following types of third-party service providers as set out in the table below:
+We may provide access to or share your personal information with the following types of third-party service providers as set out in the table below:
+We will share your personal information with our co-branded partners based on your voluntary use of or participation in a co-branded service or feature.
+We will share your personal information with our co-branded partners based on your voluntary use of or participation in a co-branded service or feature.
+We may disclose your personal information for any purpose with your consent.
+We may disclose your personal information for any purpose with your consent.
+We may disclose personal information--including account information, Wallet balance or points information--to a buyer, prospective buyer, corporate affiliate, or other successors in the event of a merger, divestiture, restructuring, reorganization, dissolution, or sale or transfer of some or all of our assets, whether as a going concern or as part of bankruptcy, liquidation, or similar proceeding in which personal information held by us about our Services users is among the assets transferred.
+We may disclose personal information--including account information, Wallet balance or points information--to a buyer, prospective buyer, corporate affiliate, or other successors in the event of a merger, divestiture, restructuring, reorganization, dissolution, or sale or transfer of some or all of our assets, whether as a going concern or as part of bankruptcy, liquidation, or similar proceeding in which personal information held by us about our Services users is among the assets transferred.
+We will retain your personal data, including any correspondence you have with us only for as long as is necessary for the purposes set out in this Policy, including retaining Personal Data to comply with our legal obligations, to resolve disputes, for information security purposes, and to enforce our legal rights, terms, and policies.
+We will retain your personal data, including any correspondence you have with us only for as long as is necessary for the purposes set out in this Policy, including retaining Personal Data to comply with our legal obligations, to resolve disputes, for information security purposes, and to enforce our legal rights, terms, and policies.</data>
+</edge>
+<edge source="we" target="general personal datum not identify you" id="e49">
+  <data key="d2">COLLECT</data>
+  <data key="d3">When you optionally provide such information, we may collect general personal data that cannot identify you, such as body shape, personal height, chest/waist/hip circumference, and weight.
+When you optionally provide such information, we may collect general personal data that cannot identify you, such as body shape, personal height, chest/waist/hip circumference, and weight.</data>
+</edge>
+<edge source="we" target="device information" id="e50">
+  <data key="d2">COLLECT</data>
+  <data key="d3">Collect your device information, and usage data on our Site or App for fault analysis, troubleshooting, and system maintenance, as well as setting default options for you, such as language and currency.
+For example, this information may be used by us to recommend clothing sizes or styles, personalization, or to provide fit prediction services for you.</data>
+</edge>
+<edge source="we" target="UNSPECIFIED_DATA" id="e51">
+  <data key="d2">COLLECT</data>
+  <data key="d3">We may use your information for any other purpose disclosed to you prior to you providing us your personal information or which is reasonably necessary to provide the Services or other related products and/or services requested, with your permission or upon your direction.
+We may use your information for any other purpose disclosed to you prior to you providing us your personal information or which is reasonably necessary to provide the Services or other related products and/or services requested, with your permission or upon your direction.
+We also may disclose your information where we reasonably believe that the disclosure is necessary to enforce our agreements or policies, or if we believe that disclosure will help us protect the rights, property, or safety of the Company or our customers.
+We also may disclose your information where we reasonably believe that the disclosure is necessary to enforce our agreements or policies, or if we believe that disclosure will help us protect the rights, property, or safety of the Company or our customers.
+To protect the privacy and the security of your personal information, we may request data from you to enable us to confirm your identity and right to access such data, as well as to search for and provide you with the personal data we maintain.
+To protect the privacy and the security of your personal information, we may request data from you to enable us to confirm your identity and right to access such data, as well as to search for and provide you with the personal data we maintain.
+If we cannot verify your identity based on the information we have on file, we may request additional information from you, which we will only use to verify your identity, and for security or fraud-prevention purposes.
+If we cannot verify your identity based on the information we have on file, we may request additional information from you, which we will only use to verify your identity, and for security or fraud-prevention purposes.</data>
+</edge>
+<edge source="we" target="person name" id="e52">
+  <data key="d2">COLLECT</data>
+  <data key="d3">Where a third-party seller sells its' products on the platform and the third-party seller will ship the products to you directly, we may share your personal data (name, address, and telephone number) with them so that they may fulfill your order and provide your personal data to a shipping logistics provider in order to ship the products to you.
+Where a third-party seller sells its' products on the platform and the third-party seller will ship the products to you directly, we may share your personal data (name, address, and telephone number) with them so that they may fulfill your order and provide your personal data to a shipping logistics provider in order to ship the products to you.</data>
+</edge>
+<edge source="we" target="postal address" id="e53">
+  <data key="d2">COLLECT</data>
+  <data key="d3">Where a third-party seller sells its' products on the platform and the third-party seller will ship the products to you directly, we may share your personal data (name, address, and telephone number) with them so that they may fulfill your order and provide your personal data to a shipping logistics provider in order to ship the products to you.
+Where a third-party seller sells its' products on the platform and the third-party seller will ship the products to you directly, we may share your personal data (name, address, and telephone number) with them so that they may fulfill your order and provide your personal data to a shipping logistics provider in order to ship the products to you.</data>
+</edge>
+<edge source="we" target="phone number" id="e54">
+  <data key="d2">COLLECT</data>
+  <data key="d3">Where a third-party seller sells its' products on the platform and the third-party seller will ship the products to you directly, we may share your personal data (name, address, and telephone number) with them so that they may fulfill your order and provide your personal data to a shipping logistics provider in order to ship the products to you.
+Where a third-party seller sells its' products on the platform and the third-party seller will ship the products to you directly, we may share your personal data (name, address, and telephone number) with them so that they may fulfill your order and provide your personal data to a shipping logistics provider in order to ship the products to you.</data>
+</edge>
+<edge source="we" target="aggregate / deidentified / pseudonymized information" id="e55">
+  <data key="d2">COLLECT</data>
+  <data key="d3">Please note that we may disclose, without restriction, aggregated or anonymized information about the users of our Services, which is information that does not identify any specific individual.
+Please note that we may disclose, without restriction, aggregated or anonymized information about the users of our Services, which is information that does not identify any specific individual.</data>
+</edge>
+<edge source="we" target="cookie / pixel tag" id="e56">
+  <data key="d2">COLLECT</data>
+  <data key="d3">We may use cookies, tags, web pixels, and similar technologies to automatically collect information on our Services.
+We may use cookies, tags, web pixels, and similar technologies to automatically collect information on our Services.
+Generally, we use first-party and third-party cookies for the following purposes: to make our Services function properly; to provide a secure browsing experience during your use of our Services; to collect passive information about your use of our Services; to measure how you interact with our marketing campaigns; to help us improve our Services; and to remember your preferences for your convenience.
+Generally, we use first-party and third-party cookies for the following purposes: to make our Services function properly; to provide a secure browsing experience during your use of our Services; to collect passive information about your use of our Services; to measure how you interact with our marketing campaigns; to help us improve our Services; and to remember your preferences for your convenience.
+We use the following types of cookies on our Services: Strictly Necessary Cookies.
+We use the following types of cookies on our Services: Functional Cookies.
+We use functional cookies to remember your choices so we can tailor our Services to provide you with enhanced features and personalized content.
+We use functional cookies to remember your choices so we can tailor our Services to provide you with enhanced features and personalized content.
+We use the following types of cookies on our Services: Performance or Analytics Cookies.
+We use the information collected by such cookies to improve and optimize our Services.
+We use the information collected by such cookies to improve and optimize our Services.
+We use the following types of cookies on our Services: Advertising or Targeting Cookies.</data>
+</edge>
+<edge source="we" target="tag" id="e57">
+  <data key="d2">COLLECT</data>
+  <data key="d3">We may use cookies, tags, web pixels, and similar technologies to automatically collect information on our Services.
+We may use cookies, tags, web pixels, and similar technologies to automatically collect information on our Services.</data>
+</edge>
+<edge source="we" target="web pixel" id="e58">
+  <data key="d2">COLLECT</data>
+  <data key="d3">We may use cookies, tags, web pixels, and similar technologies to automatically collect information on our Services.
+We may use cookies, tags, web pixels, and similar technologies to automatically collect information on our Services.
+We also use web pixels to analyze usage patterns on our Services.
+We also use web pixels to analyze usage patterns on our Services.</data>
+</edge>
+<edge source="we" target="information on service" id="e59">
+  <data key="d2">COLLECT</data>
+  <data key="d3">We may use cookies, tags, web pixels, and similar technologies to automatically collect information on our Services.
+We may use cookies, tags, web pixels, and similar technologies to automatically collect information on our Services.</data>
+</edge>
+<edge source="we" target="conversion pixel" id="e60">
+  <data key="d2">COLLECT</data>
+  <data key="d3">To see how successful our marketing campaigns or other goals of the Services are performing we sometimes use conversion pixels, which fire a short line of code to tell us when you have clicked on a particular button or reached a particular page (e.g. a thank you page once you have completed the procedure for subscribing to one of our services or have completed one of our forms).
+To see how successful our marketing campaigns or other goals of the Services are performing we sometimes use conversion pixels, which fire a short line of code to tell us when you have clicked on a particular button or reached a particular page (e.g. a thank you page once you have completed the procedure for subscribing to one of our services or have completed one of our forms).</data>
+</edge>
+<edge source="we" target="clickstream datum" id="e61">
+  <data key="d2">COLLECT</data>
+  <data key="d3">We may also use Tracking Technologies to collect "clickstream" data, such as the domain name of the service providing you with Internet access, your device type, IP address used to connect your computer to the Internet, your browser type and version, operating system and platform, the average time spent on our Site, webpages viewed, content searched for, access times and other relevant statistics, and assign unique identifiers to the device or other credentials you use to access the Site for the same purposes.
+We may also use Tracking Technologies to collect "clickstream" data, such as the domain name of the service providing you with Internet access, your device type, IP address used to connect your computer to the Internet, your browser type and version, operating system and platform, the average time spent on our Site, webpages viewed, content searched for, access times and other relevant statistics, and assign unique identifiers to the device or other credentials you use to access the Site for the same purposes.</data>
+</edge>
+<edge source="we" target="identifier" id="e62">
+  <data key="d2">COLLECT</data>
+  <data key="d3">In the previous 12 months, we may have shared identifiers and inferences about you with our partners, third parties, and affiliates in such a way that, under such privacy laws, may be interpreted as "selling."
+In the previous 12 months, we may have shared identifiers and inferences about you with our partners, third parties, and affiliates in such a way that, under such privacy laws, may be interpreted as "selling."</data>
+</edge>
+<edge source="we" target="inference" id="e63">
+  <data key="d2">COLLECT</data>
+  <data key="d3">In the previous 12 months, we may have shared identifiers and inferences about you with our partners, third parties, and affiliates in such a way that, under such privacy laws, may be interpreted as "selling."
+In the previous 12 months, we may have shared identifiers and inferences about you with our partners, third parties, and affiliates in such a way that, under such privacy laws, may be interpreted as "selling."</data>
+</edge>
+<edge source="customer service" target="relate communication" id="e64">
+  <data key="d2">COLLECT</data>
+  <data key="d3">To provide customer service and support, or to provide you with service-related communications;
+To provide customer service and support, or to provide you with service-related communications;</data>
+</edge>
+<edge source="support" target="relate communication" id="e65">
+  <data key="d2">COLLECT</data>
+  <data key="d3">To provide customer service and support, or to provide you with service-related communications;
+To provide customer service and support, or to provide you with service-related communications;</data>
+</edge>
+<edge source="affiliate of corporate group" target="personal information" id="e66">
+  <data key="d2">COLLECT</data>
+  <data key="d3">We may share your personal information with our related group companies and, in some cases, other affiliates of our corporate group for business maintenance and personalization continuity purposes, for instance, so that you may enjoy a personalized user experience across our digital properties, to provide you with the Services, or to take actions based on your requests or preferences.
+We may share your personal information with our related group companies and, in some cases, other affiliates of our corporate group for business maintenance and personalization continuity purposes, for instance, so that you may enjoy a personalized user experience across our digital properties, to provide you with the Services, or to take actions based on your requests or preferences.</data>
+</edge>
+<edge source="co - branded partner" target="personal information" id="e67">
+  <data key="d2">COLLECT</data>
+  <data key="d3">We will share your personal information with our co-branded partners based on your voluntary use of or participation in a co-branded service or feature.
+We will share your personal information with our co-branded partners based on your voluntary use of or participation in a co-branded service or feature.</data>
+</edge>
+<edge source="corporate affiliate" target="personal information" id="e68">
+  <data key="d2">COLLECT</data>
+  <data key="d3">We may disclose personal information--including account information, Wallet balance or points information--to a buyer, prospective buyer, corporate affiliate, or other successors in the event of a merger, divestiture, restructuring, reorganization, dissolution, or sale or transfer of some or all of our assets, whether as a going concern or as part of bankruptcy, liquidation, or similar proceeding in which personal information held by us about our Services users is among the assets transferred.
+We may disclose personal information--including account information, Wallet balance or points information--to a buyer, prospective buyer, corporate affiliate, or other successors in the event of a merger, divestiture, restructuring, reorganization, dissolution, or sale or transfer of some or all of our assets, whether as a going concern or as part of bankruptcy, liquidation, or similar proceeding in which personal information held by us about our Services users is among the assets transferred.</data>
+</edge>
+<edge source="successor" target="personal information" id="e69">
+  <data key="d2">COLLECT</data>
+  <data key="d3">We may disclose personal information--including account information, Wallet balance or points information--to a buyer, prospective buyer, corporate affiliate, or other successors in the event of a merger, divestiture, restructuring, reorganization, dissolution, or sale or transfer of some or all of our assets, whether as a going concern or as part of bankruptcy, liquidation, or similar proceeding in which personal information held by us about our Services users is among the assets transferred.
+We may disclose personal information--including account information, Wallet balance or points information--to a buyer, prospective buyer, corporate affiliate, or other successors in the event of a merger, divestiture, restructuring, reorganization, dissolution, or sale or transfer of some or all of our assets, whether as a going concern or as part of bankruptcy, liquidation, or similar proceeding in which personal information held by us about our Services users is among the assets transferred.</data>
+</edge>
+<edge source="advertiser" target="cookie / pixel tag" id="e70">
+  <data key="d2">COLLECT</data>
+  <data key="d3">Our third-party advertising partners may use these cookies to build a profile of your interests and deliver relevant advertising on other sites.
+Our third-party advertising partners may use these cookies to build a profile of your interests and deliver relevant advertising on other sites.</data>
+</edge>
+<edge source="browser" target="cookie / pixel tag" id="e71">
+  <data key="d2">COLLECT</data>
+  <data key="d3">Your browser may provide you with the option to refuse some or all browser cookies.
+Your browser may provide you with the option to refuse some or all browser cookies.</data>
+</edge>
+<edge source="page of site" target="java script" id="e72">
+  <data key="d2">COLLECT</data>
+  <data key="d3">Pages of our Site may also use Java scripts, which are code snippets embedded in various parts of websites and applications that facilitate a variety of operations including accelerating the refresh speed of certain functionality or monitoring usage of various online components; entity tags, which are HTTP code mechanisms that allow portions of websites to be stored or "cached" within your browser to accelerate website performance; and HTML5 local storage, which allows data from websites to be stored or "cached" within your browser to store and retrieve data in HTML5 pages when the website is revisited.
+Pages of our Site may also use Java scripts, which are code snippets embedded in various parts of websites and applications that facilitate a variety of operations including accelerating the refresh speed of certain functionality or monitoring usage of various online components; entity tags, which are HTTP code mechanisms that allow portions of websites to be stored or "cached" within your browser to accelerate website performance; and HTML5 local storage, which allows data from websites to be stored or "cached" within your browser to store and retrieve data in HTML5 pages when the website is revisited.</data>
+</edge>
+<edge source="page of site" target="entity tag" id="e73">
+  <data key="d2">COLLECT</data>
+  <data key="d3">Pages of our Site may also use Java scripts, which are code snippets embedded in various parts of websites and applications that facilitate a variety of operations including accelerating the refresh speed of certain functionality or monitoring usage of various online components; entity tags, which are HTTP code mechanisms that allow portions of websites to be stored or "cached" within your browser to accelerate website performance; and HTML5 local storage, which allows data from websites to be stored or "cached" within your browser to store and retrieve data in HTML5 pages when the website is revisited.
+Pages of our Site may also use Java scripts, which are code snippets embedded in various parts of websites and applications that facilitate a variety of operations including accelerating the refresh speed of certain functionality or monitoring usage of various online components; entity tags, which are HTTP code mechanisms that allow portions of websites to be stored or "cached" within your browser to accelerate website performance; and HTML5 local storage, which allows data from websites to be stored or "cached" within your browser to store and retrieve data in HTML5 pages when the website is revisited.</data>
+</edge>
+<edge source="page of site" target="html5 local storage" id="e74">
+  <data key="d2">COLLECT</data>
+  <data key="d3">Pages of our Site may also use Java scripts, which are code snippets embedded in various parts of websites and applications that facilitate a variety of operations including accelerating the refresh speed of certain functionality or monitoring usage of various online components; entity tags, which are HTTP code mechanisms that allow portions of websites to be stored or "cached" within your browser to accelerate website performance; and HTML5 local storage, which allows data from websites to be stored or "cached" within your browser to store and retrieve data in HTML5 pages when the website is revisited.
+Pages of our Site may also use Java scripts, which are code snippets embedded in various parts of websites and applications that facilitate a variety of operations including accelerating the refresh speed of certain functionality or monitoring usage of various online components; entity tags, which are HTTP code mechanisms that allow portions of websites to be stored or "cached" within your browser to accelerate website performance; and HTML5 local storage, which allows data from websites to be stored or "cached" within your browser to store and retrieve data in HTML5 pages when the website is revisited.</data>
+</edge>
+</graph></graphml>

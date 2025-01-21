@@ -1,0 +1,367 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d3" for="edge" attr.name="text" attr.type="string"/>
+<key id="d2" for="edge" attr.name="relationship" attr.type="string"/>
+<key id="d1" for="node" attr.name="type" attr.type="string"/>
+<key id="d0" for="node" attr.name="label" attr.type="string"/>
+<graph edgedefault="directed"><node id="personal information">
+  <data key="d0">personal information</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="postal address">
+  <data key="d0">postal address</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="phone number">
+  <data key="d0">phone number</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="email address">
+  <data key="d0">email address</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="photo">
+  <data key="d0">photo</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="information about exist user">
+  <data key="d0">information about exist user</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="person name">
+  <data key="d0">person name</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="ip address">
+  <data key="d0">ip address</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="internet activity">
+  <data key="d0">internet activity</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="UNSPECIFIED_ACTOR">
+  <data key="d0">UNSPECIFIED_ACTOR</data>
+  <data key="d1">ACTOR</data>
+</node>
+<node id="cookie / pixel tag">
+  <data key="d0">cookie / pixel tag</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="we">
+  <data key="d0">we</data>
+  <data key="d1">ACTOR</data>
+</node>
+<node id="Alibaba">
+  <data key="d0">Alibaba</data>
+  <data key="d1">ACTOR</data>
+</node>
+<node id="UNSPECIFIED_DATA">
+  <data key="d0">UNSPECIFIED_DATA</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="contact information">
+  <data key="d0">contact information</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="aggregate / deidentified / pseudonymized information">
+  <data key="d0">aggregate / deidentified / pseudonymized information</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="chat information">
+  <data key="d0">chat information</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="device information">
+  <data key="d0">device information</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="beacon">
+  <data key="d0">beacon</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="authorized service provider">
+  <data key="d0">authorized service provider</data>
+  <data key="d1">ACTOR</data>
+</node>
+<node id="personal information for processing">
+  <data key="d0">personal information for processing</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="advertiser">
+  <data key="d0">advertiser</data>
+  <data key="d1">ACTOR</data>
+</node>
+<node id="analytic provider">
+  <data key="d0">analytic provider</data>
+  <data key="d1">ACTOR</data>
+</node>
+<node id="identifier">
+  <data key="d0">identifier</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="device identifier">
+  <data key="d0">device identifier</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="device datum">
+  <data key="d0">device datum</data>
+  <data key="d1">DATA</data>
+</node>
+<edge source="information about exist user" target="postal address" id="e0">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">From time to time, we may also collect information about the existing and prospective Users, during or in connection with trade shows, industry events and/or other functions, including representative contact names, addresses, phone numbers, fax numbers and email addresses.
+From time to time, we may also collect information about the existing and prospective Users, during or in connection with trade shows, industry events and/or other functions, including representative contact names, addresses, phone numbers, fax numbers and email addresses.</data>
+</edge>
+<edge source="information about exist user" target="phone number" id="e1">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">From time to time, we may also collect information about the existing and prospective Users, during or in connection with trade shows, industry events and/or other functions, including representative contact names, addresses, phone numbers, fax numbers and email addresses.
+From time to time, we may also collect information about the existing and prospective Users, during or in connection with trade shows, industry events and/or other functions, including representative contact names, addresses, phone numbers, fax numbers and email addresses.
+From time to time, we may also collect information about the existing and prospective Users, during or in connection with trade shows, industry events and/or other functions, including representative contact names, addresses, phone numbers, fax numbers and email addresses.</data>
+</edge>
+<edge source="information about exist user" target="email address" id="e2">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">From time to time, we may also collect information about the existing and prospective Users, during or in connection with trade shows, industry events and/or other functions, including representative contact names, addresses, phone numbers, fax numbers and email addresses.
+From time to time, we may also collect information about the existing and prospective Users, during or in connection with trade shows, industry events and/or other functions, including representative contact names, addresses, phone numbers, fax numbers and email addresses.</data>
+</edge>
+<edge source="information about exist user" target="person name" id="e3">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">From time to time, we may also collect information about the existing and prospective Users, during or in connection with trade shows, industry events and/or other functions, including representative contact names, addresses, phone numbers, fax numbers and email addresses.
+From time to time, we may also collect information about the existing and prospective Users, during or in connection with trade shows, industry events and/or other functions, including representative contact names, addresses, phone numbers, fax numbers and email addresses.</data>
+</edge>
+<edge source="UNSPECIFIED_ACTOR" target="aggregate / deidentified / pseudonymized information" id="e4">
+  <data key="d2">COLLECT</data>
+  <data key="d3">We may provide anonymized data to third parties, but when we do so, the information we share is in a de-identified format that does not personally identify you.
+We may provide anonymized data to third parties, but when we do so, the information we share is in a de-identified format that does not personally identify you.</data>
+</edge>
+<edge source="we" target="UNSPECIFIED_DATA" id="e5">
+  <data key="d2">COLLECT</data>
+  <data key="d3">1.INTRODUCTION
+
+") sets out how we collect, process and disclose information in connection with the operation of the Platform for visitors (i.e., non-registered Platform Users) and the Users based outside of China ("
+1.INTRODUCTION
+
+") sets out how we collect, process and disclose information in connection with the operation of the Platform for visitors (i.e., non-registered Platform Users) and the Users based outside of China ("
+We use your information to take and   handle orders, deliver products and services on the Platform, process   payment, provide logistics and warehousing services via the Platform,   facilitate customs clearance declarations/applications via the Platform and   provide Users with customer service support, such as responding to queries,   feedback, and managing claims and/or disputes
+We use your information to take and   handle orders, deliver products and services on the Platform, process   payment, provide logistics and warehousing services via the Platform,   facilitate customs clearance declarations/applications via the Platform and   provide Users with customer service support, such as responding to queries,   feedback, and managing claims and/or disputes
+If you are a Buyer, we will share details   of the last viewed products on the Platform to enable Sellers, their   respective affiliates and/or their third-party services provider to contact   you with details of products and/or services that might interest you.
+If you are a Buyer, we will share details   of the last viewed products on the Platform to enable Sellers, their   respective affiliates and/or their third-party services provider to contact   you with details of products and/or services that might interest you.
+For instance, we use your information to verify your identity and   conducting security checks, KYC (know-your-customer) and anti-money   laundering due diligence in order to set up user accounts
+For instance, we use your information to verify your identity and   conducting security checks, KYC (know-your-customer) and anti-money   laundering due diligence in order to set up user accounts
+We use your information to take and   handle orders, deliver products and services on the Platform, process   payment, provide logistics and warehousing services via the Platform,   facilitate customs clearance declarations/applications via the Platform and   provide Users with customer service support, such as responding to queries,   feedback, and managing claims and/or disputes
+We use your information to take and   handle orders, deliver products and services on the Platform, process   payment, provide logistics and warehousing services via the Platform,   facilitate customs clearance declarations/applications via the Platform and   provide Users with customer service support, such as responding to queries,   feedback, and managing claims and/or disputes
+If you are a Buyer, we will share details   of the last viewed products on the Platform to enable Sellers, their   respective affiliates and/or their third-party services provider to contact   you with details of products and/or services that might interest you.
+If you are a Buyer, we will share details   of the last viewed products on the Platform to enable Sellers, their   respective affiliates and/or their third-party services provider to contact   you with details of products and/or services that might interest you.
+For instance, we use your information to verify your identity and   conducting security checks, KYC (know-your-customer) and anti-money   laundering due diligence in order to set up user accounts
+For instance, we use your information to verify your identity and   conducting security checks, KYC (know-your-customer) and anti-money   laundering due diligence in order to set up user accounts</data>
+</edge>
+<edge source="we" target="photo" id="e6">
+  <data key="d2">COLLECT</data>
+  <data key="d3">When you use services that require   access to contents stored in and/or functions on your devices (including but   not limited to contacts in address book, photos, videos, microphone and/or   camera), we will use your photos, videos, contact information in your address   book, and other personal information to respond to your requests, provide the   requested services to you, and improve our services
+When you use services that require   access to contents stored in and/or functions on your devices (including but   not limited to contacts in address book, photos, videos, microphone and/or   camera), we will use your photos, videos, contact information in your address   book, and other personal information to respond to your requests, provide the   requested services to you, and improve our services
+When you use services that require   access to contents stored in and/or functions on your devices (including but   not limited to contacts in address book, photos, videos, microphone and/or   camera), we will use your photos, videos, contact information in your address   book, and other personal information to respond to your requests, provide the   requested services to you, and improve our services
+When you use services that require   access to contents stored in and/or functions on your devices (including but   not limited to contacts in address book, photos, videos, microphone and/or   camera), we will use your photos, videos, contact information in your address   book, and other personal information to respond to your requests, provide the   requested services to you, and improve our services</data>
+</edge>
+<edge source="we" target="postal address" id="e7">
+  <data key="d2">COLLECT</data>
+  <data key="d3">When you use services that require   access to contents stored in and/or functions on your devices (including but   not limited to contacts in address book, photos, videos, microphone and/or   camera), we will use your photos, videos, contact information in your address   book, and other personal information to respond to your requests, provide the   requested services to you, and improve our services
+When you use services that require   access to contents stored in and/or functions on your devices (including but   not limited to contacts in address book, photos, videos, microphone and/or   camera), we will use your photos, videos, contact information in your address   book, and other personal information to respond to your requests, provide the   requested services to you, and improve our services
+When you use services that require   access to contents stored in and/or functions on your devices (including but   not limited to contacts in address book, photos, videos, microphone and/or   camera), we will use your photos, videos, contact information in your address   book, and other personal information to respond to your requests, provide the   requested services to you, and improve our services
+When you use services that require   access to contents stored in and/or functions on your devices (including but   not limited to contacts in address book, photos, videos, microphone and/or   camera), we will use your photos, videos, contact information in your address   book, and other personal information to respond to your requests, provide the   requested services to you, and improve our services</data>
+</edge>
+<edge source="we" target="contact information" id="e8">
+  <data key="d2">COLLECT</data>
+  <data key="d3">When you use services that require   access to contents stored in and/or functions on your devices (including but   not limited to contacts in address book, photos, videos, microphone and/or   camera), we will use your photos, videos, contact information in your address   book, and other personal information to respond to your requests, provide the   requested services to you, and improve our services
+When you use services that require   access to contents stored in and/or functions on your devices (including but   not limited to contacts in address book, photos, videos, microphone and/or   camera), we will use your photos, videos, contact information in your address   book, and other personal information to respond to your requests, provide the   requested services to you, and improve our services
+When you use services that require   access to contents stored in and/or functions on your devices (including but   not limited to contacts in address book, photos, videos, microphone and/or   camera), we will use your photos, videos, contact information in your address   book, and other personal information to respond to your requests, provide the   requested services to you, and improve our services
+When you use services that require   access to contents stored in and/or functions on your devices (including but   not limited to contacts in address book, photos, videos, microphone and/or   camera), we will use your photos, videos, contact information in your address   book, and other personal information to respond to your requests, provide the   requested services to you, and improve our services</data>
+</edge>
+<edge source="we" target="personal information" id="e9">
+  <data key="d2">COLLECT</data>
+  <data key="d3">We   use your personal information to send and serve you tailored marketing and   advertising that we believe will be of interest to you based on the ways   in which you use the Platform, your browsing records, and order history.
+We   use your personal information to send and serve you tailored marketing and   advertising that we believe will be of interest to you based on the ways   in which you use the Platform, your browsing records, and order history.
+In   certain cases, we collect and use your personal information to comply with   laws.
+In   certain cases, we collect and use your personal information to comply with   laws.
+2.DETAILS OF DATA PROCESSING
+
+, we may receive personal information about you from third parties that work with us to conduct reviews into our services and/or rate us.
+2.DETAILS OF DATA PROCESSING
+
+, we may receive personal information about you from third parties that work with us to conduct reviews into our services and/or rate us.
+3.DISCLOSURE OR SHARING OF PERSONAL INFORMATION
+
+We may disclose (or provide access to) personal information to the following categories of recipients:
+3.DISCLOSURE OR SHARING OF PERSONAL INFORMATION
+
+We may disclose (or provide access to) personal information to the following categories of recipients:
+3.DISCLOSURE OR SHARING OF PERSONAL INFORMATION
+
+where it is necessary to comply with applicable laws or to exercise, establish or defend our legal rights or protect your vital interests or those of any other person, we may also disclose and transfer your personal information or as otherwise required or permitted by applicable laws.
+3.DISCLOSURE OR SHARING OF PERSONAL INFORMATION
+
+where it is necessary to comply with applicable laws or to exercise, establish or defend our legal rights or protect your vital interests or those of any other person, we may also disclose and transfer your personal information or as otherwise required or permitted by applicable laws.
+4.RETENTION
+
+We retain your personal information as long as we have an ongoing legitimate business need to do so, for example to provide services or products to you, or as required or permitted by applicable laws, such as tax and accounting laws.
+4.RETENTION
+
+We retain your personal information as long as we have an ongoing legitimate business need to do so, for example to provide services or products to you, or as required or permitted by applicable laws, such as tax and accounting laws.
+When you use services that require   access to contents stored in and/or functions on your devices (including but   not limited to contacts in address book, photos, videos, microphone and/or   camera), we will use your photos, videos, contact information in your address   book, and other personal information to respond to your requests, provide the   requested services to you, and improve our services
+When you use services that require   access to contents stored in and/or functions on your devices (including but   not limited to contacts in address book, photos, videos, microphone and/or   camera), we will use your photos, videos, contact information in your address   book, and other personal information to respond to your requests, provide the   requested services to you, and improve our services
+We   use your personal information to send and serve you tailored marketing and   advertising that we believe will be of interest to you based on the ways   in which you use the Platform, your browsing records, and order history.
+We   use your personal information to send and serve you tailored marketing and   advertising that we believe will be of interest to you based on the ways   in which you use the Platform, your browsing records, and order history.
+We   use your personal information to perform research or statistical analysis in   order to improve the content and layout of the Platform, and use your   personal information to improve the product offerings and services on   Alibaba.com, including, for example, using anonymized data for
+We   use your personal information to perform research or statistical analysis in   order to improve the content and layout of the Platform, and use your   personal information to improve the product offerings and services on   Alibaba.com, including, for example, using anonymized data for
+In   certain cases, we collect and use your personal information to comply with   laws.
+In   certain cases, we collect and use your personal information to comply with   laws.
+We will store the personal information we collect from you through the Platform in the United States, Germany, Singapore or China, depending on the country in which you reside.
+We will store the personal information we collect from you through the Platform in the United States, Germany, Singapore or China, depending on the country in which you reside.</data>
+</edge>
+<edge source="we" target="information about exist user" id="e10">
+  <data key="d2">COLLECT</data>
+  <data key="d3">From time to time, we may also collect information about the existing and prospective Users, during or in connection with trade shows, industry events and/or other functions, including representative contact names, addresses, phone numbers, fax numbers and email addresses.
+From time to time, we may also collect information about the existing and prospective Users, during or in connection with trade shows, industry events and/or other functions, including representative contact names, addresses, phone numbers, fax numbers and email addresses.</data>
+</edge>
+<edge source="we" target="aggregate / deidentified / pseudonymized information" id="e11">
+  <data key="d2">COLLECT</data>
+  <data key="d3">We may provide anonymized data to third parties, but when we do so, the information we share is in a de-identified format that does not personally identify you.
+We may provide anonymized data to third parties, but when we do so, the information we share is in a de-identified format that does not personally identify you.</data>
+</edge>
+<edge source="we" target="chat information" id="e12">
+  <data key="d2">COLLECT</data>
+  <data key="d3">We will use your chat information based on security, risk control and other compliance requirements based on our platform policies and rules, legal and regulatory requirements, response to requests from regulatory authorities, provision of services (including but not limited to transactions processing and dispute settlement between the Buyers and Sellers, Users complaints handling) and other analytical and service needs.
+We will use your chat information based on security, risk control and other compliance requirements based on our platform policies and rules, legal and regulatory requirements, response to requests from regulatory authorities, provision of services (including but not limited to transactions processing and dispute settlement between the Buyers and Sellers, Users complaints handling) and other analytical and service needs.</data>
+</edge>
+<edge source="we" target="cookie / pixel tag" id="e13">
+  <data key="d2">COLLECT</data>
+  <data key="d3">5.COOKIES 
+
+To enable our systems to recognize your browser or device and to provide and improve our services, we or our authorized service providers may use cookies, beacons and/or other similar technologies (collectively, "
+5.COOKIES 
+
+To enable our systems to recognize your browser or device and to provide and improve our services, we or our authorized service providers may use cookies, beacons and/or other similar technologies (collectively, "</data>
+</edge>
+<edge source="we" target="beacon" id="e14">
+  <data key="d2">COLLECT</data>
+  <data key="d3">5.COOKIES 
+
+To enable our systems to recognize your browser or device and to provide and improve our services, we or our authorized service providers may use cookies, beacons and/or other similar technologies (collectively, "
+5.COOKIES 
+
+To enable our systems to recognize your browser or device and to provide and improve our services, we or our authorized service providers may use cookies, beacons and/or other similar technologies (collectively, "</data>
+</edge>
+<edge source="we" target="personal information for processing" id="e15">
+  <data key="d2">COLLECT</data>
+  <data key="d3">In some instances, you may be required to provide us with personal information for processing as described above, in order for us to be able to provide you all of our services, and for you to use all the features of our Platform.
+In some instances, you may be required to provide us with personal information for processing as described above, in order for us to be able to provide you all of our services, and for you to use all the features of our Platform.
+In some instances, you may be required to provide us with personal information for processing as described above, in order for us to be able to provide you all of our services, and for you to use all the features of our Platform.
+In some instances, you may be required to provide us with personal information for processing as described above, in order for us to be able to provide you all of our services, and for you to use all the features of our Platform.</data>
+</edge>
+<edge source="Alibaba" target="chat information" id="e16">
+  <data key="d2">COLLECT</data>
+  <data key="d3">DingTalk will collect your chat information and device information and
+DingTalk will collect your chat information and device information and</data>
+</edge>
+<edge source="Alibaba" target="device information" id="e17">
+  <data key="d2">COLLECT</data>
+  <data key="d3">DingTalk will collect your chat information and device information and
+DingTalk will collect your chat information and device information and</data>
+</edge>
+<edge source="authorized service provider" target="cookie / pixel tag" id="e18">
+  <data key="d2">COLLECT</data>
+  <data key="d3">5.COOKIES 
+
+To enable our systems to recognize your browser or device and to provide and improve our services, we or our authorized service providers may use cookies, beacons and/or other similar technologies (collectively, "
+5.COOKIES 
+
+To enable our systems to recognize your browser or device and to provide and improve our services, we or our authorized service providers may use cookies, beacons and/or other similar technologies (collectively, "</data>
+</edge>
+<edge source="authorized service provider" target="beacon" id="e19">
+  <data key="d2">COLLECT</data>
+  <data key="d3">5.COOKIES 
+
+To enable our systems to recognize your browser or device and to provide and improve our services, we or our authorized service providers may use cookies, beacons and/or other similar technologies (collectively, "
+5.COOKIES 
+
+To enable our systems to recognize your browser or device and to provide and improve our services, we or our authorized service providers may use cookies, beacons and/or other similar technologies (collectively, "</data>
+</edge>
+<edge source="advertiser" target="UNSPECIFIED_DATA" id="e20">
+  <data key="d2">COLLECT</data>
+  <data key="d3">8.USERS FROM THE UNITED STATES
+
+including by allowing third parties that provide us analytics and advertising services to collect information through Cookies and other similar technologies.
+8.USERS FROM THE UNITED STATES
+
+including by allowing third parties that provide us analytics and advertising services to collect information through Cookies and other similar technologies.</data>
+</edge>
+<edge source="advertiser" target="identifier" id="e21">
+  <data key="d2">COLLECT</data>
+  <data key="d3">In particular, we let advertising and analytics providers collect identifiers (IP addresses, cookie IDs, and mobile IDs), activity data (browsing, clicks, app usage), and device data through our sites and apps when you use our online services, but do not "sell" or "share" any other types of personal information.
+In particular, we let advertising and analytics providers collect identifiers (IP addresses, cookie IDs, and mobile IDs), activity data (browsing, clicks, app usage), and device data through our sites and apps when you use our online services, but do not "sell" or "share" any other types of personal information.</data>
+</edge>
+<edge source="advertiser" target="ip address" id="e22">
+  <data key="d2">COLLECT</data>
+  <data key="d3">In particular, we let advertising and analytics providers collect identifiers (IP addresses, cookie IDs, and mobile IDs), activity data (browsing, clicks, app usage), and device data through our sites and apps when you use our online services, but do not "sell" or "share" any other types of personal information.
+In particular, we let advertising and analytics providers collect identifiers (IP addresses, cookie IDs, and mobile IDs), activity data (browsing, clicks, app usage), and device data through our sites and apps when you use our online services, but do not "sell" or "share" any other types of personal information.</data>
+</edge>
+<edge source="advertiser" target="cookie / pixel tag" id="e23">
+  <data key="d2">COLLECT</data>
+  <data key="d3">In particular, we let advertising and analytics providers collect identifiers (IP addresses, cookie IDs, and mobile IDs), activity data (browsing, clicks, app usage), and device data through our sites and apps when you use our online services, but do not "sell" or "share" any other types of personal information.
+In particular, we let advertising and analytics providers collect identifiers (IP addresses, cookie IDs, and mobile IDs), activity data (browsing, clicks, app usage), and device data through our sites and apps when you use our online services, but do not "sell" or "share" any other types of personal information.</data>
+</edge>
+<edge source="advertiser" target="device identifier" id="e24">
+  <data key="d2">COLLECT</data>
+  <data key="d3">In particular, we let advertising and analytics providers collect identifiers (IP addresses, cookie IDs, and mobile IDs), activity data (browsing, clicks, app usage), and device data through our sites and apps when you use our online services, but do not "sell" or "share" any other types of personal information.
+In particular, we let advertising and analytics providers collect identifiers (IP addresses, cookie IDs, and mobile IDs), activity data (browsing, clicks, app usage), and device data through our sites and apps when you use our online services, but do not "sell" or "share" any other types of personal information.</data>
+</edge>
+<edge source="advertiser" target="internet activity" id="e25">
+  <data key="d2">COLLECT</data>
+  <data key="d3">In particular, we let advertising and analytics providers collect identifiers (IP addresses, cookie IDs, and mobile IDs), activity data (browsing, clicks, app usage), and device data through our sites and apps when you use our online services, but do not "sell" or "share" any other types of personal information.
+In particular, we let advertising and analytics providers collect identifiers (IP addresses, cookie IDs, and mobile IDs), activity data (browsing, clicks, app usage), and device data through our sites and apps when you use our online services, but do not "sell" or "share" any other types of personal information.
+In particular, we let advertising and analytics providers collect identifiers (IP addresses, cookie IDs, and mobile IDs), activity data (browsing, clicks, app usage), and device data through our sites and apps when you use our online services, but do not "sell" or "share" any other types of personal information.</data>
+</edge>
+<edge source="advertiser" target="device datum" id="e26">
+  <data key="d2">COLLECT</data>
+  <data key="d3">In particular, we let advertising and analytics providers collect identifiers (IP addresses, cookie IDs, and mobile IDs), activity data (browsing, clicks, app usage), and device data through our sites and apps when you use our online services, but do not "sell" or "share" any other types of personal information.
+In particular, we let advertising and analytics providers collect identifiers (IP addresses, cookie IDs, and mobile IDs), activity data (browsing, clicks, app usage), and device data through our sites and apps when you use our online services, but do not "sell" or "share" any other types of personal information.</data>
+</edge>
+<edge source="analytic provider" target="UNSPECIFIED_DATA" id="e27">
+  <data key="d2">COLLECT</data>
+  <data key="d3">8.USERS FROM THE UNITED STATES
+
+including by allowing third parties that provide us analytics and advertising services to collect information through Cookies and other similar technologies.
+8.USERS FROM THE UNITED STATES
+
+including by allowing third parties that provide us analytics and advertising services to collect information through Cookies and other similar technologies.</data>
+</edge>
+<edge source="analytic provider" target="identifier" id="e28">
+  <data key="d2">COLLECT</data>
+  <data key="d3">In particular, we let advertising and analytics providers collect identifiers (IP addresses, cookie IDs, and mobile IDs), activity data (browsing, clicks, app usage), and device data through our sites and apps when you use our online services, but do not "sell" or "share" any other types of personal information.
+In particular, we let advertising and analytics providers collect identifiers (IP addresses, cookie IDs, and mobile IDs), activity data (browsing, clicks, app usage), and device data through our sites and apps when you use our online services, but do not "sell" or "share" any other types of personal information.</data>
+</edge>
+<edge source="analytic provider" target="ip address" id="e29">
+  <data key="d2">COLLECT</data>
+  <data key="d3">In particular, we let advertising and analytics providers collect identifiers (IP addresses, cookie IDs, and mobile IDs), activity data (browsing, clicks, app usage), and device data through our sites and apps when you use our online services, but do not "sell" or "share" any other types of personal information.
+In particular, we let advertising and analytics providers collect identifiers (IP addresses, cookie IDs, and mobile IDs), activity data (browsing, clicks, app usage), and device data through our sites and apps when you use our online services, but do not "sell" or "share" any other types of personal information.</data>
+</edge>
+<edge source="analytic provider" target="cookie / pixel tag" id="e30">
+  <data key="d2">COLLECT</data>
+  <data key="d3">In particular, we let advertising and analytics providers collect identifiers (IP addresses, cookie IDs, and mobile IDs), activity data (browsing, clicks, app usage), and device data through our sites and apps when you use our online services, but do not "sell" or "share" any other types of personal information.
+In particular, we let advertising and analytics providers collect identifiers (IP addresses, cookie IDs, and mobile IDs), activity data (browsing, clicks, app usage), and device data through our sites and apps when you use our online services, but do not "sell" or "share" any other types of personal information.</data>
+</edge>
+<edge source="analytic provider" target="device identifier" id="e31">
+  <data key="d2">COLLECT</data>
+  <data key="d3">In particular, we let advertising and analytics providers collect identifiers (IP addresses, cookie IDs, and mobile IDs), activity data (browsing, clicks, app usage), and device data through our sites and apps when you use our online services, but do not "sell" or "share" any other types of personal information.
+In particular, we let advertising and analytics providers collect identifiers (IP addresses, cookie IDs, and mobile IDs), activity data (browsing, clicks, app usage), and device data through our sites and apps when you use our online services, but do not "sell" or "share" any other types of personal information.</data>
+</edge>
+<edge source="analytic provider" target="internet activity" id="e32">
+  <data key="d2">COLLECT</data>
+  <data key="d3">In particular, we let advertising and analytics providers collect identifiers (IP addresses, cookie IDs, and mobile IDs), activity data (browsing, clicks, app usage), and device data through our sites and apps when you use our online services, but do not "sell" or "share" any other types of personal information.
+In particular, we let advertising and analytics providers collect identifiers (IP addresses, cookie IDs, and mobile IDs), activity data (browsing, clicks, app usage), and device data through our sites and apps when you use our online services, but do not "sell" or "share" any other types of personal information.
+In particular, we let advertising and analytics providers collect identifiers (IP addresses, cookie IDs, and mobile IDs), activity data (browsing, clicks, app usage), and device data through our sites and apps when you use our online services, but do not "sell" or "share" any other types of personal information.</data>
+</edge>
+<edge source="analytic provider" target="device datum" id="e33">
+  <data key="d2">COLLECT</data>
+  <data key="d3">In particular, we let advertising and analytics providers collect identifiers (IP addresses, cookie IDs, and mobile IDs), activity data (browsing, clicks, app usage), and device data through our sites and apps when you use our online services, but do not "sell" or "share" any other types of personal information.
+In particular, we let advertising and analytics providers collect identifiers (IP addresses, cookie IDs, and mobile IDs), activity data (browsing, clicks, app usage), and device data through our sites and apps when you use our online services, but do not "sell" or "share" any other types of personal information.</data>
+</edge>
+</graph></graphml>

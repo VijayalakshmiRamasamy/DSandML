@@ -1,0 +1,762 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d3" for="edge" attr.name="text" attr.type="string"/>
+<key id="d2" for="edge" attr.name="relationship" attr.type="string"/>
+<key id="d1" for="node" attr.name="type" attr.type="string"/>
+<key id="d0" for="node" attr.name="label" attr.type="string"/>
+<graph edgedefault="directed"><node id="we">
+  <data key="d0">we</data>
+  <data key="d1">ACTOR</data>
+</node>
+<node id="personal information">
+  <data key="d0">personal information</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="information relate to creation of account">
+  <data key="d0">information relate to creation of account</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="email address">
+  <data key="d0">email address</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="phone number">
+  <data key="d0">phone number</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="unique individual password">
+  <data key="d0">unique individual password</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="person name">
+  <data key="d0">person name</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="contact information">
+  <data key="d0">contact information</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="UNSPECIFIED_DATA">
+  <data key="d0">UNSPECIFIED_DATA</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="log datum">
+  <data key="d0">log datum</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="web request">
+  <data key="d0">web request</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="ip address">
+  <data key="d0">ip address</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="browser type">
+  <data key="d0">browser type</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="domain name">
+  <data key="d0">domain name</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="url">
+  <data key="d0">url</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="date">
+  <data key="d0">date</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="diagnostic datum">
+  <data key="d0">diagnostic datum</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="payment process company">
+  <data key="d0">payment process company</data>
+  <data key="d1">ACTOR</data>
+</node>
+<node id="courier service">
+  <data key="d0">courier service</data>
+  <data key="d1">ACTOR</data>
+</node>
+<node id="asset">
+  <data key="d0">asset</data>
+  <data key="d1">ACTOR</data>
+</node>
+<node id="device identifier">
+  <data key="d0">device identifier</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="advertising id">
+  <data key="d0">advertising id</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="relevant information base on relationship with we">
+  <data key="d0">relevant information base on relationship with we</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="UNSPECIFIED_ACTOR">
+  <data key="d0">UNSPECIFIED_ACTOR</data>
+  <data key="d1">ACTOR</data>
+</node>
+<node id="height">
+  <data key="d0">height</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="preference">
+  <data key="d0">preference</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="weight">
+  <data key="d0">weight</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="measurement">
+  <data key="d0">measurement</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="measurement fitting information">
+  <data key="d0">measurement fitting information</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="information about information collection practice of specific promotion">
+  <data key="d0">information about information collection practice of specific promotion</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="record">
+  <data key="d0">record</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="internet activity">
+  <data key="d0">internet activity</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="sensitive personal information">
+  <data key="d0">sensitive personal information</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="id number">
+  <data key="d0">id number</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="choice">
+  <data key="d0">choice</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="information about personal information handling practice of specific part of service">
+  <data key="d0">information about personal information handling practice of specific part of service</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="halara">
+  <data key="d0">halara</data>
+  <data key="d1">ACTOR</data>
+</node>
+<node id="passport information">
+  <data key="d0">passport information</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="social media handle">
+  <data key="d0">social media handle</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="information you choose">
+  <data key="d0">information you choose</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="social medium handle">
+  <data key="d0">social medium handle</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="region">
+  <data key="d0">region</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="school attend">
+  <data key="d0">school attend</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="username">
+  <data key="d0">username</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="country">
+  <data key="d0">country</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="company website">
+  <data key="d0">company website</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="company address">
+  <data key="d0">company address</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="time zone">
+  <data key="d0">time zone</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="analytic datum">
+  <data key="d0">analytic datum</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="information about you">
+  <data key="d0">information about you</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="information you provide to we">
+  <data key="d0">information you provide to we</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="electronic address">
+  <data key="d0">electronic address</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="information regard account">
+  <data key="d0">information regard account</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="advertiser">
+  <data key="d0">advertiser</data>
+  <data key="d1">ACTOR</data>
+</node>
+<node id="co - branded partner">
+  <data key="d0">co - branded partner</data>
+  <data key="d1">ACTOR</data>
+</node>
+<node id="service provider">
+  <data key="d0">service provider</data>
+  <data key="d1">ACTOR</data>
+</node>
+<node id="advisor">
+  <data key="d0">advisor</data>
+  <data key="d1">ACTOR</data>
+</node>
+<node id="potential transactional partner">
+  <data key="d0">potential transactional partner</data>
+  <data key="d1">ACTOR</data>
+</node>
+<node id="customer service correspondence">
+  <data key="d0">customer service correspondence</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="correspondence from halara to you">
+  <data key="d0">correspondence from halara to you</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="verification process">
+  <data key="d0">verification process</data>
+  <data key="d1">ACTOR</data>
+</node>
+<node id="cookie / pixel tag">
+  <data key="d0">cookie / pixel tag</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="pixel">
+  <data key="d0">pixel</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="opt preference signal">
+  <data key="d0">opt preference signal</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="information relate to privacy practice">
+  <data key="d0">information relate to privacy practice</data>
+  <data key="d1">DATA</data>
+</node>
+<node id="age">
+  <data key="d0">age</data>
+  <data key="d1">DATA</data>
+</node>
+<edge source="we" target="asset" id="e0">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">We may disclose and transfer information about you to buyers, service providers, advisors, potential transactional partners or other third parties in connection with the advisors, potential transactional partners or other third parties of a corporate transaction in which we are acquired by or merged with another company, or we sell, liquidate, or transfer all or a portion of our business or assets.
+We may disclose and transfer information about you to buyers, service providers, advisors, potential transactional partners or other third parties in connection with the advisors, potential transactional partners or other third parties of a corporate transaction in which we are acquired by or merged with another company, or we sell, liquidate, or transfer all or a portion of our business or assets.</data>
+</edge>
+<edge source="we" target="UNSPECIFIED_DATA" id="e1">
+  <data key="d2">COLLECT</data>
+  <data key="d3">This Privacy Policy ("Policy") explains how we collect, use, share and process your information as well as the rights and choices you have associated with that information.
+This Privacy Policy ("Policy") explains how we collect, use, share and process your information as well as the rights and choices you have associated with that information.
+To the extent permitted under the applicable law, we may collect certain types of information automatically, such as whenever you interact with the Sites or use the Services.
+To the extent permitted under the applicable law, we may collect certain types of information automatically, such as whenever you interact with the Sites or use the Services.
+We may collect the following types of information automatically from you:
+We may collect the following types of information automatically from you:
+We may process your information to personalize your experience.
+We may process your information to personalize your experience.</data>
+</edge>
+<edge source="we" target="choice" id="e2">
+  <data key="d2">COLLECT</data>
+  <data key="d3">This Privacy Policy ("Policy") explains how we collect, use, share and process your information as well as the rights and choices you have associated with that information.
+This Privacy Policy ("Policy") explains how we collect, use, share and process your information as well as the rights and choices you have associated with that information.</data>
+</edge>
+<edge source="we" target="information about personal information handling practice of specific part of service" id="e3">
+  <data key="d2">COLLECT</data>
+  <data key="d3">In addition, we may provide you with real time disclosures or additional information about the personal information handling practices of specific parts of our Services.
+In addition, we may provide you with real time disclosures or additional information about the personal information handling practices of specific parts of our Services.</data>
+</edge>
+<edge source="we" target="information relate to creation of account" id="e4">
+  <data key="d2">COLLECT</data>
+  <data key="d3">We may collect information relating to the creation of an account when using our Services, such as, email address, phone number, and/or a unique individual password.
+We may collect information relating to the creation of an account when using our Services, such as, email address, phone number, and/or a unique individual password.</data>
+</edge>
+<edge source="we" target="personal information" id="e5">
+  <data key="d2">COLLECT</data>
+  <data key="d3">If you use a third-party service (e.g., Apple, Facebook, Tiktok) to create an account, we may receive personal information that you allow such third-party service to share with us, such as your name and email address.
+If you use a third-party service (e.g., Apple, Facebook, Tiktok) to create an account, we may receive personal information that you allow such third-party service to share with us, such as your name and email address.
+We may collect your personal information when you place an order on our Sites or in our App, including, for example, your first and last name, mailing address, postal code, email address, phone number, payment account or credit card information.
+We may collect your personal information when you place an order on our Sites or in our App, including, for example, your first and last name, mailing address, postal code, email address, phone number, payment account or credit card information.
+If you choose to participate in a Promotion, we will collect and store the personal information you provide in connection with your participation in the Promotion, including, but not limited to, your name, email address, date of birth, and/or phone number.
+If you choose to participate in a Promotion, we will collect and store the personal information you provide in connection with your participation in the Promotion, including, but not limited to, your name, email address, date of birth, and/or phone number.
+We use your personal information as described in this Policy for business and commercial purposes, or as disclosed to you prior to such processing taking place.
+We use your personal information as described in this Policy for business and commercial purposes, or as disclosed to you prior to such processing taking place.
+We may process your personal information:
+We may process your personal information:
+We will use your personal information to provide information or perform Services that you request, including managing your request as a registered user of our Site.
+We will use your personal information to provide information or perform Services that you request, including managing your request as a registered user of our Site.
+For example, we process your personal information to pay our taxes, to fulfill our business obligations, ensure compliance with employment and recruitment laws or as necessary to manage risk as required under applicable law.
+For example, we process your personal information to pay our taxes, to fulfill our business obligations, ensure compliance with employment and recruitment laws or as necessary to manage risk as required under applicable law.
+To ensure you comply with them, we process your personal information by actively monitoring, investigating, preventing and mitigating any alleged or actual prohibited, illicit or illegal activities on our Services.
+To ensure you comply with them, we process your personal information by actively monitoring, investigating, preventing and mitigating any alleged or actual prohibited, illicit or illegal activities on our Services.
+Subject to the applicable law, we may also process your personal information to investigate, prevent or mitigate violations of our internal terms, agreements or policies and enforce our agreements with third parties and business partners.
+Subject to the applicable law, we may also process your personal information to investigate, prevent or mitigate violations of our internal terms, agreements or policies and enforce our agreements with third parties and business partners.
+We may process your personal information to help monitor, prevent, and detect fraud and abusive use of our Service, monitor and verify your identity so that unauthorized users do not gain access to your information, enhance system security, and combat spam, malware, malicious activities or other security risks that might result in financial loss.
+We may process your personal information to help monitor, prevent, and detect fraud and abusive use of our Service, monitor and verify your identity so that unauthorized users do not gain access to your information, enhance system security, and combat spam, malware, malicious activities or other security risks that might result in financial loss.
+We may process your personal information and derive analytical and statistical data to better understand the way you use and interact with our Services.
+We may process your personal information and derive analytical and statistical data to better understand the way you use and interact with our Services.
+We share your personal information as needed to fulfill the purposes described in this Policy and as permitted by applicable law.
+We share your personal information as needed to fulfill the purposes described in this Policy and as permitted by applicable law.
+We may disclose your personal information as described below.
+We may disclose your personal information as described below.
+We may share your personal information within our organization to provide you with the Services and take actions based on your request.
+We may share your personal information within our organization to provide you with the Services and take actions based on your request.
+We may share your personal information with third-party service providers acting on our behalf to help us operate our Services.
+We may share your personal information with third-party service providers acting on our behalf to help us operate our Services.
+In certain circumstances, and subject to the applicable law, we may share your personal information with third-party advertisers.
+In certain circumstances, and subject to the applicable law, we may share your personal information with third-party advertisers.
+We will share your personal information with our co-branded partners based on your voluntary use of or participation in a co-branded service or feature.
+We will share your personal information with our co-branded partners based on your voluntary use of or participation in a co-branded service or feature.
+We may disclose your personal information for any purpose with your consent.
+We may disclose your personal information for any purpose with your consent.
+How Long We Keep Your Personal Information
+How Long We Keep Your Personal Information
+We will retain your personal information only for as long as is necessary for the purposes set out in this Policy.
+We will retain your personal information only for as long as is necessary for the purposes set out in this Policy.
+We will retain and use your personal information to the extent necessary to comply with our legal obligations (for example, if we are required to retain your data to comply with applicable laws), resolve disputes and enforce our legal agreements and policies.
+We will retain and use your personal information to the extent necessary to comply with our legal obligations (for example, if we are required to retain your data to comply with applicable laws), resolve disputes and enforce our legal agreements and policies.
+However, we may continue to process your personal information if it is necessary for the defense of legal claims, or for any other exceptions permitted by applicable law.
+However, we may continue to process your personal information if it is necessary for the defense of legal claims, or for any other exceptions permitted by applicable law.
+We generally do not sell your personal information for profit, but like many businesses, we use cookies, pixels, and similar technology on our Sites, and we share certain personal information, such as your IP address or device identifiers, to third-party advertisers in order to improve your user experience and to optimize our marketing activities.
+We generally do not sell your personal information for profit, but like many businesses, we use cookies, pixels, and similar technology on our Sites, and we share certain personal information, such as your IP address or device identifiers, to third-party advertisers in order to improve your user experience and to optimize our marketing activities.
+We collect your personal information for the business purposes described in Section 3.
+We collect your personal information for the business purposes described in Section 3.</data>
+</edge>
+<edge source="we" target="passport information" id="e6">
+  <data key="d2">COLLECT</data>
+  <data key="d3">In some regions, we may need your passport information and tax number for customer clearance.
+In some regions, we may need your passport information and tax number for customer clearance.</data>
+</edge>
+<edge source="we" target="record" id="e7">
+  <data key="d2">COLLECT</data>
+  <data key="d3">When you engage with our supports team, we may collect records, copies of your correspondence (including email addresses), social media handles, or additional information you choose to share with us.
+When you engage with our supports team, we may collect records, copies of your correspondence (including email addresses), social media handles, or additional information you choose to share with us.
+We retain these records to measure and improve our customer service and to investigate potential fraud and violations.
+We retain these records to measure and improve our customer service and to investigate potential fraud and violations.</data>
+</edge>
+<edge source="we" target="social media handle" id="e8">
+  <data key="d2">COLLECT</data>
+  <data key="d3">When you engage with our supports team, we may collect records, copies of your correspondence (including email addresses), social media handles, or additional information you choose to share with us.
+When you engage with our supports team, we may collect records, copies of your correspondence (including email addresses), social media handles, or additional information you choose to share with us.</data>
+</edge>
+<edge source="we" target="information you choose" id="e9">
+  <data key="d2">COLLECT</data>
+  <data key="d3">When you engage with our supports team, we may collect records, copies of your correspondence (including email addresses), social media handles, or additional information you choose to share with us.
+When you engage with our supports team, we may collect records, copies of your correspondence (including email addresses), social media handles, or additional information you choose to share with us.</data>
+</edge>
+<edge source="we" target="email address" id="e10">
+  <data key="d2">COLLECT</data>
+  <data key="d3">When you engage with our supports team, we may collect records, copies of your correspondence (including email addresses), social media handles, or additional information you choose to share with us.
+When you engage with our supports team, we may collect records, copies of your correspondence (including email addresses), social media handles, or additional information you choose to share with us.
+If you apply to become our brand ambassador, we may collect your name, email address, phone number, social media handles, region and school attended in order to process your application.
+If you apply to become our brand ambassador, we may collect your name, email address, phone number, social media handles, region and school attended in order to process your application.
+We may collect your email address, phone number or other electronic addresses that you voluntarily provide to us when you choose to participate in our promoting activities or subscribe for marketing communications.
+We may collect your email address, phone number or other electronic addresses that you voluntarily provide to us when you choose to participate in our promoting activities or subscribe for marketing communications.
+If you send us correspondence, including emails, we retain such information electronically in the records of your account.
+If you send us correspondence, including emails, we retain such information electronically in the records of your account.</data>
+</edge>
+<edge source="we" target="height" id="e11">
+  <data key="d2">COLLECT</data>
+  <data key="d3">You may voluntarily provide us your height, age, weight and measurements and your preference.
+You may voluntarily provide us your height, age, weight and measurements and your preference.
+This information is used by us to recommend clothing sizes, and to provide fit prediction services for you.</data>
+</edge>
+<edge source="we" target="age" id="e12">
+  <data key="d2">COLLECT</data>
+  <data key="d3">You may voluntarily provide us your height, age, weight and measurements and your preference.
+You may voluntarily provide us your height, age, weight and measurements and your preference.
+This information is used by us to recommend clothing sizes, and to provide fit prediction services for you.</data>
+</edge>
+<edge source="we" target="preference" id="e13">
+  <data key="d2">COLLECT</data>
+  <data key="d3">You may voluntarily provide us your height, age, weight and measurements and your preference.
+You may voluntarily provide us your height, age, weight and measurements and your preference.
+This information is used by us to recommend clothing sizes, and to provide fit prediction services for you.</data>
+</edge>
+<edge source="we" target="weight" id="e14">
+  <data key="d2">COLLECT</data>
+  <data key="d3">You may voluntarily provide us your height, age, weight and measurements and your preference.
+You may voluntarily provide us your height, age, weight and measurements and your preference.
+This information is used by us to recommend clothing sizes, and to provide fit prediction services for you.</data>
+</edge>
+<edge source="we" target="measurement" id="e15">
+  <data key="d2">COLLECT</data>
+  <data key="d3">You may voluntarily provide us your height, age, weight and measurements and your preference.
+You may voluntarily provide us your height, age, weight and measurements and your preference.
+This information is used by us to recommend clothing sizes, and to provide fit prediction services for you.</data>
+</edge>
+<edge source="we" target="information about information collection practice of specific promotion" id="e16">
+  <data key="d2">COLLECT</data>
+  <data key="d3">We may provide "just-in-time" disclosure or additional information about our information collection, use and sharing practices of specific Promotions.
+We may provide "just-in-time" disclosure or additional information about our information collection, use and sharing practices of specific Promotions.
+We use this information to administer the Promotion, such as by notifying winners and distributing prizes, and for Halara and our Promotion sponsors' marketing purposes as permitted by applicable law.</data>
+</edge>
+<edge source="we" target="person name" id="e17">
+  <data key="d2">COLLECT</data>
+  <data key="d3">If you apply to become our brand ambassador, we may collect your name, email address, phone number, social media handles, region and school attended in order to process your application.
+If you apply to become our brand ambassador, we may collect your name, email address, phone number, social media handles, region and school attended in order to process your application.
+If you apply to join one of our affiliate programs to earn commission, we may collect your full name, username, country or region, company website, company address, time zone.
+If you apply to join one of our affiliate programs to earn commission, we may collect your full name, username, country or region, company website, company address, time zone.
+We may conduct the verification process by email or phone, and we may ask you to provide information such as your name, contact information, and any additional relevant information based on your relationship with us.
+We may conduct the verification process by email or phone, and we may ask you to provide information such as your name, contact information, and any additional relevant information based on your relationship with us.
+When you sign up for one of our Programs, we will ask you to provide your name and contact information (such as email address and/or telephone number).
+When you sign up for one of our Programs, we will ask you to provide your name and contact information (such as email address and/or telephone number).</data>
+</edge>
+<edge source="we" target="phone number" id="e18">
+  <data key="d2">COLLECT</data>
+  <data key="d3">If you apply to become our brand ambassador, we may collect your name, email address, phone number, social media handles, region and school attended in order to process your application.
+If you apply to become our brand ambassador, we may collect your name, email address, phone number, social media handles, region and school attended in order to process your application.
+We may collect your email address, phone number or other electronic addresses that you voluntarily provide to us when you choose to participate in our promoting activities or subscribe for marketing communications.
+We may collect your email address, phone number or other electronic addresses that you voluntarily provide to us when you choose to participate in our promoting activities or subscribe for marketing communications.</data>
+</edge>
+<edge source="we" target="social medium handle" id="e19">
+  <data key="d2">COLLECT</data>
+  <data key="d3">If you apply to become our brand ambassador, we may collect your name, email address, phone number, social media handles, region and school attended in order to process your application.
+If you apply to become our brand ambassador, we may collect your name, email address, phone number, social media handles, region and school attended in order to process your application.</data>
+</edge>
+<edge source="we" target="region" id="e20">
+  <data key="d2">COLLECT</data>
+  <data key="d3">If you apply to become our brand ambassador, we may collect your name, email address, phone number, social media handles, region and school attended in order to process your application.
+If you apply to become our brand ambassador, we may collect your name, email address, phone number, social media handles, region and school attended in order to process your application.</data>
+</edge>
+<edge source="we" target="school attend" id="e21">
+  <data key="d2">COLLECT</data>
+  <data key="d3">If you apply to become our brand ambassador, we may collect your name, email address, phone number, social media handles, region and school attended in order to process your application.
+If you apply to become our brand ambassador, we may collect your name, email address, phone number, social media handles, region and school attended in order to process your application.</data>
+</edge>
+<edge source="we" target="username" id="e22">
+  <data key="d2">COLLECT</data>
+  <data key="d3">If you apply to join one of our affiliate programs to earn commission, we may collect your full name, username, country or region, company website, company address, time zone.
+If you apply to join one of our affiliate programs to earn commission, we may collect your full name, username, country or region, company website, company address, time zone.</data>
+</edge>
+<edge source="we" target="country" id="e23">
+  <data key="d2">COLLECT</data>
+  <data key="d3">If you apply to join one of our affiliate programs to earn commission, we may collect your full name, username, country or region, company website, company address, time zone.
+If you apply to join one of our affiliate programs to earn commission, we may collect your full name, username, country or region, company website, company address, time zone.</data>
+</edge>
+<edge source="we" target="company website" id="e24">
+  <data key="d2">COLLECT</data>
+  <data key="d3">If you apply to join one of our affiliate programs to earn commission, we may collect your full name, username, country or region, company website, company address, time zone.
+If you apply to join one of our affiliate programs to earn commission, we may collect your full name, username, country or region, company website, company address, time zone.</data>
+</edge>
+<edge source="we" target="company address" id="e25">
+  <data key="d2">COLLECT</data>
+  <data key="d3">If you apply to join one of our affiliate programs to earn commission, we may collect your full name, username, country or region, company website, company address, time zone.
+If you apply to join one of our affiliate programs to earn commission, we may collect your full name, username, country or region, company website, company address, time zone.</data>
+</edge>
+<edge source="we" target="time zone" id="e26">
+  <data key="d2">COLLECT</data>
+  <data key="d3">If you apply to join one of our affiliate programs to earn commission, we may collect your full name, username, country or region, company website, company address, time zone.
+If you apply to join one of our affiliate programs to earn commission, we may collect your full name, username, country or region, company website, company address, time zone.</data>
+</edge>
+<edge source="we" target="log datum" id="e27">
+  <data key="d2">COLLECT</data>
+  <data key="d3">When you browse our Sites, we automatically collect log data such as your web request, Internet Protocol ("IP") address, browser type, domain names, referring and exit pages and URLs, pages viewed and the order of these page views, the date and time you access our servers, and other diagnostic data.
+When you browse our Sites, we automatically collect log data such as your web request, Internet Protocol ("IP") address, browser type, domain names, referring and exit pages and URLs, pages viewed and the order of these page views, the date and time you access our servers, and other diagnostic data.</data>
+</edge>
+<edge source="we" target="analytic datum" id="e28">
+  <data key="d2">COLLECT</data>
+  <data key="d3">We may also use analytic data to assess your account security and provide you suggestion for improvement.
+We may also use analytic data to assess your account security and provide you suggestion for improvement.</data>
+</edge>
+<edge source="we" target="information about you" id="e29">
+  <data key="d2">COLLECT</data>
+  <data key="d3">From time to time, we may obtain information about you from third party sources as required or permitted by law.
+From time to time, we may obtain information about you from third party sources as required or permitted by law.
+We may access, preserve, and disclose information about you if we believe doing so is required or appropriate to (a) comply with law enforcement requests and legal processes, such as a court order or subpoena; (b) comply with requests from auditors, examiners, or other regulators; (c) respond to your requests; or (d) protect your, our, or others' rights, property or safety.
+We may access, preserve, and disclose information about you if we believe doing so is required or appropriate to (a) comply with law enforcement requests and legal processes, such as a court order or subpoena; (b) comply with requests from auditors, examiners, or other regulators; (c) respond to your requests; or (d) protect your, our, or others' rights, property or safety.
+We may disclose and transfer information about you to buyers, service providers, advisors, potential transactional partners or other third parties in connection with the advisors, potential transactional partners or other third parties of a corporate transaction in which we are acquired by or merged with another company, or we sell, liquidate, or transfer all or a portion of our business or assets.
+We may disclose and transfer information about you to buyers, service providers, advisors, potential transactional partners or other third parties in connection with the advisors, potential transactional partners or other third parties of a corporate transaction in which we are acquired by or merged with another company, or we sell, liquidate, or transfer all or a portion of our business or assets.</data>
+</edge>
+<edge source="we" target="information you provide to we" id="e30">
+  <data key="d2">COLLECT</data>
+  <data key="d3">We collect any information that you provide to us when you contact us.
+We collect any information that you provide to us when you contact us.</data>
+</edge>
+<edge source="we" target="electronic address" id="e31">
+  <data key="d2">COLLECT</data>
+  <data key="d3">We may collect your email address, phone number or other electronic addresses that you voluntarily provide to us when you choose to participate in our promoting activities or subscribe for marketing communications.
+We may collect your email address, phone number or other electronic addresses that you voluntarily provide to us when you choose to participate in our promoting activities or subscribe for marketing communications.</data>
+</edge>
+<edge source="we" target="advertising id" id="e32">
+  <data key="d2">COLLECT</data>
+  <data key="d3">We may also collect and use your mobile advertising identifiers for the purpose of marketing campaigns.
+We may also collect and use your mobile advertising identifiers for the purpose of marketing campaigns.</data>
+</edge>
+<edge source="we" target="information regard account" id="e33">
+  <data key="d2">COLLECT</data>
+  <data key="d3">We may process any information regarding your account and your use of our Services as is necessary in the context of corporate acquisitions, mergers or other corporate transactions.
+We may process any information regarding your account and your use of our Services as is necessary in the context of corporate acquisitions, mergers or other corporate transactions.</data>
+</edge>
+<edge source="we" target="customer service correspondence" id="e34">
+  <data key="d2">COLLECT</data>
+  <data key="d3">We will also electronically retain customer service correspondence and other correspondence from Halara to you.
+We will also electronically retain customer service correspondence and other correspondence from Halara to you.</data>
+</edge>
+<edge source="we" target="correspondence from halara to you" id="e35">
+  <data key="d2">COLLECT</data>
+  <data key="d3">We will also electronically retain customer service correspondence and other correspondence from Halara to you.
+We will also electronically retain customer service correspondence and other correspondence from Halara to you.</data>
+</edge>
+<edge source="we" target="relevant information base on relationship with we" id="e36">
+  <data key="d2">COLLECT</data>
+  <data key="d3">We may conduct the verification process by email or phone, and we may ask you to provide information such as your name, contact information, and any additional relevant information based on your relationship with us.
+We may conduct the verification process by email or phone, and we may ask you to provide information such as your name, contact information, and any additional relevant information based on your relationship with us.</data>
+</edge>
+<edge source="we" target="contact information" id="e37">
+  <data key="d2">COLLECT</data>
+  <data key="d3">We may conduct the verification process by email or phone, and we may ask you to provide information such as your name, contact information, and any additional relevant information based on your relationship with us.
+We may conduct the verification process by email or phone, and we may ask you to provide information such as your name, contact information, and any additional relevant information based on your relationship with us.
+When you sign up for one of our Programs, we will ask you to provide your name and contact information (such as email address and/or telephone number).
+When you sign up for one of our Programs, we will ask you to provide your name and contact information (such as email address and/or telephone number).</data>
+</edge>
+<edge source="we" target="cookie / pixel tag" id="e38">
+  <data key="d2">COLLECT</data>
+  <data key="d3">We generally do not sell your personal information for profit, but like many businesses, we use cookies, pixels, and similar technology on our Sites, and we share certain personal information, such as your IP address or device identifiers, to third-party advertisers in order to improve your user experience and to optimize our marketing activities.
+We generally do not sell your personal information for profit, but like many businesses, we use cookies, pixels, and similar technology on our Sites, and we share certain personal information, such as your IP address or device identifiers, to third-party advertisers in order to improve your user experience and to optimize our marketing activities.
+Like many websites, we use cookies, pixels, and similar technology, and we share certain information, such as your IP address or device identifiers, to certain third-party advertisers in order to improve your user experience and to optimize our marketing activities.
+Like many websites, we use cookies, pixels, and similar technology, and we share certain information, such as your IP address or device identifiers, to certain third-party advertisers in order to improve your user experience and to optimize our marketing activities.</data>
+</edge>
+<edge source="we" target="pixel" id="e39">
+  <data key="d2">COLLECT</data>
+  <data key="d3">We generally do not sell your personal information for profit, but like many businesses, we use cookies, pixels, and similar technology on our Sites, and we share certain personal information, such as your IP address or device identifiers, to third-party advertisers in order to improve your user experience and to optimize our marketing activities.
+We generally do not sell your personal information for profit, but like many businesses, we use cookies, pixels, and similar technology on our Sites, and we share certain personal information, such as your IP address or device identifiers, to third-party advertisers in order to improve your user experience and to optimize our marketing activities.
+Like many websites, we use cookies, pixels, and similar technology, and we share certain information, such as your IP address or device identifiers, to certain third-party advertisers in order to improve your user experience and to optimize our marketing activities.
+Like many websites, we use cookies, pixels, and similar technology, and we share certain information, such as your IP address or device identifiers, to certain third-party advertisers in order to improve your user experience and to optimize our marketing activities.</data>
+</edge>
+<edge source="we" target="device identifier" id="e40">
+  <data key="d2">COLLECT</data>
+  <data key="d3">Like many websites, we use cookies, pixels, and similar technology, and we share certain information, such as your IP address or device identifiers, to certain third-party advertisers in order to improve your user experience and to optimize our marketing activities.
+Like many websites, we use cookies, pixels, and similar technology, and we share certain information, such as your IP address or device identifiers, to certain third-party advertisers in order to improve your user experience and to optimize our marketing activities.</data>
+</edge>
+<edge source="we" target="ip address" id="e41">
+  <data key="d2">COLLECT</data>
+  <data key="d3">Like many websites, we use cookies, pixels, and similar technology, and we share certain information, such as your IP address or device identifiers, to certain third-party advertisers in order to improve your user experience and to optimize our marketing activities.
+Like many websites, we use cookies, pixels, and similar technology, and we share certain information, such as your IP address or device identifiers, to certain third-party advertisers in order to improve your user experience and to optimize our marketing activities.</data>
+</edge>
+<edge source="we" target="opt preference signal" id="e42">
+  <data key="d2">COLLECT</data>
+  <data key="d3">We will honor and process the opt-out preference signal in a frictionless manner.
+We will honor and process the opt-out preference signal in a frictionless manner.</data>
+</edge>
+<edge source="we" target="information relate to privacy practice" id="e43">
+  <data key="d2">COLLECT</data>
+  <data key="d3">The California Consumer Privacy Act, as amended by the California Privacy Rights Act ("CCPA") requires us to disclose the following additional information related to our privacy practices.
+The California Consumer Privacy Act, as amended by the California Privacy Rights Act ("CCPA") requires us to disclose the following additional information related to our privacy practices.</data>
+</edge>
+<edge source="we" target="sensitive personal information" id="e44">
+  <data key="d2">COLLECT</data>
+  <data key="d3">Under limited circumstances, we may process certain sensitive personal information as defined under California law.
+Under limited circumstances, we may process certain sensitive personal information as defined under California law.</data>
+</edge>
+<edge source="we" target="id number" id="e45">
+  <data key="d2">COLLECT</data>
+  <data key="d3">For example, we may collect our influencers' ID number in order to facilitate the promotion event.
+For example, we may collect our influencers' ID number in order to facilitate the promotion event.
+We only use such sensitive personal information for the limited purpose of providing requested Services or perform our duties under applicable law.</data>
+</edge>
+<edge source="personal information" target="person name" id="e46">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">If you use a third-party service (e.g., Apple, Facebook, Tiktok) to create an account, we may receive personal information that you allow such third-party service to share with us, such as your name and email address.
+If you use a third-party service (e.g., Apple, Facebook, Tiktok) to create an account, we may receive personal information that you allow such third-party service to share with us, such as your name and email address.</data>
+</edge>
+<edge source="personal information" target="email address" id="e47">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">If you use a third-party service (e.g., Apple, Facebook, Tiktok) to create an account, we may receive personal information that you allow such third-party service to share with us, such as your name and email address.
+If you use a third-party service (e.g., Apple, Facebook, Tiktok) to create an account, we may receive personal information that you allow such third-party service to share with us, such as your name and email address.</data>
+</edge>
+<edge source="personal information" target="ip address" id="e48">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">We generally do not sell your personal information for profit, but like many businesses, we use cookies, pixels, and similar technology on our Sites, and we share certain personal information, such as your IP address or device identifiers, to third-party advertisers in order to improve your user experience and to optimize our marketing activities.
+We generally do not sell your personal information for profit, but like many businesses, we use cookies, pixels, and similar technology on our Sites, and we share certain personal information, such as your IP address or device identifiers, to third-party advertisers in order to improve your user experience and to optimize our marketing activities.</data>
+</edge>
+<edge source="personal information" target="device identifier" id="e49">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">We generally do not sell your personal information for profit, but like many businesses, we use cookies, pixels, and similar technology on our Sites, and we share certain personal information, such as your IP address or device identifiers, to third-party advertisers in order to improve your user experience and to optimize our marketing activities.
+We generally do not sell your personal information for profit, but like many businesses, we use cookies, pixels, and similar technology on our Sites, and we share certain personal information, such as your IP address or device identifiers, to third-party advertisers in order to improve your user experience and to optimize our marketing activities.</data>
+</edge>
+<edge source="information relate to creation of account" target="phone number" id="e50">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">We may collect information relating to the creation of an account when using our Services, such as, email address, phone number, and/or a unique individual password.
+We may collect information relating to the creation of an account when using our Services, such as, email address, phone number, and/or a unique individual password.</data>
+</edge>
+<edge source="information relate to creation of account" target="email address" id="e51">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">We may collect information relating to the creation of an account when using our Services, such as, email address, phone number, and/or a unique individual password.
+We may collect information relating to the creation of an account when using our Services, such as, email address, phone number, and/or a unique individual password.</data>
+</edge>
+<edge source="information relate to creation of account" target="unique individual password" id="e52">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">We may collect information relating to the creation of an account when using our Services, such as, email address, phone number, and/or a unique individual password.
+We may collect information relating to the creation of an account when using our Services, such as, email address, phone number, and/or a unique individual password.</data>
+</edge>
+<edge source="contact information" target="phone number" id="e53">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">You may choose to provide us your contact details, such as your email address and phone number, if you wish to receive information about the products and services that Halara offers.
+You may choose to provide us your contact details, such as your email address and phone number, if you wish to receive information about the products and services that Halara offers.
+When you sign up for one of our Programs, we will ask you to provide your name and contact information (such as email address and/or telephone number).
+When you sign up for one of our Programs, we will ask you to provide your name and contact information (such as email address and/or telephone number).</data>
+</edge>
+<edge source="contact information" target="email address" id="e54">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">You may choose to provide us your contact details, such as your email address and phone number, if you wish to receive information about the products and services that Halara offers.
+You may choose to provide us your contact details, such as your email address and phone number, if you wish to receive information about the products and services that Halara offers.
+When you sign up for one of our Programs, we will ask you to provide your name and contact information (such as email address and/or telephone number).
+When you sign up for one of our Programs, we will ask you to provide your name and contact information (such as email address and/or telephone number).</data>
+</edge>
+<edge source="log datum" target="domain name" id="e55">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">When you browse our Sites, we automatically collect log data such as your web request, Internet Protocol ("IP") address, browser type, domain names, referring and exit pages and URLs, pages viewed and the order of these page views, the date and time you access our servers, and other diagnostic data.
+When you browse our Sites, we automatically collect log data such as your web request, Internet Protocol ("IP") address, browser type, domain names, referring and exit pages and URLs, pages viewed and the order of these page views, the date and time you access our servers, and other diagnostic data.</data>
+</edge>
+<edge source="log datum" target="browser type" id="e56">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">When you browse our Sites, we automatically collect log data such as your web request, Internet Protocol ("IP") address, browser type, domain names, referring and exit pages and URLs, pages viewed and the order of these page views, the date and time you access our servers, and other diagnostic data.
+When you browse our Sites, we automatically collect log data such as your web request, Internet Protocol ("IP") address, browser type, domain names, referring and exit pages and URLs, pages viewed and the order of these page views, the date and time you access our servers, and other diagnostic data.</data>
+</edge>
+<edge source="log datum" target="diagnostic datum" id="e57">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">When you browse our Sites, we automatically collect log data such as your web request, Internet Protocol ("IP") address, browser type, domain names, referring and exit pages and URLs, pages viewed and the order of these page views, the date and time you access our servers, and other diagnostic data.
+When you browse our Sites, we automatically collect log data such as your web request, Internet Protocol ("IP") address, browser type, domain names, referring and exit pages and URLs, pages viewed and the order of these page views, the date and time you access our servers, and other diagnostic data.</data>
+</edge>
+<edge source="log datum" target="url" id="e58">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">When you browse our Sites, we automatically collect log data such as your web request, Internet Protocol ("IP") address, browser type, domain names, referring and exit pages and URLs, pages viewed and the order of these page views, the date and time you access our servers, and other diagnostic data.
+When you browse our Sites, we automatically collect log data such as your web request, Internet Protocol ("IP") address, browser type, domain names, referring and exit pages and URLs, pages viewed and the order of these page views, the date and time you access our servers, and other diagnostic data.</data>
+</edge>
+<edge source="log datum" target="web request" id="e59">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">When you browse our Sites, we automatically collect log data such as your web request, Internet Protocol ("IP") address, browser type, domain names, referring and exit pages and URLs, pages viewed and the order of these page views, the date and time you access our servers, and other diagnostic data.
+When you browse our Sites, we automatically collect log data such as your web request, Internet Protocol ("IP") address, browser type, domain names, referring and exit pages and URLs, pages viewed and the order of these page views, the date and time you access our servers, and other diagnostic data.</data>
+</edge>
+<edge source="log datum" target="date" id="e60">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">When you browse our Sites, we automatically collect log data such as your web request, Internet Protocol ("IP") address, browser type, domain names, referring and exit pages and URLs, pages viewed and the order of these page views, the date and time you access our servers, and other diagnostic data.
+When you browse our Sites, we automatically collect log data such as your web request, Internet Protocol ("IP") address, browser type, domain names, referring and exit pages and URLs, pages viewed and the order of these page views, the date and time you access our servers, and other diagnostic data.</data>
+</edge>
+<edge source="log datum" target="ip address" id="e61">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">When you browse our Sites, we automatically collect log data such as your web request, Internet Protocol ("IP") address, browser type, domain names, referring and exit pages and URLs, pages viewed and the order of these page views, the date and time you access our servers, and other diagnostic data.
+When you browse our Sites, we automatically collect log data such as your web request, Internet Protocol ("IP") address, browser type, domain names, referring and exit pages and URLs, pages viewed and the order of these page views, the date and time you access our servers, and other diagnostic data.</data>
+</edge>
+<edge source="payment process company" target="personal information" id="e62">
+  <data key="d2">COLLECT</data>
+  <data key="d3">Third parties such as payment processing companies and courier services may also access and/or collect your personal information when assisting us to fulfill your order.
+Third parties such as payment processing companies and courier services may also access and/or collect your personal information when assisting us to fulfill your order.</data>
+</edge>
+<edge source="courier service" target="personal information" id="e63">
+  <data key="d2">COLLECT</data>
+  <data key="d3">Third parties such as payment processing companies and courier services may also access and/or collect your personal information when assisting us to fulfill your order.
+Third parties such as payment processing companies and courier services may also access and/or collect your personal information when assisting us to fulfill your order.</data>
+</edge>
+<edge source="device identifier" target="advertising id" id="e64">
+  <data key="d2">SUBSUM</data>
+  <data key="d3">To opt-out of website interest-based advertising provided by each organization's respective participating companies, visit the DAA's opt-out portal available at http://optout.aboutads.info/, or visit the NAI's opt-out portal available at  When you use our mobile application, we or our third-party marketing partners may use one or more of several different identifiers for your mobile device, including Apple Identifier For Advertising (IDFA) or Android Advertising ID (AAID), to target and deliver ads to you in our app or other apps.
+To opt-out of website interest-based advertising provided by each organization's respective participating companies, visit the DAA's opt-out portal available at http://optout.aboutads.info/, or visit the NAI's opt-out portal available at  When you use our mobile application, we or our third-party marketing partners may use one or more of several different identifiers for your mobile device, including Apple Identifier For Advertising (IDFA) or Android Advertising ID (AAID), to target and deliver ads to you in our app or other apps.
+To opt-out of website interest-based advertising provided by each organization's respective participating companies, visit the DAA's opt-out portal available at http://optout.aboutads.info/, or visit the NAI's opt-out portal available at  When you use our mobile application, we or our third-party marketing partners may use one or more of several different identifiers for your mobile device, including Apple Identifier For Advertising (IDFA) or Android Advertising ID (AAID), to target and deliver ads to you in our app or other apps.
+To opt-out of website interest-based advertising provided by each organization's respective participating companies, visit the DAA's opt-out portal available at http://optout.aboutads.info/, or visit the NAI's opt-out portal available at  When you use our mobile application, we or our third-party marketing partners may use one or more of several different identifiers for your mobile device, including Apple Identifier For Advertising (IDFA) or Android Advertising ID (AAID), to target and deliver ads to you in our app or other apps.
+To opt-out of website interest-based advertising provided by each organization's respective participating companies, visit the DAA's opt-out portal available at http://optout.aboutads.info/, or visit the NAI's opt-out portal available at  When you use our mobile application, we or our third-party marketing partners may use one or more of several different identifiers for your mobile device, including Apple Identifier For Advertising (IDFA) or Android Advertising ID (AAID), to target and deliver ads to you in our app or other apps.</data>
+</edge>
+<edge source="UNSPECIFIED_ACTOR" target="personal information" id="e65">
+  <data key="d2">COLLECT</data>
+  <data key="d3">We may share your personal information with third-party service providers acting on our behalf to help us operate our Services.
+We may share your personal information with third-party service providers acting on our behalf to help us operate our Services.</data>
+</edge>
+<edge source="UNSPECIFIED_ACTOR" target="UNSPECIFIED_DATA" id="e66">
+  <data key="d2">COLLECT</data>
+  <data key="d3">These third parties can only use your information in accordance with our written instructions and must comply with the information security protections we have put in place.
+These third parties can only use your information in accordance with our written instructions and must comply with the information security protections we have put in place.</data>
+</edge>
+<edge source="UNSPECIFIED_ACTOR" target="information about you" id="e67">
+  <data key="d2">COLLECT</data>
+  <data key="d3">We may disclose and transfer information about you to buyers, service providers, advisors, potential transactional partners or other third parties in connection with the advisors, potential transactional partners or other third parties of a corporate transaction in which we are acquired by or merged with another company, or we sell, liquidate, or transfer all or a portion of our business or assets.
+We may disclose and transfer information about you to buyers, service providers, advisors, potential transactional partners or other third parties in connection with the advisors, potential transactional partners or other third parties of a corporate transaction in which we are acquired by or merged with another company, or we sell, liquidate, or transfer all or a portion of our business or assets.</data>
+</edge>
+<edge source="halara" target="personal information" id="e68">
+  <data key="d2">COLLECT</data>
+  <data key="d3">Halara collects certain personal information about you and your use of our Services.
+Halara collects certain personal information about you and your use of our Services.</data>
+</edge>
+<edge source="halara" target="measurement fitting information" id="e69">
+  <data key="d2">COLLECT</data>
+  <data key="d3">If you post information on public areas of our Site, for example, disclosing your measurement and fitting information in a product review, that information may be collected and used by Halara, visitors to our Sites, and the public generally.
+If you post information on public areas of our Site, for example, disclosing your measurement and fitting information in a product review, that information may be collected and used by Halara, visitors to our Sites, and the public generally.</data>
+</edge>
+<edge source="halara" target="internet activity" id="e70">
+  <data key="d2">COLLECT</data>
+  <data key="d3">Halara will also retain Site and services usage data for internal analysis purposes.
+Halara will also retain Site and services usage data for internal analysis purposes.</data>
+</edge>
+<edge source="advertiser" target="personal information" id="e71">
+  <data key="d2">COLLECT</data>
+  <data key="d3">In certain circumstances, and subject to the applicable law, we may share your personal information with third-party advertisers.
+In certain circumstances, and subject to the applicable law, we may share your personal information with third-party advertisers.</data>
+</edge>
+<edge source="advertiser" target="device identifier" id="e72">
+  <data key="d2">COLLECT</data>
+  <data key="d3">This means that your device identifier may be accessed by third-party ad networks and used to (a) help manage the number and types of ads you see; (b) track the source of installs related to ads seen in other apps; and (c) identify your interests and behavior and target advertising to you based on those interests and behavior.
+This means that your device identifier may be accessed by third-party ad networks and used to (a) help manage the number and types of ads you see; (b) track the source of installs related to ads seen in other apps; and (c) identify your interests and behavior and target advertising to you based on those interests and behavior.</data>
+</edge>
+<edge source="co - branded partner" target="personal information" id="e73">
+  <data key="d2">COLLECT</data>
+  <data key="d3">We will share your personal information with our co-branded partners based on your voluntary use of or participation in a co-branded service or feature.
+We will share your personal information with our co-branded partners based on your voluntary use of or participation in a co-branded service or feature.</data>
+</edge>
+<edge source="service provider" target="information about you" id="e74">
+  <data key="d2">COLLECT</data>
+  <data key="d3">We may disclose and transfer information about you to buyers, service providers, advisors, potential transactional partners or other third parties in connection with the advisors, potential transactional partners or other third parties of a corporate transaction in which we are acquired by or merged with another company, or we sell, liquidate, or transfer all or a portion of our business or assets.
+We may disclose and transfer information about you to buyers, service providers, advisors, potential transactional partners or other third parties in connection with the advisors, potential transactional partners or other third parties of a corporate transaction in which we are acquired by or merged with another company, or we sell, liquidate, or transfer all or a portion of our business or assets.</data>
+</edge>
+<edge source="advisor" target="information about you" id="e75">
+  <data key="d2">COLLECT</data>
+  <data key="d3">We may disclose and transfer information about you to buyers, service providers, advisors, potential transactional partners or other third parties in connection with the advisors, potential transactional partners or other third parties of a corporate transaction in which we are acquired by or merged with another company, or we sell, liquidate, or transfer all or a portion of our business or assets.
+We may disclose and transfer information about you to buyers, service providers, advisors, potential transactional partners or other third parties in connection with the advisors, potential transactional partners or other third parties of a corporate transaction in which we are acquired by or merged with another company, or we sell, liquidate, or transfer all or a portion of our business or assets.</data>
+</edge>
+<edge source="potential transactional partner" target="information about you" id="e76">
+  <data key="d2">COLLECT</data>
+  <data key="d3">We may disclose and transfer information about you to buyers, service providers, advisors, potential transactional partners or other third parties in connection with the advisors, potential transactional partners or other third parties of a corporate transaction in which we are acquired by or merged with another company, or we sell, liquidate, or transfer all or a portion of our business or assets.
+We may disclose and transfer information about you to buyers, service providers, advisors, potential transactional partners or other third parties in connection with the advisors, potential transactional partners or other third parties of a corporate transaction in which we are acquired by or merged with another company, or we sell, liquidate, or transfer all or a portion of our business or assets.</data>
+</edge>
+<edge source="verification process" target="relevant information base on relationship with we" id="e77">
+  <data key="d2">COLLECT</data>
+  <data key="d3">We may conduct the verification process by email or phone, and we may ask you to provide information such as your name, contact information, and any additional relevant information based on your relationship with us.
+We may conduct the verification process by email or phone, and we may ask you to provide information such as your name, contact information, and any additional relevant information based on your relationship with us.</data>
+</edge>
+<edge source="verification process" target="person name" id="e78">
+  <data key="d2">COLLECT</data>
+  <data key="d3">We may conduct the verification process by email or phone, and we may ask you to provide information such as your name, contact information, and any additional relevant information based on your relationship with us.
+We may conduct the verification process by email or phone, and we may ask you to provide information such as your name, contact information, and any additional relevant information based on your relationship with us.</data>
+</edge>
+<edge source="verification process" target="contact information" id="e79">
+  <data key="d2">COLLECT</data>
+  <data key="d3">We may conduct the verification process by email or phone, and we may ask you to provide information such as your name, contact information, and any additional relevant information based on your relationship with us.
+We may conduct the verification process by email or phone, and we may ask you to provide information such as your name, contact information, and any additional relevant information based on your relationship with us.</data>
+</edge>
+</graph></graphml>
